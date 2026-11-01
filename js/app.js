@@ -169,14 +169,9 @@ function render() {
   $('wk-range').textContent = week.range;
   $('wk').innerHTML = week.html;
 
-  // 列表
+  // 列表。防剧透状态已在 m.spoilHidden 上算好，renderRow 直接读它
   const list = renderList(scored, ui, store.state, now, top, hiddenSet, null);
   $('list').innerHTML = list.html;
-
-  // 防剧透需要在 renderRow 内部判定，这里统一回填
-  if (store.state.settings.spoiler) {
-    $('list').innerHTML = renderList(scored, ui, store.state, now, top, hiddenSet, true).html;
-  }
 
   store.saveUI();
   updateOfflineBadge();

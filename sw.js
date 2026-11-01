@@ -98,19 +98,29 @@ self.addEventListener('fetch', (event) => {
   }
 
   // 赛程数据：stale-while-revalidate —— 先给缓存立刻渲染，后台再更新
+  // 关键：缓存 key 必须剥掉 query string。页面用 ?t=时间戳 防 HTTP 缓存，
+  // 若把 query 带进缓存 key，每次时间戳变化都会 miss，离线时取不到数据。
   if (url.pathname.endsWith('/data/schedule.json') || url.pathname.endsWith('/data/catalog.json')) {
+    const cacheKey = url.origin + url.pathname;
+    // 拉干净 URL（不带 ?t=），让 HTTP 缓存也能正常工作，减少请求
+    const cleanUrl = cacheKey;
     event.respondWith(
       caches.open(DATA_CACHE).then(async (cache) => {
-        const cached = await cache.match(req);
-        const network = fetch(req)
+        const cached = await cache.match(cacheKey);
+        const network = fetch(cleanUrl, { cache: 'no-cache' })
           .then((res) => {
-            if (res && res.ok) cache.put(req, res.clone());
+            if (res && res.ok) cache.put(cacheKey, res.clone());
             return res;
           })
           .catch(() => null);
-        return cached || network.then((r) => r || new Response('[]', {
+        if (cached) {
+          network; // 后台更新，不阻塞响应
+          return cached;
+        }
+        const fresh = await network;
+        return fresh || new Response('{"matches":[]}', {
           headers: { 'Content-Type': 'application/json' },
-        }));
+        });
       }),
     );
     return;

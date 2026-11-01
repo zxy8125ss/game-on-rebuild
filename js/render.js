@@ -136,6 +136,8 @@ export function renderWeek(all, top, hiddenSet, now, selectedDay) {
 
 /** 单条比赛票根 */
 export function renderRow(m, now, top, ui, state, spoilHidden) {
+  // 防剧透状态优先用条目上已算好的标记
+  const hideScore = m.spoilHidden !== undefined ? m.spoilHidden : Boolean(spoilHidden);
   const open = ui.open === m.id;
   const over = isOver(m, now);
   const live = isLive(m, now);
@@ -153,7 +155,7 @@ export function renderRow(m, now, top, ui, state, spoilHidden) {
   if (open) {
     let result = '';
     if (m.result) {
-      result = spoilHidden
+      result = hideScore
         ? `<div><span class="score blur">${escapeHTML(m.result)}</span> <button class="reveal" data-reveal="${m.id}">显示比分</button></div>`
         : `<div class="score">${escapeHTML(m.result)}</div>`;
     }
@@ -184,7 +186,7 @@ export function renderRow(m, now, top, ui, state, spoilHidden) {
   return `<div class="tk row ${m.squad ? 'cn' : ''} ${over && !live ? 'dim' : ''}" id="m-${m.id}" data-open="${m.id}" style="--c:${sportColor(m.sport)}" role="button" tabindex="0" aria-expanded="${open}">
     <div class="tmain">
       <div class="l1">${sportIcon(m.sport)}<span class="title">${escapeHTML(m.title)}</span></div>
-      ${m.result && !open ? (spoilHidden ? '<div class="resl hid">已完赛 · 点开看比分</div>' : `<div class="resl">${escapeHTML(m.result)}</div>`) : ''}
+      ${m.result && !open ? (hideScore ? '<div class="resl hid">已完赛 · 点开看比分</div>' : `<div class="resl">${escapeHTML(m.result)}</div>`) : ''}
       <div class="l2">
         ${m.squad ? `<span class="squad">${escapeHTML(m.squad)}</span>` : ''}
         ${why ? `<span class="rec">推荐·${escapeHTML(why)}</span>` : ''}
