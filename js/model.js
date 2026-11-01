@@ -127,8 +127,11 @@ export function recommendScore(m, followHits) {
     reasons.push({ w: 4, why: '八强' });
   }
 
-  // 顶级赛事（五大联赛/欧冠/世界赛）
-  if (/英超|西甲|德甲|意甲|法甲|欧冠|超级碗|世俱杯|世界杯/.test(text)) {
+  // 顶级赛事：五大联赛 / 欧冠。权重低，避免「大赛」标签刷屏
+  if (/英超|西甲|德甲|意甲|法甲|欧冠/.test(text)) {
+    score += 3;
+    reasons.push({ w: 2, why: '豪门' });
+  } else if (/超级碗|世俱杯|世界杯|欧国联/.test(text)) {
     score += 3;
     reasons.push({ w: 2, why: '大赛' });
   }
@@ -164,9 +167,8 @@ export function recommendScore(m, followHits) {
 
 /**
  * 命中推荐的最低分。
- * 调高到 7：基础分（关注 +4、大赛 +3）单独不够，
- * 需要「关注 + 大赛」或「关注 + 决赛阶段」这类组合才进推荐，
- * 否则每天 3 个名额会被随便一场豪门比赛占满。
+ * 7 分 = 关注(4) + 豪门(3) 或 关注(4) + 决赛阶段(3)
+ * 这样普通豪门比赛不会挤占名额，但「关注的比赛」基本都能进推荐。
  */
 export const RECOMMEND_THRESHOLD = 7;
 

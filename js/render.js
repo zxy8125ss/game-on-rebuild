@@ -121,7 +121,9 @@ export function renderWeek(all, top, hiddenSet, now, selectedDay) {
       const why = top.get(m.id);
       const name = /vs/.test(m.title) ? m.title : `${(m.sub || '').split(' · ')[0].replace(/（.*?）/g, '')} ${m.title}`;
       const result = m.result && !m.spoilHidden;
-      return `<button class="chip r ${done ? 'd' : ''} ${m.result ? 'res' : ''}" data-go="${m.id}" style="--c:${sportColor(m.sport)}">${sportIcon(m.sport)}<span class="ct">${m.result ? '完赛' : m.known ? hm(m.start) : done ? '已结束' : '待定'}</span><span class="cn">${escapeHTML(result ? shortResult(m) : name)}</span>${why ? `<span class="cw">${escapeHTML(why)}</span>` : ''}</button>`;
+      // 关注中的场次加星标，即使主标签是「豪门」也能看出来
+      const star = m.f.length ? '<span class="cw">★</span>' : '';
+      return `<button class="chip r ${done ? 'd' : ''} ${m.result ? 'res' : ''}" data-go="${m.id}" style="--c:${sportColor(m.sport)}">${sportIcon(m.sport)}<span class="ct">${m.result ? '完赛' : m.known ? hm(m.start) : done ? '已结束' : '待定'}</span><span class="cn">${escapeHTML(result ? shortResult(m) : name)}</span>${why ? `<span class="cw">${escapeHTML(why)}</span>` : ''}${star}</button>`;
     }).join('');
 
     html += `<div class="wr ${selectedDay === key ? 'sel' : ''}">
