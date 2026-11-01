@@ -37,7 +37,22 @@ const SHELL = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(SHELL_CACHE)
-      .then((cache) => Promise.allSettled(SHELL.map((url) => cache.add(url))))
+      .then((cache) => Promise.all(
+        SHELL.map(async (url) => {
+          // 逐个抓取并重试：单个资源失败不应让整个安装流程崩掉，
+          // 但也不该静默留下空洞——重试一次仍失败才放弃这一项。
+          for (let attempt = 0; attempt < 2; attempt++) {
+            try {
+              const res = await fetch(new Request(url, { cache: 'reload' }));
+              if (res.ok) {
+                await cache.put(url, res);
+                return true;
+              }
+            } catch (e) { /* 下面重试 */ }
+          }
+          return false;
+        }),
+      ))
       .then(() => self.skipWaiting()),
   );
 });
