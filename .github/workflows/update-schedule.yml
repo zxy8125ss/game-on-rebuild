@@ -1,0 +1,54 @@
+name: 更新赛程
+
+on:
+  schedule:
+    # GitHub Actions 用 UTC：23:18 UTC = 北京时间次日 07:18
+    - cron: '18 23 * * *'
+    - cron: '48 8 * * *'
+    # 备用时段，定时任务偶尔会漏跑
+    - cron: '18 4 * * *'
+    - cron: '18 14 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'data/names.json'
+      - '.github/workflows/update-schedule.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-schedule
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: 抓取赛程
+        run: node scripts/update.mjs
+
+      - name: 提交更新
+        run: |
+          if git diff --quiet -- data/schedule.json data/catalog.json data/names.json; then
+            echo "数据无变化"
+            exit 0
+          fi
+          git config user.name "game-on-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/schedule.json data/catalog.json data/names.json
+          git commit -m "更新赛程 $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M')"
+          # 运行期间仓库可能有新提交：先同步再推送，最多重试 3 次
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

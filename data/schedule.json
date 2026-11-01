@@ -1,0 +1,367 @@
+{
+ "updatedAt": "2026-11-01T12:40:40.855Z",
+ "note": "自动更新 21/21 项成功",
+ "matches": [
+  {
+   "id": "tn-wta-185683",
+   "sport": "tennis",
+   "sub": "Toray Pan Pacific Open Tennis · Women's Singles",
+   "title": "费尔南德斯 vs 莱巴金娜",
+   "teams": [
+    "费尔南德斯",
+    "莱巴金娜"
+   ],
+   "bj": "2026-10-30 14:05",
+   "dur": 150,
+   "result": "Leylah Fernandez w/o"
+  },
+  {
+   "id": "fb-ita.1-401875002",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "科莫 vs 威尼斯",
+   "teams": [
+    "科莫",
+    "威尼斯"
+   ],
+   "bj": "2026-11-01 19:30",
+   "dur": 115,
+   "note": "Giuseppe Sinigaglia"
+  },
+  {
+   "id": "fb-esp.1-401882821",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "赫塔菲 vs 塞维利亚",
+   "teams": [
+    "赫塔菲",
+    "塞维利亚"
+   ],
+   "bj": "2026-11-01 21:00",
+   "dur": 115,
+   "note": "Estadio Coliseum"
+  },
+  {
+   "id": "fb-ita.1-401874782",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "弗罗西诺内 vs 都灵",
+   "teams": [
+    "弗罗西诺内",
+    "都灵"
+   ],
+   "bj": "2026-11-01 22:00",
+   "dur": 115,
+   "note": "Stadio Benito Stirpe"
+  },
+  {
+   "id": "fb-ita.1-401874983",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "拉齐奥 vs 卡利亚里",
+   "teams": [
+    "拉齐奥",
+    "卡利亚里"
+   ],
+   "bj": "2026-11-01 22:00",
+   "dur": 115,
+   "note": "Olimpico"
+  },
+  {
+   "id": "fb-fra.1-401876414",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "斯特拉斯堡 vs 欧塞尔",
+   "teams": [
+    "斯特拉斯堡",
+    "欧塞尔"
+   ],
+   "bj": "2026-11-01 22:00",
+   "dur": 115,
+   "note": "Stade de la Meinau"
+  },
+  {
+   "id": "fb-ger.1-401884750",
+   "sport": "football",
+   "sub": "德甲 · 2026",
+   "title": "柏林联合 vs 科隆",
+   "teams": [
+    "柏林联合",
+    "科隆"
+   ],
+   "bj": "2026-11-01 22:30",
+   "dur": 115,
+   "note": "Stadion An der Alten Försterei"
+  },
+  {
+   "id": "fb-esp.1-401882819",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "桑坦德竞技 vs 皇家马德里",
+   "teams": [
+    "桑坦德竞技",
+    "皇家马德里"
+   ],
+   "bj": "2026-11-01 23:15",
+   "dur": 115,
+   "note": "El Sardineros"
+  },
+  {
+   "id": "fb-fra.1-401876418",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "里昂 vs 昂热",
+   "teams": [
+    "里昂",
+    "昂热"
+   ],
+   "bj": "2026-11-02 00:15",
+   "dur": 115,
+   "note": "Groupama Stadium"
+  },
+  {
+   "id": "fb-fra.1-401876415",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "巴黎FC vs 摩纳哥",
+   "teams": [
+    "巴黎FC",
+    "摩纳哥"
+   ],
+   "bj": "2026-11-02 00:15",
+   "dur": 115,
+   "note": "Stade Jean Bouin"
+  },
+  {
+   "id": "fb-eng.1-401879246",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "利物浦 vs 阿森纳",
+   "teams": [
+    "利物浦",
+    "阿森纳"
+   ],
+   "bj": "2026-11-02 00:30",
+   "dur": 115,
+   "note": "Anfield"
+  },
+  {
+   "id": "fb-ger.1-401884752",
+   "sport": "football",
+   "sub": "德甲 · 2026",
+   "title": "法兰克福 vs 汉堡",
+   "teams": [
+    "法兰克福",
+    "汉堡"
+   ],
+   "bj": "2026-11-02 00:30",
+   "dur": 115,
+   "note": "Deutsche Bank Park"
+  },
+  {
+   "id": "fb-ita.1-401874968",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "莱切 vs 热那亚",
+   "teams": [
+    "莱切",
+    "热那亚"
+   ],
+   "bj": "2026-11-02 01:00",
+   "dur": 115,
+   "note": "Via Del Mare"
+  },
+  {
+   "id": "fb-esp.1-401882823",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "埃尔切 vs 瓦伦西亚",
+   "teams": [
+    "埃尔切",
+    "瓦伦西亚"
+   ],
+   "bj": "2026-11-02 01:30",
+   "dur": 115,
+   "note": "Estadio Martínez Valero"
+  },
+  {
+   "id": "fb-ita.1-401874949",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "尤文图斯 vs 那不勒斯",
+   "teams": [
+    "尤文图斯",
+    "那不勒斯"
+   ],
+   "bj": "2026-11-02 03:45",
+   "dur": 115,
+   "note": "Allianz Stadium"
+  },
+  {
+   "id": "fb-fra.1-401876417",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "马赛 vs 图卢兹",
+   "teams": [
+    "马赛",
+    "图卢兹"
+   ],
+   "bj": "2026-11-02 03:45",
+   "dur": 115,
+   "note": "Stade Vélodrome"
+  },
+  {
+   "id": "fb-esp.1-401882826",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "毕尔巴鄂竞技 vs 皇家社会",
+   "teams": [
+    "毕尔巴鄂竞技",
+    "皇家社会"
+   ],
+   "bj": "2026-11-02 04:00",
+   "dur": 115,
+   "note": "San Mamés"
+  },
+  {
+   "id": "fb-uefa.champions-401915311",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "加拉塔萨雷 vs 斯图加特",
+   "teams": [
+    "加拉塔萨雷",
+    "斯图加特"
+   ],
+   "bj": "2026-11-04 01:45",
+   "dur": 115,
+   "note": "RAMS Park"
+  },
+  {
+   "id": "fb-uefa.champions-401915310",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "Shakhtar Donetsk vs 里斯本竞技",
+   "teams": [
+    "Shakhtar Donetsk",
+    "里斯本竞技"
+   ],
+   "bj": "2026-11-04 01:45",
+   "dur": 115,
+   "note": "Stamford Bridge"
+  },
+  {
+   "id": "fb-uefa.champions-401915386",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "马竞 vs 拜仁慕尼黑",
+   "teams": [
+    "马竞",
+    "拜仁慕尼黑"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "Riyadh Air Metropolitano"
+  },
+  {
+   "id": "fb-uefa.champions-401915387",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "巴塞罗那 vs 阿斯顿维拉",
+   "teams": [
+    "巴塞罗那",
+    "阿斯顿维拉"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "Spotify Camp Nou"
+  },
+  {
+   "id": "fb-uefa.champions-401915384",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "Bodo/Glimt vs 里尔",
+   "teams": [
+    "Bodo/Glimt",
+    "里尔"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "Aspmyra Stadion"
+  },
+  {
+   "id": "fb-uefa.champions-401915307",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "费耶诺德 vs 国际米兰",
+   "teams": [
+    "费耶诺德",
+    "国际米兰"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "De Kuip"
+  },
+  {
+   "id": "fb-uefa.champions-401915385",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "LASK Linz vs Slovan Bratislava",
+   "teams": [
+    "LASK Linz",
+    "Slovan Bratislava"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "Raiffeisen Arena (Linz)"
+  },
+  {
+   "id": "fb-uefa.champions-401915308",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "曼联 vs AS Roma",
+   "teams": [
+    "曼联",
+    "AS Roma"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "Old Trafford"
+  },
+  {
+   "id": "fb-uefa.champions-401915309",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "比利亚雷亚尔 vs 巴黎圣日耳曼",
+   "teams": [
+    "比利亚雷亚尔",
+    "巴黎圣日耳曼"
+   ],
+   "bj": "2026-11-04 04:00",
+   "dur": 115,
+   "note": "Estadio de la Cerámica"
+  }
+ ],
+ "sources": [
+  "足球 English Premier League: 1 场",
+  "足球 Spanish LALIGA: 4 场",
+  "足球 German Bundesliga: 2 场",
+  "足球 Italian Serie A: 5 场",
+  "足球 French Ligue 1: 4 场",
+  "足球 UEFA Champions League: 9 场",
+  "足球 UEFA Europa League: 1 场",
+  "足球 UEFA Conference League: 18 场",
+  "足球 Dutch Eredivisie: 4 场",
+  "足球 Portuguese Primeira Liga: 4 场",
+  "足球 Turkish Super Lig: 4 场",
+  "足球 Scottish Premiership: 1 场",
+  "足球 MLS: 6 场",
+  "足球 Mexican Liga BBVA MX: 2 场",
+  "足球 Brazilian Serie A: 1 场",
+  "足球 Japanese J.League: 4 场",
+  "足球 Australian A-League Men: 2 场",
+  "足球 FIFA World Cup Qualifying - UEFA: 4 场",
+  "网球 ATP: 138 场",
+  "网球 WTA: 292 场",
+  "F1: 52 场"
+ ]
+}

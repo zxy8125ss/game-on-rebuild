@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>Game On · 赛程</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="北京时间赛程表：网球、F1、电竞、足球，本周推荐与开赛提醒">
+<meta name="theme-color" content="#EEF3EA" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131B16" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Game On">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="app">
+  <!-- 图标 sprite -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="i-tennis" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="9"/>
+        <path d="M5.2 6.2c3.6 3.2 3.6 8.4 0 11.6"/>
+        <path d="M18.8 6.2c-3.6 3.2-3.6 8.4 0 11.6"/>
+      </symbol>
+      <symbol id="i-football" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="9"/>
+        <polygon points="12.00,8.60 15.23,10.95 14.00,14.75 10.00,14.75 8.77,10.95" fill="currentColor"/>
+        <path d="M12.00 8.60L12.00 5.40M15.23 10.95L18.28 9.96M14.00 14.75L15.88 17.34M10.00 14.75L8.12 17.34M8.77 10.95L5.72 9.96"/>
+        <polygon points="15.08,3.54 19.09,6.46 17.04,7.14 15.07,5.71" fill="currentColor" stroke="none"/>
+        <polygon points="20.99,12.31 19.46,17.03 18.18,15.29 18.93,12.97" fill="currentColor" stroke="none"/>
+        <polygon points="14.48,20.65 9.52,20.65 10.78,18.89 13.22,18.89" fill="currentColor" stroke="none"/>
+        <polygon points="4.54,17.03 3.01,12.31 5.07,12.97 5.82,15.29" fill="currentColor" stroke="none"/>
+        <polygon points="4.91,6.46 8.92,3.54 8.93,5.71 6.96,7.14" fill="currentColor" stroke="none"/>
+      </symbol>
+      <symbol id="i-f1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M1.8 15.8h2.4M9.6 15.8h5M20.6 13.2V9.4M19 9.4h3.2"/>
+        <path d="M3 14.8l4.2-1.6 2.6-1.2h2.4l1.2-1.8h1.8l1 1.8h4.4v2.4"/>
+        <circle cx="7.2" cy="15.8" r="2.4"/>
+        <circle cx="17.2" cy="15.8" r="2.4"/>
+      </symbol>
+      <symbol id="i-lol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 7.5h10a4.5 4.5 0 0 1 4.4 5.4l-.8 3.8a2.4 2.4 0 0 1-4.1 1.2L14.6 16H9.4l-1.9 1.9a2.4 2.4 0 0 1-4.1-1.2l-.8-3.8A4.5 4.5 0 0 1 7 7.5z"/>
+        <path d="M8 10.4v3.6M6.2 12.2h3.6"/>
+        <circle cx="15.6" cy="11" r="1" fill="currentColor" stroke="none"/>
+        <circle cx="17.6" cy="13.2" r="1" fill="currentColor" stroke="none"/>
+      </symbol>
+      <symbol id="i-custom" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="4" y="5" width="16" height="15" rx="2.5"/><path d="M4 10h16M8.5 3v4M15.5 3v4"/>
+      </symbol>
+    </defs>
+  </svg>
+
+  <div class="top">
+    <h1 class="logo">GAME <span>ON</span></h1>
+    <span class="num clock" id="clock">--:--</span>
+    <button class="ib" id="b-offline" title="离线状态">离线</button>
+    <button class="ib" id="b-follow">关注</button>
+    <button class="ib" id="b-settings">设置</button>
+    <button class="ib primary" id="b-add" aria-label="添加比赛">＋</button>
+  </div>
+
+  <div class="sync">
+    <span id="sync">正在载入赛程…</span>
+    <button class="linkbtn" id="b-refresh">刷新</button>
+  </div>
+
+  <section id="next"></section>
+
+  <section class="week" aria-label="本周推荐">
+    <div class="wk-h">
+      <b>本周推荐</b>
+      <span id="wk-range"></span>
+      <span class="wk-lg">点日期看当天全部</span>
+    </div>
+    <div id="wk"></div>
+  </section>
+
+  <div class="filters" id="filters">
+    <div class="seg" id="seg-view" role="group" aria-label="范围">
+      <button data-v="follow">关注</button>
+      <button data-v="all">全部</button>
+    </div>
+    <div class="chips" id="seg-sport" role="group" aria-label="项目">
+      <button data-s="all">全部</button>
+      <button data-s="cnfb">国足</button>
+      <button data-s="tennis"><svg class="ic" style="--c:var(--tennis)"><use href="#i-tennis"/></svg>网球</button>
+      <button data-s="f1"><svg class="ic" style="--c:var(--f1)"><use href="#i-f1"/></svg>F1</button>
+      <button data-s="lol"><svg class="ic" style="--c:var(--lol)"><use href="#i-lol"/></svg>电竞</button>
+      <button data-s="football"><svg class="ic" style="--c:var(--football)"><use href="#i-football"/></svg>足球</button>
+    </div>
+    <button class="ib" id="b-search" aria-label="搜索">搜</button>
+  </div>
+
+  <div class="search" id="searchbar" hidden>
+    <input id="q" type="search" placeholder="搜选手、战队、赛事（全部日期）" aria-label="搜索">
+    <button class="ib" id="b-search-x">取消</button>
+  </div>
+
+  <section class="list" id="list" aria-live="polite"></section>
+</div>
+
+<div class="banner" id="banner" hidden>
+  <span id="bannertext"></span>
+  <button id="bannerok">知道了</button>
+</div>
+
+<div class="banner install" id="installbanner" hidden>
+  <span>可安装到手机桌面，断网也能看赛程</span>
+  <button id="installok">安装</button>
+  <button id="installclose" class="ghost">稍后</button>
+</div>
+
+<!-- 添加 / 编辑比赛 -->
+<dialog id="d-add">
+  <form class="dlg" id="f-add">
+    <h3 id="add-title">添加比赛</h3>
+    <div id="add-search">
+      <label class="field">搜索比赛
+        <input id="a-q" type="search" autocomplete="off" placeholder="随便输：郑钦文 武网 / 曼城 / 新加坡 F1 / 10/18">
+      </label>
+      <div class="flist" id="a-res">
+        <p class="help">输入人名、球队、赛事或日期，空格分隔多个词。</p>
+      </div>
+      <details id="a-manual">
+        <summary class="help" style="cursor:pointer">搜不到？手动填写</summary>
+        <div class="two">
+          <label class="field">项目
+            <select id="a-sport">
+              <option value="tennis">网球</option><option value="f1">F1</option>
+              <option value="lol">电竞</option><option value="football">足球</option>
+              <option value="custom">其他</option>
+            </select>
+          </label>
+          <label class="field">赛事<input id="a-sub" placeholder="如 武网 · 女单次轮"></label>
+        </div>
+        <label class="field">对阵 / 标题<input id="a-title" placeholder="如 郑钦文 vs 莱巴金娜"></label>
+        <label class="field">参赛方（逗号分隔，用于关注匹配）<input id="a-teams" placeholder="郑钦文, 莱巴金娜"></label>
+        <div class="two">
+          <label class="field">日期（北京时间）<input id="a-date" type="date"></label>
+          <label class="field">开赛时间（不填=待定）<input id="a-time" type="time"></label>
+        </div>
+        <div class="two">
+          <label class="field">时长（分钟）<input id="a-dur" type="number" min="15" step="15" value="120"></label>
+          <label class="field">转播平台<input id="a-ch" placeholder="咪咕视频, 央视体育"></label>
+        </div>
+        <label class="field">备注<input id="a-note"></label>
+        <div class="row-end"><button class="btn primary">保存手动填写</button></div>
+      </details>
+    </div>
+    <div class="row-end"><button type="button" class="btn" data-close>完成</button></div>
+  </form>
+</dialog>
+
+<!-- 关注管理 -->
+<dialog id="d-follow">
+  <form class="dlg" id="f-follow">
+    <h3>我关注的</h3>
+    <p class="help">两个字以内的别名只匹配参赛方全名，三个字以上也匹配标题。也可以整项关注，例如 F1。</p>
+    <div class="flist" id="flist"></div>
+    <div class="two">
+      <label class="field">名称<input id="fl-name" placeholder="如 莱巴金娜"></label>
+      <label class="field">或整项关注
+        <select id="fl-sport">
+          <option value="">—</option><option value="tennis">网球</option>
+          <option value="f1">F1</option><option value="lol">电竞</option>
+          <option value="football">足球</option>
+        </select>
+      </label>
+    </div>
+    <label class="field">别名（逗号分隔）<input id="fl-alias" placeholder="Rybakina, 莱巴"></label>
+    <div class="row-end">
+      <button type="button" class="btn" data-close>完成</button>
+      <button class="btn primary">添加</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- 设置 -->
+<dialog id="d-settings">
+  <form class="dlg" id="f-settings">
+    <h3>设置</h3>
+    <label class="field">开赛前提醒（分钟，0 = 关闭）<input id="s-lead" type="number" min="0" max="120" step="5"></label>
+    <label class="field inline"><input type="checkbox" id="s-spoil"> 防剧透：没看过的比赛隐藏比分</label>
+    <label class="field inline"><input type="checkbox" id="s-past"> 列表里显示已结束的比赛</label>
+    <label class="field inline"><input type="checkbox" id="s-offline"> 离线优先：缓存最近赛程，断网也能看</label>
+    <p class="help" id="savestate"></p>
+    <p class="help">开赛提醒只在本页打开时生效。要可靠提醒，请用比赛详情里的「加到日历」——导入手机日历后由系统负责提醒。</p>
+    <div class="row-end">
+      <button type="button" class="btn" data-close>取消</button>
+      <button class="btn primary">保存</button>
+    </div>
+  </form>
+</dialog>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
