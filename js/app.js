@@ -188,7 +188,7 @@ function render() {
   $('wk-range').textContent = week.range;
   $('wk').innerHTML = week.html;
 
-  // 列表。防剧透状态已在 m.spoilHidden 上算好，renderRow 直接读它
+  // 列表
   const list = renderList(scored, ui, store.state, now, top, hiddenSet, null);
   $('list').innerHTML = list.html;
 
@@ -277,7 +277,7 @@ function goTo(id) {
   ui.open = id;
   // 如果目标比赛被当前筛选挡掉了，放宽筛选
   const pass = m.sport === ui.sport || ui.sport === 'all'
-    || (ui.sport === 'cnfb' && m.squad);
+    || (ui.sport === 'cnfb' && /中超/.test(m.sub || ''));
   if (!pass || (ui.view === 'follow' && !m.f.length)) {
     ui.view = 'all';
     ui.sport = 'all';
@@ -327,6 +327,12 @@ document.addEventListener('click', (e) => {
     });
   } else if (d.go) {
     goTo(d.go);
+  } else if (d.expand) {
+    store.ui.expandAll = true;
+    render();
+  } else if (d.collapse) {
+    store.ui.expandAll = false;
+    render();
   } else if (d.ics) {
     const m = scored.find((x) => x.id === d.ics);
     if (m) downloadICS(m, store.state.settings.lead);

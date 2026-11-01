@@ -579,6 +579,18 @@ button { cursor: pointer; }
 }
 .empty button { margin-top: 8px; }
 
+.foldmore {
+  width: 100%;
+  border: 1px dashed var(--line);
+  background: transparent;
+  color: var(--muted);
+  border-radius: 10px;
+  padding: 9px;
+  font-size: 13px;
+  margin-top: 2px;
+}
+.foldmore:hover { color: var(--lamp); border-color: var(--lamp); }
+
 /* ---------- 浮层与对话框 ---------- */
 
 .banner {

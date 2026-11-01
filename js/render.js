@@ -251,6 +251,24 @@ export function renderList(all, ui, state, now, top, hiddenSet, spoilHidden) {
     return sortKey(a) - sortKey(b);
   });
 
+  // 当天场次很多时，非推荐场次默认收起，避免列表刷屏
+  // （数据源比原版全得多，一天可能有几十场）
+  const FOLD_THRESHOLD = 12;
+  let folded = 0;
+  if (!q && list.length > FOLD_THRESHOLD && !ui.expandAll) {
+    const keep = [];
+    const rest = [];
+    for (const m of list) {
+      if (top.has(m.id) || m.f.length) keep.push(m);
+      else rest.push(m);
+    }
+    // 全都是非推荐时，不折叠（否则看起来像空了）
+    if (keep.length >= 3) {
+      folded = rest.length;
+      list = keep;
+    }
+  }
+
   let html = head;
   let lastDay = '';
   for (const m of list) {
@@ -264,14 +282,22 @@ export function renderList(all, ui, state, now, top, hiddenSet, spoilHidden) {
     }
     html += renderRow(m, now, top, ui, state, spoilHidden);
   }
-  return { html, count: list.length };
+
+  if (folded > 0) {
+    html += `<button class="foldmore" data-expand="1">展开其余 ${folded} 场</button>`;
+  } else if (ui.expandAll && !q) {
+    html += '<button class="foldmore" data-collapse="1">收起非推荐场次</button>';
+  }
+
+  return { html, count: list.length, folded };
 }
 
-/** 筛选条件：隐藏项、国足过滤、关注视图 */
+/** 筛选条件：隐藏项、联赛/项目过滤、关注视图 */
 export function passFilters(m, ui, state, now, hiddenSet) {
   if (hiddenSet.has(m.id)) return false;
   if (ui.sport === 'cnfb') {
-    if (!m.squad) return false;
+    // 「中超」按联赛名过滤（ESPN 提供的 chn.1 联赛，sub 形如「中超 · 2026」）
+    if (m.sport !== 'football' || !/中超/.test(m.sub || '')) return false;
   } else if (ui.sport !== 'all' && m.sport !== ui.sport) {
     return false;
   }

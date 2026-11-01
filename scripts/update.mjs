@@ -17,6 +17,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { fetchEsports } from './fetch-esports.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = path.join(ROOT, 'data');
@@ -29,8 +30,9 @@ const DAY = 24 * HOUR;
 const TZ = 8 * HOUR;
 
 const now = Date.now();
-const FROM = now - 3 * DAY;      // 保留 3 天历史，用于回看赛果
-const TO = now + 21 * DAY;       // 向前看 3 周
+const FROM = now - 7 * DAY;      // 保留 1 周历史，用于回看赛果
+const TO = now + 30 * DAY;       // 向前看 4 周
+const CATALOG_TO = now + 120 * DAY; // 目录额外覆盖半年内（供搜索/手动添加）
 
 const pad = (n) => String(n).padStart(2, '0');
 const bj = (ms) => {
@@ -134,7 +136,7 @@ const SOCCER_LEAGUES = [
   ['uefa.europa.conf', '欧协联'], ['ned.1', '荷甲'], ['por.1', '葡超'],
   ['tur.1', '土超'], ['sco.1', '苏超'], ['usa.1', '美职联'],
   ['mex.1', '墨超'], ['bra.1', '巴甲'], ['jpn.1', 'J联赛'], ['aus.1', '澳超'],
-  ['fifa.worldq.uefa', '世预赛欧洲区'],
+  ['chn.1', '中超'], ['fifa.worldq.uefa', '世预赛欧洲区'],
 ];
 
 const report = [];
@@ -152,12 +154,17 @@ const zh = (s) => {
 
 /**
  * 把一条赛程写入集合。
- * tier 0 → 进首页 schedule.json
- * tier 1/2 → 只进 catalog.json（供搜索与「添加比赛」匹配）
+ *
+ * 分档含义（2026-11 修正）：
+ *   tier 0 → 进首页 schedule.json。首页要展示「近期有什么比赛」，
+ *            焦点与否只影响网页上的推荐排序，不影响可见性。
+ *   tier 1 → 只进 catalog.json（冷门巡回赛等，供搜索与手动添加用）。
+ *
+ * 之前把非焦点比赛全踢出首页，导致首页只有 26 场、11/5-11/7 几乎空白。
  */
-function add(m, tier = 2) {
+function add(m, tier = 0) {
   const t = startOf(m);
-  if (t < FROM || t > TO) return;
+  if (t < FROM || t > CATALOG_TO) return;
 
   // 过滤占位符：ESPN 用 "TBD" 表示对阵未定，这类没有可读性
   const teams = (m.teams || []).filter((x) => x && !/^TBD$/i.test(String(x).trim()));
@@ -166,21 +173,66 @@ function add(m, tier = 2) {
   m.teams = teams;
   m.id = m.id || slug(`${m.sport}-${m.sub}-${m.title}-${m.bj || m.date}`);
   CATALOG.set(m.id, m);
-  if (tier === 0) AUTO.set(m.id, m);
+  // 首页窗口内的、且 tier 为 0 的才进 AUTO
+  if (tier === 0 && t <= TO) AUTO.set(m.id, m);
 }
 
 /* --- 足球 --- */
 
+/** 并发受限的批量请求 */
+async function mapLimit(items, limit, worker) {
+  const out = [];
+  let idx = 0;
+  const runners = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (idx < items.length) {
+      const i = idx++;
+      try {
+        out[i] = await worker(items[i]);
+      } catch (e) {
+        out[i] = null;
+      }
+    }
+  });
+  await Promise.all(runners);
+  return out;
+}
+
+/**
+ * 逐日抓取。
+ * ESPN 的 scoreboard 不带 dates 参数时只返回「当前轮次」，会漏掉后续几轮
+ * （例如德甲 11/1 有 2 场，但 11/7 的多特蒙德 vs 埃尔沃斯贝格完全拿不到）。
+ * 必须带 dates=YYYYMMDD 逐日请求才能覆盖整段时间窗。
+ */
 async function srcSoccer() {
+  const days = Math.ceil((TO - FROM) / DAY);
+  // 生成窗口内的所有日期（YYYYMMDD）
+  const dateList = [];
+  for (let i = 0; i <= days; i++) {
+    const d = new Date(FROM + i * DAY + TZ);
+    dateList.push(`${d.getUTCFullYear()}${pad(d.getUTCMonth() + 1)}${pad(d.getUTCDate())}`);
+  }
+
   for (const [slugId, leagueName] of SOCCER_LEAGUES) {
     try {
-      const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${slugId}/scoreboard`;
-      const data = await getJSON(url);
-      const league = data.leagues?.[0]?.name || leagueName;
-      const events = data.events || [];
-      let n = 0;
+      const head = await getJSON(`https://site.api.espn.com/apis/site/v2/sports/soccer/${slugId}/scoreboard`);
+      const league = head.leagues?.[0]?.name || leagueName;
+      const seasonYear = head.season?.year || new Date(now + TZ).getUTCFullYear();
 
-      for (const ev of events) {
+      // 逐日请求，5 路并发，避免触发风控
+      const dayResults = await mapLimit(dateList, 5, async (ds) => {
+        const day = await getJSON(
+          `https://site.api.espn.com/apis/site/v2/sports/soccer/${slugId}/scoreboard?dates=${ds}`,
+        );
+        return day.events || [];
+      });
+
+      const events = new Map();
+      for (const list of dayResults) {
+        for (const ev of list || []) events.set(ev.id, ev);
+      }
+
+      let n = 0;
+      for (const ev of events.values()) {
         const comp = ev.competitions?.[0];
         if (!comp) continue;
 
@@ -207,15 +259,10 @@ async function srcSoccer() {
 
         const venue = comp.venue?.fullName || '';
 
-        // 分档：顶级联赛 + 焦点球队 → 首页
-        const tier = (FOCUS_TIERS.TOP_LEAGUES.has(league) || FOCUS_TEAMS.has(homeEn) || FOCUS_TEAMS.has(awayEn))
-          ? 0
-          : FOCUS_TIERS.SECOND_LEAGUES.has(league) ? 1 : 2;
-
         add({
           id: `fb-${slugId}-${ev.id}`,
           sport: 'football',
-          sub: `${zh(league)} · ${data.season?.year || ''}`.trim(),
+          sub: `${zh(league)} · ${seasonYear}`.trim(),
           title: `${homeZh} vs ${awayZh}`,
           teams: [homeZh, awayZh],
           bj: bj(Date.parse(comp.startDate || ev.date)),
@@ -223,10 +270,10 @@ async function srcSoccer() {
           result: result || undefined,
           note: venue || undefined,
           channels: channels.length ? channels.slice(0, 3) : undefined,
-        }, tier);
+        });
         n++;
       }
-      report.push(`足球 ${league}: ${n} 场`);
+      report.push(`足球 ${zh(league)}: ${n} 场`);
     } catch (e) {
       report.push(`足球 ${leagueName}: 跳过（${e.message}）`);
     }
@@ -235,57 +282,81 @@ async function srcSoccer() {
 
 /* --- 网球 --- */
 
+/**
+ * 网球：ESPN 的网球 scoreboard 带 groupings → competitions 结构。
+ * 不带 dates 时只返回当前赛事，需要逐日请求覆盖多站赛事。
+ */
 async function srcTennis(tour) {
   try {
-    const url = `https://site.api.espn.com/apis/site/v2/sports/tennis/${tour}/scoreboard`;
-    const data = await getJSON(url);
+    const head = await getJSON(`https://site.api.espn.com/apis/site/v2/sports/tennis/${tour}/scoreboard`);
+    const days = Math.ceil((TO - FROM) / DAY);
+    const dateList = [];
+    for (let i = 0; i <= days; i++) {
+      const d = new Date(FROM + i * DAY + TZ);
+      dateList.push(`${d.getUTCFullYear()}${pad(d.getUTCMonth() + 1)}${pad(d.getUTCDate())}`);
+    }
+
+    const dayResults = await mapLimit(dateList, 5, async (ds) => {
+      const day = await getJSON(`https://site.api.espn.com/apis/site/v2/sports/tennis/${tour}/scoreboard?dates=${ds}`);
+      return day.events || [];
+    });
+
+    // 同一赛事的多天可能重复，按 (赛事id, 场次id) 去重
+    const seen = new Set();
     let n = 0;
 
-    for (const tourney of data.events || []) {
-      const tourneyName = zh(tourney.name);
-      const venue = tourney.venue?.fullName || '';
+    for (const events of dayResults) {
+      for (const tourney of events || []) {
+        const tourneyName = zh(tourney.name);
+        const venue = tourney.venue?.fullName || '';
 
-      for (const grouping of tourney.groupings || []) {
-        const groupName = grouping.grouping?.displayName || '';
-        for (const comp of grouping.competitions || []) {
-          const competitors = comp.competitors || [];
-          if (competitors.length < 2) continue;
+        for (const grouping of tourney.groupings || []) {
+          const groupName = grouping.grouping?.displayName || '';
+          for (const comp of grouping.competitions || []) {
+            const key = `${tourney.id}-${comp.id}`;
+            if (seen.has(key)) continue;
+            seen.add(key);
 
-          const namesEn = competitors.map((c) => c.athlete?.displayName || '').filter(Boolean);
-          if (!namesEn.length) continue;
-          // 对阵双方都还没定的（都是 TBD）跳过
-          if (namesEn.every((x) => /^TBD$/i.test(x))) continue;
+            const competitors = comp.competitors || [];
+            if (competitors.length < 2) continue;
 
-          const namesZh = namesEn.map(zh);
-          const status = comp.status?.type || {};
-          const completed = Boolean(status.completed);
+            const namesEn = competitors.map((c) => c.athlete?.displayName || '').filter(Boolean);
+            if (!namesEn.length) continue;
+            if (namesEn.every((x) => /^TBD$/i.test(x))) continue;
 
-          let result = '';
-          const scoreText = (comp.notes || []).map((n) => n.text).filter(Boolean)[0];
-          if (completed && scoreText) {
-            result = scoreText.replace(/ \(.*\)/, '');
-          } else if (completed) {
-            const scores = competitors.map((c) => c.score);
-            if (scores.every((s) => s !== undefined)) {
-              result = `${namesZh[0]} ${scores[0]}:${scores[1]} ${namesZh[1]}`;
+            const namesZh = namesEn.map(zh);
+            const status = comp.status?.type || {};
+            const completed = Boolean(status.completed);
+
+            let result = '';
+            const scoreText = (comp.notes || []).map((n) => n.text).filter(Boolean)[0];
+            if (completed && scoreText) {
+              result = scoreText.replace(/ \(.*\)/, '');
+            } else if (completed) {
+              const scores = competitors.map((c) => c.score);
+              if (scores.every((s) => s !== undefined)) {
+                result = `${namesZh[0]} ${scores[0]}:${scores[1]} ${namesZh[1]}`;
+              }
             }
+
+            // 焦点选手一律进首页
+            const isFocusPlayer = namesEn.some((x) => FOCUS_PLAYERS.has(x));
+            // 高级别赛事（1000/500/大师赛）进首页，冷门巡回赛只进目录
+            const isBigTour = /1000|500|Masters|Open|Grand Slam|Challenger/i.test(tourneyName);
+
+            add({
+              id: `tn-${tour}-${comp.id}`,
+              sport: 'tennis',
+              sub: `${tourneyName}${groupName ? ' · ' + zh(groupName) : ''}`,
+              title: namesZh.join(' vs '),
+              teams: namesZh,
+              bj: bj(Date.parse(comp.startDate || comp.date)),
+              dur: 150,
+              result: result || undefined,
+              note: venue || undefined,
+            }, isFocusPlayer || isBigTour ? 0 : 1);
+            n++;
           }
-
-          // 焦点选手才进首页，其余网球只进 catalog
-          const tier = namesEn.some((x) => FOCUS_PLAYERS.has(x)) ? 0 : 1;
-
-          add({
-            id: `tn-${tour}-${comp.id}`,
-            sport: 'tennis',
-            sub: `${tourneyName}${groupName ? ' · ' + groupName : ''}`,
-            title: namesZh.join(' vs '),
-            teams: namesZh,
-            bj: bj(Date.parse(comp.startDate || comp.date)),
-            dur: 150,
-            result: result || undefined,
-            note: venue || undefined,
-          }, tier);
-          n++;
         }
       }
     }
@@ -357,12 +428,22 @@ async function main() {
   await srcTennis('wta');
   await srcF1();
 
+  // 电竞：Leaguepedia（免费，含 LPL/LCK/世界赛/MSI/EWC）
+  try {
+    const { matches, report: espReport } = await fetchEsports(now);
+    for (const m of matches) {
+      add(m);
+    }
+    report.push(...espReport);
+  } catch (e) {
+    report.push(`电竞: 跳过（${e.message}）`);
+  }
+
   collectUnknownNames();
 
-  // 焦点赛程：限量，避免首页太长
+  // 首页赛程：按时间排序，焦点比赛不特殊对待（可见性由网页的推荐算法决定）
   const focusList = [...AUTO.values()]
-    .sort((a, b) => startOf(a) - startOf(b))
-    .slice(0, 200);
+    .sort((a, b) => startOf(a) - startOf(b));
 
   const catalogList = [...CATALOG.values()]
     .sort((a, b) => startOf(a) - startOf(b));

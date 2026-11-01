@@ -105,10 +105,11 @@ export function recommendScore(m, followHits) {
   let score = 0;
   const why = [];
 
-  const isCN = Boolean(m.squad) || (/亚运会/.test(text) && m.sport === 'tennis');
+  // 中国球队：来自中超联赛，或带 squad 标记（旧数据格式）
+  const isCN = Boolean(m.squad) || /中超/.test(m.sub || '');
   if (isCN) {
     score += 5;
-    why.push(m.squad ? m.squad.replace(' 亚运队', '') : '中国选手');
+    why.push(m.squad ? m.squad.replace(' 亚运队', '') : '中超');
   }
 
   if (/金牌|铜牌|奖牌|决赛/.test(text) && !/半决赛|1\/4决赛|八强/.test(text)) {
@@ -148,7 +149,7 @@ export const RECOMMEND_THRESHOLD = 4;
  * 关注匹配：判断一场比赛命中了哪些关注项。
  * 规则：
  *   - 整项关注（f.sport）→ 该项目的比赛全中
- *   - 「国足」关注 → 所有带 squad 的国家队/U23/U16 比赛都中
+ *   - 「中超」关注 → 所有中超联赛的比赛都中
  *   - 两字以内的别名只匹配参赛方全名，避免「国」误中「中国国家队」
  *   - 三个字以上也匹配标题/赛事/备注
  */
@@ -156,6 +157,10 @@ export function matchFollows(m, follows) {
   const hits = [];
   for (const f of follows) {
     if (f.sport && f.sport === m.sport) {
+      hits.push(f);
+      continue;
+    }
+    if (/中超/.test(m.sub || '') && (f.name === '中超' || (f.aliases || []).includes('中超'))) {
       hits.push(f);
       continue;
     }

@@ -10,12 +10,13 @@ const UI_KEY = 'gameon-ui-v1';
 
 /**
  * 默认关注项。
- * 依据当前数据源（ESPN：欧洲五大联赛 + 欧冠 + ATP/WTA + F1）挑选，
+ * 依据当前数据源（ESPN 足球/网球 + Leaguepedia 电竞）挑选，
  * 全部能命中实际抓到的赛程，避免首屏「关注」视图为空。
  * 用户可在「关注」面板里增删。
  */
 export const DEFAULT_STATE = {
   follows: [
+    // 足球
     { id: 'fmc', name: '曼城', aliases: ['曼城', 'Man City', 'Manchester City'] },
     { id: 'fars', name: '阿森纳', aliases: ['阿森纳', 'Arsenal'] },
     { id: 'fliv', name: '利物浦', aliases: ['利物浦', 'Liverpool'] },
@@ -26,10 +27,17 @@ export const DEFAULT_STATE = {
     { id: 'fiv', name: '国米', aliases: ['国际米兰', '国米', 'Inter Milan', 'Internazionale'] },
     { id: 'fju', name: '尤文', aliases: ['尤文图斯', '尤文', 'Juventus'] },
     { id: 'fpg', name: '巴黎圣日耳曼', aliases: ['巴黎圣日耳曼', '大巴黎', 'PSG', 'Paris Saint-Germain'] },
+    { id: 'flei', name: '莱斯特城', aliases: ['莱斯特城', 'Leicester City'] },
+    // 电竞
     { id: 'ff1', name: 'F1', sport: 'f1', aliases: [] },
+    { id: 'flpl', name: 'LPL', aliases: ['LPL', 'AL', 'BLG', 'TES', 'iG', 'JDG', 'WE', 'EDG', 'LGD', 'WBG', 'IG', 'TTG', 'OMG', 'RA', 'NIP'] },
+    { id: 'fck', name: 'LCK', aliases: ['LCK', 'GEN', 'T1', 'DRX', 'HLE', 'KDF', 'NS'] },
+    { id: 'fworlds', name: '世界赛', aliases: ['Worlds', '全球总决赛', '世界赛'] },
+    // 网球
     { id: 'fzq', name: '郑钦文', aliases: ['郑钦文', 'Zheng Qinwen', 'Queen Wen'] },
     { id: 'fsw', name: '斯瓦泰', aliases: ['斯瓦泰', '斯瓦泰克', 'Iga Swiatek'] },
     { id: 'fsb', name: '萨巴伦卡娃', aliases: ['萨巴伦卡娃', '斯沃洛娃', 'Aryna Sabalenka'] },
+    { id: 'fzc', name: '兹维列夫', aliases: ['兹维列夫', 'Zverev'] },
   ],
   custom: [],
   marks: {},
@@ -47,6 +55,8 @@ export const DEFAULT_UI = {
   past: false,
   day: null,
   open: null,
+  // 当天场次很多时，是否展开全部（非推荐场次默认收起）
+  expandAll: false,
 };
 
 function clone(o) {
