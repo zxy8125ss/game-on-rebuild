@@ -60,10 +60,29 @@ async function fetchJSON(url, opts = {}) {
   try {
     const res = await fetch(url, { ...opts, signal: ctrl.signal, cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
-    return await res.json();
+    const json = await res.json();
+    // 页面侧兜底缓存：首次访问时 SW 可能还没接管，页面自己把数据存一份，
+    // 保证「打开一次后立刻断网」也能读到赛程。
+    cacheDataLocally(url, json);
+    return json;
   } finally {
     clearTimeout(timer);
   }
+}
+
+/** 把赛程数据写进 Cache Storage（key 剥离 query，与 SW 保持一致） */
+function cacheDataLocally(url, json) {
+  if (!('caches' in window)) return;
+  if (!/data\/(schedule|catalog)\.json/.test(url)) return;
+  try {
+    const key = new URL(url, location.href);
+    key.search = '';   // 剥离 query，与 Service Worker 的缓存 key 规则一致
+    caches.open('gameon-data-v1')
+      .then((cache) => cache.put(key.href, new Response(JSON.stringify(json), {
+        headers: { 'Content-Type': 'application/json' },
+      })))
+      .catch(() => {});
+  } catch (e) { /* 忽略 */ }
 }
 
 async function loadSchedule(manual = false) {

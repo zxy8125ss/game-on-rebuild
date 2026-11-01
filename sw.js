@@ -65,9 +65,26 @@ self.addEventListener('activate', (event) => {
           .filter((k) => k.startsWith('gameon-') && k !== SHELL_CACHE && k !== DATA_CACHE)
           .map((k) => caches.delete(k)),
       ))
-      .then(() => self.clients.claim()),
+      .then(() => self.clients.claim())
+      // 首次访问时 SW 还没接管页面，页面发的 fetch 不经过 fetch handler，
+      // 数据不会被缓存。这里主动预取一次，保证「装到桌面后立刻断网」也能用。
+      .then(() => precacheData()),
   );
 });
+
+/** 主动预取赛程数据进缓存 */
+async function precacheData() {
+  const cache = await caches.open(DATA_CACHE);
+  const files = ['/data/schedule.json', '/data/catalog.json'];
+  await Promise.all(files.map(async (path) => {
+    const url = new URL(path, self.location.origin).href;
+    if (await cache.match(url)) return;
+    try {
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (res && res.ok) await cache.put(url, res);
+    } catch (e) { /* 网络不通就算了，等页面在线时再缓存 */ }
+  }));
+}
 
 self.addEventListener('message', (event) => {
   if (event.data === 'skip-waiting') self.skipWaiting();
