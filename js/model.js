@@ -91,59 +91,84 @@ export function isLive(m, now) {
  * 推荐评分：决定「本周推荐」里哪些场次值得高亮。
  * 规则（按优先级）：
  *   欧国联 → 直接排除（-99）
- *   中国队/中国选手 → +5
+ *   中国球队/中超 → +5
  *   决赛/奖牌战/金牌战 → +5，半决赛 → +3
  *   命中关注 → +4
  *   F1 正赛 → +4
  *   S16 关键场 → +4
  *   待复核 → -1
+ *
+ * why 字段是给用户看的短标签。多个条件同时命中时，
+ * 取信息量最大的一个（赛事阶段 > 联赛级别 > 关注），避免标签全都是"关注"。
  */
 export function recommendScore(m, followHits) {
   const text = `${m.sub || ''} ${m.title || ''}`;
   if (/欧国联/.test(text)) return { score: -99, why: '' };
 
   let score = 0;
-  const why = [];
+  const reasons = [];
 
   // 中国球队：来自中超联赛，或带 squad 标记（旧数据格式）
   const isCN = Boolean(m.squad) || /中超/.test(m.sub || '');
   if (isCN) {
     score += 5;
-    why.push(m.squad ? m.squad.replace(' 亚运队', '') : '中超');
+    reasons.push({ w: 3, why: m.squad ? m.squad.replace(' 亚运队', '') : '中超' });
   }
 
+  // 赛事阶段：最有信息量的标签，权重最高
   if (/金牌|铜牌|奖牌|决赛/.test(text) && !/半决赛|1\/4决赛|八强/.test(text)) {
     score += 5;
-    why.unshift(/铜牌/.test(text) ? '奖牌战' : /金牌/.test(text) ? '金牌战' : '决赛');
+    reasons.push({ w: 5, why: /铜牌/.test(text) ? '奖牌战' : /金牌/.test(text) ? '金牌战' : '决赛' });
   } else if (/半决赛/.test(text)) {
     score += 3;
-    why.unshift('半决赛');
+    reasons.push({ w: 4, why: '半决赛' });
+  } else if (/八强|1\/4决赛|四分之一/.test(text)) {
+    score += 2;
+    reasons.push({ w: 4, why: '八强' });
+  }
+
+  // 顶级赛事（五大联赛/欧冠/世界赛）
+  if (/英超|西甲|德甲|意甲|法甲|欧冠|超级碗|世俱杯|世界杯/.test(text)) {
+    score += 3;
+    reasons.push({ w: 2, why: '大赛' });
   }
 
   const named = followHits.some((f) => !f.sport);
   const sportOnly = followHits.some((f) => f.sport);
   if (named) {
     score += 4;
-    why.push('关注');
+    reasons.push({ w: 1, why: '关注' });
   } else if (sportOnly) {
     score += 2;
   }
 
   if (m.sport === 'f1' && /正赛/.test(m.title)) {
     score += 4;
-    why.push('F1 正赛');
+    reasons.push({ w: 4, why: 'F1 正赛' });
   }
   if (/S16/.test(text) && /八强|半决赛|总决赛/.test(text)) {
     score += 4;
-    why.push('S16');
+    reasons.push({ w: 4, why: 'S16' });
   }
+  // 电竞大赛
+  if (m.sport === 'lol' && /世界赛|Worlds|全球总决赛|MSI|EWC/i.test(text)) {
+    score += 3;
+    reasons.push({ w: 3, why: '电竞大赛' });
+  }
+
   if (m.verify === 'pending') score -= 1;
 
-  return { score, why: why[0] || '' };
+  reasons.sort((a, b) => b.w - a.w);
+  return { score, why: reasons.length ? reasons[0].why : '' };
 }
 
-/** 命中推荐的最低分 */
-export const RECOMMEND_THRESHOLD = 4;
+/**
+ * 命中推荐的最低分。
+ * 调高到 7：基础分（关注 +4、大赛 +3）单独不够，
+ * 需要「关注 + 大赛」或「关注 + 决赛阶段」这类组合才进推荐，
+ * 否则每天 3 个名额会被随便一场豪门比赛占满。
+ */
+export const RECOMMEND_THRESHOLD = 7;
 
 /**
  * 关注匹配：判断一场比赛命中了哪些关注项。
