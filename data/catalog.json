@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-11-01T19:00:01.078Z",
+ "updatedAt": "2026-11-02T02:35:57.379Z",
  "matches": [
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-25-Dplus Kia-Movistar KOI",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "Dplus Kia vs Movistar KOI",
-   "teams": [
-    "Dplus Kia",
-    "Movistar KOI"
-   ],
-   "bj": "2026-10-26 03:00",
-   "dur": 120,
-   "result": "Dplus Kia 2:0 Movistar KOI"
-  },
-  {
-   "id": "f1-2026-18-r",
-   "sport": "f1",
-   "sub": "美国大奖赛（第18站）",
-   "title": "正赛",
-   "teams": [],
-   "bj": "2026-10-26 04:00",
-   "dur": 120,
-   "note": "美洲赛道"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-25-Gen.G-LYON (2024 American Team)",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "GEN vs LYON (2024 American Team)",
-   "teams": [
-    "GEN",
-    "LYON (2024 American Team)"
-   ],
-   "bj": "2026-10-26 06:00",
-   "dur": 120,
-   "result": "GEN 2:1 LYON (2024 American Team)"
-  },
-  {
-   "id": "tn-wta-185663",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "帕克斯 vs Wang Xinyu",
-   "teams": [
-    "帕克斯",
-    "Wang Xinyu"
-   ],
-   "bj": "2026-10-26 09:35",
-   "dur": 150,
-   "result": "Alycia Parks"
-  },
   {
    "id": "tn-wta-185716",
    "sport": "tennis",
@@ -5830,6 +5781,7 @@
    ],
    "bj": "2026-11-02 01:00",
    "dur": 115,
+   "result": "莱切 1:2 热那亚",
    "note": "Via Del Mare"
   },
   {
@@ -5846,19 +5798,6 @@
    "result": "Polona Hercog 6-0 6-0"
   },
   {
-   "id": "tn-wta-187368",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Maria Paulina Perez Garcia vs Carolina Alves",
-   "teams": [
-    "Maria Paulina Perez Garcia",
-    "Carolina Alves"
-   ],
-   "bj": "2026-11-02 01:00",
-   "dur": 150,
-   "result": "Carolina Alves w/o"
-  },
-  {
    "id": "fb-esp.1-401882823",
    "sport": "football",
    "sub": "西甲 · 2026",
@@ -5869,6 +5808,7 @@
    ],
    "bj": "2026-11-02 01:30",
    "dur": 115,
+   "result": "埃尔切 0:1 瓦伦西亚",
    "note": "Estadio Martínez Valero"
   },
   {
@@ -5882,6 +5822,7 @@
    ],
    "bj": "2026-11-02 02:00",
    "dur": 115,
+   "result": "维塞乌 2:1 里奥阿维",
    "note": "Estádio do Fontelo"
   },
   {
@@ -5895,6 +5836,7 @@
    ],
    "bj": "2026-11-02 02:00",
    "dur": 115,
+   "result": "马里迪莫 0:2 圣克拉拉",
    "note": "Estádio do Marítimo"
   },
   {
@@ -5907,7 +5849,8 @@
     "Elizabeth Mandlik"
    ],
    "bj": "2026-11-02 03:00",
-   "dur": 150
+   "dur": 150,
+   "result": "Selena Janicijevic 6-3 5-7 6-2"
   },
   {
    "id": "tn-wta-187367",
@@ -5918,8 +5861,9 @@
     "Katrina Scott",
     "Maria Herazo Gonzalez"
    ],
-   "bj": "2026-11-02 03:00",
-   "dur": 150
+   "bj": "2026-11-02 03:05",
+   "dur": 150,
+   "result": "Maria Herazo Gonzalez 6-4"
   },
   {
    "id": "fb-ita.1-401874949",
@@ -5932,6 +5876,7 @@
    ],
    "bj": "2026-11-02 03:45",
    "dur": 115,
+   "result": "尤文图斯 2:0 那不勒斯",
    "note": "Allianz Stadium"
   },
   {
@@ -5945,6 +5890,7 @@
    ],
    "bj": "2026-11-02 03:45",
    "dur": 115,
+   "result": "马赛 2:0 图卢兹",
    "note": "Stade Vélodrome"
   },
   {
@@ -5958,6 +5904,7 @@
    ],
    "bj": "2026-11-02 04:00",
    "dur": 115,
+   "result": "毕尔巴鄂竞技 2:1 皇家社会",
    "note": "San Mamés"
   },
   {
@@ -5981,6 +5928,7 @@
    ],
    "bj": "2026-11-02 04:30",
    "dur": 115,
+   "result": "布拉加 3:0 法马利康",
    "note": "Estádio Municipal de Braga"
   },
   {
@@ -5994,6 +5942,7 @@
    ],
    "bj": "2026-11-02 04:30",
    "dur": 115,
+   "result": "温哥华白帽 5:1 西雅图海湾人",
    "note": "BC Place"
   },
   {
@@ -6007,6 +5956,7 @@
    ],
    "bj": "2026-11-02 05:30",
    "dur": 115,
+   "result": "亚特兰大联 3:1 多伦多FC",
    "note": "Mercedes-Benz Stadium"
   },
   {
@@ -6020,6 +5970,7 @@
    ],
    "bj": "2026-11-02 05:30",
    "dur": 115,
+   "result": "纳什维尔 3:2 Red Bull New York",
    "note": "GEODIS Park"
   },
   {
@@ -6031,8 +5982,9 @@
     "安德烈斯库",
     "玛丽亚"
    ],
-   "bj": "2026-11-02 06:00",
-   "dur": 150
+   "bj": "2026-11-02 06:05",
+   "dur": 150,
+   "result": "(4) Bianca Andreescu 6-1 2-6 6-3"
   },
   {
    "id": "fb-mex.1-401876912",
@@ -6045,6 +5997,7 @@
    ],
    "bj": "2026-11-02 07:00",
    "dur": 115,
+   "result": "桑托斯 1:0 内察哈",
    "note": "Estadio Corona"
   },
   {
@@ -6058,6 +6011,7 @@
    ],
    "bj": "2026-11-02 08:00",
    "dur": 115,
+   "result": "新英格兰革命 1:2 Inter Miami CF",
    "note": "Gillette Stadium"
   },
   {
@@ -6098,194 +6052,6 @@
    "bj": "2026-11-02 10:45",
    "dur": 115,
    "note": "Providence Park"
-  },
-  {
-   "id": "tn-wta-186707",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Alice Tubello vs Rebeka Masarova",
-   "teams": [
-    "Alice Tubello",
-    "Rebeka Masarova"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186721",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Despina Papamichail vs Maria Lourdes Carle",
-   "teams": [
-    "Despina Papamichail",
-    "Maria Lourdes Carle"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186720",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Renata Zarazua vs Nadia Podoroska",
-   "teams": [
-    "Renata Zarazua",
-    "Nadia Podoroska"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186719",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Irene Burillo vs Elvina Kalieva",
-   "teams": [
-    "Irene Burillo",
-    "Elvina Kalieva"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186718",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Luisina Giovannini vs Maria Camila Torres Murcia",
-   "teams": [
-    "Luisina Giovannini",
-    "Maria Camila Torres Murcia"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186717",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Caroline Dolehide vs Jazmin Ortenzi",
-   "teams": [
-    "Caroline Dolehide",
-    "Jazmin Ortenzi"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186715",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Yuliana Lizarazo vs Laura Samson",
-   "teams": [
-    "Yuliana Lizarazo",
-    "Laura Samson"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186706",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Marina Bassols Ribera vs Sofia Costoulas",
-   "teams": [
-    "Marina Bassols Ribera",
-    "Sofia Costoulas"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186708",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Julia Riera vs Valentina Mediorreal Arias",
-   "teams": [
-    "Julia Riera",
-    "Valentina Mediorreal Arias"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186709",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Maria Paulina Perez Garcia vs TBD",
-   "teams": [
-    "Maria Paulina Perez Garcia"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186710",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Laura Pigossi vs 格拉伯",
-   "teams": [
-    "Laura Pigossi",
-    "格拉伯"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186711",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Lucia Bronzetti vs Leolia Jeanjean",
-   "teams": [
-    "Lucia Bronzetti",
-    "Leolia Jeanjean"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186716",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "安德烈斯库 vs Tamara Zidansek",
-   "teams": [
-    "安德烈斯库",
-    "Tamara Zidansek"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186714",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "TBD vs Carole Monnet",
-   "teams": [
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186713",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Leyre Romero Gormaz vs TBD",
-   "teams": [
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186712",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Solana Sierra vs TBD",
-   "teams": [
-    "Solana Sierra"
-   ],
-   "bj": "2026-11-02 13:00",
-   "dur": 150
   },
   {
    "id": "tn-wta-186625",
@@ -6660,6 +6426,30 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186711",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Lucia Bronzetti vs Leolia Jeanjean",
+   "teams": [
+    "Lucia Bronzetti",
+    "Leolia Jeanjean"
+   ],
+   "bj": "2026-11-03 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186718",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Luisina Giovannini vs Maria Camila Torres Murcia",
+   "teams": [
+    "Luisina Giovannini",
+    "Maria Camila Torres Murcia"
+   ],
+   "bj": "2026-11-03 00:00",
+   "dur": 150
+  },
+  {
    "id": "fb-tur.1-401888260",
    "sport": "football",
    "sub": "土超 · 2026",
@@ -6686,6 +6476,30 @@
    "note": "Mapei Stadium"
   },
   {
+   "id": "tn-wta-186709",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Maria Paulina Perez Garcia vs Carolina Alves",
+   "teams": [
+    "Maria Paulina Perez Garcia",
+    "Carolina Alves"
+   ],
+   "bj": "2026-11-03 01:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186712",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Solana Sierra vs Selena Janicijevic",
+   "teams": [
+    "Solana Sierra",
+    "Selena Janicijevic"
+   ],
+   "bj": "2026-11-03 01:30",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186466",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
@@ -6695,6 +6509,30 @@
     "Denis Shapovalov"
    ],
    "bj": "2026-11-03 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186713",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Leyre Romero Gormaz vs Polona Hercog",
+   "teams": [
+    "Leyre Romero Gormaz",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-03 03:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186715",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Yuliana Lizarazo vs Laura Samson",
+   "teams": [
+    "Yuliana Lizarazo",
+    "Laura Samson"
+   ],
+   "bj": "2026-11-03 03:00",
    "dur": 150
   },
   {
@@ -7156,6 +6994,126 @@
    "teams": [
     "Katherine Hui",
     "滕"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186707",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Alice Tubello vs Rebeka Masarova",
+   "teams": [
+    "Alice Tubello",
+    "Rebeka Masarova"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186721",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Despina Papamichail vs Maria Lourdes Carle",
+   "teams": [
+    "Despina Papamichail",
+    "Maria Lourdes Carle"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186720",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Renata Zarazua vs Nadia Podoroska",
+   "teams": [
+    "Renata Zarazua",
+    "Nadia Podoroska"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186706",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Marina Bassols Ribera vs Sofia Costoulas",
+   "teams": [
+    "Marina Bassols Ribera",
+    "Sofia Costoulas"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186708",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Julia Riera vs Valentina Mediorreal Arias",
+   "teams": [
+    "Julia Riera",
+    "Valentina Mediorreal Arias"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186710",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Laura Pigossi vs 格拉伯",
+   "teams": [
+    "Laura Pigossi",
+    "格拉伯"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186714",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Maria Herazo Gonzalez vs Carole Monnet",
+   "teams": [
+    "Maria Herazo Gonzalez",
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186716",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "安德烈斯库 vs Tamara Zidansek",
+   "teams": [
+    "安德烈斯库",
+    "Tamara Zidansek"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186717",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Elizabeth Mandlik vs Jazmin Ortenzi",
+   "teams": [
+    "Elizabeth Mandlik",
+    "Jazmin Ortenzi"
+   ],
+   "bj": "2026-11-03 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186719",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Irene Burillo vs Elvina Kalieva",
+   "teams": [
+    "Irene Burillo",
+    "Elvina Kalieva"
    ],
    "bj": "2026-11-03 13:00",
    "dur": 150
