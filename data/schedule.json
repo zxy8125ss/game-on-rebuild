@@ -1,137 +1,7 @@
 {
- "updatedAt": "2026-11-03T03:59:36.445Z",
+ "updatedAt": "2026-11-03T12:02:31.909Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-185709",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "松梅兹 vs 索尔维托尔莫",
-   "teams": [
-    "松梅兹",
-    "索尔维托尔莫"
-   ],
-   "bj": "2026-10-27 13:15",
-   "dur": 150,
-   "result": "(6) Zeynep Sonmez 6-1 4-6 6-2"
-  },
-  {
-   "id": "tn-wta-185668",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "巴尔通科娃 vs 萨斯诺维奇",
-   "teams": [
-    "巴尔通科娃",
-    "萨斯诺维奇"
-   ],
-   "bj": "2026-10-27 13:30",
-   "dur": 150,
-   "result": "Aliaksandra Sasnovich 6-3"
-  },
-  {
-   "id": "tn-wta-185718",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "沃里内茨 vs 亚斯特列姆斯卡娅",
-   "teams": [
-    "沃里内茨",
-    "亚斯特列姆斯卡娅"
-   ],
-   "bj": "2026-10-27 14:05",
-   "dur": 150,
-   "result": "Dayana Yastremska"
-  },
-  {
-   "id": "tn-wta-185659",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "坂���惠美乃 vs 费尔南德斯",
-   "teams": [
-    "坂���惠美乃",
-    "费尔南德斯"
-   ],
-   "bj": "2026-10-27 14:10",
-   "dur": 150,
-   "result": "Leylah Fernandez 6-2 6-4"
-  },
-  {
-   "id": "tn-wta-185705",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "刘彩衣 vs 鲁日奇",
-   "teams": [
-    "刘彩衣",
-    "鲁日奇"
-   ],
-   "bj": "2026-10-27 15:35",
-   "dur": 150,
-   "result": "Claire Liu 6-4"
-  },
-  {
-   "id": "tn-wta-185674",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "保利尼 vs 大坂直美",
-   "teams": [
-    "保利尼",
-    "大坂直美"
-   ],
-   "bj": "2026-10-27 16:10",
-   "dur": 150,
-   "result": "(7) Naomi Osaka"
-  },
-  {
-   "id": "tn-wta-185661",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "波汉科娃 vs 瓦伦托娃",
-   "teams": [
-    "波汉科娃",
-    "瓦伦托娃"
-   ],
-   "bj": "2026-10-27 16:25",
-   "dur": 150,
-   "result": "Mia Pohankova 6-1 6-4"
-  },
-  {
-   "id": "tn-wta-185725",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "滕 vs 库德梅托娃",
-   "teams": [
-    "滕",
-    "库德梅托娃"
-   ],
-   "bj": "2026-10-27 17:00",
-   "dur": 150,
-   "result": "(2) Janice Tjen 6-2 6-2"
-  },
-  {
-   "id": "tn-wta-185724",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "大威廉姆斯 vs 塔格",
-   "teams": [
-    "大威廉姆斯",
-    "塔格"
-   ],
-   "bj": "2026-10-27 18:15",
-   "dur": 150,
-   "result": "(4) Lilli Tagger 6-2 6-2"
-  },
-  {
-   "id": "tn-wta-185721",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "萨旺凯 vs 孙欣然",
-   "teams": [
-    "萨旺凯",
-    "孙欣然"
-   ],
-   "bj": "2026-10-27 19:45",
-   "dur": 150,
-   "result": "Xinran Sun 6-3 6-4"
-  },
   {
    "id": "tn-atp-185192",
    "sport": "tennis",
@@ -4330,18 +4200,6 @@
    "note": "Estádio Municipal Cicero de Souza Marques"
   },
   {
-   "id": "tn-wta-186577",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Robin Montgomery vs 乌德瓦尔迪",
-   "teams": [
-    "Robin Montgomery",
-    "乌德瓦尔迪"
-   ],
-   "bj": "2026-11-03 13:30",
-   "dur": 150
-  },
-  {
    "id": "tn-wta-186581",
    "sport": "tennis",
    "sub": "Chennai Open · 女单",
@@ -4350,8 +4208,9 @@
     "科斯托维奇",
     "Oksana Selekhmeteva"
    ],
-   "bj": "2026-11-03 13:30",
-   "dur": 150
+   "bj": "2026-11-03 13:35",
+   "dur": 150,
+   "result": "Oksana Selekhmeteva 6-4 6-3"
   },
   {
    "id": "tn-wta-186583",
@@ -4362,8 +4221,22 @@
     "Joanna Garland",
     "泰希曼"
    ],
-   "bj": "2026-11-03 13:30",
-   "dur": 150
+   "bj": "2026-11-03 13:35",
+   "dur": 150,
+   "result": "Joanna Garland 6-3 6-4"
+  },
+  {
+   "id": "tn-wta-186577",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Robin Montgomery vs 乌德瓦尔迪",
+   "teams": [
+    "Robin Montgomery",
+    "乌德瓦尔迪"
+   ],
+   "bj": "2026-11-03 13:40",
+   "dur": 150,
+   "result": "Robin Montgomery 6-4 1-6 6-1"
   },
   {
    "id": "tn-wta-186626",
@@ -4374,8 +4247,9 @@
     "松梅兹",
     "亚斯特列姆斯卡娅"
    ],
-   "bj": "2026-11-03 14:00",
-   "dur": 150
+   "bj": "2026-11-03 14:20",
+   "dur": 150,
+   "result": "Zeynep Sonmez 6-4 6-2"
   },
   {
    "id": "tn-wta-186623",
@@ -4386,32 +4260,9 @@
     "奥利尼科娃",
     "吉布森"
    ],
-   "bj": "2026-11-03 14:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186575",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Kyoka Okamura vs Jeline Vandromme",
-   "teams": [
-    "Kyoka Okamura",
-    "Jeline Vandromme"
-   ],
-   "bj": "2026-11-03 15:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186579",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "库德梅托娃 vs Viktoria Morvayova",
-   "teams": [
-    "库德梅托娃",
-    "Viktoria Morvayova"
-   ],
-   "bj": "2026-11-03 15:00",
-   "dur": 150
+   "bj": "2026-11-03 14:20",
+   "dur": 150,
+   "result": "(5) Talia Gibson 6-1"
   },
   {
    "id": "tn-wta-186584",
@@ -4422,8 +4273,22 @@
     "Polina Iatcenko",
     "扎哈罗娃"
    ],
-   "bj": "2026-11-03 15:00",
-   "dur": 150
+   "bj": "2026-11-03 15:35",
+   "dur": 150,
+   "result": "(7) Anastasia Zakharova 6-1"
+  },
+  {
+   "id": "tn-wta-186575",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Kyoka Okamura vs Jeline Vandromme",
+   "teams": [
+    "Kyoka Okamura",
+    "Jeline Vandromme"
+   ],
+   "bj": "2026-11-03 15:40",
+   "dur": 150,
+   "result": "Jeline Vandromme 7-5 6-1"
   },
   {
    "id": "tn-wta-186573",
@@ -4434,20 +4299,9 @@
     "Weronika Falkowska",
     "Linda Fruhvirtova"
    ],
-   "bj": "2026-11-03 15:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186586",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Katherine Hui vs 滕",
-   "teams": [
-    "Katherine Hui",
-    "滕"
-   ],
-   "bj": "2026-11-03 15:00",
-   "dur": 150
+   "bj": "2026-11-03 16:00",
+   "dur": 150,
+   "result": "Weronika Falkowska 6-4"
   },
   {
    "id": "tn-wta-186621",
@@ -4458,8 +4312,9 @@
     "乔因特",
     "Maddison Inglis"
    ],
-   "bj": "2026-11-03 15:30",
-   "dur": 150
+   "bj": "2026-11-03 16:05",
+   "dur": 150,
+   "result": "Maya Joint 7-5 6-2"
   },
   {
    "id": "tn-wta-186619",
@@ -4470,68 +4325,9 @@
     "季莫菲耶娃",
     "科斯蒂亚"
    ],
-   "bj": "2026-11-03 15:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186578",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Lucrezia Stefanini vs Rada Zolotareva",
-   "teams": [
-    "Lucrezia Stefanini",
-    "Rada Zolotareva"
-   ],
-   "bj": "2026-11-03 16:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186582",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Vaishnavi Adkar vs Jodie Burrage",
-   "teams": [
-    "Vaishnavi Adkar",
-    "Jodie Burrage"
-   ],
-   "bj": "2026-11-03 16:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186589",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Rebecca Sramkova vs 内田萌华",
-   "teams": [
-    "Rebecca Sramkova",
-    "内田萌华"
-   ],
-   "bj": "2026-11-03 16:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186629",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "瓦伦托娃 vs 坂���惠美乃",
-   "teams": [
-    "瓦伦托娃",
-    "坂���惠美乃"
-   ],
-   "bj": "2026-11-03 17:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186614",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "萨姆松诺娃 vs Alexandra Shubladze",
-   "teams": [
-    "萨姆松诺娃",
-    "Alexandra Shubladze"
-   ],
-   "bj": "2026-11-03 17:00",
-   "dur": 150
+   "bj": "2026-11-03 16:10",
+   "dur": 150,
+   "result": "(1) Sorana Cirstea 1-6 7-5"
   },
   {
    "id": "tn-wta-186666",
@@ -4542,8 +4338,9 @@
     "Lamis Alhussein Abdel Aziz",
     "Tiphanie Lemaitre"
    ],
-   "bj": "2026-11-03 17:00",
-   "dur": 150
+   "bj": "2026-11-03 17:10",
+   "dur": 150,
+   "result": "Tiphanie Lemaitre 6-1 6-1"
   },
   {
    "id": "tn-wta-186670",
@@ -4554,8 +4351,9 @@
     "Martyna Kubka",
     "Darja Suvirdjonkova"
    ],
-   "bj": "2026-11-03 17:00",
-   "dur": 150
+   "bj": "2026-11-03 17:10",
+   "dur": 150,
+   "result": "(3) Martyna Kubka 6-3 6-1"
   },
   {
    "id": "tn-wta-186673",
@@ -4566,7 +4364,33 @@
     "Angella Okutoyi",
     "Sofya Lansere"
    ],
-   "bj": "2026-11-03 17:00",
+   "bj": "2026-11-03 17:10",
+   "dur": 150,
+   "result": "(8) Sofya Lansere 6-0 7-5"
+  },
+  {
+   "id": "tn-wta-186629",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "瓦伦托娃 vs 坂���惠美乃",
+   "teams": [
+    "瓦伦托娃",
+    "坂���惠美乃"
+   ],
+   "bj": "2026-11-03 17:35",
+   "dur": 150,
+   "result": "Tereza Valentova 6-3 7-5"
+  },
+  {
+   "id": "tn-wta-186614",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "萨姆松诺娃 vs Alexandra Shubladze",
+   "teams": [
+    "萨姆松诺娃",
+    "Alexandra Shubladze"
+   ],
+   "bj": "2026-11-03 17:45",
    "dur": 150
   },
   {
@@ -4578,8 +4402,9 @@
     "Francisco Cerundolo",
     "Arthur Rinderknech"
    ],
-   "bj": "2026-11-03 18:00",
-   "dur": 150
+   "bj": "2026-11-03 18:10",
+   "dur": 150,
+   "result": "Arthur Rinderknech 2-0 ret"
   },
   {
    "id": "tn-atp-186454",
@@ -4590,7 +4415,7 @@
     "Tomas Martin Etcheverry",
     "Andrey Rublev"
    ],
-   "bj": "2026-11-03 18:00",
+   "bj": "2026-11-03 18:10",
    "dur": 150
   },
   {
@@ -4602,68 +4427,9 @@
     "Arthur Fery",
     "Quentin Halys"
    ],
-   "bj": "2026-11-03 18:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186569",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "本玉 vs 萨旺凯",
-   "teams": [
-    "本玉",
-    "萨旺凯"
-   ],
-   "bj": "2026-11-03 18:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186571",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "卡瓦 vs Maaya Rajeshwaran Revathi",
-   "teams": [
-    "卡瓦",
-    "Maaya Rajeshwaran Revathi"
-   ],
-   "bj": "2026-11-03 18:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186587",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "莱内特 vs Aliona Falei",
-   "teams": [
-    "莱内特",
-    "Aliona Falei"
-   ],
-   "bj": "2026-11-03 18:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186628",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "埃亚拉 vs 帕克斯",
-   "teams": [
-    "埃亚拉",
-    "帕克斯"
-   ],
-   "bj": "2026-11-03 18:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186664",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Madhurima Sawant vs Laura Bohner",
-   "teams": [
-    "Madhurima Sawant",
-    "Laura Bohner"
-   ],
-   "bj": "2026-11-03 18:30",
-   "dur": 150
+   "bj": "2026-11-03 18:10",
+   "dur": 150,
+   "result": "Quentin Halys 7-5"
   },
   {
    "id": "tn-wta-186671",
@@ -4686,77 +4452,77 @@
     "Linda Klimovicova",
     "Gina Feistel"
    ],
-   "bj": "2026-11-03 18:30",
+   "bj": "2026-11-03 18:35",
    "dur": 150
   },
   {
-   "id": "tn-atp-186455",
+   "id": "tn-wta-186664",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Matteo Berrettini vs Brandon Nakashima",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Madhurima Sawant vs Laura Bohner",
    "teams": [
-    "Matteo Berrettini",
-    "Brandon Nakashima"
+    "Madhurima Sawant",
+    "Laura Bohner"
    ],
-   "bj": "2026-11-03 19:30",
+   "bj": "2026-11-03 18:55",
    "dur": 150
   },
   {
-   "id": "tn-atp-186467",
+   "id": "tn-wta-186579",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Moise Kouame vs Alejandro Davidovich Fokina",
+   "sub": "Chennai Open · 女单",
+   "title": "库德梅托娃 vs Viktoria Morvayova",
    "teams": [
-    "Moise Kouame",
-    "Alejandro Davidovich Fokina"
+    "库德梅托娃",
+    "Viktoria Morvayova"
    ],
-   "bj": "2026-11-03 19:30",
+   "bj": "2026-11-03 19:05",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186586",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Katherine Hui vs 滕",
+   "teams": [
+    "Katherine Hui",
+    "滕"
+   ],
+   "bj": "2026-11-03 19:10",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186582",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Vaishnavi Adkar vs Jodie Burrage",
+   "teams": [
+    "Vaishnavi Adkar",
+    "Jodie Burrage"
+   ],
+   "bj": "2026-11-03 19:35",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186628",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "埃亚拉 vs 琼斯",
+   "teams": [
+    "埃亚拉",
+    "琼斯"
+   ],
+   "bj": "2026-11-03 19:40",
    "dur": 150
   },
   {
    "id": "tn-atp-186473",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Learner Tien vs Stefanos Tsitsipas",
+   "title": "Learner Tien vs Adolfo Daniel Vallejo",
    "teams": [
     "Learner Tien",
-    "Stefanos Tsitsipas"
-   ],
-   "bj": "2026-11-03 19:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186568",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Zhibek Kulambayeva vs Mei Yamaguchi",
-   "teams": [
-    "Zhibek Kulambayeva",
-    "Mei Yamaguchi"
-   ],
-   "bj": "2026-11-03 19:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186580",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "瓦尔特 vs Sahaja Yamalapalli",
-   "teams": [
-    "瓦尔特",
-    "Sahaja Yamalapalli"
-   ],
-   "bj": "2026-11-03 19:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186615",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "巴多萨 vs Elena Pridankina",
-   "teams": [
-    "巴多萨",
-    "Elena Pridankina"
+    "Adolfo Daniel Vallejo"
    ],
    "bj": "2026-11-03 20:00",
    "dur": 150
@@ -4786,6 +4552,66 @@
    "dur": 150
   },
   {
+   "id": "tn-atp-186455",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Matteo Berrettini vs Brandon Nakashima",
+   "teams": [
+    "Matteo Berrettini",
+    "Brandon Nakashima"
+   ],
+   "bj": "2026-11-03 20:10",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186467",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Moise Kouame vs Nuno Borges",
+   "teams": [
+    "Moise Kouame",
+    "Nuno Borges"
+   ],
+   "bj": "2026-11-03 20:10",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186589",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Rebecca Sramkova vs 内田萌华",
+   "teams": [
+    "Rebecca Sramkova",
+    "内田萌华"
+   ],
+   "bj": "2026-11-03 20:15",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186578",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Lucrezia Stefanini vs Rada Zolotareva",
+   "teams": [
+    "Lucrezia Stefanini",
+    "Rada Zolotareva"
+   ],
+   "bj": "2026-11-03 20:15",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186571",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "卡瓦 vs Maaya Rajeshwaran Revathi",
+   "teams": [
+    "卡瓦",
+    "Maaya Rajeshwaran Revathi"
+   ],
+   "bj": "2026-11-03 20:30",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186445",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
@@ -4798,15 +4624,39 @@
    "dur": 150
   },
   {
-   "id": "tn-atp-186458",
+   "id": "tn-wta-186615",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Valentin Vacherot vs Novak Djokovic",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "巴多萨 vs Elena Pridankina",
    "teams": [
-    "Valentin Vacherot",
-    "Novak Djokovic"
+    "巴多萨",
+    "Elena Pridankina"
    ],
    "bj": "2026-11-03 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186569",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "本玉 vs 萨旺凯",
+   "teams": [
+    "本玉",
+    "萨旺凯"
+   ],
+   "bj": "2026-11-03 21:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186587",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "莱内特 vs Aliona Falei",
+   "teams": [
+    "莱内特",
+    "Aliona Falei"
+   ],
+   "bj": "2026-11-03 21:30",
    "dur": 150
   },
   {
@@ -4834,6 +4684,30 @@
    "dur": 150
   },
   {
+   "id": "tn-atp-186458",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Valentin Vacherot vs Novak Djokovic",
+   "teams": [
+    "Valentin Vacherot",
+    "Novak Djokovic"
+   ],
+   "bj": "2026-11-03 22:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186580",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "瓦尔特 vs Sahaja Yamalapalli",
+   "teams": [
+    "瓦尔特",
+    "Sahaja Yamalapalli"
+   ],
+   "bj": "2026-11-03 22:00",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186457",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
@@ -4843,6 +4717,18 @@
     "Benjamin Bonzi"
    ],
    "bj": "2026-11-03 22:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186568",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Zhibek Kulambayeva vs Mei Yamaguchi",
+   "teams": [
+    "Zhibek Kulambayeva",
+    "Mei Yamaguchi"
+   ],
+   "bj": "2026-11-03 23:00",
    "dur": 150
   },
   {
@@ -5262,9 +5148,10 @@
    "id": "tn-atp-186486",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Frances Tiafoe vs TBD",
+   "title": "Frances Tiafoe vs Quentin Halys",
    "teams": [
-    "Frances Tiafoe"
+    "Frances Tiafoe",
+    "Quentin Halys"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
@@ -5284,8 +5171,9 @@
    "id": "tn-atp-186488",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "TBD vs Mattia Bellucci",
+   "title": "Arthur Rinderknech vs Mattia Bellucci",
    "teams": [
+    "Arthur Rinderknech",
     "Mattia Bellucci"
    ],
    "bj": "2026-11-04 13:00",
@@ -5326,81 +5214,57 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-186616",
+   "id": "tn-wta-186570",
    "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Alina Charaeva vs 鲁日奇",
+   "sub": "Chennai Open · 女单",
+   "title": "TBD vs Weronika Falkowska",
    "teams": [
-    "Alina Charaeva",
-    "鲁日奇"
+    "Weronika Falkowska"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
   },
   {
-   "id": "tn-wta-186627",
+   "id": "tn-wta-186572",
    "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "凯宁 vs 费尔南德斯",
+   "sub": "Chennai Open · 女单",
+   "title": "Jeline Vandromme vs Robin Montgomery",
    "teams": [
-    "凯宁",
-    "费尔南德斯"
+    "Jeline Vandromme",
+    "Robin Montgomery"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
   },
   {
-   "id": "tn-wta-186631",
+   "id": "tn-wta-186574",
    "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "TBD vs Wang Xinyu",
+   "sub": "Chennai Open · 女单",
+   "title": "TBD vs Oksana Selekhmeteva",
    "teams": [
-    "Wang Xinyu"
+    "Oksana Selekhmeteva"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
   },
   {
-   "id": "tn-wta-186632",
+   "id": "tn-wta-186576",
    "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "萨卡里 vs TBD",
+   "sub": "Chennai Open · 女单",
+   "title": "Joanna Garland vs TBD",
    "teams": [
-    "萨卡里"
+    "Joanna Garland"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
   },
   {
-   "id": "tn-wta-186633",
+   "id": "tn-wta-186588",
    "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "萨斯诺维奇 vs TBD",
+   "sub": "Chennai Open · 女单",
+   "title": "TBD vs 扎哈罗娃",
    "teams": [
-    "萨斯诺维奇"
-   ],
-   "bj": "2026-11-04 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186638",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "博尔特 vs 刘彩衣",
-   "teams": [
-    "博尔特",
-    "刘彩衣"
-   ],
-   "bj": "2026-11-04 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186641",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "斯托亚娜 vs TBD",
-   "teams": [
-    "斯托亚娜"
+    "扎哈罗娃"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
@@ -5476,12 +5340,35 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186677",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Tiphanie Lemaitre vs TBD",
+   "teams": [
+    "Tiphanie Lemaitre"
+   ],
+   "bj": "2026-11-04 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186678",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Martyna Kubka vs TBD",
+   "teams": [
+    "Martyna Kubka"
+   ],
+   "bj": "2026-11-04 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186679",
    "sport": "tennis",
    "sub": "Angola Ladies Open · 女单",
-   "title": "Kristina Novak vs TBD",
+   "title": "Kristina Novak vs Sofya Lansere",
    "teams": [
-    "Kristina Novak"
+    "Kristina Novak",
+    "Sofya Lansere"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
@@ -5507,6 +5394,66 @@
     "Diana Martynov"
    ],
    "bj": "2026-11-04 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186616",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "Alina Charaeva vs 鲁日奇",
+   "teams": [
+    "Alina Charaeva",
+    "鲁日奇"
+   ],
+   "bj": "2026-11-04 14:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186627",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "凯宁 vs 费尔南德斯",
+   "teams": [
+    "凯宁",
+    "费尔南德斯"
+   ],
+   "bj": "2026-11-04 14:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186633",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "萨斯诺维奇 vs 吉布森",
+   "teams": [
+    "萨斯诺维奇",
+    "吉布森"
+   ],
+   "bj": "2026-11-04 15:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186638",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "博尔特 vs 刘彩衣",
+   "teams": [
+    "博尔特",
+    "刘彩衣"
+   ],
+   "bj": "2026-11-04 15:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186632",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "萨卡里 vs 乔因特",
+   "teams": [
+    "萨卡里",
+    "乔因特"
+   ],
+   "bj": "2026-11-04 18:30",
    "dur": 150
   },
   {
@@ -5702,6 +5649,51 @@
    "bj": "2026-11-05 08:30",
    "dur": 115,
    "note": "Estádio Vila Belmiro (Urbano Caldeira)"
+  },
+  {
+   "id": "tn-wta-186630",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "TBD vs 瓦伦托娃",
+   "teams": [
+    "瓦伦托娃"
+   ],
+   "bj": "2026-11-05 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186631",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "TBD vs Wang Xinyu",
+   "teams": [
+    "Wang Xinyu"
+   ],
+   "bj": "2026-11-05 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186639",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "松梅兹 vs TBD",
+   "teams": [
+    "松梅兹"
+   ],
+   "bj": "2026-11-05 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186641",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "斯托亚娜 vs 科斯蒂亚",
+   "teams": [
+    "斯托亚娜",
+    "科斯蒂亚"
+   ],
+   "bj": "2026-11-05 13:00",
+   "dur": 150
   },
   {
    "id": "fb-uefa.europa-401915534",
@@ -11997,7 +11989,7 @@
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 147 场",
-  "网球 WTA: 319 场",
+  "网球 WTA: 328 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
