@@ -1,98 +1,7 @@
 {
- "updatedAt": "2026-11-02T22:50:41.142Z",
+ "updatedAt": "2026-11-03T03:59:36.445Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-185679",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "科斯蒂亚 vs 乔因特",
-   "teams": [
-    "科斯蒂亚",
-    "乔因特"
-   ],
-   "bj": "2026-10-27 09:35",
-   "dur": 150,
-   "result": "Maya Joint"
-  },
-  {
-   "id": "tn-wta-185675",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "亚历山德罗娃 vs 李安",
-   "teams": [
-    "亚历山德罗娃",
-    "李安"
-   ],
-   "bj": "2026-10-27 10:05",
-   "dur": 150,
-   "result": "Ekaterina Alexandrova 6-4 6-4"
-  },
-  {
-   "id": "tn-wta-185726",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "莱内特 vs 扎哈罗娃",
-   "teams": [
-    "莱内特",
-    "扎哈罗娃"
-   ],
-   "bj": "2026-10-27 11:05",
-   "dur": 150,
-   "result": "Magda Linette 6-4"
-  },
-  {
-   "id": "tn-wta-185715",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "泰希曼 vs 瓦尔特",
-   "teams": [
-    "泰希曼",
-    "瓦尔特"
-   ],
-   "bj": "2026-10-27 11:05",
-   "dur": 150,
-   "result": "Jil Teichmann 7-5 6-2"
-  },
-  {
-   "id": "tn-wta-185711",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "凯宁 vs 克维多",
-   "teams": [
-    "凯宁",
-    "克维多"
-   ],
-   "bj": "2026-10-27 11:05",
-   "dur": 150,
-   "result": "Kaitlin Quevedo 6-4"
-  },
-  {
-   "id": "tn-wta-185673",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "萨卡里 vs 普汀塞娃",
-   "teams": [
-    "萨卡里",
-    "普汀塞娃"
-   ],
-   "bj": "2026-10-27 11:25",
-   "dur": 150,
-   "result": "Yulia Putintseva 6-4 3-6 6-1"
-  },
-  {
-   "id": "tn-wta-185677",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "布克萨 vs 帕里",
-   "teams": [
-    "布克萨",
-    "帕里"
-   ],
-   "bj": "2026-10-27 11:45",
-   "dur": 150,
-   "result": "Cristina Bucsa 7-5 6-1"
-  },
   {
    "id": "tn-wta-185709",
    "sport": "tennis",
@@ -4390,7 +4299,8 @@
     "Ugo Humbert"
    ],
    "bj": "2026-11-03 04:55",
-   "dur": 150
+   "dur": 150,
+   "result": "Ugo Humbert 6-3"
   },
   {
    "id": "tn-wta-186713",
@@ -4416,6 +4326,7 @@
    ],
    "bj": "2026-11-03 07:00",
    "dur": 115,
+   "result": "Red Bull Bragantino 2:1 桑托斯",
    "note": "Estádio Municipal Cicero de Souza Marques"
   },
   {
@@ -5376,6 +5287,17 @@
    "title": "TBD vs Mattia Bellucci",
    "teams": [
     "Mattia Bellucci"
+   ],
+   "bj": "2026-11-04 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186489",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Ugo Humbert vs TBD",
+   "teams": [
+    "Ugo Humbert"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
@@ -12074,7 +11996,7 @@
   "足球 澳超: 19 场",
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 146 场",
+  "网球 ATP: 147 场",
   "网球 WTA: 319 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
