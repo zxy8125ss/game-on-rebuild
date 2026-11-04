@@ -1,46 +1,7 @@
 {
- "updatedAt": "2026-11-04T12:18:23.498Z",
+ "updatedAt": "2026-11-04T16:40:34.306Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-185191",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Brandon Nakashima vs Tallon Griekspoor",
-   "teams": [
-    "Brandon Nakashima",
-    "Tallon Griekspoor"
-   ],
-   "bj": "2026-10-28 20:40",
-   "dur": 150,
-   "result": "Tallon Griekspoor"
-  },
-  {
-   "id": "tn-atp-185189",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "梅德韦杰夫 vs Daniel Merida",
-   "teams": [
-    "梅德韦杰夫",
-    "Daniel Merida"
-   ],
-   "bj": "2026-10-28 20:40",
-   "dur": 150,
-   "result": "(3) Daniil Medvedev 6-1"
-  },
-  {
-   "id": "tn-atp-185178",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Frances Tiafoe vs Lorenzo Musetti",
-   "teams": [
-    "Frances Tiafoe",
-    "Lorenzo Musetti"
-   ],
-   "bj": "2026-10-28 22:30",
-   "dur": 150,
-   "result": "Lorenzo Musetti 7-5"
-  },
   {
    "id": "tn-atp-185185",
    "sport": "tennis",
@@ -68,48 +29,6 @@
    "result": "Nikoloz Basilashvili 6-1"
   },
   {
-   "id": "fb-ita.1-401874993",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "AC米兰 vs 博洛尼亚",
-   "teams": [
-    "AC米兰",
-    "博洛尼亚"
-   ],
-   "bj": "2026-10-29 01:30",
-   "dur": 115,
-   "result": "AC米兰 2:4 博洛尼亚",
-   "note": "San Siro"
-  },
-  {
-   "id": "fb-ita.1-401874965",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "帕尔马 vs 乌迪内斯",
-   "teams": [
-    "帕尔马",
-    "乌迪内斯"
-   ],
-   "bj": "2026-10-29 01:30",
-   "dur": 115,
-   "result": "帕尔马 0:0 乌迪内斯",
-   "note": "Ennio Tardini"
-  },
-  {
-   "id": "fb-ita.1-401874773",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "威尼斯 vs 国际米兰",
-   "teams": [
-    "威尼斯",
-    "国际米兰"
-   ],
-   "bj": "2026-10-29 01:30",
-   "dur": 115,
-   "result": "威尼斯 0:2 国际米兰",
-   "note": "Stadio Pier Luigi Penzo"
-  },
-  {
    "id": "tn-atp-185198",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
@@ -121,118 +40,6 @@
    "bj": "2026-10-29 03:15",
    "dur": 150,
    "result": "(5) Alex de Minaur 6-4 6-2"
-  },
-  {
-   "id": "fb-ita.1-401874988",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "热那亚 vs 尤文图斯",
-   "teams": [
-    "热那亚",
-    "尤文图斯"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "热那亚 2:0 尤文图斯",
-   "note": "Stadio Luigi Ferraris"
-  },
-  {
-   "id": "fb-ita.1-401874799",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "蒙扎 vs 那不勒斯",
-   "teams": [
-    "蒙扎",
-    "那不勒斯"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "蒙扎 1:4 那不勒斯",
-   "note": "U-Power Stadium"
-  },
-  {
-   "id": "fb-sco.1-401878356",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "阿伯丁 vs 福尔柯克",
-   "teams": [
-    "阿伯丁",
-    "福尔柯克"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "阿伯丁 0:1 福尔柯克",
-   "note": "Pittodrie Stadium"
-  },
-  {
-   "id": "fb-sco.1-401878355",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "凯尔特人 vs 邓迪联",
-   "teams": [
-    "凯尔特人",
-    "邓迪联"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "凯尔特人 2:2 邓迪联",
-   "note": "Celtic Park"
-  },
-  {
-   "id": "fb-sco.1-401878354",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "Dundee vs 基尔马诺克",
-   "teams": [
-    "Dundee",
-    "基尔马诺克"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "Dundee 3:1 基尔马诺克",
-   "note": "The Scot Foam Stadium at Dens Park"
-  },
-  {
-   "id": "fb-sco.1-401878352",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "St Johnstone vs 马瑟韦尔",
-   "teams": [
-    "St Johnstone",
-    "马瑟韦尔"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "St Johnstone 2:2 马瑟韦尔",
-   "note": "McDiarmid Park"
-  },
-  {
-   "id": "fb-sco.1-401878351",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "圣米伦 vs 希伯尼安",
-   "teams": [
-    "圣米伦",
-    "希伯尼安"
-   ],
-   "bj": "2026-10-29 03:45",
-   "dur": 115,
-   "result": "圣米伦 1:1 希伯尼安",
-   "note": "The SMISA Stadium"
-  },
-  {
-   "id": "fb-sco.1-401878353",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "Heart of Midlothian vs 流浪者",
-   "teams": [
-    "Heart of Midlothian",
-    "流浪者"
-   ],
-   "bj": "2026-10-29 04:00",
-   "dur": 115,
-   "result": "Heart of Midlothian 2:2 流浪者",
-   "note": "Tynecastle Park"
   },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-28-Movistar KOI-T1",
@@ -248,48 +55,6 @@
    "result": "Movistar KOI 0:2 T1"
   },
   {
-   "id": "fb-bra.1-401841289",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "弗鲁米嫩塞 vs 国际队",
-   "teams": [
-    "弗鲁米嫩塞",
-    "国际队"
-   ],
-   "bj": "2026-10-29 06:30",
-   "dur": 115,
-   "result": "弗鲁米嫩塞 2:1 国际队",
-   "note": "Estadio do Maracana"
-  },
-  {
-   "id": "fb-bra.1-401841291",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Red Bull Bragantino vs Chapecoense",
-   "teams": [
-    "Red Bull Bragantino",
-    "Chapecoense"
-   ],
-   "bj": "2026-10-29 06:30",
-   "dur": 115,
-   "result": "Red Bull Bragantino 3:0 Chapecoense",
-   "note": "Estádio Municipal Cicero de Souza Marques"
-  },
-  {
-   "id": "fb-bra.1-401841293",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "桑托斯 vs 帕尔梅拉斯",
-   "teams": [
-    "桑托斯",
-    "帕尔梅拉斯"
-   ],
-   "bj": "2026-10-29 06:30",
-   "dur": 115,
-   "result": "桑托斯 0:0 帕尔梅拉斯",
-   "note": "Estádio Vila Belmiro (Urbano Caldeira)"
-  },
-  {
    "id": "lol-2026-season-world-championship-main-event-2026-10-28-Invictus Gaming-LYON (2024 Americ",
    "sport": "lol",
    "sub": "2026 Season World Championship/Main Event",
@@ -303,188 +68,6 @@
    "result": "IG 2:1 LYON (2024 American Team)"
   },
   {
-   "id": "fb-usa.1-761907",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "夏洛特FC vs CF Montréal",
-   "teams": [
-    "夏洛特FC",
-    "CF Montréal"
-   ],
-   "bj": "2026-10-29 07:30",
-   "dur": 115,
-   "result": "夏洛特FC 4:0 CF Montréal",
-   "note": "Bank of America Stadium"
-  },
-  {
-   "id": "fb-usa.1-761908",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "Inter Miami CF vs 辛辛那提",
-   "teams": [
-    "Inter Miami CF",
-    "辛辛那提"
-   ],
-   "bj": "2026-10-29 07:30",
-   "dur": 115,
-   "result": "Inter Miami CF 2:2 辛辛那提",
-   "note": "Nu Stadium"
-  },
-  {
-   "id": "fb-usa.1-761909",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "新英格兰革命 vs Red Bull New York",
-   "teams": [
-    "新英格兰革命",
-    "Red Bull New York"
-   ],
-   "bj": "2026-10-29 07:30",
-   "dur": 115,
-   "result": "新英格兰革命 3:2 Red Bull New York",
-   "note": "Gillette Stadium"
-  },
-  {
-   "id": "fb-usa.1-761905",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "New York City FC vs 亚特兰大联",
-   "teams": [
-    "New York City FC",
-    "亚特兰大联"
-   ],
-   "bj": "2026-10-29 07:30",
-   "dur": 115,
-   "result": "New York City FC 2:1 亚特兰大联",
-   "note": "Citi Field"
-  },
-  {
-   "id": "fb-usa.1-761906",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "多伦多FC vs D.C. United",
-   "teams": [
-    "多伦多FC",
-    "D.C. United"
-   ],
-   "bj": "2026-10-29 07:30",
-   "dur": 115,
-   "result": "多伦多FC 2:1 D.C. United",
-   "note": "BMO Field"
-  },
-  {
-   "id": "fb-usa.1-761910",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "奥斯汀FC vs 盐湖城",
-   "teams": [
-    "奥斯汀FC",
-    "盐湖城"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "奥斯汀FC 1:2 盐湖城",
-   "note": "Q2 Stadium"
-  },
-  {
-   "id": "fb-usa.1-761911",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "Chicago Fire FC vs Orlando City SC",
-   "teams": [
-    "Chicago Fire FC",
-    "Orlando City SC"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "Chicago Fire FC 2:2 Orlando City SC",
-   "note": "Soldier Field"
-  },
-  {
-   "id": "fb-usa.1-761912",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "FC Dallas vs 哥伦布机员",
-   "teams": [
-    "FC Dallas",
-    "哥伦布机员"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "FC Dallas 0:2 哥伦布机员",
-   "note": "Toyota Stadium"
-  },
-  {
-   "id": "fb-usa.1-761913",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "Minnesota United FC vs 堪萨斯城体育",
-   "teams": [
-    "Minnesota United FC",
-    "堪萨斯城体育"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "Minnesota United FC 3:1 堪萨斯城体育",
-   "note": "Allianz Field"
-  },
-  {
-   "id": "fb-usa.1-761914",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "纳什维尔 vs 费城联合",
-   "teams": [
-    "纳什维尔",
-    "费城联合"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "纳什维尔 0:0 费城联合",
-   "note": "GEODIS Park"
-  },
-  {
-   "id": "fb-usa.1-761915",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "St. Louis CITY SC vs 波特兰伐木者",
-   "teams": [
-    "St. Louis CITY SC",
-    "波特兰伐木者"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "St. Louis CITY SC 2:3 波特兰伐木者",
-   "note": "Energizer Park"
-  },
-  {
-   "id": "fb-bra.1-401841296",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "巴伊亚 vs 圣保罗",
-   "teams": [
-    "巴伊亚",
-    "圣保罗"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "巴伊亚 3:2 圣保罗",
-   "note": "Arena Fonte Nova"
-  },
-  {
-   "id": "fb-bra.1-401841297",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Remo vs 博塔弗戈",
-   "teams": [
-    "Remo",
-    "博塔弗戈"
-   ],
-   "bj": "2026-10-29 08:30",
-   "dur": 115,
-   "result": "Remo 2:1 博塔弗戈",
-   "note": "Mangueirão"
-  },
-  {
    "id": "tn-wta-185660",
    "sport": "tennis",
    "sub": "Toray Pan Pacific Open Tennis · 女单",
@@ -496,62 +79,6 @@
    "bj": "2026-10-29 09:35",
    "dur": 150,
    "result": "Alycia Parks 6-3 6-1"
-  },
-  {
-   "id": "fb-usa.1-761917",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "San Jose Earthquakes vs 科罗拉多急流",
-   "teams": [
-    "San Jose Earthquakes",
-    "科罗拉多急流"
-   ],
-   "bj": "2026-10-29 10:30",
-   "dur": 115,
-   "result": "San Jose Earthquakes 2:2 科罗拉多急流",
-   "note": "PayPal Park"
-  },
-  {
-   "id": "fb-usa.1-761916",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "西雅图海湾人 vs Houston Dynamo FC",
-   "teams": [
-    "西雅图海湾人",
-    "Houston Dynamo FC"
-   ],
-   "bj": "2026-10-29 10:30",
-   "dur": 115,
-   "result": "西雅图海湾人 0:1 Houston Dynamo FC",
-   "note": "Lumen Field"
-  },
-  {
-   "id": "fb-usa.1-761918",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "温哥华白帽 vs San Diego FC",
-   "teams": [
-    "温哥华白帽",
-    "San Diego FC"
-   ],
-   "bj": "2026-10-29 10:30",
-   "dur": 115,
-   "result": "温哥华白帽 4:1 San Diego FC",
-   "note": "BC Place"
-  },
-  {
-   "id": "fb-mex.1-401876986",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "美洲 vs 蒂华纳",
-   "teams": [
-    "美洲",
-    "蒂华纳"
-   ],
-   "bj": "2026-10-29 11:00",
-   "dur": 115,
-   "result": "美洲 1:1 蒂华纳",
-   "note": "Estadio Banorte"
   },
   {
    "id": "tn-wta-185678",
@@ -4958,7 +4485,8 @@
     "Robin Montgomery"
    ],
    "bj": "2026-11-04 17:35",
-   "dur": 150
+   "dur": 150,
+   "result": "Robin Montgomery 6-4 3-6 7-5"
   },
   {
    "id": "tn-wta-186574",
@@ -5022,7 +4550,8 @@
     "乔因特"
    ],
    "bj": "2026-11-04 18:50",
-   "dur": 150
+   "dur": 150,
+   "result": "(4) Maria Sakkari 4-6 6-3 6-3"
   },
   {
    "id": "tn-wta-186661",
@@ -5047,7 +4576,8 @@
     "Luca Van Assche"
    ],
    "bj": "2026-11-04 19:35",
-   "dur": 150
+   "dur": 150,
+   "result": "Luca Van Assche 6-4"
   },
   {
    "id": "tn-wta-186678",
@@ -5059,7 +4589,8 @@
     "Franziska Sziedat"
    ],
    "bj": "2026-11-04 19:35",
-   "dur": 150
+   "dur": 150,
+   "result": "(3) Martyna Kubka 6-3 6-3"
   },
   {
    "id": "tn-atp-186487",
@@ -5071,19 +4602,8 @@
     "Tommy Paul"
    ],
    "bj": "2026-11-04 19:55",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186576",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Joanna Garland vs 滕",
-   "teams": [
-    "Joanna Garland",
-    "滕"
-   ],
-   "bj": "2026-11-04 20:15",
-   "dur": 150
+   "dur": 150,
+   "result": "(12) Tommy Paul 6-1 6-1"
   },
   {
    "id": "tn-wta-186680",
@@ -5094,8 +4614,9 @@
     "Gina Feistel",
     "Isabella Shinikova"
    ],
-   "bj": "2026-11-04 20:20",
-   "dur": 150
+   "bj": "2026-11-04 20:25",
+   "dur": 150,
+   "result": "Gina Feistel 6-2 6-3"
   },
   {
    "id": "tn-atp-186478",
@@ -5106,8 +4627,22 @@
     "Lorenzo Musetti",
     "兹维列夫"
    ],
-   "bj": "2026-11-04 20:30",
-   "dur": 150
+   "bj": "2026-11-04 20:40",
+   "dur": 150,
+   "result": "Lorenzo Musetti 6-2"
+  },
+  {
+   "id": "tn-wta-186576",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Joanna Garland vs 滕",
+   "teams": [
+    "Joanna Garland",
+    "滕"
+   ],
+   "bj": "2026-11-04 20:55",
+   "dur": 150,
+   "result": "(1) Janice Tjen 6-1"
   },
   {
    "id": "tn-atp-186481",
@@ -5118,8 +4653,9 @@
     "Alex de Minaur",
     "Tomas Martin Etcheverry"
    ],
-   "bj": "2026-11-04 21:00",
-   "dur": 150
+   "bj": "2026-11-04 21:05",
+   "dur": 150,
+   "result": "Tomas Martin Etcheverry 6-3"
   },
   {
    "id": "tn-atp-186483",
@@ -5130,7 +4666,20 @@
     "梅德韦杰夫",
     "Ignacio Buse"
    ],
-   "bj": "2026-11-04 21:00",
+   "bj": "2026-11-04 22:00",
+   "dur": 150,
+   "result": "Ignacio Buse 6-4 6-4"
+  },
+  {
+   "id": "tn-atp-186482",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Rinky Hijikata vs Novak Djokovic",
+   "teams": [
+    "Rinky Hijikata",
+    "Novak Djokovic"
+   ],
+   "bj": "2026-11-04 22:40",
    "dur": 150
   },
   {
@@ -5142,31 +4691,7 @@
     "Maaya Rajeshwaran Revathi",
     "Weronika Falkowska"
    ],
-   "bj": "2026-11-04 21:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186482",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Rinky Hijikata vs Novak Djokovic",
-   "teams": [
-    "Rinky Hijikata",
-    "Novak Djokovic"
-   ],
-   "bj": "2026-11-04 22:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186476",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Karen Khachanov vs Nuno Borges",
-   "teams": [
-    "Karen Khachanov",
-    "Nuno Borges"
-   ],
-   "bj": "2026-11-04 22:30",
+   "bj": "2026-11-04 23:10",
    "dur": 150
   },
   {
@@ -5178,7 +4703,7 @@
     "弗里茨",
     "Alex Molcan"
    ],
-   "bj": "2026-11-04 22:30",
+   "bj": "2026-11-04 23:25",
    "dur": 150
   },
   {
@@ -5203,41 +4728,17 @@
     "Yasmine Kabbaj",
     "Diana Martynov"
    ],
-   "bj": "2026-11-04 23:30",
+   "bj": "2026-11-04 23:35",
    "dur": 150
   },
   {
-   "id": "tn-atp-186485",
+   "id": "tn-atp-186476",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "施特鲁夫 vs Thiago Agustin Tirante",
+   "title": "Karen Khachanov vs Nuno Borges",
    "teams": [
-    "施特鲁夫",
-    "Thiago Agustin Tirante"
-   ],
-   "bj": "2026-11-05 00:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186489",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Ugo Humbert vs Matteo Berrettini",
-   "teams": [
-    "Ugo Humbert",
-    "Matteo Berrettini"
-   ],
-   "bj": "2026-11-05 00:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186725",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Carole Monnet vs Laura Samson",
-   "teams": [
-    "Carole Monnet",
-    "Laura Samson"
+    "Karen Khachanov",
+    "Nuno Borges"
    ],
    "bj": "2026-11-05 00:00",
    "dur": 150
@@ -5255,6 +4756,18 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186725",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Carole Monnet vs Laura Samson",
+   "teams": [
+    "Carole Monnet",
+    "Laura Samson"
+   ],
+   "bj": "2026-11-05 00:05",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186731",
    "sport": "tennis",
    "sub": "Reto Win Tennis Cali Open · 女单",
@@ -5263,7 +4776,31 @@
     "Luisina Giovannini",
     "Irene Burillo"
    ],
-   "bj": "2026-11-05 00:00",
+   "bj": "2026-11-05 00:05",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186485",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "施特鲁夫 vs Thiago Agustin Tirante",
+   "teams": [
+    "施特鲁夫",
+    "Thiago Agustin Tirante"
+   ],
+   "bj": "2026-11-05 01:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186489",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Ugo Humbert vs Matteo Berrettini",
+   "teams": [
+    "Ugo Humbert",
+    "Matteo Berrettini"
+   ],
+   "bj": "2026-11-05 01:00",
    "dur": 150
   },
   {
@@ -5532,6 +5069,17 @@
    "note": "Estádio Vila Belmiro (Urbano Caldeira)"
   },
   {
+   "id": "tn-atp-186494",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Ignacio Buse vs TBD",
+   "teams": [
+    "Ignacio Buse"
+   ],
+   "bj": "2026-11-05 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186495",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
@@ -5546,9 +5094,10 @@
    "id": "tn-atp-186496",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Quentin Halys vs TBD",
+   "title": "Quentin Halys vs Tommy Paul",
    "teams": [
-    "Quentin Halys"
+    "Quentin Halys",
+    "Tommy Paul"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
@@ -5566,97 +5115,24 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-186588",
+   "id": "tn-atp-186498",
    "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Vaishnavi Adkar vs 扎哈罗娃",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Tomas Martin Etcheverry vs TBD",
    "teams": [
-    "Vaishnavi Adkar",
-    "扎哈罗娃"
+    "Tomas Martin Etcheverry"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
   },
   {
-   "id": "tn-wta-186590",
+   "id": "tn-atp-186499",
    "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "莱内特 vs 内田萌华",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Luca Van Assche vs Lorenzo Musetti",
    "teams": [
-    "莱内特",
-    "内田萌华"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186591",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Zhibek Kulambayeva vs 本玉",
-   "teams": [
-    "Zhibek Kulambayeva",
-    "本玉"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186585",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Lucrezia Stefanini vs 瓦尔特",
-   "teams": [
-    "Lucrezia Stefanini",
-    "瓦尔特"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186676",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Noma Noha Akugue vs Madhurima Sawant",
-   "teams": [
-    "Noma Noha Akugue",
-    "Madhurima Sawant"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186677",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Tiphanie Lemaitre vs Justina Mikulskyte",
-   "teams": [
-    "Tiphanie Lemaitre",
-    "Justina Mikulskyte"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186681",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Ksenia Zaytseva vs Kristina Kroitor",
-   "teams": [
-    "Ksenia Zaytseva",
-    "Kristina Kroitor"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186683",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Li Zongyu vs 布林科娃",
-   "teams": [
-    "Li Zongyu",
-    "布林科娃"
+    "Luca Van Assche",
+    "Lorenzo Musetti"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
@@ -5698,6 +5174,54 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186681",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Ksenia Zaytseva vs Kristina Kroitor",
+   "teams": [
+    "Ksenia Zaytseva",
+    "Kristina Kroitor"
+   ],
+   "bj": "2026-11-05 17:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186683",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Li Zongyu vs 布林科娃",
+   "teams": [
+    "Li Zongyu",
+    "布林科娃"
+   ],
+   "bj": "2026-11-05 17:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186590",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "莱内特 vs 内田萌华",
+   "teams": [
+    "莱内特",
+    "内田萌华"
+   ],
+   "bj": "2026-11-05 17:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186591",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Zhibek Kulambayeva vs 本玉",
+   "teams": [
+    "Zhibek Kulambayeva",
+    "本玉"
+   ],
+   "bj": "2026-11-05 17:30",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186630",
    "sport": "tennis",
    "sub": "Prudential Hong Kong Tennis Open · 女单",
@@ -5710,6 +5234,30 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186677",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Tiphanie Lemaitre vs Justina Mikulskyte",
+   "teams": [
+    "Tiphanie Lemaitre",
+    "Justina Mikulskyte"
+   ],
+   "bj": "2026-11-05 18:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186585",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Lucrezia Stefanini vs 瓦尔特",
+   "teams": [
+    "Lucrezia Stefanini",
+    "瓦尔特"
+   ],
+   "bj": "2026-11-05 19:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186641",
    "sport": "tennis",
    "sub": "Prudential Hong Kong Tennis Open · 女单",
@@ -5719,6 +5267,30 @@
     "科斯蒂亚"
    ],
    "bj": "2026-11-05 20:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186676",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Noma Noha Akugue vs Madhurima Sawant",
+   "teams": [
+    "Noma Noha Akugue",
+    "Madhurima Sawant"
+   ],
+   "bj": "2026-11-05 20:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186588",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Vaishnavi Adkar vs 扎哈罗娃",
+   "teams": [
+    "Vaishnavi Adkar",
+    "扎哈罗娃"
+   ],
+   "bj": "2026-11-05 20:30",
    "dur": 150
   },
   {
@@ -6229,9 +5801,21 @@
    "id": "tn-wta-186635",
    "sport": "tennis",
    "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "TBD vs 萨斯诺维奇",
+   "title": "萨卡里 vs 萨斯诺维奇",
    "teams": [
+    "萨卡里",
     "萨斯诺维奇"
+   ],
+   "bj": "2026-11-06 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186597",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "TBD vs Robin Montgomery",
+   "teams": [
+    "Robin Montgomery"
    ],
    "bj": "2026-11-06 13:00",
    "dur": 150
@@ -6240,9 +5824,10 @@
    "id": "tn-wta-186592",
    "sport": "tennis",
    "sub": "Chennai Open · 女单",
-   "title": "库德梅托娃 vs TBD",
+   "title": "库德梅托娃 vs 滕",
    "teams": [
-    "库德梅托娃"
+    "库德梅托娃",
+    "滕"
    ],
    "bj": "2026-11-06 13:00",
    "dur": 150
@@ -6251,9 +5836,21 @@
    "id": "tn-wta-186689",
    "sport": "tennis",
    "sub": "Angola Ladies Open · 女单",
-   "title": "TBD vs Sofya Lansere",
+   "title": "Martyna Kubka vs Sofya Lansere",
    "teams": [
+    "Martyna Kubka",
     "Sofya Lansere"
+   ],
+   "bj": "2026-11-06 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186687",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Gina Feistel vs TBD",
+   "teams": [
+    "Gina Feistel"
    ],
    "bj": "2026-11-06 13:00",
    "dur": 150
@@ -6804,19 +6401,6 @@
    "note": "Göztepe Gürsel Aksel Stadi"
   },
   {
-   "id": "fb-fra.1-401876411",
-   "sport": "football",
-   "sub": "法甲 · 2026",
-   "title": "欧塞尔 vs 巴黎FC",
-   "teams": [
-    "欧塞尔",
-    "巴黎FC"
-   ],
-   "bj": "2026-11-08 00:15",
-   "dur": 115,
-   "note": "Stade de l'Abbé-Deschamps"
-  },
-  {
    "id": "fb-ita.1-401874974",
    "sport": "football",
    "sub": "意甲 · 2026",
@@ -6895,6 +6479,19 @@
    "note": "Pittodrie Stadium"
   },
   {
+   "id": "fb-fra.1-401876411",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "欧塞尔 vs 巴黎FC",
+   "teams": [
+    "欧塞尔",
+    "巴黎FC"
+   ],
+   "bj": "2026-11-08 02:00",
+   "dur": 115,
+   "note": "Stade de l'Abbé-Deschamps"
+  },
+  {
    "id": "fb-por.1-401885402",
    "sport": "football",
    "sub": "葡超 · 2026",
@@ -6929,19 +6526,6 @@
    "bj": "2026-11-08 03:45",
    "dur": 115,
    "note": "Olimpico"
-  },
-  {
-   "id": "fb-fra.1-401876407",
-   "sport": "football",
-   "sub": "法甲 · 2026",
-   "title": "巴黎圣日耳曼 vs 特鲁瓦",
-   "teams": [
-    "巴黎圣日耳曼",
-    "特鲁瓦"
-   ],
-   "bj": "2026-11-08 03:45",
-   "dur": 115,
-   "note": "Parc des Princes"
   },
   {
    "id": "fb-esp.1-401882808",
@@ -6981,6 +6565,19 @@
    "bj": "2026-11-08 04:00",
    "dur": 115,
    "note": "The SMISA Stadium"
+  },
+  {
+   "id": "fb-fra.1-401876407",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "巴黎圣日耳曼 vs 特鲁瓦",
+   "teams": [
+    "巴黎圣日耳曼",
+    "特鲁瓦"
+   ],
+   "bj": "2026-11-08 04:05",
+   "dur": 115,
+   "note": "Parc des Princes"
   },
   {
    "id": "fb-por.1-401885395",
@@ -12197,27 +11794,27 @@
   }
  ],
  "sources": [
-  "足球 英超: 50 场",
+  "足球 英超: 57 场",
   "足球 西甲: 40 场",
-  "足球 德甲: 36 场",
-  "足球 意甲: 48 场",
-  "足球 法甲: 37 场",
+  "足球 德甲: 45 场",
+  "足球 意甲: 46 场",
+  "足球 法甲: 42 场",
   "足球 欧冠: 36 场",
   "足球 欧联: 36 场",
   "足球 欧协联: 36 场",
-  "足球 荷甲: 37 场",
-  "足球 葡超: 28 场",
-  "足球 土超: 37 场",
-  "足球 苏超: 36 场",
-  "足球 美职联: 44 场",
-  "足球 墨超: 29 场",
-  "足球 巴甲: 61 场",
-  "足球 J联赛: 49 场",
-  "足球 澳超: 19 场",
+  "足球 荷甲: 41 场",
+  "足球 葡超: 31 场",
+  "足球 土超: 40 场",
+  "足球 苏超: 35 场",
+  "足球 美职联: 30 场",
+  "足球 墨超: 28 场",
+  "足球 巴甲: 56 场",
+  "足球 J联赛: 53 场",
+  "足球 澳超: 21 场",
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 150 场",
-  "网球 WTA: 355 场",
+  "网球 ATP: 153 场",
+  "网球 WTA: 357 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
