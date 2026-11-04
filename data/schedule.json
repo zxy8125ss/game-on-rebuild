@@ -1,59 +1,7 @@
 {
- "updatedAt": "2026-11-04T16:40:34.306Z",
+ "updatedAt": "2026-11-04T20:52:35.706Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-185185",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Adrian Mannarino vs Jakub Mensik",
-   "teams": [
-    "Adrian Mannarino",
-    "Jakub Mensik"
-   ],
-   "bj": "2026-10-29 00:45",
-   "dur": 150,
-   "result": "Adrian Mannarino 6-4 7-5"
-  },
-  {
-   "id": "tn-atp-185179",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Nikoloz Basilashvili vs Jurij Rodionov",
-   "teams": [
-    "Nikoloz Basilashvili",
-    "Jurij Rodionov"
-   ],
-   "bj": "2026-10-29 01:00",
-   "dur": 150,
-   "result": "Nikoloz Basilashvili 6-1"
-  },
-  {
-   "id": "tn-atp-185198",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Alex de Minaur vs Learner Tien",
-   "teams": [
-    "Alex de Minaur",
-    "Learner Tien"
-   ],
-   "bj": "2026-10-29 03:15",
-   "dur": 150,
-   "result": "(5) Alex de Minaur 6-4 6-2"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-28-Movistar KOI-T1",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "Movistar KOI vs T1",
-   "teams": [
-    "Movistar KOI",
-    "T1"
-   ],
-   "bj": "2026-10-29 04:00",
-   "dur": 120,
-   "result": "Movistar KOI 0:2 T1"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-28-Invictus Gaming-LYON (2024 Americ",
    "sport": "lol",
@@ -4680,7 +4628,8 @@
     "Novak Djokovic"
    ],
    "bj": "2026-11-04 22:40",
-   "dur": 150
+   "dur": 150,
+   "result": "Rinky Hijikata 2-6 6-3 6-3"
   },
   {
    "id": "tn-wta-186570",
@@ -4692,7 +4641,8 @@
     "Weronika Falkowska"
    ],
    "bj": "2026-11-04 23:10",
-   "dur": 150
+   "dur": 150,
+   "result": "Maaya Rajeshwaran Revathi 6-4 6-3"
   },
   {
    "id": "tn-atp-186490",
@@ -4704,7 +4654,8 @@
     "Alex Molcan"
    ],
    "bj": "2026-11-04 23:25",
-   "dur": 150
+   "dur": 150,
+   "result": "(11) Taylor Fritz"
   },
   {
    "id": "fb-uefa.europa-401915551",
@@ -4717,6 +4668,7 @@
    ],
    "bj": "2026-11-04 23:30",
    "dur": 115,
+   "result": "Stade Rennais 0:0 Olympiacos",
    "note": "Roazhon Park"
   },
   {
@@ -4729,7 +4681,8 @@
     "Diana Martynov"
    ],
    "bj": "2026-11-04 23:35",
-   "dur": 150
+   "dur": 150,
+   "result": "(6) Yasmine Kabbaj 6-2 6-1"
   },
   {
    "id": "tn-atp-186476",
@@ -4741,7 +4694,8 @@
     "Nuno Borges"
    ],
    "bj": "2026-11-05 00:00",
-   "dur": 150
+   "dur": 150,
+   "result": "Nuno Borges 6-3 6-4"
   },
   {
    "id": "tn-wta-186733",
@@ -4753,7 +4707,8 @@
     "Leolia Jeanjean"
    ],
    "bj": "2026-11-05 00:00",
-   "dur": 150
+   "dur": 150,
+   "result": "(1) Leolia Jeanjean 6-1 6-4"
   },
   {
    "id": "tn-wta-186725",
@@ -4765,7 +4720,8 @@
     "Laura Samson"
    ],
    "bj": "2026-11-05 00:05",
-   "dur": 150
+   "dur": 150,
+   "result": "Carole Monnet 6-3"
   },
   {
    "id": "tn-wta-186731",
@@ -4777,19 +4733,8 @@
     "Irene Burillo"
    ],
    "bj": "2026-11-05 00:05",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186485",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "施特鲁夫 vs Thiago Agustin Tirante",
-   "teams": [
-    "施特鲁夫",
-    "Thiago Agustin Tirante"
-   ],
-   "bj": "2026-11-05 01:00",
-   "dur": 150
+   "dur": 150,
+   "result": "Luisina Giovannini 6-1 6-3"
   },
   {
    "id": "tn-atp-186489",
@@ -4800,20 +4745,9 @@
     "Ugo Humbert",
     "Matteo Berrettini"
    ],
-   "bj": "2026-11-05 01:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186722",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Renata Zarazua vs Despina Papamichail",
-   "teams": [
-    "Renata Zarazua",
-    "Despina Papamichail"
-   ],
-   "bj": "2026-11-05 01:30",
-   "dur": 150
+   "bj": "2026-11-05 01:35",
+   "dur": 150,
+   "result": "Matteo Berrettini 7-5"
   },
   {
    "id": "fb-uefa.champions-401915383",
@@ -4826,6 +4760,7 @@
    ],
    "bj": "2026-11-05 01:45",
    "dur": 115,
+   "result": "雅典AEK 2:3 皇家马德里",
    "note": "OPAP Arena"
   },
   {
@@ -4839,19 +4774,8 @@
    ],
    "bj": "2026-11-05 01:45",
    "dur": 115,
+   "result": "Fenerbahce 3:2 利物浦",
    "note": "Şükrü Saracoğlu Stadium"
-  },
-  {
-   "id": "tn-atp-186480",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs Alex Michelsen",
-   "teams": [
-    "阿尔卡拉斯",
-    "Alex Michelsen"
-   ],
-   "bj": "2026-11-05 02:00",
-   "dur": 150
   },
   {
    "id": "tn-wta-186723",
@@ -4863,7 +4787,34 @@
     "格拉伯"
    ],
    "bj": "2026-11-05 02:00",
-   "dur": 150
+   "dur": 150,
+   "result": "Julia Riera 6-2 6-4"
+  },
+  {
+   "id": "tn-atp-186480",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "阿尔卡拉斯 vs Alex Michelsen",
+   "teams": [
+    "阿尔卡拉斯",
+    "Alex Michelsen"
+   ],
+   "bj": "2026-11-05 02:10",
+   "dur": 150,
+   "result": "(2) Carlos Alcaraz 6-3"
+  },
+  {
+   "id": "tn-atp-186485",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "施特鲁夫 vs Thiago Agustin Tirante",
+   "teams": [
+    "施特鲁夫",
+    "Thiago Agustin Tirante"
+   ],
+   "bj": "2026-11-05 02:10",
+   "dur": 150,
+   "result": "Jan-Lennard Struff"
   },
   {
    "id": "tn-wta-186732",
@@ -4874,19 +4825,20 @@
     "Marina Bassols Ribera",
     "Alice Tubello"
    ],
-   "bj": "2026-11-05 02:00",
-   "dur": 150
+   "bj": "2026-11-05 02:10",
+   "dur": 150,
+   "result": "Alice Tubello 6-1 6-1"
   },
   {
-   "id": "tn-atp-186491",
+   "id": "tn-wta-186722",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Tomas Machac vs Arthur Fils",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Renata Zarazua vs Despina Papamichail",
    "teams": [
-    "Tomas Machac",
-    "Arthur Fils"
+    "Renata Zarazua",
+    "Despina Papamichail"
    ],
-   "bj": "2026-11-05 03:30",
+   "bj": "2026-11-05 03:05",
    "dur": 150
   },
   {
@@ -4898,7 +4850,7 @@
     "Solana Sierra",
     "Leyre Romero Gormaz"
    ],
-   "bj": "2026-11-05 03:30",
+   "bj": "2026-11-05 03:50",
    "dur": 150
   },
   {
@@ -4993,6 +4945,18 @@
    "note": "Viking Stadion"
   },
   {
+   "id": "tn-atp-186491",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Tomas Machac vs Arthur Fils",
+   "teams": [
+    "Tomas Machac",
+    "Arthur Fils"
+   ],
+   "bj": "2026-11-05 04:15",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186726",
    "sport": "tennis",
    "sub": "Reto Win Tennis Cali Open · 女单",
@@ -5069,70 +5033,46 @@
    "note": "Estádio Vila Belmiro (Urbano Caldeira)"
   },
   {
-   "id": "tn-atp-186494",
+   "id": "tn-wta-186730",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Ignacio Buse vs TBD",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Alice Tubello vs Leolia Jeanjean",
    "teams": [
-    "Ignacio Buse"
+    "Alice Tubello",
+    "Leolia Jeanjean"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
   },
   {
-   "id": "tn-atp-186495",
+   "id": "tn-wta-186729",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Casper Ruud vs TBD",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "TBD vs Luisina Giovannini",
    "teams": [
-    "Casper Ruud"
+    "Luisina Giovannini"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
   },
   {
-   "id": "tn-atp-186496",
+   "id": "tn-wta-186728",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Quentin Halys vs Tommy Paul",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "TBD vs Carole Monnet",
    "teams": [
-    "Quentin Halys",
-    "Tommy Paul"
+    "Carole Monnet"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
   },
   {
-   "id": "tn-atp-186497",
+   "id": "tn-wta-186727",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Arthur Rinderknech vs Ben Shelton",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "TBD vs Julia Riera",
    "teams": [
-    "Arthur Rinderknech",
-    "Ben Shelton"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186498",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Tomas Martin Etcheverry vs TBD",
-   "teams": [
-    "Tomas Martin Etcheverry"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186499",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Luca Van Assche vs Lorenzo Musetti",
-   "teams": [
-    "Luca Van Assche",
-    "Lorenzo Musetti"
+    "Julia Riera"
    ],
    "bj": "2026-11-05 13:00",
    "dur": 150
@@ -5222,6 +5162,18 @@
    "dur": 150
   },
   {
+   "id": "tn-atp-186496",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Quentin Halys vs Tommy Paul",
+   "teams": [
+    "Quentin Halys",
+    "Tommy Paul"
+   ],
+   "bj": "2026-11-05 18:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186630",
    "sport": "tennis",
    "sub": "Prudential Hong Kong Tennis Open · 女单",
@@ -5258,6 +5210,18 @@
    "dur": 150
   },
   {
+   "id": "tn-atp-186497",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Arthur Rinderknech vs Ben Shelton",
+   "teams": [
+    "Arthur Rinderknech",
+    "Ben Shelton"
+   ],
+   "bj": "2026-11-05 19:30",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186641",
    "sport": "tennis",
    "sub": "Prudential Hong Kong Tennis Open · 女单",
@@ -5291,6 +5255,54 @@
     "扎哈罗娃"
    ],
    "bj": "2026-11-05 20:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186498",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Tomas Martin Etcheverry vs Rinky Hijikata",
+   "teams": [
+    "Tomas Martin Etcheverry",
+    "Rinky Hijikata"
+   ],
+   "bj": "2026-11-05 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186499",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Luca Van Assche vs Lorenzo Musetti",
+   "teams": [
+    "Luca Van Assche",
+    "Lorenzo Musetti"
+   ],
+   "bj": "2026-11-05 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186494",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Ignacio Buse vs Nuno Borges",
+   "teams": [
+    "Ignacio Buse",
+    "Nuno Borges"
+   ],
+   "bj": "2026-11-05 22:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186495",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Casper Ruud vs 施特鲁夫",
+   "teams": [
+    "Casper Ruud",
+    "施特鲁夫"
+   ],
+   "bj": "2026-11-06 00:00",
    "dur": 150
   },
   {
@@ -5513,6 +5525,29 @@
    "bj": "2026-11-06 01:45",
    "dur": 115,
    "note": "Papara Park"
+  },
+  {
+   "id": "tn-atp-186502",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "阿尔卡拉斯 vs Matteo Berrettini",
+   "teams": [
+    "阿尔卡拉斯",
+    "Matteo Berrettini"
+   ],
+   "bj": "2026-11-06 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186503",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "弗里茨 vs TBD",
+   "teams": [
+    "弗里茨"
+   ],
+   "bj": "2026-11-06 03:30",
+   "dur": 150
   },
   {
    "id": "fb-uefa.europa-401915529",
@@ -5813,8 +5848,9 @@
    "id": "tn-wta-186597",
    "sport": "tennis",
    "sub": "Chennai Open · 女单",
-   "title": "TBD vs Robin Montgomery",
+   "title": "Maaya Rajeshwaran Revathi vs Robin Montgomery",
    "teams": [
+    "Maaya Rajeshwaran Revathi",
     "Robin Montgomery"
    ],
    "bj": "2026-11-06 13:00",
@@ -5840,6 +5876,17 @@
    "teams": [
     "Martyna Kubka",
     "Sofya Lansere"
+   ],
+   "bj": "2026-11-06 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186688",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Yasmine Kabbaj vs TBD",
+   "teams": [
+    "Yasmine Kabbaj"
    ],
    "bj": "2026-11-06 13:00",
    "dur": 150
@@ -11791,6 +11838,71 @@
    "bj": "2026-12-04 17:30",
    "dur": 115,
    "note": "Japan National Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888231",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "加拉塔萨雷 vs Caykur Rizespor",
+   "teams": [
+    "加拉塔萨雷",
+    "Caykur Rizespor"
+   ],
+   "bj": "2026-12-05 01:00",
+   "dur": 115,
+   "note": "RAMS Park"
+  },
+  {
+   "id": "fb-ned.1-401875522",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "特尔斯达 vs 格罗宁根",
+   "teams": [
+    "特尔斯达",
+    "格罗宁根"
+   ],
+   "bj": "2026-12-05 03:00",
+   "dur": 115,
+   "note": "711 Stadion"
+  },
+  {
+   "id": "fb-ita.1-401874984",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "博洛尼亚 vs AS Roma",
+   "teams": [
+    "博洛尼亚",
+    "AS Roma"
+   ],
+   "bj": "2026-12-05 03:45",
+   "dur": 115,
+   "note": "Renato Dall'Ara"
+  },
+  {
+   "id": "fb-fra.1-401876378",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "图卢兹 vs 巴黎圣日耳曼",
+   "teams": [
+    "图卢兹",
+    "巴黎圣日耳曼"
+   ],
+   "bj": "2026-12-05 03:45",
+   "dur": 115,
+   "note": "Stadium Municipal de Toulouse"
+  },
+  {
+   "id": "fb-por.1-401885376",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "里斯本竞技 vs 马里迪莫",
+   "teams": [
+    "里斯本竞技",
+    "马里迪莫"
+   ],
+   "bj": "2026-12-05 04:15",
+   "dur": 115,
+   "note": "Estádio José Alvalade"
   }
  ],
  "sources": [
@@ -11813,8 +11925,8 @@
   "足球 澳超: 21 场",
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 153 场",
-  "网球 WTA: 357 场",
+  "网球 ATP: 155 场",
+  "网球 WTA: 362 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
