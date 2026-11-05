@@ -1,84 +1,6 @@
 {
- "updatedAt": "2026-11-04T20:52:35.708Z",
+ "updatedAt": "2026-11-05T03:33:28.661Z",
  "matches": [
-  {
-   "id": "tn-wta-185771",
-   "sport": "tennis",
-   "sub": "库里蒂巴公开赛 · 女单",
-   "title": "Luisina Giovannini vs Nauhany Vitoria Leme Da Silva",
-   "teams": [
-    "Luisina Giovannini",
-    "Nauhany Vitoria Leme Da Silva"
-   ],
-   "bj": "2026-10-29 05:05",
-   "dur": 150,
-   "result": "Nauhany Vitoria Leme Da Silva 6-4 6-4"
-  },
-  {
-   "id": "tn-wta-185797",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Carole Monnet vs Carmen Andreea Herea",
-   "teams": [
-    "Carole Monnet",
-    "Carmen Andreea Herea"
-   ],
-   "bj": "2026-10-29 05:40",
-   "dur": 150,
-   "result": "Carole Monnet 6-2 6-1"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-28-Invictus Gaming-LYON (2024 Americ",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "IG vs LYON (2024 American Team)",
-   "teams": [
-    "IG",
-    "LYON (2024 American Team)"
-   ],
-   "bj": "2026-10-29 07:00",
-   "dur": 120,
-   "result": "IG 2:1 LYON (2024 American Team)"
-  },
-  {
-   "id": "tn-wta-185808",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Elizabeth Mandlik vs Selena Janicijevic",
-   "teams": [
-    "Elizabeth Mandlik",
-    "Selena Janicijevic"
-   ],
-   "bj": "2026-10-29 07:05",
-   "dur": 150,
-   "result": "Elizabeth Mandlik 2-6 6-0 6-4"
-  },
-  {
-   "id": "tn-wta-185660",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "伯雷尔 vs 帕克斯",
-   "teams": [
-    "伯雷尔",
-    "帕克斯"
-   ],
-   "bj": "2026-10-29 09:35",
-   "dur": 150,
-   "result": "Alycia Parks 6-3 6-1"
-  },
-  {
-   "id": "tn-wta-185678",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "梅尔滕斯 vs 费尔南德斯",
-   "teams": [
-    "梅尔滕斯",
-    "费尔南德斯"
-   ],
-   "bj": "2026-10-29 11:05",
-   "dur": 150,
-   "result": "Leylah Fernandez"
-  },
   {
    "id": "tn-wta-185706",
    "sport": "tennis",
@@ -5501,7 +5423,8 @@
     "Despina Papamichail"
    ],
    "bj": "2026-11-05 03:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(2) Renata Zarazua 7-5"
   },
   {
    "id": "tn-wta-186724",
@@ -5513,7 +5436,8 @@
     "Leyre Romero Gormaz"
    ],
    "bj": "2026-11-05 03:50",
-   "dur": 150
+   "dur": 150,
+   "result": "Leyre Romero Gormaz 6-4 6-1"
   },
   {
    "id": "fb-uefa.champions-401915304",
@@ -5526,6 +5450,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "多特蒙德 2:1 皇家贝蒂斯",
    "note": "Signal Iduna Park"
   },
   {
@@ -5539,6 +5464,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "FC Porto 4:1 那不勒斯",
    "note": "Estádio do Dragão"
   },
   {
@@ -5552,6 +5478,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "朗斯 1:9 科莫",
    "note": "Stade Bollaert-Delelis"
   },
   {
@@ -5565,6 +5492,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "埃因霍温 1:2 布鲁日",
    "note": "Philips Stadion"
   },
   {
@@ -5578,6 +5506,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "莱比锡红牛 2:3 曼城",
    "note": "Red Bull Arena"
   },
   {
@@ -5591,6 +5520,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "Slavia Prague 1:2 阿森纳",
    "note": "Fortuna Arena"
   },
   {
@@ -5604,6 +5534,7 @@
    ],
    "bj": "2026-11-05 04:00",
    "dur": 115,
+   "result": "Viking FK 4:1 Sabah FK",
    "note": "Viking Stadion"
   },
   {
@@ -5616,7 +5547,8 @@
     "Arthur Fils"
    ],
    "bj": "2026-11-05 04:15",
-   "dur": 150
+   "dur": 150,
+   "result": "(6) Arthur Fils"
   },
   {
    "id": "tn-wta-186726",
@@ -5628,7 +5560,8 @@
     "Jazmin Ortenzi"
    ],
    "bj": "2026-11-05 06:00",
-   "dur": 150
+   "dur": 150,
+   "result": "(8) Bianca Andreescu 6-2 6-3"
   },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-04-Gen.G-LYON (2024 American Team)",
@@ -5640,7 +5573,8 @@
     "LYON (2024 American Team)"
    ],
    "bj": "2026-11-05 06:00",
-   "dur": 120
+   "dur": 120,
+   "result": "GEN 3:0 LYON (2024 American Team)"
   },
   {
    "id": "fb-bra.1-401841306",
@@ -5653,6 +5587,7 @@
    ],
    "bj": "2026-11-05 06:30",
    "dur": 115,
+   "result": "Athletico-PR 1:3 瓦斯科",
    "note": "Arena da Baixada"
   },
   {
@@ -5666,6 +5601,7 @@
    ],
    "bj": "2026-11-05 06:30",
    "dur": 115,
+   "result": "弗拉门戈 3:1 格雷米奥",
    "note": "Estadio do Maracana"
   },
   {
@@ -5679,6 +5615,7 @@
    ],
    "bj": "2026-11-05 08:30",
    "dur": 115,
+   "result": "博塔弗戈 1:0 Atlético-MG",
    "note": "Joao Havelange Stadium"
   },
   {
@@ -5692,52 +5629,8 @@
    ],
    "bj": "2026-11-05 08:30",
    "dur": 115,
+   "result": "圣保罗 0:0 科林蒂安",
    "note": "Estádio Vila Belmiro (Urbano Caldeira)"
-  },
-  {
-   "id": "tn-wta-186730",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Alice Tubello vs Leolia Jeanjean",
-   "teams": [
-    "Alice Tubello",
-    "Leolia Jeanjean"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186729",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "TBD vs Luisina Giovannini",
-   "teams": [
-    "Luisina Giovannini"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186728",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "TBD vs Carole Monnet",
-   "teams": [
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186727",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "TBD vs Julia Riera",
-   "teams": [
-    "Julia Riera"
-   ],
-   "bj": "2026-11-05 13:00",
-   "dur": 150
   },
   {
    "id": "tn-wta-186640",
@@ -5965,6 +5858,30 @@
     "施特鲁夫"
    ],
    "bj": "2026-11-06 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186728",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Leyre Romero Gormaz vs Carole Monnet",
+   "teams": [
+    "Leyre Romero Gormaz",
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-06 01:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186727",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Renata Zarazua vs Julia Riera",
+   "teams": [
+    "Renata Zarazua",
+    "Julia Riera"
+   ],
+   "bj": "2026-11-06 01:00",
    "dur": 150
   },
   {
@@ -6201,12 +6118,37 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186730",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Alice Tubello vs Leolia Jeanjean",
+   "teams": [
+    "Alice Tubello",
+    "Leolia Jeanjean"
+   ],
+   "bj": "2026-11-06 02:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186729",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "安德烈斯库 vs Luisina Giovannini",
+   "teams": [
+    "安德烈斯库",
+    "Luisina Giovannini"
+   ],
+   "bj": "2026-11-06 03:00",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186503",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "弗里茨 vs TBD",
+   "title": "弗里茨 vs Arthur Fils",
    "teams": [
-    "弗里茨"
+    "弗里茨",
+    "Arthur Fils"
    ],
    "bj": "2026-11-06 03:30",
    "dur": 150
@@ -7406,6 +7348,18 @@
    "note": "Sports Illustrated Stadium"
   },
   {
+   "id": "lol-2026-season-world-championship-main-event-2026-11-07-Invictus Gaming-Gen.G",
+   "sport": "lol",
+   "sub": "2026 Season World Championship/Main Event",
+   "title": "IG vs GEN",
+   "teams": [
+    "IG",
+    "GEN"
+   ],
+   "bj": "2026-11-08 06:00",
+   "dur": 120
+  },
+  {
    "id": "fb-mex.1-401876907",
    "sport": "football",
    "sub": "墨超 · 2026",
@@ -7417,19 +7371,6 @@
    "bj": "2026-11-08 07:00",
    "dur": 115,
    "note": "Estadio Jalisco"
-  },
-  {
-   "id": "fb-mex.1-401876906",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "老虎 vs 蓝十字",
-   "teams": [
-    "老虎",
-    "蓝十字"
-   ],
-   "bj": "2026-11-08 07:00",
-   "dur": 115,
-   "note": "Estadio Universitario"
   },
   {
    "id": "fb-usa.1-761942",
@@ -7521,6 +7462,19 @@
    "bj": "2026-11-08 08:00",
    "dur": 115,
    "note": "Lumen Field"
+  },
+  {
+   "id": "fb-mex.1-401876906",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "老虎 vs 蓝十字",
+   "teams": [
+    "老虎",
+    "蓝十字"
+   ],
+   "bj": "2026-11-08 09:00",
+   "dur": 115,
+   "note": "Estadio Universitario"
   },
   {
    "id": "fb-mex.1-401876905",
