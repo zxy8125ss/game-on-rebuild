@@ -1,46 +1,7 @@
 {
- "updatedAt": "2026-11-06T16:23:41.676Z",
+ "updatedAt": "2026-11-06T20:30:34.225Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-185199",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Arthur Fery vs 兹维列夫",
-   "teams": [
-    "Arthur Fery",
-    "兹维列夫"
-   ],
-   "bj": "2026-10-31 00:50",
-   "dur": 150,
-   "result": "(1) Alexander Zverev 6-0 6-2"
-  },
-  {
-   "id": "tn-atp-185200",
-   "sport": "tennis",
-   "sub": "Erste Bank Open · 男单",
-   "title": "Alex de Minaur vs Matteo Berrettini",
-   "teams": [
-    "Alex de Minaur",
-    "Matteo Berrettini"
-   ],
-   "bj": "2026-10-31 03:15",
-   "dur": 150,
-   "result": "(5) Alex de Minaur 6-2"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-30-Team Liquid-LØS",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "TL vs LØS",
-   "teams": [
-    "TL",
-    "LØS"
-   ],
-   "bj": "2026-10-31 04:00",
-   "dur": 120,
-   "result": "TL 1:2 LØS"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-30-Hanwha Life Esports-G2 Esports",
    "sport": "lol",
@@ -5456,7 +5417,8 @@
     "本玉"
    ],
    "bj": "2026-11-06 21:50",
-   "dur": 150
+   "dur": 150,
+   "result": "(3) Magda Linette 4-6 7-5 6-4"
   },
   {
    "id": "tn-atp-186501",
@@ -5468,19 +5430,8 @@
     "Luca Van Assche"
    ],
    "bj": "2026-11-06 23:20",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186688",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Yasmine Kabbaj vs 布林科娃",
-   "teams": [
-    "Yasmine Kabbaj",
-    "布林科娃"
-   ],
-   "bj": "2026-11-06 23:35",
-   "dur": 150
+   "dur": 150,
+   "result": "Luca Van Assche 7-5"
   },
   {
    "id": "tn-wta-186595",
@@ -5491,8 +5442,9 @@
     "Lucrezia Stefanini",
     "扎哈罗娃"
    ],
-   "bj": "2026-11-07 00:20",
-   "dur": 150
+   "bj": "2026-11-07 00:45",
+   "dur": 150,
+   "result": "(7) Anastasia Zakharova 6-2 5-2 ret"
   },
   {
    "id": "fb-tur.1-401888256",
@@ -5505,6 +5457,7 @@
    ],
    "bj": "2026-11-07 01:00",
    "dur": 115,
+   "result": "加济安泰普 0:2 卡西帕萨",
    "note": "Gaziantep Stadium"
   },
   {
@@ -5516,32 +5469,9 @@
     "Julia Riera",
     "Leyre Romero Gormaz"
    ],
-   "bj": "2026-11-07 01:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186492",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs 弗里茨",
-   "teams": [
-    "阿尔卡拉斯",
-    "弗里茨"
-   ],
-   "bj": "2026-11-07 02:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186735",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "安德烈斯库 vs Alice Tubello",
-   "teams": [
-    "安德烈斯库",
-    "Alice Tubello"
-   ],
-   "bj": "2026-11-07 02:30",
-   "dur": 150
+   "bj": "2026-11-07 01:10",
+   "dur": 150,
+   "result": "Leyre Romero Gormaz 3-6 7-5 6-4"
   },
   {
    "id": "fb-ned.1-401875556",
@@ -5557,6 +5487,18 @@
    "note": "Koning Willem II Stadion"
   },
   {
+   "id": "tn-atp-186492",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "阿尔卡拉斯 vs 弗里茨",
+   "teams": [
+    "阿尔卡拉斯",
+    "弗里茨"
+   ],
+   "bj": "2026-11-07 03:00",
+   "dur": 150
+  },
+  {
    "id": "fb-ger.1-401884739",
    "sport": "football",
    "sub": "德甲 · 2026",
@@ -5568,18 +5510,6 @@
    "bj": "2026-11-07 03:30",
    "dur": 115,
    "note": "Volksparkstadion"
-  },
-  {
-   "id": "tn-atp-186493",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Nuno Borges vs Casper Ruud",
-   "teams": [
-    "Nuno Borges",
-    "Casper Ruud"
-   ],
-   "bj": "2026-11-07 03:30",
-   "dur": 150
   },
   {
    "id": "fb-ita.1-401874815",
@@ -5632,6 +5562,30 @@
    "bj": "2026-11-07 04:00",
    "dur": 115,
    "note": "Ramón Sánchez Pizjuán Stadium"
+  },
+  {
+   "id": "tn-wta-186735",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "安德烈斯库 vs Alice Tubello",
+   "teams": [
+    "安德烈斯库",
+    "Alice Tubello"
+   ],
+   "bj": "2026-11-07 04:10",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186493",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Nuno Borges vs Casper Ruud",
+   "teams": [
+    "Nuno Borges",
+    "Casper Ruud"
+   ],
+   "bj": "2026-11-07 04:30",
+   "dur": 150
   },
   {
    "id": "fb-por.1-401885399",
@@ -5763,35 +5717,12 @@
    "note": "Nissan Stadium"
   },
   {
-   "id": "tn-atp-186504",
+   "id": "tn-wta-186741",
    "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Ben Shelton vs TBD",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Leyre Romero Gormaz vs TBD",
    "teams": [
-    "Ben Shelton"
-   ],
-   "bj": "2026-11-07 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186684",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Noma Noha Akugue vs Sofya Lansere",
-   "teams": [
-    "Noma Noha Akugue",
-    "Sofya Lansere"
-   ],
-   "bj": "2026-11-07 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186685",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Gina Feistel vs TBD",
-   "teams": [
-    "Gina Feistel"
+    "Leyre Romero Gormaz"
    ],
    "bj": "2026-11-07 13:00",
    "dur": 150
@@ -5873,6 +5804,42 @@
    "note": "Melbourne Rectangular Stadium"
   },
   {
+   "id": "tn-atp-187453",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Borna Gojo vs Mika Brunold",
+   "teams": [
+    "Borna Gojo",
+    "Mika Brunold"
+   ],
+   "bj": "2026-11-07 18:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-187452",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Francesco Passaro vs Nikoloz Basilashvili",
+   "teams": [
+    "Francesco Passaro",
+    "Nikoloz Basilashvili"
+   ],
+   "bj": "2026-11-07 18:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186688",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Yasmine Kabbaj vs 布林科娃",
+   "teams": [
+    "Yasmine Kabbaj",
+    "布林科娃"
+   ],
+   "bj": "2026-11-07 18:00",
+   "dur": 150
+  },
+  {
    "id": "fb-tur.1-401888255",
    "sport": "football",
    "sub": "土超 · 2026",
@@ -5899,6 +5866,30 @@
    "note": "HBF Park"
   },
   {
+   "id": "tn-atp-187447",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Lorenzo Sonego vs Olle Wallin",
+   "teams": [
+    "Lorenzo Sonego",
+    "Olle Wallin"
+   ],
+   "bj": "2026-11-07 19:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-187446",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Inaki Montes-De La Torre vs Damir Dzumhur",
+   "teams": [
+    "Inaki Montes-De La Torre",
+    "Damir Dzumhur"
+   ],
+   "bj": "2026-11-07 19:30",
+   "dur": 150
+  },
+  {
    "id": "fb-eng.1-401878758",
    "sport": "football",
    "sub": "英超 · 2026",
@@ -5919,6 +5910,18 @@
    "teams": [
     "Robin Montgomery",
     "滕"
+   ],
+   "bj": "2026-11-07 20:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186684",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Noma Noha Akugue vs Sofya Lansere",
+   "teams": [
+    "Noma Noha Akugue",
+    "Sofya Lansere"
    ],
    "bj": "2026-11-07 20:30",
    "dur": 150
@@ -5950,6 +5953,42 @@
    "note": "Samsun 19 Mayis Stadium"
   },
   {
+   "id": "tn-atp-187451",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Toby Samuel vs Karl Friberg",
+   "teams": [
+    "Toby Samuel",
+    "Karl Friberg"
+   ],
+   "bj": "2026-11-07 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-187449",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Aleksandr Shevchenko vs Viktor Durasovic",
+   "teams": [
+    "Aleksandr Shevchenko",
+    "Viktor Durasovic"
+   ],
+   "bj": "2026-11-07 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186504",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Ben Shelton vs Luca Van Assche",
+   "teams": [
+    "Ben Shelton",
+    "Luca Van Assche"
+   ],
+   "bj": "2026-11-07 21:30",
+   "dur": 150
+  },
+  {
    "id": "fb-ita.1-401874791",
    "sport": "football",
    "sub": "意甲 · 2026",
@@ -5974,6 +6013,29 @@
    "bj": "2026-11-07 22:00",
    "dur": 115,
    "note": "Stadio Olimpico Grande Torino"
+  },
+  {
+   "id": "tn-wta-186593",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "扎哈罗娃 vs 莱内特",
+   "teams": [
+    "扎哈罗娃",
+    "莱内特"
+   ],
+   "bj": "2026-11-07 22:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186685",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Gina Feistel vs TBD",
+   "teams": [
+    "Gina Feistel"
+   ],
+   "bj": "2026-11-07 22:00",
+   "dur": 150
   },
   {
    "id": "fb-ger.1-401884745",
@@ -6026,6 +6088,30 @@
    "bj": "2026-11-07 22:30",
    "dur": 115,
    "note": "Home Deluxe Arena"
+  },
+  {
+   "id": "tn-atp-187450",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Jan Simonsson vs Adrian Mannarino",
+   "teams": [
+    "Jan Simonsson",
+    "Adrian Mannarino"
+   ],
+   "bj": "2026-11-07 22:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-187448",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Arthur Nagel vs Jacob Fearnley",
+   "teams": [
+    "Arthur Nagel",
+    "Jacob Fearnley"
+   ],
+   "bj": "2026-11-07 22:30",
+   "dur": 150
   },
   {
    "id": "fb-eng.1-401878760",
@@ -12516,6 +12602,214 @@
    "bj": "2026-12-07 00:15",
    "dur": 115,
    "note": "Roazhon Park"
+  },
+  {
+   "id": "fb-eng.1-401879209",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "热刺 vs 阿森纳",
+   "teams": [
+    "热刺",
+    "阿森纳"
+   ],
+   "bj": "2026-12-07 00:30",
+   "dur": 115,
+   "note": "Tottenham Hotspur Stadium"
+  },
+  {
+   "id": "fb-ger.1-401884710",
+   "sport": "football",
+   "sub": "德甲 · 2026",
+   "title": "埃尔弗斯贝格 vs 斯图加特",
+   "teams": [
+    "埃尔弗斯贝格",
+    "斯图加特"
+   ],
+   "bj": "2026-12-07 00:30",
+   "dur": 115,
+   "note": "URSAPHARM-Arena an der Kaiserlinde"
+  },
+  {
+   "id": "fb-ita.1-401875006",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "尤文图斯 vs 乌迪内斯",
+   "teams": [
+    "尤文图斯",
+    "乌迪内斯"
+   ],
+   "bj": "2026-12-07 01:00",
+   "dur": 115,
+   "note": "Allianz Stadium"
+  },
+  {
+   "id": "fb-por.1-401885381",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "埃斯托里尔 vs Vitória de Guimaraes",
+   "teams": [
+    "埃斯托里尔",
+    "Vitória de Guimaraes"
+   ],
+   "bj": "2026-12-07 02:00",
+   "dur": 115,
+   "note": "Estádio António Coimbra da Mota"
+  },
+  {
+   "id": "fb-ita.1-401874995",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "AC米兰 vs 帕尔马",
+   "teams": [
+    "AC米兰",
+    "帕尔马"
+   ],
+   "bj": "2026-12-07 03:45",
+   "dur": 115,
+   "note": "San Siro"
+  },
+  {
+   "id": "fb-fra.1-401876383",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "马赛 vs 尼斯",
+   "teams": [
+    "马赛",
+    "尼斯"
+   ],
+   "bj": "2026-12-07 03:45",
+   "dur": 115,
+   "note": "Stade Vélodrome"
+  },
+  {
+   "id": "fb-esp.1-401882786",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "Alavés vs 西班牙人",
+   "teams": [
+    "Alavés",
+    "西班牙人"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Mendizorrotza"
+  },
+  {
+   "id": "fb-esp.1-401882785",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "毕尔巴鄂竞技 vs 皇家马德里",
+   "teams": [
+    "毕尔巴鄂竞技",
+    "皇家马德里"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "San Mamés"
+  },
+  {
+   "id": "fb-esp.1-401882784",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "马竞 vs 皇家贝蒂斯",
+   "teams": [
+    "马竞",
+    "皇家贝蒂斯"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Riyadh Air Metropolitano"
+  },
+  {
+   "id": "fb-esp.1-401882783",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "巴塞罗那 vs 塞尔塔",
+   "teams": [
+    "巴塞罗那",
+    "塞尔塔"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Spotify Camp Nou"
+  },
+  {
+   "id": "fb-esp.1-401882782",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "赫塔菲 vs 瓦伦西亚",
+   "teams": [
+    "赫塔菲",
+    "瓦伦西亚"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Estadio Coliseum"
+  },
+  {
+   "id": "fb-esp.1-401882781",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "奥萨苏纳 vs 埃尔切",
+   "teams": [
+    "奥萨苏纳",
+    "埃尔切"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "El Sadar"
+  },
+  {
+   "id": "fb-esp.1-401882780",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "桑坦德竞技 vs Deportivo",
+   "teams": [
+    "桑坦德竞技",
+    "Deportivo"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "El Sardineros"
+  },
+  {
+   "id": "fb-esp.1-401882779",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "巴列卡诺 vs 莱万特",
+   "teams": [
+    "巴列卡诺",
+    "莱万特"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Estadio de Vallecas"
+  },
+  {
+   "id": "fb-esp.1-401882778",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "塞维利亚 vs Málaga",
+   "teams": [
+    "塞维利亚",
+    "Málaga"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Ramón Sánchez Pizjuán Stadium"
+  },
+  {
+   "id": "fb-esp.1-401882777",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "比利亚雷亚尔 vs 皇家社会",
+   "teams": [
+    "比利亚雷亚尔",
+    "皇家社会"
+   ],
+   "bj": "2026-12-07 04:00",
+   "dur": 115,
+   "note": "Estadio de la Cerámica"
   }
  ],
  "sources": [
@@ -12538,8 +12832,8 @@
   "足球 澳超: 21 场",
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 160 场",
-  "网球 WTA: 374 场",
+  "网球 ATP: 168 场",
+  "网球 WTA: 376 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
