@@ -1,97 +1,6 @@
 {
- "updatedAt": "2026-11-05T21:09:13.275Z",
+ "updatedAt": "2026-11-06T03:29:40.783Z",
  "matches": [
-  {
-   "id": "tn-atp-185149",
-   "sport": "tennis",
-   "sub": "Swiss Indoors Basel · 男单",
-   "title": "Jerome Kym vs Ben Shelton",
-   "teams": [
-    "Jerome Kym",
-    "Ben Shelton"
-   ],
-   "bj": "2026-10-30 05:15",
-   "dur": 150,
-   "result": "Jerome Kym"
-  },
-  {
-   "id": "tn-wta-185806",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Adriana Reami vs Fiona Ferro",
-   "teams": [
-    "Adriana Reami",
-    "Fiona Ferro"
-   ],
-   "bj": "2026-10-30 05:20",
-   "dur": 150,
-   "result": "(3) Fiona Ferro 6-0 6-0"
-  },
-  {
-   "id": "tn-wta-185794",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Martina Colmegna vs 玛丽亚",
-   "teams": [
-    "Martina Colmegna",
-    "玛丽亚"
-   ],
-   "bj": "2026-10-30 05:55",
-   "dur": 150,
-   "result": "(1) Tatjana Maria"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-29-Top Esports-Bilibili Gaming",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "TES vs BLG",
-   "teams": [
-    "TES",
-    "BLG"
-   ],
-   "bj": "2026-10-30 07:00",
-   "dur": 120,
-   "result": "TES 2:1 BLG"
-  },
-  {
-   "id": "tn-wta-185812",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "安德烈斯库 vs Diletta Cherubini",
-   "teams": [
-    "安德烈斯库",
-    "Diletta Cherubini"
-   ],
-   "bj": "2026-10-30 08:05",
-   "dur": 150,
-   "result": "(4) Bianca Andreescu 6-2 6-3"
-  },
-  {
-   "id": "tn-wta-185684",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "乔因特 vs 拉希莫娃",
-   "teams": [
-    "乔因特",
-    "拉希莫娃"
-   ],
-   "bj": "2026-10-30 09:35",
-   "dur": 150,
-   "result": "Kamilla Rakhimova 7-5 5-7 6-1"
-  },
-  {
-   "id": "tn-wta-185810",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Alicia Herrero Linana vs Tamara Zidansek",
-   "teams": [
-    "Alicia Herrero Linana",
-    "Tamara Zidansek"
-   ],
-   "bj": "2026-10-30 09:50",
-   "dur": 150,
-   "result": "Alicia Herrero Linana"
-  },
   {
    "id": "tn-wta-185686",
    "sport": "tennis",
@@ -5719,7 +5628,8 @@
     "Luisina Giovannini"
    ],
    "bj": "2026-11-06 03:25",
-   "dur": 150
+   "dur": 150,
+   "result": "(8) Bianca Andreescu 6-1 6-3"
   },
   {
    "id": "tn-atp-186495",
@@ -5745,6 +5655,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "阿尔克马尔 1:2 尤文图斯",
    "note": "AFAS Stadion"
   },
   {
@@ -5758,6 +5669,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "勒沃库森 0:1 马赛",
    "note": "BayArena"
   },
   {
@@ -5771,6 +5683,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "本菲卡 3:1 Lech Poznan",
    "note": "Estádio da Luz"
   },
   {
@@ -5784,6 +5697,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "塞尔塔 1:2 Union St.-Gilloise",
    "note": "Balaidos"
   },
   {
@@ -5797,6 +5711,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "凯尔特人 3:2 贝西克塔斯",
    "note": "Celtic Park"
   },
   {
@@ -5810,6 +5725,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Hapoel Be'er 0:2 OFI Crete",
    "note": "Giulesti Stadium"
   },
   {
@@ -5823,6 +5739,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "SK Sturm Graz 2:3 NK Celje",
    "note": "Merkur Arena"
   },
   {
@@ -5836,6 +5753,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "桑德兰 0:2 Dinamo Zagreb",
    "note": "Stadium of Light"
   },
   {
@@ -5849,6 +5767,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Torreense 3:2 Ararat-Armenia",
    "note": "Estádio Dr. Magalhaes Pessoa"
   },
   {
@@ -5862,6 +5781,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "摩纳哥 2:0 FC Nordsjælland",
    "note": "Stade Louis II"
   },
   {
@@ -5875,6 +5795,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "CSU Craiova 2:0 Egnatia",
    "note": "Stadionul Ion Oblemenco"
   },
   {
@@ -5888,6 +5809,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "F.C. København 2:1 Iberia 1999",
    "note": "Parken Stadium"
   },
   {
@@ -5901,6 +5823,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "FC Lugano 3:0 Kauno Zalgiris",
    "note": "AIL Arena"
   },
   {
@@ -5914,6 +5837,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "特温特 3:1 Pafos",
    "note": "De Grolsch Veste"
   },
   {
@@ -5927,6 +5851,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "赫塔菲 0:1 布莱顿",
    "note": "Estadio Coliseum"
   },
   {
@@ -5940,6 +5865,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Panathinaikos 2:1 CSKA Sofia",
    "note": "Athens Olympic Stadium"
   },
   {
@@ -5953,6 +5879,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Riga FC 1:1 Jablonec",
    "note": "Skonto Stadions"
   },
   {
@@ -5966,6 +5893,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Sint-Truidense 1:1 SK Brann",
    "note": "Daio Wasabi Stayen Stadium"
   },
   {
@@ -5978,7 +5906,8 @@
     "Leolia Jeanjean"
    ],
    "bj": "2026-11-06 04:25",
-   "dur": 150
+   "dur": 150,
+   "result": "Alice Tubello 6-3 6-2"
   },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
@@ -5990,7 +5919,8 @@
     "BLG"
    ],
    "bj": "2026-11-06 06:00",
-   "dur": 120
+   "dur": 120,
+   "result": "Dplus Kia 0:3 BLG"
   },
   {
    "id": "fb-bra.1-401841300",
@@ -6003,6 +5933,7 @@
    ],
    "bj": "2026-11-06 06:30",
    "dur": 115,
+   "result": "帕尔梅拉斯 6:1 Remo",
    "note": "Allianz Parque"
   },
   {
@@ -6016,19 +5947,8 @@
    ],
    "bj": "2026-11-06 08:30",
    "dur": 115,
+   "result": "克鲁塞罗 3:2 巴伊亚",
    "note": "Estadio Mineirão"
-  },
-  {
-   "id": "tn-wta-186734",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Julia Riera vs Leyre Romero Gormaz",
-   "teams": [
-    "Julia Riera",
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-06 13:00",
-   "dur": 150
   },
   {
    "id": "tn-wta-186636",
@@ -6225,6 +6145,18 @@
    "note": "Gaziantep Stadium"
   },
   {
+   "id": "tn-wta-186734",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Julia Riera vs Leyre Romero Gormaz",
+   "teams": [
+    "Julia Riera",
+    "Leyre Romero Gormaz"
+   ],
+   "bj": "2026-11-07 01:00",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186492",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
@@ -6234,6 +6166,18 @@
     "弗里茨"
    ],
    "bj": "2026-11-07 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186735",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "安德烈斯库 vs Alice Tubello",
+   "teams": [
+    "安德烈斯库",
+    "Alice Tubello"
+   ],
+   "bj": "2026-11-07 02:30",
    "dur": 150
   },
   {

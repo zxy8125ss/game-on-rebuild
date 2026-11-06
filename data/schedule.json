@@ -1,33 +1,7 @@
 {
- "updatedAt": "2026-11-05T21:09:13.275Z",
+ "updatedAt": "2026-11-06T03:29:40.782Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-29-Top Esports-Bilibili Gaming",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "TES vs BLG",
-   "teams": [
-    "TES",
-    "BLG"
-   ],
-   "bj": "2026-10-30 07:00",
-   "dur": 120,
-   "result": "TES 2:1 BLG"
-  },
-  {
-   "id": "tn-wta-185684",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "乔因特 vs 拉希莫娃",
-   "teams": [
-    "乔因特",
-    "拉希莫娃"
-   ],
-   "bj": "2026-10-30 09:35",
-   "dur": 150,
-   "result": "Kamilla Rakhimova 7-5 5-7 6-1"
-  },
   {
    "id": "tn-wta-185686",
    "sport": "tennis",
@@ -5291,7 +5265,8 @@
     "Luisina Giovannini"
    ],
    "bj": "2026-11-06 03:25",
-   "dur": 150
+   "dur": 150,
+   "result": "(8) Bianca Andreescu 6-1 6-3"
   },
   {
    "id": "tn-atp-186495",
@@ -5317,6 +5292,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "阿尔克马尔 1:2 尤文图斯",
    "note": "AFAS Stadion"
   },
   {
@@ -5330,6 +5306,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "勒沃库森 0:1 马赛",
    "note": "BayArena"
   },
   {
@@ -5343,6 +5320,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "本菲卡 3:1 Lech Poznan",
    "note": "Estádio da Luz"
   },
   {
@@ -5356,6 +5334,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "塞尔塔 1:2 Union St.-Gilloise",
    "note": "Balaidos"
   },
   {
@@ -5369,6 +5348,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "凯尔特人 3:2 贝西克塔斯",
    "note": "Celtic Park"
   },
   {
@@ -5382,6 +5362,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Hapoel Be'er 0:2 OFI Crete",
    "note": "Giulesti Stadium"
   },
   {
@@ -5395,6 +5376,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "SK Sturm Graz 2:3 NK Celje",
    "note": "Merkur Arena"
   },
   {
@@ -5408,6 +5390,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "桑德兰 0:2 Dinamo Zagreb",
    "note": "Stadium of Light"
   },
   {
@@ -5421,6 +5404,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Torreense 3:2 Ararat-Armenia",
    "note": "Estádio Dr. Magalhaes Pessoa"
   },
   {
@@ -5434,6 +5418,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "摩纳哥 2:0 FC Nordsjælland",
    "note": "Stade Louis II"
   },
   {
@@ -5447,6 +5432,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "CSU Craiova 2:0 Egnatia",
    "note": "Stadionul Ion Oblemenco"
   },
   {
@@ -5460,6 +5446,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "F.C. København 2:1 Iberia 1999",
    "note": "Parken Stadium"
   },
   {
@@ -5473,6 +5460,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "FC Lugano 3:0 Kauno Zalgiris",
    "note": "AIL Arena"
   },
   {
@@ -5486,6 +5474,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "特温特 3:1 Pafos",
    "note": "De Grolsch Veste"
   },
   {
@@ -5499,6 +5488,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "赫塔菲 0:1 布莱顿",
    "note": "Estadio Coliseum"
   },
   {
@@ -5512,6 +5502,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Panathinaikos 2:1 CSKA Sofia",
    "note": "Athens Olympic Stadium"
   },
   {
@@ -5525,6 +5516,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Riga FC 1:1 Jablonec",
    "note": "Skonto Stadions"
   },
   {
@@ -5538,6 +5530,7 @@
    ],
    "bj": "2026-11-06 04:00",
    "dur": 115,
+   "result": "Sint-Truidense 1:1 SK Brann",
    "note": "Daio Wasabi Stayen Stadium"
   },
   {
@@ -5550,7 +5543,8 @@
     "Leolia Jeanjean"
    ],
    "bj": "2026-11-06 04:25",
-   "dur": 150
+   "dur": 150,
+   "result": "Alice Tubello 6-3 6-2"
   },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
@@ -5562,7 +5556,8 @@
     "BLG"
    ],
    "bj": "2026-11-06 06:00",
-   "dur": 120
+   "dur": 120,
+   "result": "Dplus Kia 0:3 BLG"
   },
   {
    "id": "fb-bra.1-401841300",
@@ -5575,6 +5570,7 @@
    ],
    "bj": "2026-11-06 06:30",
    "dur": 115,
+   "result": "帕尔梅拉斯 6:1 Remo",
    "note": "Allianz Parque"
   },
   {
@@ -5588,19 +5584,8 @@
    ],
    "bj": "2026-11-06 08:30",
    "dur": 115,
+   "result": "克鲁塞罗 3:2 巴伊亚",
    "note": "Estadio Mineirão"
-  },
-  {
-   "id": "tn-wta-186734",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Julia Riera vs Leyre Romero Gormaz",
-   "teams": [
-    "Julia Riera",
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-06 13:00",
-   "dur": 150
   },
   {
    "id": "tn-wta-186636",
@@ -5797,6 +5782,18 @@
    "note": "Gaziantep Stadium"
   },
   {
+   "id": "tn-wta-186734",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Julia Riera vs Leyre Romero Gormaz",
+   "teams": [
+    "Julia Riera",
+    "Leyre Romero Gormaz"
+   ],
+   "bj": "2026-11-07 01:00",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186492",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
@@ -5806,6 +5803,18 @@
     "弗里茨"
    ],
    "bj": "2026-11-07 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186735",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "安德烈斯库 vs Alice Tubello",
+   "teams": [
+    "安德烈斯库",
+    "Alice Tubello"
+   ],
+   "bj": "2026-11-07 02:30",
    "dur": 150
   },
   {
@@ -12376,6 +12385,19 @@
    "bj": "2026-12-06 04:30",
    "dur": 115,
    "note": "Estádio Municipal de Braga"
+  },
+  {
+   "id": "fb-aus.1-401892131",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "惠灵顿凤凰 vs Adelaide United FC",
+   "teams": [
+    "惠灵顿凤凰",
+    "Adelaide United FC"
+   ],
+   "bj": "2026-12-06 10:00",
+   "dur": 115,
+   "note": "Sky Stadium"
   }
  ],
  "sources": [
@@ -12399,7 +12421,7 @@
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 159 场",
-  "网球 WTA: 368 场",
+  "网球 WTA: 369 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
