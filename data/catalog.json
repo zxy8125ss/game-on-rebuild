@@ -1,98 +1,6 @@
 {
- "updatedAt": "2026-11-06T03:29:40.783Z",
+ "updatedAt": "2026-11-06T12:14:14.039Z",
  "matches": [
-  {
-   "id": "tn-wta-185686",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "帕克斯 vs 波汉科娃",
-   "teams": [
-    "帕克斯",
-    "波汉科娃"
-   ],
-   "bj": "2026-10-30 12:20",
-   "dur": 150,
-   "result": "Mia Pohankova 6-3"
-  },
-  {
-   "id": "tn-wta-185729",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "达特 vs 巴多萨",
-   "teams": [
-    "达特",
-    "巴多萨"
-   ],
-   "bj": "2026-10-30 13:05",
-   "dur": 150,
-   "result": "Harriet Dart 3-6 6-2 6-4"
-  },
-  {
-   "id": "tn-wta-185683",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "费尔南德斯 vs 莱巴金娜",
-   "teams": [
-    "费尔南德斯",
-    "莱巴金娜"
-   ],
-   "bj": "2026-10-30 14:05",
-   "dur": 150,
-   "result": "Leylah Fernandez w/o"
-  },
-  {
-   "id": "tn-wta-185730",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "泰希曼 vs 克维多",
-   "teams": [
-    "泰希曼",
-    "克维多"
-   ],
-   "bj": "2026-10-30 15:50",
-   "dur": 150,
-   "result": "Kaitlin Quevedo 6-3"
-  },
-  {
-   "id": "tn-wta-185685",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "施奈德 vs 埃亚拉",
-   "teams": [
-    "施奈德",
-    "埃亚拉"
-   ],
-   "bj": "2026-10-30 16:05",
-   "dur": 150,
-   "result": "(3) Diana Shnaider 6-4"
-  },
-  {
-   "id": "fb-aus.1-401892150",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "Brisbane Roar FC vs 奥克兰FC",
-   "teams": [
-    "Brisbane Roar FC",
-    "奥克兰FC"
-   ],
-   "bj": "2026-10-30 17:00",
-   "dur": 115,
-   "result": "Brisbane Roar FC 1:1 奥克兰FC",
-   "note": "Suncorp Stadium"
-  },
-  {
-   "id": "tn-wta-185732",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "刘彩衣 vs 孙欣然",
-   "teams": [
-    "刘彩衣",
-    "孙欣然"
-   ],
-   "bj": "2026-10-30 18:00",
-   "dur": 150,
-   "result": "Xinran Sun"
-  },
   {
    "id": "tn-wta-185731",
    "sport": "tennis",
@@ -5959,20 +5867,9 @@
     "刘彩衣",
     "松梅兹"
    ],
-   "bj": "2026-11-06 14:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186637",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Alexandra Shubladze vs 科斯蒂亚",
-   "teams": [
-    "Alexandra Shubladze",
-    "科斯蒂亚"
-   ],
-   "bj": "2026-11-06 16:30",
-   "dur": 150
+   "bj": "2026-11-06 14:05",
+   "dur": 150,
+   "result": "Claire Liu 6-1 6-4"
   },
   {
    "id": "fb-aus.1-401892144",
@@ -5985,7 +5882,21 @@
    ],
    "bj": "2026-11-06 16:40",
    "dur": 115,
+   "result": "悉尼FC 4:1 中央海岸水手",
    "note": "Allianz Stadium"
+  },
+  {
+   "id": "tn-wta-186637",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "Alexandra Shubladze vs 科斯蒂亚",
+   "teams": [
+    "Alexandra Shubladze",
+    "科斯蒂亚"
+   ],
+   "bj": "2026-11-06 16:55",
+   "dur": 150,
+   "result": "Alexandra Shubladze 6-2 6-3"
   },
   {
    "id": "tn-wta-186592",
@@ -5996,8 +5907,9 @@
     "库德梅托娃",
     "滕"
    ],
-   "bj": "2026-11-06 17:30",
-   "dur": 150
+   "bj": "2026-11-06 17:35",
+   "dur": 150,
+   "result": "(1) Janice Tjen 5-7 6-4 6-2"
   },
   {
    "id": "tn-wta-186635",
@@ -6008,8 +5920,9 @@
     "萨卡里",
     "萨斯诺维奇"
    ],
-   "bj": "2026-11-06 18:30",
-   "dur": 150
+   "bj": "2026-11-06 18:40",
+   "dur": 150,
+   "result": "(4) Maria Sakkari 6-2 6-3"
   },
   {
    "id": "tn-wta-186689",
@@ -6020,19 +5933,7 @@
     "Martyna Kubka",
     "Sofya Lansere"
    ],
-   "bj": "2026-11-06 18:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186597",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Maaya Rajeshwaran Revathi vs Robin Montgomery",
-   "teams": [
-    "Maaya Rajeshwaran Revathi",
-    "Robin Montgomery"
-   ],
-   "bj": "2026-11-06 19:00",
+   "bj": "2026-11-06 18:55",
    "dur": 150
   },
   {
@@ -6044,7 +5945,7 @@
     "Gina Feistel",
     "Ksenia Zaytseva"
    ],
-   "bj": "2026-11-06 19:00",
+   "bj": "2026-11-06 19:10",
    "dur": 150
   },
   {
@@ -6056,7 +5957,19 @@
     "埃亚拉",
     "鲁日奇"
    ],
-   "bj": "2026-11-06 20:00",
+   "bj": "2026-11-06 20:15",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186597",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "Maaya Rajeshwaran Revathi vs Robin Montgomery",
+   "teams": [
+    "Maaya Rajeshwaran Revathi",
+    "Robin Montgomery"
+   ],
+   "bj": "2026-11-06 20:15",
    "dur": 150
   },
   {
@@ -6068,19 +5981,7 @@
     "Noma Noha Akugue",
     "Justina Mikulskyte"
    ],
-   "bj": "2026-11-06 20:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186596",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "莱内特 vs 本玉",
-   "teams": [
-    "莱内特",
-    "本玉"
-   ],
-   "bj": "2026-11-06 20:30",
+   "bj": "2026-11-06 20:40",
    "dur": 150
   },
   {
@@ -6091,6 +5992,18 @@
    "teams": [
     "Tommy Paul",
     "Ben Shelton"
+   ],
+   "bj": "2026-11-06 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186596",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "莱内特 vs 本玉",
+   "teams": [
+    "莱内特",
+    "本玉"
    ],
    "bj": "2026-11-06 21:00",
    "dur": 150
@@ -6400,6 +6313,17 @@
    "note": "Nissan Stadium"
   },
   {
+   "id": "tn-wta-186594",
+   "sport": "tennis",
+   "sub": "Chennai Open · 女单",
+   "title": "TBD vs 滕",
+   "teams": [
+    "滕"
+   ],
+   "bj": "2026-11-07 13:00",
+   "dur": 150
+  },
+  {
    "id": "fb-jpn.1-401877535",
    "sport": "football",
    "sub": "J联赛 · 2026",
@@ -6426,6 +6350,18 @@
    "note": "Tokyo Stadium"
   },
   {
+   "id": "tn-wta-186644",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "刘彩衣 vs Alexandra Shubladze",
+   "teams": [
+    "刘彩衣",
+    "Alexandra Shubladze"
+   ],
+   "bj": "2026-11-07 14:00",
+   "dur": 150
+  },
+  {
    "id": "fb-jpn.1-401877560",
    "sport": "football",
    "sub": "J联赛 · 2026",
@@ -6437,6 +6373,17 @@
    "bj": "2026-11-07 15:00",
    "dur": 115,
    "note": "Sankyo Frontier Kashiwa Stadium"
+  },
+  {
+   "id": "tn-wta-186643",
+   "sport": "tennis",
+   "sub": "Prudential Hong Kong Tennis Open · 女单",
+   "title": "TBD vs 萨卡里",
+   "teams": [
+    "萨卡里"
+   ],
+   "bj": "2026-11-07 15:30",
+   "dur": 150
   },
   {
    "id": "fb-aus.1-401892142",
