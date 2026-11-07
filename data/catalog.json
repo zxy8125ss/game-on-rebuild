@@ -1,84 +1,6 @@
 {
- "updatedAt": "2026-11-06T20:30:34.226Z",
+ "updatedAt": "2026-11-07T02:53:01.101Z",
  "matches": [
-  {
-   "id": "tn-wta-185815",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Carole Monnet vs Nadia Podoroska",
-   "teams": [
-    "Carole Monnet",
-    "Nadia Podoroska"
-   ],
-   "bj": "2026-10-31 06:10",
-   "dur": 150,
-   "result": "Carole Monnet 2-6 6-3 6-2"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-30-Hanwha Life Esports-G2 Esports",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "Hanwha Life Esports vs G2",
-   "teams": [
-    "Hanwha Life Esports",
-    "G2"
-   ],
-   "bj": "2026-10-31 07:00",
-   "dur": 120,
-   "result": "Hanwha Life Esports 2:0 G2"
-  },
-  {
-   "id": "tn-wta-185813",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Elizabeth Mandlik vs Fiona Ferro",
-   "teams": [
-    "Elizabeth Mandlik",
-    "Fiona Ferro"
-   ],
-   "bj": "2026-10-31 08:40",
-   "dur": 150,
-   "result": "(3) Fiona Ferro 6-4"
-  },
-  {
-   "id": "tn-wta-187314",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Hong Yi Cody Wong vs 坂���惠美乃",
-   "teams": [
-    "Hong Yi Cody Wong",
-    "坂���惠美乃"
-   ],
-   "bj": "2026-10-31 10:05",
-   "dur": 150,
-   "result": "Himeno Sakatsume 6-4 6-2"
-  },
-  {
-   "id": "tn-wta-187316",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Hayu Kinoshita vs 普罗佐罗娃",
-   "teams": [
-    "Hayu Kinoshita",
-    "普罗佐罗娃"
-   ],
-   "bj": "2026-10-31 10:10",
-   "dur": 150,
-   "result": "Tatiana Prozorova 6-1 6-1"
-  },
-  {
-   "id": "tn-wta-187317",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "伊布拉吉莫娃 vs 斯托伊萨夫利维奇",
-   "teams": [
-    "伊布拉吉莫娃",
-    "斯托伊萨夫利维奇"
-   ],
-   "bj": "2026-10-31 10:10",
-   "dur": 150,
-   "result": "Mika Stojsavljevic 1-6 6-2 6-1"
-  },
   {
    "id": "tn-wta-185687",
    "sport": "tennis",
@@ -5678,6 +5600,7 @@
    ],
    "bj": "2026-11-07 03:00",
    "dur": 115,
+   "result": "Willem II 1:1 兹沃勒",
    "note": "Koning Willem II Stadion"
   },
   {
@@ -5690,7 +5613,8 @@
     "弗里茨"
    ],
    "bj": "2026-11-07 03:00",
-   "dur": 150
+   "dur": 150,
+   "result": "(2) Carlos Alcaraz 7-5 6-3"
   },
   {
    "id": "fb-ger.1-401884739",
@@ -5703,6 +5627,7 @@
    ],
    "bj": "2026-11-07 03:30",
    "dur": 115,
+   "result": "汉堡 3:1 门兴",
    "note": "Volksparkstadion"
   },
   {
@@ -5716,6 +5641,7 @@
    ],
    "bj": "2026-11-07 03:45",
    "dur": 115,
+   "result": "威尼斯 2:1 乌迪内斯",
    "note": "Stadio Pier Luigi Penzo"
   },
   {
@@ -5729,6 +5655,7 @@
    ],
    "bj": "2026-11-07 03:45",
    "dur": 115,
+   "result": "图卢兹 3:1 斯特拉斯堡",
    "note": "Stadium Municipal de Toulouse"
   },
   {
@@ -5742,6 +5669,7 @@
    ],
    "bj": "2026-11-07 04:00",
    "dur": 115,
+   "result": "埃弗顿 3:1 考文垂",
    "note": "Hill Dickinson Stadium"
   },
   {
@@ -5755,31 +5683,8 @@
    ],
    "bj": "2026-11-07 04:00",
    "dur": 115,
+   "result": "塞维利亚 0:0 Alavés",
    "note": "Ramón Sánchez Pizjuán Stadium"
-  },
-  {
-   "id": "tn-wta-186735",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "安德烈斯库 vs Alice Tubello",
-   "teams": [
-    "安德烈斯库",
-    "Alice Tubello"
-   ],
-   "bj": "2026-11-07 04:10",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-186493",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Nuno Borges vs Casper Ruud",
-   "teams": [
-    "Nuno Borges",
-    "Casper Ruud"
-   ],
-   "bj": "2026-11-07 04:30",
-   "dur": 150
   },
   {
    "id": "fb-por.1-401885399",
@@ -5792,6 +5697,7 @@
    ],
    "bj": "2026-11-07 04:45",
    "dur": 115,
+   "result": "法马利康 1:0 Arouca",
    "note": "Estádio Municipal 22 de Junho"
   },
   {
@@ -5804,7 +5710,21 @@
     "T1"
    ],
    "bj": "2026-11-07 06:00",
-   "dur": 120
+   "dur": 120,
+   "result": "KC 1:3 T1"
+  },
+  {
+   "id": "tn-atp-186493",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "Nuno Borges vs Casper Ruud",
+   "teams": [
+    "Nuno Borges",
+    "Casper Ruud"
+   ],
+   "bj": "2026-11-07 06:10",
+   "dur": 150,
+   "result": "Casper Ruud 6-4"
   },
   {
    "id": "fb-bra.1-401841302",
@@ -5817,6 +5737,7 @@
    ],
    "bj": "2026-11-07 07:00",
    "dur": 115,
+   "result": "Vitória 0:3 弗鲁米嫩塞",
    "note": "Estadio Manoel Barradas"
   },
   {
@@ -5909,17 +5830,6 @@
    "bj": "2026-11-07 13:00",
    "dur": 115,
    "note": "Nissan Stadium"
-  },
-  {
-   "id": "tn-wta-186741",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Leyre Romero Gormaz vs TBD",
-   "teams": [
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-07 13:00",
-   "dur": 150
   },
   {
    "id": "fb-jpn.1-401877535",
@@ -6360,6 +6270,18 @@
    "note": "McDiarmid Park"
   },
   {
+   "id": "tn-wta-186735",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "安德烈斯库 vs Alice Tubello",
+   "teams": [
+    "安德烈斯库",
+    "Alice Tubello"
+   ],
+   "bj": "2026-11-07 23:00",
+   "dur": 150
+  },
+  {
    "id": "fb-esp.1-401882813",
    "sport": "football",
    "sub": "西甲 · 2026",
@@ -6423,6 +6345,29 @@
    "bj": "2026-11-08 00:00",
    "dur": 115,
    "note": "Göztepe Gürsel Aksel Stadi"
+  },
+  {
+   "id": "tn-atp-186505",
+   "sport": "tennis",
+   "sub": "Rolex Paris Masters · 男单",
+   "title": "阿尔卡拉斯 vs Casper Ruud",
+   "teams": [
+    "阿尔卡拉斯",
+    "Casper Ruud"
+   ],
+   "bj": "2026-11-08 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186741",
+   "sport": "tennis",
+   "sub": "Reto Win Tennis Cali Open · 女单",
+   "title": "Leyre Romero Gormaz vs TBD",
+   "teams": [
+    "Leyre Romero Gormaz"
+   ],
+   "bj": "2026-11-08 00:30",
+   "dur": 150
   },
   {
    "id": "fb-ita.1-401874974",
@@ -7610,6 +7555,18 @@
    ],
    "bj": "2026-11-09 05:30",
    "dur": 150
+  },
+  {
+   "id": "lol-2026-season-world-championship-main-event-2026-11-08-Bilibili Gaming-T1",
+   "sport": "lol",
+   "sub": "2026 Season World Championship/Main Event",
+   "title": "BLG vs T1",
+   "teams": [
+    "BLG",
+    "T1"
+   ],
+   "bj": "2026-11-09 06:00",
+   "dur": 120
   },
   {
    "id": "fb-mex.1-401876903",
