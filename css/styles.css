@@ -631,7 +631,13 @@ button { cursor: pointer; }
   color: var(--bg);
   border: 1px solid color-mix(in srgb, var(--bg) 40%, transparent);
 }
-.banner.install { bottom: calc(64px + env(safe-area-inset-bottom, 0px)); }
+.banner.install {
+  bottom: calc(64px + env(safe-area-inset-bottom, 0px));
+  /* 提示条不参与命中测试，避免挡住底下比赛票根的点击 */
+  pointer-events: none;
+}
+.banner.install span,
+.banner.install button { pointer-events: auto; }
 
 dialog {
   border: 1px solid var(--line);

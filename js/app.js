@@ -30,6 +30,18 @@ let busy = false;
 let fired = new Set();      // 已弹过提醒的场次，避免重复
 let editing = null;
 let installPrompt = null;
+let installTipTimer = null;
+let installTipDismissed = false;
+
+function showInstallTip() {
+  if (installTipDismissed) return;
+  $('installbanner').hidden = false;
+}
+
+function hideInstallTip() {
+  $('installbanner').hidden = true;
+  clearTimeout(installTipTimer);
+}
 
 /* ---------- 节假日 ---------- */
 // 2026 年法定节假日与调休（数据来自国务院办公厅安排）
@@ -612,7 +624,10 @@ $('b-refresh').onclick = async () => {
 window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   installPrompt = e;
-  $('installbanner').hidden = false;
+  showInstallTip();
+  // 提示条固定在底部会挡住比赛列表，8 秒后自动收起
+  clearTimeout(installTipTimer);
+  installTipTimer = setTimeout(hideInstallTip, 8000);
 });
 
 $('installok').onclick = async () => {
@@ -620,13 +635,17 @@ $('installok').onclick = async () => {
   installPrompt.prompt();
   await installPrompt.userChoice;
   installPrompt = null;
-  $('installbanner').hidden = true;
+  hideInstallTip();
 };
 
-$('installclose').onclick = () => { $('installbanner').hidden = true; };
+$('installclose').onclick = () => {
+  hideInstallTip();
+  // 用户主动关闭就不再自动弹出
+  installTipDismissed = true;
+};
 
 window.addEventListener('appinstalled', () => {
-  $('installbanner').hidden = true;
+  hideInstallTip();
   installPrompt = null;
 });
 
