@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-08T02:37:33.917Z",
+ "updatedAt": "2026-11-08T03:10:08.654Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-185689",
-   "sport": "tennis",
-   "sub": "Toray Pan Pacific Open Tennis · 女单",
-   "title": "施奈德 vs 费尔南德斯",
-   "teams": [
-    "施奈德",
-    "费尔南德斯"
-   ],
-   "bj": "2026-11-01 11:05",
-   "dur": 150,
-   "result": "(3) Diana Shnaider 6-4 5-7 6-2"
-  },
   {
    "id": "tn-wta-187319",
    "sport": "tennis",
@@ -5378,6 +5365,7 @@
    ],
    "bj": "2026-11-08 09:00",
    "dur": 115,
+   "result": "老虎 2:3 蓝十字",
    "note": "Estadio Universitario"
   },
   {
@@ -5391,6 +5379,7 @@
    ],
    "bj": "2026-11-08 09:00",
    "dur": 115,
+   "result": "托卢卡 4:0 蒙特雷",
    "note": "Estadio Nemesio Díez Riega"
   },
   {
