@@ -10,7 +10,12 @@
  *   - 换版本时清掉旧缓存
  */
 
-const VERSION = 'v1';
+/**
+ * 缓存版本号。
+ * 改动图标 / JS / CSS 时必须同步 bump，否则 Service Worker 会继续用旧缓存，
+ * 用户的手机上还是旧图标。图标变更时尤其重要 —— 浏览器会单独缓存图标。
+ */
+const VERSION = 'v2';
 const SHELL_CACHE = `gameon-shell-${VERSION}`;
 const DATA_CACHE = `gameon-data-${VERSION}`;
 
@@ -33,7 +38,6 @@ const SHELL = [
   './fonts/barlow-condensed-latin-600-normal.woff2',
   './fonts/barlow-condensed-latin-700-normal.woff2',
 ];
-
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(SHELL_CACHE)
