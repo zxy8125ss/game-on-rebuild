@@ -1,33 +1,7 @@
 {
- "updatedAt": "2026-11-08T01:50:00.175Z",
+ "updatedAt": "2026-11-08T02:33:17.873Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-187318",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "李羽芸 vs 萨斯诺维奇",
-   "teams": [
-    "李羽芸",
-    "萨斯诺维奇"
-   ],
-   "bj": "2026-11-01 10:05",
-   "dur": 150,
-   "result": "Aliaksandra Sasnovich 6-2 6-1"
-  },
-  {
-   "id": "tn-wta-187320",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "斯托伊萨夫利维奇 vs 普罗佐罗娃",
-   "teams": [
-    "斯托伊萨夫利维奇",
-    "普罗佐罗娃"
-   ],
-   "bj": "2026-11-01 10:10",
-   "dur": 150,
-   "result": "Tatiana Prozorova 6-4 6-1"
-  },
   {
    "id": "tn-wta-185689",
    "sport": "tennis",
@@ -5306,6 +5280,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "奥斯汀FC 0:2 波特兰伐木者",
    "note": "Q2 Stadium"
   },
   {
@@ -5319,6 +5294,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "FC Dallas 3:1 科罗拉多急流",
    "note": "Toyota Stadium"
   },
   {
@@ -5332,6 +5308,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "Houston Dynamo FC 0:1 St. Louis CITY SC",
    "note": "Shell Energy Stadium"
   },
   {
@@ -5345,6 +5322,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "Minnesota United FC 3:1 San Jose Earthquakes",
    "note": "Allianz Field"
   },
   {
@@ -5358,6 +5336,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "盐湖城 2:1 洛杉矶银河",
    "note": "America First Field"
   },
   {
@@ -5371,6 +5350,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "San Diego FC 0:1 堪萨斯城体育",
    "note": "Snapdragon Stadium"
   },
   {
@@ -5384,6 +5364,7 @@
    ],
    "bj": "2026-11-08 08:00",
    "dur": 115,
+   "result": "西雅图海湾人 2:1 洛杉矶FC",
    "note": "Lumen Field"
   },
   {
