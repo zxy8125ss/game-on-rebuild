@@ -10,19 +10,23 @@ OUT="$ROOT/icons"
 TMP="$(mktemp -d)"
 trap 'rm -rf "$TMP"' EXIT
 
-FONT_ABS="file://$ROOT/fonts/barlow-condensed-latin-700-normal.woff2"
-SVG_RAW="$(cat "$SRC")"
-# 字体路径改成绝对 file:// 地址（内联 SVG 后相对路径失效）
-SVG_RAW="${SVG_RAW//url(\"..\/fonts\//url(\"$FONT_ABS/}"
+FONT_DIR_ABS="file://$ROOT/fonts/"
+SVG_RAW="$(sed -e "s|\.\./fonts/|${FONT_DIR_ABS}|g" "$SRC")"
+
+if [ -z "$SVG_RAW" ]; then
+  echo "✗ SVG 读取失败"
+  exit 1
+fi
 
 render() {
   local filename="$1" size="$2" variant="$3"
-  # 图形占比：normal 满幅；flat 稍收；maskable 必须缩进 Android 安全区
-  local art_scale=1 radius=0
+  # 图形占比（整数百分比，写成 1 会被当成 1% 导致 SVG 缩成几像素 —— 空图）：
+  # normal 满幅；flat 稍收；maskable 必须缩进 Android 安全区
+  local art_scale=100 radius=0
   case "$variant" in
-    normal)   radius=$(( size * 219 / 1000 )); art_scale=1 ;;
-    flat)     art_scale=0.94 ;;
-    maskable) art_scale=0.66 ;;
+    normal)   radius=$(( size * 219 / 1000 )); art_scale=100 ;;
+    flat)     art_scale=94 ;;
+    maskable) art_scale=66 ;;
   esac
 
   local inner
@@ -44,18 +48,49 @@ HTML
   # --user-data-dir 指向项目内的临时目录：
   # 否则 Chrome headless 会在 ~/Library/Application Support/Google/Chrome-headless/
   # 下建 scoped_dir 并尝试清理，触发系统权限拦截
+  # 每个尺寸用独立 profile，避免复用时的状态/缓存干扰
+  # --virtual-time-budget 要给足：@font-face 加载完成前 SVG 可能还没画完，
+  # 时间不够就会截到空白图
   "$CHROME" --headless --disable-gpu --no-sandbox --hide-scrollbars \
     --no-first-run --no-default-browser-check \
-    --user-data-dir="$TMP/profile" \
+    --user-data-dir="$TMP/profile-$filename" \
     --force-device-scale-factor=1 --default-background-color=00000000 \
     --allow-file-access-from-files \
-    --virtual-time-budget=3000 \
+    --virtual-time-budget=6000 \
     --window-size="${size},${size}" \
     --screenshot="$TMP/$filename.png" \
     "file://$TMP/$filename.html" >/dev/null 2>&1
 
   if [ -f "$TMP/$filename.png" ]; then
     cp "$TMP/$filename.png" "$OUT/$filename"
+    # 校验：票根是白色 #FFFDF8，背景是绿色 #3C8A5A。
+    # 绿色占比接近 100% 说明图形没渲染出来（空图），必须拦下。
+    if ! python3 - "$OUT/$filename" <<'PY'
+import sys
+from PIL import Image
+im = Image.open(sys.argv[1]).convert('RGB')
+w, h = im.size
+px = im.load()
+green = 0
+white = 0
+for y in range(0, h, 2):
+    for x in range(0, w, 2):
+        r, g, b = px[x, y]
+        if abs(r - 60) < 12 and abs(g - 138) < 12 and abs(b - 90) < 12:
+            green += 1
+        elif r > 235 and g > 235 and b > 225:
+            white += 1
+total = (h // 2 + 1) * (w // 2 + 1)
+gp = green / total
+wp = white / total
+ok = 0.08 < wp < 0.85 and gp < 0.92
+print('    检查: 绿 %.0f%%  白 %.0f%% %s' % (gp * 100, wp * 100, 'OK' if ok else '❌ 空图'))
+sys.exit(0 if ok else 1)
+PY
+    then
+      echo "  ✗ $filename 是空图，已中止"
+      exit 1
+    fi
     echo "written $filename (${size}px)"
   else
     echo "✗ 渲染失败: $filename"
