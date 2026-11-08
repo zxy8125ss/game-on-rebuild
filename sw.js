@@ -15,7 +15,7 @@
  * 改动图标 / JS / CSS 时必须同步 bump，否则 Service Worker 会继续用旧缓存，
  * 用户的手机上还是旧图标。图标变更时尤其重要 —— 浏览器会单独缓存图标。
  */
-const VERSION = 'v2';
+const VERSION = 'v3';
 const SHELL_CACHE = `gameon-shell-${VERSION}`;
 const DATA_CACHE = `gameon-data-${VERSION}`;
 
@@ -76,12 +76,19 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-/** 主动预取赛程数据进缓存 */
+/**
+ * 主动预取赛程数据进缓存。
+ *
+ * 注意路径：GitHub Pages 部署在子目录（如 /game-on-rebuild/），
+ * 必须用相对路径 './data/...' 解析到 SW 作用域内。
+ * 早先写成绝对路径 '/data/schedule.json' 会指向站点根目录，
+ * 在子目录部署时 404，数据永远进不了缓存。
+ */
 async function precacheData() {
   const cache = await caches.open(DATA_CACHE);
-  const files = ['/data/schedule.json', '/data/catalog.json'];
+  const files = ['./data/schedule.json', './data/catalog.json'];
   await Promise.all(files.map(async (path) => {
-    const url = new URL(path, self.location.origin).href;
+    const url = new URL(path, self.registration.scope).href;
     if (await cache.match(url)) return;
     try {
       const res = await fetch(url, { cache: 'no-cache' });
