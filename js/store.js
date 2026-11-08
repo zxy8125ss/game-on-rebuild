@@ -32,12 +32,15 @@ export const DEFAULT_STATE = {
     { id: 'ff1', name: 'F1', sport: 'f1', aliases: [] },
     { id: 'flpl', name: 'LPL', aliases: ['LPL', 'AL', 'BLG', 'TES', 'iG', 'JDG', 'WE', 'EDG', 'LGD', 'WBG', 'IG', 'TTG', 'OMG', 'RA', 'NIP'] },
     { id: 'fck', name: 'LCK', aliases: ['LCK', 'GEN', 'T1', 'DRX', 'HLE', 'KDF', 'NS'] },
-    { id: 'fworlds', name: '世界赛', aliases: ['Worlds', '全球总决赛', '世界赛'] },
-    // 网球
+    { id: 'fworlds', name: '世界赛', aliases: ['世界赛', 'Worlds', '全球总决赛', 'World Championship', 'Main Event'] },
+    { id: 'fmsi', name: 'MSI', aliases: ['MSI', 'Mid-Season Invitational', '中期冠军赛'] },
+    // 网球：数据里选手名已译成中文，别名要同时给中英文
     { id: 'fzq', name: '郑钦文', aliases: ['郑钦文', 'Zheng Qinwen', 'Queen Wen'] },
-    { id: 'fsw', name: '斯瓦泰', aliases: ['斯瓦泰', '斯瓦泰克', 'Iga Swiatek'] },
-    { id: 'fsb', name: '萨巴伦卡娃', aliases: ['萨巴伦卡娃', '斯沃洛娃', 'Aryna Sabalenka'] },
-    { id: 'fzc', name: '兹维列夫', aliases: ['兹维列夫', 'Zverev'] },
+    { id: 'fsw', name: '斯瓦泰', aliases: ['斯瓦泰', '斯瓦泰克', 'Iga Swiatek', 'Swiatek'] },
+    { id: 'fsb', name: '萨巴伦卡娃', aliases: ['萨巴伦卡娃', '斯沃洛娃', 'Aryna Sabalenka', 'Sabalenka'] },
+    { id: 'fzc', name: '兹维列夫', aliases: ['兹维列夫', 'Zverev', 'Alexander Zverev'] },
+    { id: 'fgao', name: '高芙', aliases: ['高芙', 'Coco Gauff', 'Gauff'] },
+    { id: 'fko', name: '科瓦奇', aliases: ['科瓦奇', '科瓦奇娃', 'Katerina Siniakova', 'Siniakova'] },
   ],
   custom: [],
   marks: {},
@@ -47,9 +50,10 @@ export const DEFAULT_STATE = {
 };
 
 export const DEFAULT_UI = {
-  // 默认展示「全部」：首次打开时关注项可能一场都没匹配上，
-  // 空白的首屏对用户没有信息量。切到「关注」是一键操作。
-  view: 'all',
+  // 默认「聚焦」：只显示推荐场次与关注的场次。
+  // 数据源覆盖 19 个联赛几百场，默认全量列表没有信息量 —— 用户要的是重点。
+  // 想看全部可以切到「全部」。
+  view: 'focus',
   sport: 'all',
   q: '',
   past: false,

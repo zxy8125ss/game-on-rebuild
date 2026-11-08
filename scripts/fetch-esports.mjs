@@ -34,6 +34,30 @@ const names = fs.existsSync(NAMES_FILE)
   : {};
 
 /**
+ * 电竞赛事中文名。键是 Leaguepedia 页面全名。
+ * 单独维护而不是走 names.json —— names.json 是给队伍/选手用的，
+ * 键名格式不同（LPL/2026 Season/Split 1 vs LPL Gaming）。
+ */
+const ESPORT_SUB = {
+  'LPL/2026 Season/Split 1': 'LPL 春季赛',
+  'LPL/2026 Season/Split 2': 'LPL 春季赛',
+  'LPL/2026 Season/Split 3': 'LPL 夏季赛',
+  'LPL/2026 Season/Split 1 Playoffs': 'LPL 春季赛 · 季后赛',
+  'LPL/2026 Season/Split 2 Playoffs': 'LPL 春季赛 · 季后赛',
+  'LPL/2026 Season/Grand Finals': 'LPL 总决赛',
+  'LPL/2026 Season/Regional Finals': 'LPL 区域决赛',
+  'LCK/2026 Season': 'LCK 赛季',
+  'LCK/2026 Season/Rounds 1-2': 'LCK 常规赛',
+  'LCK/2026 Season/Rounds 3-4': 'LCK 季后赛资格赛',
+  'LCK/2026 Season/Season Play-In': 'LCK 复活赛',
+  'LCK/2026 Season/Season Playoffs': 'LCK 季后赛',
+  '2026 Season World Championship/Main Event': '全球总决赛',
+  '2026 Season World Championship/Play-In': '全球总决赛 · 资格赛',
+  '2026 Mid-Season Invitational': '中期冠军赛 MSI',
+  'Esports World Cup 2026': '电竞世界杯',
+};
+
+/**
  * 队名转中文/缩写。
  * Leaguepedia 的队名常带地区后缀（如 "Ninjas in Pyjamas.CN"、"Bilibili Gaming (BLG)"），
  * 先精确匹配，再去掉后缀与括号重试，最后做不区分大小写的宽松匹配。
@@ -177,8 +201,9 @@ function parseMatches(html, pageName) {
       result = `${zh(name1)} ${scores[0]}:${scores[1]} ${zh(name2)}`;
     }
 
-    // 赛事名：页面名去掉 "/2026 Season/..." 后缀
-    const sub = pageName.replace(/^\/+/, '').replace(/\/(\d{4}) Season.*$/, ' $1');
+    // 赛事名：优先用中文映射表（键为页面全名），否则退回简化形式
+    const sub = ESPORT_SUB[pageName]
+      || zh(pageName.replace(/^\/+/, '').replace(/\/(\d{4}) Season.*$/, ' $1'));
 
     out.push({
       id: `lol-${pageName.replace(/[^a-z0-9]+/gi, '-').toLowerCase()}-${date}-${name1}-${name2}`.slice(0, 90),

@@ -461,6 +461,13 @@ button { cursor: pointer; }
 }
 .lh b { font-size: 13px; color: var(--fg); }
 .lh .hol { color: var(--hol-fg); font-weight: 600; }
+.lh .vname {
+  font-size: 11px;
+  color: var(--lamp);
+  background: var(--lamp-soft);
+  border-radius: 4px;
+  padding: 1px 6px;
+}
 
 .row { --stub: 58px; flex: 0 0 auto; text-align: left; font: inherit; color: inherit; }
 .row .tmain { display: flex; flex-direction: column; gap: 2px; }

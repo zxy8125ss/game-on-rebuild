@@ -1,170 +1,6 @@
 {
- "updatedAt": "2026-11-01T13:59:05.040Z",
+ "updatedAt": "2026-11-01T14:24:10.651Z",
  "matches": [
-  {
-   "id": "fb-eng.1-401879254",
-   "sport": "football",
-   "sub": "英超 · 2026",
-   "title": "水晶宫 vs 纽卡斯尔",
-   "teams": [
-    "水晶宫",
-    "纽卡斯尔"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "水晶宫 0:2 纽卡斯尔",
-   "note": "Selhurst Park"
-  },
-  {
-   "id": "fb-eng.1-401878766",
-   "sport": "football",
-   "sub": "英超 · 2026",
-   "title": "赫尔城 vs 布伦特福德",
-   "teams": [
-    "赫尔城",
-    "布伦特福德"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "赫尔城 1:1 布伦特福德",
-   "note": "The MKM Stadium"
-  },
-  {
-   "id": "fb-eng.1-401878765",
-   "sport": "football",
-   "sub": "英超 · 2026",
-   "title": "利物浦 vs 布莱顿",
-   "teams": [
-    "利物浦",
-    "布莱顿"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "利物浦 2:0 布莱顿",
-   "note": "Anfield"
-  },
-  {
-   "id": "fb-eng.1-401879252",
-   "sport": "football",
-   "sub": "英超 · 2026",
-   "title": "曼联 vs 伯恩茅斯",
-   "teams": [
-    "曼联",
-    "伯恩茅斯"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "曼联 0:3 伯恩茅斯",
-   "note": "Old Trafford"
-  },
-  {
-   "id": "fb-ita.1-401874972",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "亚特兰大 vs 弗罗西诺内",
-   "teams": [
-    "亚特兰大",
-    "弗罗西诺内"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "亚特兰大 4:4 弗罗西诺内",
-   "note": "New Balance Arena"
-  },
-  {
-   "id": "fb-ita.1-401874952",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "热那亚 vs 威尼斯",
-   "teams": [
-    "热那亚",
-    "威尼斯"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "热那亚 1:0 威尼斯",
-   "note": "Stadio Luigi Ferraris"
-  },
-  {
-   "id": "fb-fra.1-401876425",
-   "sport": "football",
-   "sub": "法甲 · 2026",
-   "title": "摩纳哥 vs 里尔",
-   "teams": [
-    "摩纳哥",
-    "里尔"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "摩纳哥 1:1 里尔",
-   "note": "Stade Louis II"
-  },
-  {
-   "id": "fb-sco.1-401878359",
-   "sport": "football",
-   "sub": "苏超 · 2026",
-   "title": "马瑟韦尔 vs Heart of Midlothian",
-   "teams": [
-    "马瑟韦尔",
-    "Heart of Midlothian"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 115,
-   "result": "马瑟韦尔 0:2 Heart of Midlothian",
-   "note": "Fir Park"
-  },
-  {
-   "id": "tn-atp-187224",
-   "sport": "tennis",
-   "sub": "Swiss Indoors Basel · 男单",
-   "title": "Remy Bertola vs Mika Brunold",
-   "teams": [
-    "Remy Bertola",
-    "Mika Brunold"
-   ],
-   "bj": "2026-10-25 22:00",
-   "dur": 150,
-   "result": "Remy Bertola 6-4"
-  },
-  {
-   "id": "tn-wta-187281",
-   "sport": "tennis",
-   "sub": "库里蒂巴公开赛 · 女单",
-   "title": "Georgia Gulin vs Lourdes Ayala",
-   "teams": [
-    "Georgia Gulin",
-    "Lourdes Ayala"
-   ],
-   "bj": "2026-10-25 22:05",
-   "dur": 150,
-   "result": "Lourdes Ayala 6-3"
-  },
-  {
-   "id": "tn-wta-187280",
-   "sport": "tennis",
-   "sub": "库里蒂巴公开赛 · 女单",
-   "title": "Jennifer Dourado vs Luna Maria Cinalli",
-   "teams": [
-    "Jennifer Dourado",
-    "Luna Maria Cinalli"
-   ],
-   "bj": "2026-10-25 22:05",
-   "dur": 150,
-   "result": "Luna Maria Cinalli 6-1 6-1"
-  },
-  {
-   "id": "tn-wta-187266",
-   "sport": "tennis",
-   "sub": "瓦莱多斯塔女子赛 · 女单",
-   "title": "Gaia Maduzzi vs Finja Matuella",
-   "teams": [
-    "Gaia Maduzzi",
-    "Finja Matuella"
-   ],
-   "bj": "2026-10-25 22:10",
-   "dur": 150,
-   "result": "Gaia Maduzzi 6-1 6-1"
-  },
   {
    "id": "fb-ger.1-401884760",
    "sport": "football",
@@ -402,7 +238,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-25-Hanwha Life Esports-Invictus Gami",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Hanwha Life Esports vs IG",
    "teams": [
     "Hanwha Life Esports",
@@ -457,7 +293,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-25-Top Esports-G2 Esports",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "TES vs G2",
    "teams": [
     "TES",
@@ -484,7 +320,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-25-Dplus Kia-Movistar KOI",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Dplus Kia vs Movistar KOI",
    "teams": [
     "Dplus Kia",
@@ -549,7 +385,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-25-Gen.G-LYON (2024 American Team)",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "GEN vs LYON (2024 American Team)",
    "teams": [
     "GEN",
@@ -802,9 +638,9 @@
    "id": "tn-atp-185136",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Nuno Borges vs Mika Brunold",
+   "title": "博尔热斯 vs Mika Brunold",
    "teams": [
-    "Nuno Borges",
+    "博尔热斯",
     "Mika Brunold"
    ],
    "bj": "2026-10-26 20:40",
@@ -815,10 +651,10 @@
    "id": "tn-atp-185131",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Mariano Navone vs Valentin Vacherot",
+   "title": "Mariano Navone vs 瓦舍罗",
    "teams": [
     "Mariano Navone",
-    "Valentin Vacherot"
+    "瓦舍罗"
    ],
    "bj": "2026-10-26 20:40",
    "dur": 150,
@@ -867,9 +703,9 @@
    "id": "tn-atp-185195",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Alex de Minaur vs Tomas Machac",
+   "title": "德米纳尔 vs Tomas Machac",
    "teams": [
-    "Alex de Minaur",
+    "德米纳尔",
     "Tomas Machac"
    ],
    "bj": "2026-10-26 22:20",
@@ -893,10 +729,10 @@
    "id": "tn-atp-185130",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Quentin Halys vs Holger Rune",
+   "title": "Quentin Halys vs 伦德",
    "teams": [
     "Quentin Halys",
-    "Holger Rune"
+    "伦德"
    ],
    "bj": "2026-10-26 23:00",
    "dur": 150,
@@ -1038,10 +874,10 @@
    "id": "tn-atp-185197",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Lukas Neumayer vs Jakub Mensik",
+   "title": "Lukas Neumayer vs 门希克",
    "teams": [
     "Lukas Neumayer",
-    "Jakub Mensik"
+    "门希克"
    ],
    "bj": "2026-10-27 00:50",
    "dur": 150,
@@ -1050,7 +886,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-26-T1-CTBC Flying Oyster",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "T1 vs CTBC Flying Oyster",
    "teams": [
     "T1",
@@ -1115,7 +951,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-26-Karmine Corp-Bilibili Gaming",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "KC vs BLG",
    "teams": [
     "KC",
@@ -1208,7 +1044,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-26-LØS-Team Secret Whales",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "LØS vs Team Secret Whales",
    "teams": [
     "LØS",
@@ -1262,9 +1098,9 @@
    "id": "tn-atp-185137",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Casper Ruud vs Dominic Stricker",
+   "title": "鲁德 vs Dominic Stricker",
    "teams": [
-    "Casper Ruud",
+    "鲁德",
     "Dominic Stricker"
    ],
    "bj": "2026-10-27 03:55",
@@ -1327,7 +1163,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-26-Team Liquid-Anyone's Legend",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "TL vs AL",
    "teams": [
     "TL",
@@ -1655,10 +1491,10 @@
    "id": "tn-atp-185129",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Zizou Bergs vs Hubert Hurkacz",
+   "title": "Zizou Bergs vs 胡尔卡奇",
    "teams": [
     "Zizou Bergs",
-    "Hubert Hurkacz"
+    "胡尔卡奇"
    ],
    "bj": "2026-10-27 19:05",
    "dur": 150,
@@ -1707,10 +1543,10 @@
    "id": "tn-atp-185192",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Andrey Rublev vs Tommy Paul",
+   "title": "Andrey Rublev vs 保罗",
    "teams": [
     "Andrey Rublev",
-    "Tommy Paul"
+    "保罗"
    ],
    "bj": "2026-10-27 20:40",
    "dur": 150,
@@ -1798,10 +1634,10 @@
    "id": "tn-atp-185184",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Ignacio Buse vs Adrian Mannarino",
+   "title": "Ignacio Buse vs 马纳里诺",
    "teams": [
     "Ignacio Buse",
-    "Adrian Mannarino"
+    "马纳里诺"
    ],
    "bj": "2026-10-27 22:25",
    "dur": 150,
@@ -1837,9 +1673,9 @@
    "id": "tn-wta-185839",
    "sport": "tennis",
    "sub": "瓦莱多斯塔女子赛 · 女单",
-   "title": "Martyna Kubka vs Mia Ristic",
+   "title": "库布卡 vs Mia Ristic",
    "teams": [
-    "Martyna Kubka",
+    "库布卡",
     "Mia Ristic"
    ],
    "bj": "2026-10-27 22:50",
@@ -1863,10 +1699,10 @@
    "id": "tn-atp-185144",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Botic Van De Zandschulp vs Alex Michelsen",
+   "title": "Botic Van De Zandschulp vs 米歇尔森",
    "teams": [
     "Botic Van De Zandschulp",
-    "Alex Michelsen"
+    "米歇尔森"
    ],
    "bj": "2026-10-27 23:25",
    "dur": 150,
@@ -2006,10 +1842,10 @@
    "id": "tn-atp-185139",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Aleksandar Kovacevic vs Ben Shelton",
+   "title": "Aleksandar Kovacevic vs 谢尔顿",
    "teams": [
     "Aleksandar Kovacevic",
-    "Ben Shelton"
+    "谢尔顿"
    ],
    "bj": "2026-10-28 01:05",
    "dur": 150,
@@ -2165,9 +2001,9 @@
    "id": "tn-atp-185180",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Grigor Dimitrov vs Flavio Cobolli",
+   "title": "迪米特洛夫 vs Flavio Cobolli",
    "teams": [
-    "Grigor Dimitrov",
+    "迪米特洛夫",
     "Flavio Cobolli"
    ],
    "bj": "2026-10-28 04:25",
@@ -2464,9 +2300,9 @@
    "id": "tn-atp-185142",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Denis Shapovalov vs Remy Bertola",
+   "title": "沙波瓦洛夫 vs Remy Bertola",
    "teams": [
-    "Denis Shapovalov",
+    "沙波瓦洛夫",
     "Remy Bertola"
    ],
    "bj": "2026-10-28 21:05",
@@ -2477,10 +2313,10 @@
    "id": "tn-atp-185145",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Casper Ruud vs Nuno Borges",
+   "title": "鲁德 vs 博尔热斯",
    "teams": [
-    "Casper Ruud",
-    "Nuno Borges"
+    "鲁德",
+    "博尔热斯"
    ],
    "bj": "2026-10-28 21:10",
    "dur": 150,
@@ -2503,10 +2339,10 @@
    "id": "tn-atp-185178",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Frances Tiafoe vs Lorenzo Musetti",
+   "title": "Frances Tiafoe vs 穆塞蒂",
    "teams": [
     "Frances Tiafoe",
-    "Lorenzo Musetti"
+    "穆塞蒂"
    ],
    "bj": "2026-10-28 22:30",
    "dur": 150,
@@ -2542,10 +2378,10 @@
    "id": "tn-atp-185133",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Ugo Humbert vs Novak Djokovic",
+   "title": "Ugo Humbert vs 德约科维奇",
    "teams": [
     "Ugo Humbert",
-    "Novak Djokovic"
+    "德约科维奇"
    ],
    "bj": "2026-10-28 23:20",
    "dur": 150,
@@ -2594,10 +2430,10 @@
    "id": "tn-atp-185185",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Adrian Mannarino vs Jakub Mensik",
+   "title": "马纳里诺 vs 门希克",
    "teams": [
-    "Adrian Mannarino",
-    "Jakub Mensik"
+    "马纳里诺",
+    "门希克"
    ],
    "bj": "2026-10-29 00:45",
    "dur": 150,
@@ -2701,9 +2537,9 @@
    "id": "tn-atp-185198",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Alex de Minaur vs Learner Tien",
+   "title": "德米纳尔 vs Learner Tien",
    "teams": [
-    "Alex de Minaur",
+    "德米纳尔",
     "Learner Tien"
    ],
    "bj": "2026-10-29 03:15",
@@ -2825,7 +2661,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-28-Movistar KOI-T1",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Movistar KOI vs T1",
    "teams": [
     "Movistar KOI",
@@ -2839,10 +2675,10 @@
    "id": "tn-atp-185146",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Holger Rune vs Hubert Hurkacz",
+   "title": "伦德 vs 胡尔卡奇",
    "teams": [
-    "Holger Rune",
-    "Hubert Hurkacz"
+    "伦德",
+    "胡尔卡奇"
    ],
    "bj": "2026-10-29 04:15",
    "dur": 150,
@@ -2919,7 +2755,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-28-Invictus Gaming-LYON (2024 Americ",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "IG vs LYON (2024 American Team)",
    "teams": [
     "IG",
@@ -3288,10 +3124,10 @@
    "id": "tn-atp-185147",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Rafael Jodar vs Valentin Vacherot",
+   "title": "Rafael Jodar vs 瓦舍罗",
    "teams": [
     "Rafael Jodar",
-    "Valentin Vacherot"
+    "瓦舍罗"
    ],
    "bj": "2026-10-29 19:10",
    "dur": 150,
@@ -3327,10 +3163,10 @@
    "id": "tn-atp-185190",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Luciano Darderi vs Tommy Paul",
+   "title": "Luciano Darderi vs 保罗",
    "teams": [
     "Luciano Darderi",
-    "Tommy Paul"
+    "保罗"
    ],
    "bj": "2026-10-29 20:40",
    "dur": 150,
@@ -3353,10 +3189,10 @@
    "id": "tn-atp-185152",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Arthur Fils vs Alex Michelsen",
+   "title": "Arthur Fils vs 米歇尔森",
    "teams": [
     "Arthur Fils",
-    "Alex Michelsen"
+    "米歇尔森"
    ],
    "bj": "2026-10-29 22:00",
    "dur": 150,
@@ -3418,9 +3254,9 @@
    "id": "tn-atp-185194",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Lorenzo Musetti vs Arthur Fery",
+   "title": "穆塞蒂 vs Arthur Fery",
    "teams": [
-    "Lorenzo Musetti",
+    "穆塞蒂",
     "Arthur Fery"
    ],
    "bj": "2026-10-30 00:05",
@@ -3444,9 +3280,9 @@
    "id": "tn-atp-185148",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Denis Shapovalov vs 弗里茨",
+   "title": "沙波瓦洛夫 vs 弗里茨",
    "teams": [
-    "Denis Shapovalov",
+    "沙波瓦洛夫",
     "弗里茨"
    ],
    "bj": "2026-10-30 00:40",
@@ -3510,10 +3346,10 @@
    "id": "tn-atp-185151",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "施特鲁夫 vs Novak Djokovic",
+   "title": "施特鲁夫 vs 德约科维奇",
    "teams": [
     "施特鲁夫",
-    "Novak Djokovic"
+    "德约科维奇"
    ],
    "bj": "2026-10-30 02:20",
    "dur": 150,
@@ -3562,7 +3398,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-29-Karmine Corp-CTBC Flying Oyster",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "KC vs CTBC Flying Oyster",
    "teams": [
     "KC",
@@ -3602,10 +3438,10 @@
    "id": "tn-wta-185847",
    "sport": "tennis",
    "sub": "瓦莱多斯塔女子赛 · 女单",
-   "title": "Lisa Pigato vs Martyna Kubka",
+   "title": "Lisa Pigato vs 库布卡",
    "teams": [
     "Lisa Pigato",
-    "Martyna Kubka"
+    "库布卡"
    ],
    "bj": "2026-10-30 04:15",
    "dur": 150,
@@ -3615,10 +3451,10 @@
    "id": "tn-atp-185149",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Jerome Kym vs Ben Shelton",
+   "title": "Jerome Kym vs 谢尔顿",
    "teams": [
     "Jerome Kym",
-    "Ben Shelton"
+    "谢尔顿"
    ],
    "bj": "2026-10-30 05:15",
    "dur": 150,
@@ -3681,7 +3517,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-29-Top Esports-Bilibili Gaming",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "TES vs BLG",
    "teams": [
     "TES",
@@ -3853,10 +3689,10 @@
    "id": "tn-atp-185201",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "梅德韦杰夫 vs Adrian Mannarino",
+   "title": "梅德韦杰夫 vs 马纳里诺",
    "teams": [
     "梅德韦杰夫",
-    "Adrian Mannarino"
+    "马纳里诺"
    ],
    "bj": "2026-10-30 20:40",
    "dur": 150,
@@ -3892,10 +3728,10 @@
    "id": "tn-atp-185153",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Valentin Vacherot vs Holger Rune",
+   "title": "瓦舍罗 vs 伦德",
    "teams": [
-    "Valentin Vacherot",
-    "Holger Rune"
+    "瓦舍罗",
+    "伦德"
    ],
    "bj": "2026-10-30 21:10",
    "dur": 150,
@@ -3905,9 +3741,9 @@
    "id": "tn-wta-185852",
    "sport": "tennis",
    "sub": "瓦莱多斯塔女子赛 · 女单",
-   "title": "Martyna Kubka vs 布林科娃",
+   "title": "库布卡 vs 布林科娃",
    "teams": [
-    "Martyna Kubka",
+    "库布卡",
     "布林科娃"
    ],
    "bj": "2026-10-30 22:30",
@@ -3918,10 +3754,10 @@
    "id": "tn-atp-185202",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "阿尔卡拉斯 vs Tommy Paul",
+   "title": "阿尔卡拉斯 vs 保罗",
    "teams": [
     "阿尔卡拉斯",
-    "Tommy Paul"
+    "保罗"
    ],
    "bj": "2026-10-30 22:35",
    "dur": 150,
@@ -4051,9 +3887,9 @@
    "id": "tn-atp-185156",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Nuno Borges vs 施特鲁夫",
+   "title": "博尔热斯 vs 施特鲁夫",
    "teams": [
-    "Nuno Borges",
+    "博尔热斯",
     "施特鲁夫"
    ],
    "bj": "2026-10-31 02:50",
@@ -4077,9 +3913,9 @@
    "id": "tn-atp-185200",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Alex de Minaur vs Matteo Berrettini",
+   "title": "德米纳尔 vs Matteo Berrettini",
    "teams": [
-    "Alex de Minaur",
+    "德米纳尔",
     "Matteo Berrettini"
    ],
    "bj": "2026-10-31 03:15",
@@ -4117,7 +3953,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-30-Team Liquid-LØS",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "TL vs LØS",
    "teams": [
     "TL",
@@ -4211,7 +4047,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-30-Hanwha Life Esports-G2 Esports",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Hanwha Life Esports vs G2",
    "teams": [
     "Hanwha Life Esports",
@@ -4931,10 +4767,10 @@
    "id": "tn-atp-185158",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "弗里茨 vs Valentin Vacherot",
+   "title": "弗里茨 vs 瓦舍罗",
    "teams": [
     "弗里茨",
-    "Valentin Vacherot"
+    "瓦舍罗"
    ],
    "bj": "2026-10-31 22:10",
    "dur": 150,
@@ -5152,10 +4988,10 @@
    "id": "tn-atp-187343",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Adrian Mannarino vs Nuno Borges",
+   "title": "马纳里诺 vs 博尔热斯",
    "teams": [
-    "Adrian Mannarino",
-    "Nuno Borges"
+    "马纳里诺",
+    "博尔热斯"
    ],
    "bj": "2026-10-31 23:25",
    "dur": 150,
@@ -5233,9 +5069,9 @@
    "id": "tn-atp-185203",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "Alex de Minaur vs 兹维列夫",
+   "title": "德米纳尔 vs 兹维列夫",
    "teams": [
-    "Alex de Minaur",
+    "德米纳尔",
     "兹维列夫"
    ],
    "bj": "2026-11-01 00:10",
@@ -5286,7 +5122,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-31-Karmine Corp-Movistar KOI",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "KC vs Movistar KOI",
    "teams": [
     "KC",
@@ -5300,9 +5136,9 @@
    "id": "tn-atp-187337",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Grigor Dimitrov vs Adolfo Daniel Vallejo",
+   "title": "迪米特洛夫 vs Adolfo Daniel Vallejo",
    "teams": [
-    "Grigor Dimitrov",
+    "迪米特洛夫",
     "Adolfo Daniel Vallejo"
    ],
    "bj": "2026-11-01 01:15",
@@ -5550,7 +5386,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-31-LØS-LYON (2024 American Team)",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "LØS vs LYON (2024 American Team)",
    "teams": [
     "LØS",
@@ -5629,7 +5465,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-10-31-Hanwha Life Esports-Bilibili Gami",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Hanwha Life Esports vs BLG",
    "teams": [
     "Hanwha Life Esports",
@@ -5998,7 +5834,8 @@
     "Mei Yamaguchi"
    ],
    "bj": "2026-11-01 19:10",
-   "dur": 150
+   "dur": 150,
+   "result": "Zhibek Kulambayeva"
   },
   {
    "id": "fb-ned.1-401875560",
@@ -6123,10 +5960,10 @@
    "id": "tn-atp-185205",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "阿尔卡拉斯 vs Alex de Minaur",
+   "title": "阿尔卡拉斯 vs 德米纳尔",
    "teams": [
     "阿尔卡拉斯",
-    "Alex de Minaur"
+    "德米纳尔"
    ],
    "bj": "2026-11-01 21:10",
    "dur": 150
@@ -6185,10 +6022,10 @@
    "id": "tn-atp-187352",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Alex Molcan vs Nuno Borges",
+   "title": "Alex Molcan vs 博尔热斯",
    "teams": [
     "Alex Molcan",
-    "Nuno Borges"
+    "博尔热斯"
    ],
    "bj": "2026-11-01 21:55",
    "dur": 150
@@ -6241,7 +6078,7 @@
     "格拉伯",
     "Alice Tubello"
    ],
-   "bj": "2026-11-01 22:00",
+   "bj": "2026-11-01 22:10",
    "dur": 150
   },
   {
@@ -6253,7 +6090,7 @@
     "Alina Charaeva",
     "Noma Noha Akugue"
    ],
-   "bj": "2026-11-01 22:00",
+   "bj": "2026-11-01 22:15",
    "dur": 150
   },
   {
@@ -6273,9 +6110,9 @@
    "id": "tn-atp-185159",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Valentin Vacherot vs 莱切克",
+   "title": "瓦舍罗 vs 莱切克",
    "teams": [
-    "Valentin Vacherot",
+    "瓦舍罗",
     "莱切克"
    ],
    "bj": "2026-11-01 22:30",
@@ -6679,10 +6516,10 @@
    "id": "tn-atp-186445",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Holger Rune vs Tommy Paul",
+   "title": "伦德 vs 保罗",
    "teams": [
-    "Holger Rune",
-    "Tommy Paul"
+    "伦德",
+    "保罗"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -6715,10 +6552,10 @@
    "id": "tn-atp-186451",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "莱切克 vs Alex Michelsen",
+   "title": "莱切克 vs 米歇尔森",
    "teams": [
     "莱切克",
-    "Alex Michelsen"
+    "米歇尔森"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -6785,10 +6622,10 @@
    "id": "tn-atp-186458",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Valentin Vacherot vs Novak Djokovic",
+   "title": "瓦舍罗 vs 德约科维奇",
    "teams": [
-    "Valentin Vacherot",
-    "Novak Djokovic"
+    "瓦舍罗",
+    "德约科维奇"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -6831,10 +6668,10 @@
    "id": "tn-atp-186462",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Hubert Hurkacz vs Lorenzo Musetti",
+   "title": "胡尔卡奇 vs 穆塞蒂",
    "teams": [
-    "Hubert Hurkacz",
-    "Lorenzo Musetti"
+    "胡尔卡奇",
+    "穆塞蒂"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -6855,10 +6692,10 @@
    "id": "tn-atp-186466",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Karen Khachanov vs Denis Shapovalov",
+   "title": "Karen Khachanov vs 沙波瓦洛夫",
    "teams": [
     "Karen Khachanov",
-    "Denis Shapovalov"
+    "沙波瓦洛夫"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -6891,9 +6728,9 @@
    "id": "tn-atp-186469",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "TBD vs Casper Ruud",
+   "title": "TBD vs 鲁德",
    "teams": [
-    "Casper Ruud"
+    "鲁德"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -6914,10 +6751,10 @@
    "id": "tn-atp-186473",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Learner Tien vs Stefanos Tsitsipas",
+   "title": "Learner Tien vs 西西帕斯",
    "teams": [
     "Learner Tien",
-    "Stefanos Tsitsipas"
+    "西西帕斯"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -7289,9 +7126,9 @@
    "id": "tn-wta-186670",
    "sport": "tennis",
    "sub": "Angola Ladies Open · 女单",
-   "title": "Martyna Kubka vs TBD",
+   "title": "库布卡 vs TBD",
    "teams": [
-    "Martyna Kubka"
+    "库布卡"
    ],
    "bj": "2026-11-02 13:00",
    "dur": 150
@@ -7761,7 +7598,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-03-Top Esports-Invictus Gaming",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "TES vs IG",
    "teams": [
     "TES",
@@ -7800,9 +7637,9 @@
    "id": "tn-atp-186477",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "TBD vs Ben Shelton",
+   "title": "TBD vs 谢尔顿",
    "teams": [
-    "Ben Shelton"
+    "谢尔顿"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
@@ -7833,9 +7670,9 @@
    "id": "tn-atp-186481",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Alex de Minaur vs TBD",
+   "title": "德米纳尔 vs TBD",
    "teams": [
-    "Alex de Minaur"
+    "德米纳尔"
    ],
    "bj": "2026-11-04 13:00",
    "dur": 150
@@ -8017,7 +7854,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-04-Gen.G-LYON (2024 American Team)",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "GEN vs LYON (2024 American Team)",
    "teams": [
     "GEN",
@@ -8536,7 +8373,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Dplus Kia vs BLG",
    "teams": [
     "Dplus Kia",
@@ -8691,7 +8528,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-06-Karmine Corp-T1",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "KC vs T1",
    "teams": [
     "KC",

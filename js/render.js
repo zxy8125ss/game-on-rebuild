@@ -7,7 +7,7 @@
  */
 
 import { DAY, WEEKDAYS, bjParts, dayKey, dayStart, hm, overlap } from './time.js';
-import { DEFAULT_CHANNELS, RECOMMEND_THRESHOLD, isLive, isOver, recommendScore } from './model.js';
+import { DEFAULT_CHANNELS, RECOMMEND_THRESHOLD, isLive, isOver, isTBD, recommendScore } from './model.js';
 
 export const escapeHTML = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({
@@ -31,7 +31,10 @@ export function shortResult(m) {
 
 /**
  * 计算全量赛程的派生数据：命中关注、推荐分、冲突检测。
- * 返回 { all, top, scores }
+ *
+ * 推荐名额分配带**项目配额**：足球有 19 个联赛、几百场，光靠分数排序必然
+ * 全被足球占满。这里限制「同一项目每天最多占 1 个名额」，
+ * 让网球 / F1 / 电竞有机会进来。
  */
 export function compute(all, follows, hiddenSet, now) {
   const scored = all.map((m) => {
@@ -40,22 +43,58 @@ export function compute(all, follows, hiddenSet, now) {
     return { ...m, score, why, f: hits };
   });
 
+  // 对阵未公布的占位场次不进推荐
+  const recommendable = scored.filter((x) => !isTBD(x));
+
   // 关注且未结束的比赛之间做时间冲突检测
   const followed = scored.filter((m) => m.f.length && m.known && m.end > now);
   for (const a of followed) {
     a.clash = followed.filter((b) => b !== a && overlap(a.start, a.end, b.start, b.end) > 0);
   }
 
-  // 本周推荐：未来 7 天，每天最多 3 场
+  // 本周推荐：未来 7 天，每天最多 3 场，且同一项目最多 1 场
   const base = dayStart(now);
   const top = new Map();
+  const PER_DAY = 3;
+
+  // 项目展示优先级：足球场次最多，排在后面，让小众项目有机会
+  const SPORT_PRIORITY = { f1: 0, lol: 1, tennis: 2, football: 3, custom: 4 };
+
   for (let i = 0; i < 7; i++) {
     const ds = base + i * DAY;
-    scored
+    const candidates = recommendable
       .filter((x) => !hiddenSet.has(x.id) && x.start >= ds && x.start < ds + DAY && x.score >= RECOMMEND_THRESHOLD)
-      .sort((a, b) => b.score - a.score || a.start - b.start)
-      .slice(0, 3)
-      .forEach((x) => top.set(x.id, x.why));
+      .sort((a, b) => b.score - a.score || a.start - b.start);
+
+    let picked = 0;
+    const taken = new Set();
+
+    // 按项目轮转取：F1 → 电竞 → 网球 → 足球。
+    // 足球场次最多（19 个联赛、几百场），排在最后，且**每轮最多 1 场**——
+    // 这样名额不够时优先补其他项目，足球只填最后的空位。
+    const sports = [...new Set(candidates.map((c) => c.sport))]
+      .sort((a, b) => (SPORT_PRIORITY[a] ?? 9) - (SPORT_PRIORITY[b] ?? 9));
+
+    // 每项目的总配额：足球 1 场，其余 2 场（够占满 3 个名额时的多样性）
+    const quota = { football: 1, tennis: 2, lol: 2, f1: 2, custom: 2 };
+    const used = new Map();
+
+    while (picked < PER_DAY) {
+      let addedThisRound = false;
+      for (const sp of sports) {
+        if (picked >= PER_DAY) break;
+        const n = used.get(sp) || 0;
+        if (n >= (quota[sp] ?? 2)) continue;
+        const best = candidates.find((c) => c.sport === sp && !taken.has(c.id));
+        if (!best) continue;
+        top.set(best.id, best.why);
+        taken.add(best.id);
+        used.set(sp, n + 1);
+        picked++;
+        addedThisRound = true;
+      }
+      if (!addedThisRound) break;
+    }
   }
 
   return { all: scored, top, scores: new Map(scored.map((x) => [x.id, x])) };
@@ -226,17 +265,24 @@ export function renderList(all, ui, state, now, top, hiddenSet, spoilHidden) {
     grouped = true;
     head = `<div class="lh"><b>搜索结果</b><span>全部日期 · ${list.length} 场</span></div>`;
   } else if (ui.day === 'all') {
-    list = all.filter((m) => passFilters(m, ui, state, now, hiddenSet) && (ui.past || !isOver(m, now)));
+    list = all.filter((m) => (ui.view === 'focus'
+      ? passFocus(m, top, hiddenSet)
+      : passFilters(m, ui, state, now, hiddenSet))
+      && (ui.past || !isOver(m, now)));
     grouped = true;
-    head = `<div class="lh"><b>全部日期</b><span>${list.length} 场</span><button class="linkbtn" data-day="${dayKey(now)}" style="margin-left:auto">回到今天</button></div>`;
+    const viewName = ui.view === 'focus' ? '聚焦' : '全部日期';
+    head = `<div class="lh"><b>${viewName}</b><span>${list.length} 场</span><button class="linkbtn" data-day="${dayKey(now)}" style="margin-left:auto">回到今天</button></div>`;
   } else {
     // ui.day 为空表示「今天」，由调用方兜底设置；这里再兜一层避免崩溃
     const ds = ui.day ? dayStart(parseDayKey(ui.day)) : dayStart(now);
     list = all.filter((m) => m.start >= ds && m.start < ds + DAY
-      && passFilters(m, ui, state, now, hiddenSet)
+      && (ui.view === 'focus'
+        ? passFocus(m, top, hiddenSet)
+        : passFilters(m, ui, state, now, hiddenSet))
       && (ui.past || !isOver(m, now) || dayKey(now) === (ui.day || dayKey(now))));
     const p = bjParts(ds);
-    head = `<div class="lh"><b>${p.m}月${p.d}日 周${WEEKDAYS[p.w]}</b><span>${list.length} 场</span><button class="linkbtn" data-day="all" style="margin-left:auto">看全部日期</button></div>`;
+    const viewName = ui.view === 'focus' ? '今日聚焦' : '当天比赛';
+    head = `<div class="lh"><b>${p.m}月${p.d}日 周${WEEKDAYS[p.w]}</b><span class="vname">${viewName}</span><span>${list.length} 场</span><button class="linkbtn" data-day="all" style="margin-left:auto">看全部日期</button></div>`;
   }
 
   if (!list.length) {
@@ -253,9 +299,10 @@ export function renderList(all, ui, state, now, top, hiddenSet, spoilHidden) {
     return sortKey(a) - sortKey(b);
   });
 
-  // 当天场次很多时，非推荐场次默认收起，避免列表刷屏
-  // （数据源比原版全得多，一天可能有几十场）
-  const FOLD_THRESHOLD = 12;
+  // 当天场次很多时，非推荐场次默认收起，避免列表刷屏。
+  // 数据源比原版全得多（一天可能几十场），用户要的是「重点」不是「全量」。
+  // 关注 + 推荐场次始终展示，其余收在「展开」按钮后面。
+  const FOLD_THRESHOLD = 8;
   let folded = 0;
   if (!q && list.length > FOLD_THRESHOLD && !ui.expandAll) {
     const keep = [];
@@ -264,7 +311,7 @@ export function renderList(all, ui, state, now, top, hiddenSet, spoilHidden) {
       if (top.has(m.id) || m.f.length) keep.push(m);
       else rest.push(m);
     }
-    // 全都是非推荐时，不折叠（否则看起来像空了）
+    // 关注的场次至少要留 3 条，否则看起来像空了
     if (keep.length >= 3) {
       folded = rest.length;
       list = keep;
@@ -305,6 +352,16 @@ export function passFilters(m, ui, state, now, hiddenSet) {
   }
   if (ui.view === 'follow' && !m.f.length) return false;
   return true;
+}
+
+/**
+ * 「聚焦」视图：只显示推荐场次与关注的场次。
+ * 这是用户真正想要的 —— 数据源覆盖 19 个联赛几百场，
+ * 全量列表没有信息量，「聚焦」把每天值得看的几场挑出来。
+ */
+export function passFocus(m, top, hiddenSet) {
+  if (hiddenSet.has(m.id)) return false;
+  return top.has(m.id) || m.f.length > 0;
 }
 
 function parseDayKey(key) {
