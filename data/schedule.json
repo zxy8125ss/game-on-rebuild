@@ -1,262 +1,7 @@
 {
- "updatedAt": "2026-11-08T03:10:08.654Z",
+ "updatedAt": "2026-11-08T11:24:02.585Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-187319",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Elena Pridankina vs 坂���惠美乃",
-   "teams": [
-    "Elena Pridankina",
-    "坂���惠美乃"
-   ],
-   "bj": "2026-11-01 11:30",
-   "dur": 150,
-   "result": "Himeno Sakatsume 5-7 6-2 6-2"
-  },
-  {
-   "id": "tn-wta-187321",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Alexandra Shubladze vs 琼斯",
-   "teams": [
-    "Alexandra Shubladze",
-    "琼斯"
-   ],
-   "bj": "2026-11-01 11:40",
-   "dur": 150,
-   "result": "Alexandra Shubladze 6-4 6-2"
-  },
-  {
-   "id": "fb-jpn.1-401877580",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "横滨水手 vs 川崎前锋",
-   "teams": [
-    "横滨水手",
-    "川崎前锋"
-   ],
-   "bj": "2026-11-01 12:00",
-   "dur": 115,
-   "result": "横滨水手 4:2 川崎前锋",
-   "note": "Nissan Stadium"
-  },
-  {
-   "id": "fb-aus.1-401892146",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "墨尔本胜利 vs 中央海岸水手",
-   "teams": [
-    "墨尔本胜利",
-    "中央海岸水手"
-   ],
-   "bj": "2026-11-01 12:00",
-   "dur": 115,
-   "result": "墨尔本胜利 1:1 中央海岸水手",
-   "note": "Melbourne Rectangular Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877582",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "千叶市原 vs 福冈黄蜂",
-   "teams": [
-    "千叶市原",
-    "福冈黄蜂"
-   ],
-   "bj": "2026-11-01 13:00",
-   "dur": 115,
-   "result": "千叶市原 3:0 福冈黄蜂",
-   "note": "Fukuda Denshi Arena"
-  },
-  {
-   "id": "fb-jpn.1-401877578",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "长崎成功丸 vs 东京绿茵",
-   "teams": [
-    "长崎成功丸",
-    "东京绿茵"
-   ],
-   "bj": "2026-11-01 13:00",
-   "dur": 115,
-   "result": "长崎成功丸 1:2 东京绿茵",
-   "note": "PEACE STADIUM Connected by SoftBank"
-  },
-  {
-   "id": "fb-jpn.1-401877581",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "町田泽维亚 vs 大阪钢巴",
-   "teams": [
-    "町田泽维亚",
-    "大阪钢巴"
-   ],
-   "bj": "2026-11-01 14:00",
-   "dur": 115,
-   "result": "町田泽维亚 0:0 大阪钢巴",
-   "note": "Machida Gion Stadium"
-  },
-  {
-   "id": "fb-aus.1-401892145",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "Perth Glory FC vs Adelaide United FC",
-   "teams": [
-    "Perth Glory FC",
-    "Adelaide United FC"
-   ],
-   "bj": "2026-11-01 15:00",
-   "dur": 115,
-   "result": "Perth Glory FC 4:0 Adelaide United FC",
-   "note": "HBF Park"
-  },
-  {
-   "id": "tn-wta-187332",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Momoko Kobori vs Kyoka Okamura",
-   "teams": [
-    "Momoko Kobori",
-    "Kyoka Okamura"
-   ],
-   "bj": "2026-11-01 16:30",
-   "dur": 150,
-   "result": "Kyoka Okamura 3-6 6-3 6-3"
-  },
-  {
-   "id": "tn-wta-185735",
-   "sport": "tennis",
-   "sub": "Guangzhou Open · 女单",
-   "title": "达特 vs 塔格",
-   "teams": [
-    "达特",
-    "塔格"
-   ],
-   "bj": "2026-11-01 16:35",
-   "dur": 150,
-   "result": "Harriet Dart 4-6 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-187331",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Rada Zolotareva vs Aliona Falei",
-   "teams": [
-    "Rada Zolotareva",
-    "Aliona Falei"
-   ],
-   "bj": "2026-11-01 16:35",
-   "dur": 150,
-   "result": "Aliona Falei 6-4 4-6 7-5"
-  },
-  {
-   "id": "tn-wta-187330",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Weronika Falkowska vs Viktoria Morvayova",
-   "teams": [
-    "Weronika Falkowska",
-    "Viktoria Morvayova"
-   ],
-   "bj": "2026-11-01 16:45",
-   "dur": 150,
-   "result": "Weronika Falkowska 6-3 5-7 6-4"
-  },
-  {
-   "id": "tn-atp-187349",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Mattia Bellucci vs Thiago Agustin Tirante",
-   "teams": [
-    "Mattia Bellucci",
-    "Thiago Agustin Tirante"
-   ],
-   "bj": "2026-11-01 18:05",
-   "dur": 150,
-   "result": "Mattia Bellucci 6-4 6-4"
-  },
-  {
-   "id": "tn-atp-187354",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Vit Kopriva vs Rinky Hijikata",
-   "teams": [
-    "Vit Kopriva",
-    "Rinky Hijikata"
-   ],
-   "bj": "2026-11-01 18:05",
-   "dur": 150,
-   "result": "Rinky Hijikata 6-2"
-  },
-  {
-   "id": "tn-wta-187355",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Ashmitha Easwaramurthi vs Prathyusha Rachapudi",
-   "teams": [
-    "Ashmitha Easwaramurthi",
-    "Prathyusha Rachapudi"
-   ],
-   "bj": "2026-11-01 18:05",
-   "dur": 150,
-   "result": "Prathyusha Rachapudi 6-2 7-5"
-  },
-  {
-   "id": "fb-tur.1-401888374",
-   "sport": "football",
-   "sub": "土超 · 2026",
-   "title": "Amed SFK vs 埃于普",
-   "teams": [
-    "Amed SFK",
-    "埃于普"
-   ],
-   "bj": "2026-11-01 18:30",
-   "dur": 115,
-   "result": "Amed SFK 5:1 埃于普",
-   "note": "Diyarbakir Stadyumu"
-  },
-  {
-   "id": "tn-atp-187348",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Miomir Kecmanovic vs Juan Manuel Cerundolo",
-   "teams": [
-    "Miomir Kecmanovic",
-    "Juan Manuel Cerundolo"
-   ],
-   "bj": "2026-11-01 19:05",
-   "dur": 150,
-   "result": "Juan Manuel Cerundolo"
-  },
-  {
-   "id": "tn-wta-187333",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Zhibek Kulambayeva vs Mei Yamaguchi",
-   "teams": [
-    "Zhibek Kulambayeva",
-    "Mei Yamaguchi"
-   ],
-   "bj": "2026-11-01 19:10",
-   "dur": 150,
-   "result": "Zhibek Kulambayeva"
-  },
-  {
-   "id": "fb-ned.1-401875560",
-   "sport": "football",
-   "sub": "荷甲 · 2026",
-   "title": "兹沃勒 vs 阿德尤拉海牙",
-   "teams": [
-    "兹沃勒",
-    "阿德尤拉海牙"
-   ],
-   "bj": "2026-11-01 19:15",
-   "dur": 115,
-   "result": "兹沃勒 1:0 阿德尤拉海牙",
-   "note": "MAC³PARK Stadion"
-  },
   {
    "id": "fb-ita.1-401875002",
    "sport": "football",
@@ -5393,6 +5138,7 @@
    ],
    "bj": "2026-11-08 11:10",
    "dur": 115,
+   "result": "Pumas UNAM 2:2 美洲",
    "note": "Estadio Olímpico Universitario"
   },
   {
@@ -5406,6 +5152,7 @@
    ],
    "bj": "2026-11-08 12:00",
    "dur": 115,
+   "result": "Macarthur FC 1:2 Brisbane Roar FC",
    "note": "Campbelltown Sports Stadium"
   },
   {
@@ -5419,6 +5166,7 @@
    ],
    "bj": "2026-11-08 13:00",
    "dur": 115,
+   "result": "町田泽维亚 0:0 广岛三箭",
    "note": "Machida Gion Stadium"
   },
   {
@@ -5432,6 +5180,7 @@
    ],
    "bj": "2026-11-08 13:00",
    "dur": 115,
+   "result": "神户胜利船 2:2 浦和红钻",
    "note": "Japan National Stadium"
   },
   {
@@ -5445,6 +5194,7 @@
    ],
    "bj": "2026-11-08 14:00",
    "dur": 115,
+   "result": "大阪钢巴 2:3 大阪樱花",
    "note": "Suita City Football Stadium"
   },
   {
@@ -5458,6 +5208,7 @@
    ],
    "bj": "2026-11-08 14:00",
    "dur": 115,
+   "result": "Adelaide United FC 2:2 墨尔本胜利",
    "note": "Hindmarsh Stadium"
   },
   {
@@ -5471,6 +5222,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "北京国安 1:0 重庆铜梁龙",
    "note": "Workers' Stadium"
   },
   {
@@ -5484,6 +5236,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "大连英博 3:1 天津津门虎",
    "note": "Dalian Suoyuwan Football Stadium"
   },
   {
@@ -5497,6 +5250,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "青岛海牛 2:2 深圳新鹏城",
    "note": "Qingdao Youth Football Stadium"
   },
   {
@@ -5510,6 +5264,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "山东泰山 3:2 成都蓉城",
    "note": "Jinan Olympic Sports Center Stadium"
   },
   {
@@ -5523,6 +5278,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "上海海港 6:1 辽宁铁人",
    "note": "SAIC Motor Pudong Arena"
   },
   {
@@ -5536,6 +5292,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "上海申花 4:0 青岛西海岸",
    "note": "Shanghai Stadium"
   },
   {
@@ -5549,6 +5306,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "云南玉昆 2:1 武汉三镇",
    "note": "Yuxi Plateau Sports Center Stadium"
   },
   {
@@ -5562,6 +5320,7 @@
    ],
    "bj": "2026-11-08 15:30",
    "dur": 115,
+   "result": "浙江队 4:0 河南队",
    "note": "Yellow Dragon Sports Center Stadium"
   },
   {
@@ -5575,6 +5334,7 @@
    ],
    "bj": "2026-11-08 16:00",
    "dur": 115,
+   "result": "千叶市原 1:0 Mito Hollyhock",
    "note": "Fukuda Denshi Arena"
   },
   {
@@ -5586,20 +5346,9 @@
     "埃亚拉",
     "刘彩衣"
    ],
-   "bj": "2026-11-08 16:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186690",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Sofya Lansere vs 布林科娃",
-   "teams": [
-    "Sofya Lansere",
-    "布林科娃"
-   ],
-   "bj": "2026-11-08 18:00",
-   "dur": 150
+   "bj": "2026-11-08 16:05",
+   "dur": 150,
+   "result": "Claire Liu 6-3 6-0"
   },
   {
    "id": "fb-tur.1-401888253",
@@ -5636,6 +5385,18 @@
     "Nikoloz Basilashvili"
    ],
    "bj": "2026-11-08 19:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186690",
+   "sport": "tennis",
+   "sub": "Angola Ladies Open · 女单",
+   "title": "Sofya Lansere vs 布林科娃",
+   "teams": [
+    "Sofya Lansere",
+    "布林科娃"
+   ],
+   "bj": "2026-11-08 19:10",
    "dur": 150
   },
   {
@@ -8291,6 +8052,19 @@
    "note": "Ibrox Stadium"
   },
   {
+   "id": "fb-bra.1-401841335",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Chapecoense vs 帕尔梅拉斯",
+   "teams": [
+    "Chapecoense",
+    "帕尔梅拉斯"
+   ],
+   "bj": "2026-11-25 05:00",
+   "dur": 115,
+   "note": "Arena Condá"
+  },
+  {
    "id": "fb-jpn.1-401877527",
    "sport": "football",
    "sub": "J联赛 · 2026",
@@ -8980,6 +8754,19 @@
    "note": "Europa-Park Stadion"
   },
   {
+   "id": "fb-bra.1-401841329",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "圣保罗 vs Remo",
+   "teams": [
+    "圣保罗",
+    "Remo"
+   ],
+   "bj": "2026-11-27 07:00",
+   "dur": 115,
+   "note": "Estádio Cícero Pompeu de Toledo"
+  },
+  {
    "id": "fb-aus.1-401892133",
    "sport": "football",
    "sub": "澳超 · 2026",
@@ -9108,6 +8895,19 @@
    "bj": "2026-11-28 04:15",
    "dur": 115,
    "note": "Estádio do Marítimo"
+  },
+  {
+   "id": "fb-bra.1-401841337",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "弗鲁米嫩塞 vs 克鲁塞罗",
+   "teams": [
+    "弗鲁米嫩塞",
+    "克鲁塞罗"
+   ],
+   "bj": "2026-11-28 07:00",
+   "dur": 115,
+   "note": "Estadio do Maracana"
   },
   {
    "id": "fb-jpn.1-401877537",
@@ -9627,136 +9427,6 @@
    "note": "Kooi Stadium"
   },
   {
-   "id": "fb-bra.1-401841328",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Atlético-MG vs 瓦斯科",
-   "teams": [
-    "Atlético-MG",
-    "瓦斯科"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Arena MRV"
-  },
-  {
-   "id": "fb-bra.1-401841336",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "博塔弗戈 vs 巴伊亚",
-   "teams": [
-    "博塔弗戈",
-    "巴伊亚"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Joao Havelange Stadium"
-  },
-  {
-   "id": "fb-bra.1-401841335",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Chapecoense vs 帕尔梅拉斯",
-   "teams": [
-    "Chapecoense",
-    "帕尔梅拉斯"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Arena Condá"
-  },
-  {
-   "id": "fb-bra.1-401841334",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "科林蒂安 vs 格雷米奥",
-   "teams": [
-    "科林蒂安",
-    "格雷米奥"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Neo Química Arena"
-  },
-  {
-   "id": "fb-bra.1-401841333",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Coritiba vs 弗拉门戈",
-   "teams": [
-    "Coritiba",
-    "弗拉门戈"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Couto Pereira"
-  },
-  {
-   "id": "fb-bra.1-401841337",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "弗鲁米嫩塞 vs 克鲁塞罗",
-   "teams": [
-    "弗鲁米嫩塞",
-    "克鲁塞罗"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Estadio do Maracana"
-  },
-  {
-   "id": "fb-bra.1-401841331",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "国际队 vs Red Bull Bragantino",
-   "teams": [
-    "国际队",
-    "Red Bull Bragantino"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Estadio Beira-Rio"
-  },
-  {
-   "id": "fb-bra.1-401841330",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Mirassol vs Athletico-PR",
-   "teams": [
-    "Mirassol",
-    "Athletico-PR"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Estadio Municipal José Maria de Campos Maia"
-  },
-  {
-   "id": "fb-bra.1-401841329",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "圣保罗 vs Remo",
-   "teams": [
-    "圣保罗",
-    "Remo"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Estádio Cícero Pompeu de Toledo"
-  },
-  {
-   "id": "fb-bra.1-401841332",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Vitória vs 桑托斯",
-   "teams": [
-    "Vitória",
-    "桑托斯"
-   ],
-   "bj": "2026-11-29 04:00",
-   "dur": 115,
-   "note": "Estadio Manoel Barradas"
-  },
-  {
    "id": "fb-por.1-401885385",
    "sport": "football",
    "sub": "葡超 · 2026",
@@ -9768,6 +9438,19 @@
    "bj": "2026-11-29 04:30",
    "dur": 115,
    "note": "Estádio D. Afonso Henriques"
+  },
+  {
+   "id": "fb-bra.1-401841336",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "博塔弗戈 vs 巴伊亚",
+   "teams": [
+    "博塔弗戈",
+    "巴伊亚"
+   ],
+   "bj": "2026-11-29 08:00",
+   "dur": 115,
+   "note": "Joao Havelange Stadium"
   },
   {
    "id": "fb-jpn.1-401877541",
@@ -10196,6 +9879,32 @@
    "note": "Goffertstadion"
   },
   {
+   "id": "fb-bra.1-401841333",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Coritiba vs 弗拉门戈",
+   "teams": [
+    "Coritiba",
+    "弗拉门戈"
+   ],
+   "bj": "2026-11-30 03:00",
+   "dur": 115,
+   "note": "Couto Pereira"
+  },
+  {
+   "id": "fb-bra.1-401841332",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Vitória vs 桑托斯",
+   "teams": [
+    "Vitória",
+    "桑托斯"
+   ],
+   "bj": "2026-11-30 03:00",
+   "dur": 115,
+   "note": "Estadio Manoel Barradas"
+  },
+  {
    "id": "fb-ita.1-401874994",
    "sport": "football",
    "sub": "意甲 · 2026",
@@ -10246,6 +9955,58 @@
    "bj": "2026-11-30 04:30",
    "dur": 115,
    "note": "Estádio do Dragão"
+  },
+  {
+   "id": "fb-bra.1-401841334",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "科林蒂安 vs 格雷米奥",
+   "teams": [
+    "科林蒂安",
+    "格雷米奥"
+   ],
+   "bj": "2026-11-30 05:30",
+   "dur": 115,
+   "note": "Neo Química Arena"
+  },
+  {
+   "id": "fb-bra.1-401841331",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "国际队 vs Red Bull Bragantino",
+   "teams": [
+    "国际队",
+    "Red Bull Bragantino"
+   ],
+   "bj": "2026-11-30 05:30",
+   "dur": 115,
+   "note": "Estadio Beira-Rio"
+  },
+  {
+   "id": "fb-bra.1-401841330",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Mirassol vs Athletico-PR",
+   "teams": [
+    "Mirassol",
+    "Athletico-PR"
+   ],
+   "bj": "2026-11-30 05:30",
+   "dur": 115,
+   "note": "Estadio Municipal José Maria de Campos Maia"
+  },
+  {
+   "id": "fb-bra.1-401841328",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Atlético-MG vs 瓦斯科",
+   "teams": [
+    "Atlético-MG",
+    "瓦斯科"
+   ],
+   "bj": "2026-11-30 06:30",
+   "dur": 115,
+   "note": "Arena MRV"
   },
   {
    "id": "fb-tur.1-401888239",
@@ -10495,136 +10256,6 @@
    "note": "McDiarmid Park"
   },
   {
-   "id": "fb-bra.1-401841338",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Athletico-PR vs 圣保罗",
-   "teams": [
-    "Athletico-PR",
-    "圣保罗"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Arena da Baixada"
-  },
-  {
-   "id": "fb-bra.1-401841339",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "巴伊亚 vs Atlético-MG",
-   "teams": [
-    "巴伊亚",
-    "Atlético-MG"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Arena Fonte Nova"
-  },
-  {
-   "id": "fb-bra.1-401841340",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "克鲁塞罗 vs 国际队",
-   "teams": [
-    "克鲁塞罗",
-    "国际队"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Estadio Mineirão"
-  },
-  {
-   "id": "fb-bra.1-401841341",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "弗拉门戈 vs Chapecoense",
-   "teams": [
-    "弗拉门戈",
-    "Chapecoense"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Estadio do Maracana"
-  },
-  {
-   "id": "fb-bra.1-401841347",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "格雷米奥 vs Mirassol",
-   "teams": [
-    "格雷米奥",
-    "Mirassol"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Arena do Grêmio"
-  },
-  {
-   "id": "fb-bra.1-401841343",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "帕尔梅拉斯 vs Coritiba",
-   "teams": [
-    "帕尔梅拉斯",
-    "Coritiba"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Allianz Parque"
-  },
-  {
-   "id": "fb-bra.1-401841344",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Red Bull Bragantino vs 弗鲁米嫩塞",
-   "teams": [
-    "Red Bull Bragantino",
-    "弗鲁米嫩塞"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Estádio Municipal Cicero de Souza Marques"
-  },
-  {
-   "id": "fb-bra.1-401841345",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Remo vs 科林蒂安",
-   "teams": [
-    "Remo",
-    "科林蒂安"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Estadio Evandro Almeida (Baenao)"
-  },
-  {
-   "id": "fb-bra.1-401841346",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "桑托斯 vs 博塔弗戈",
-   "teams": [
-    "桑托斯",
-    "博塔弗戈"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Estádio Vila Belmiro (Urbano Caldeira)"
-  },
-  {
-   "id": "fb-bra.1-401841342",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "瓦斯科 vs Vitória",
-   "teams": [
-    "瓦斯科",
-    "Vitória"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Estádio São Januário"
-  },
-  {
    "id": "fb-eng.1-401879223",
    "sport": "football",
    "sub": "英超 · 2026",
@@ -10688,6 +10319,136 @@
    "bj": "2026-12-03 04:30",
    "dur": 115,
    "note": "Spotify Camp Nou"
+  },
+  {
+   "id": "fb-bra.1-401841338",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Athletico-PR vs 圣保罗",
+   "teams": [
+    "Athletico-PR",
+    "圣保罗"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Arena da Baixada"
+  },
+  {
+   "id": "fb-bra.1-401841339",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "巴伊亚 vs Atlético-MG",
+   "teams": [
+    "巴伊亚",
+    "Atlético-MG"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Arena Fonte Nova"
+  },
+  {
+   "id": "fb-bra.1-401841340",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "克鲁塞罗 vs 国际队",
+   "teams": [
+    "克鲁塞罗",
+    "国际队"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Estadio Mineirão"
+  },
+  {
+   "id": "fb-bra.1-401841341",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "弗拉门戈 vs Chapecoense",
+   "teams": [
+    "弗拉门戈",
+    "Chapecoense"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Estadio do Maracana"
+  },
+  {
+   "id": "fb-bra.1-401841347",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "格雷米奥 vs Mirassol",
+   "teams": [
+    "格雷米奥",
+    "Mirassol"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Arena do Grêmio"
+  },
+  {
+   "id": "fb-bra.1-401841343",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "帕尔梅拉斯 vs Coritiba",
+   "teams": [
+    "帕尔梅拉斯",
+    "Coritiba"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Allianz Parque"
+  },
+  {
+   "id": "fb-bra.1-401841344",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Red Bull Bragantino vs 弗鲁米嫩塞",
+   "teams": [
+    "Red Bull Bragantino",
+    "弗鲁米嫩塞"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Estádio Municipal Cicero de Souza Marques"
+  },
+  {
+   "id": "fb-bra.1-401841345",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "Remo vs 科林蒂安",
+   "teams": [
+    "Remo",
+    "科林蒂安"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Mangueirão"
+  },
+  {
+   "id": "fb-bra.1-401841346",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "桑托斯 vs 博塔弗戈",
+   "teams": [
+    "桑托斯",
+    "博塔弗戈"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Estádio Vila Belmiro (Urbano Caldeira)"
+  },
+  {
+   "id": "fb-bra.1-401841342",
+   "sport": "football",
+   "sub": "巴甲 · 2026",
+   "title": "瓦斯科 vs Vitória",
+   "teams": [
+    "瓦斯科",
+    "Vitória"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Estádio São Januário"
   },
   {
    "id": "fb-eng.1-401878749",
