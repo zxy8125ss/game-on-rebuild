@@ -1,55 +1,6 @@
 {
- "updatedAt": "2026-11-07T18:51:47.949Z",
+ "updatedAt": "2026-11-08T01:50:00.175Z",
  "matches": [
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-31-LØS-LYON (2024 American Team)",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "LØS vs LYON (2024 American Team)",
-   "teams": [
-    "LØS",
-    "LYON (2024 American Team)"
-   ],
-   "bj": "2026-11-01 04:00",
-   "dur": 120,
-   "result": "LØS 1:2 LYON (2024 American Team)"
-  },
-  {
-   "id": "f1-2026-19-q",
-   "sport": "f1",
-   "sub": "墨西哥城大奖赛（第19站）",
-   "title": "排位赛",
-   "teams": [],
-   "bj": "2026-11-01 05:00",
-   "dur": 60,
-   "note": "罗德里格斯兄弟赛道"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-10-31-Hanwha Life Esports-Bilibili Gami",
-   "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
-   "title": "Hanwha Life Esports vs BLG",
-   "teams": [
-    "Hanwha Life Esports",
-    "BLG"
-   ],
-   "bj": "2026-11-01 07:00",
-   "dur": 120,
-   "result": "Hanwha Life Esports 0:2 BLG"
-  },
-  {
-   "id": "tn-wta-185817",
-   "sport": "tennis",
-   "sub": "克雷塔罗公开赛 · 女单",
-   "title": "Fiona Ferro vs 玛丽亚",
-   "teams": [
-    "Fiona Ferro",
-    "玛丽亚"
-   ],
-   "bj": "2026-11-01 08:05",
-   "dur": 150,
-   "result": "(1) Tatjana Maria 7-5 3-6 6-1"
-  },
   {
    "id": "tn-wta-187318",
    "sport": "tennis",
@@ -470,10 +421,10 @@
    "id": "tn-atp-185205",
    "sport": "tennis",
    "sub": "Erste Bank Open · 男单",
-   "title": "阿尔卡拉斯 vs Alex de Minaur",
+   "title": "阿尔卡拉斯 vs 德米纳尔",
    "teams": [
     "阿尔卡拉斯",
-    "Alex de Minaur"
+    "德米纳尔"
    ],
    "bj": "2026-11-01 21:10",
    "dur": 150,
@@ -537,10 +488,10 @@
    "id": "tn-atp-187352",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Alex Molcan vs Nuno Borges",
+   "title": "Alex Molcan vs 博尔热斯",
    "teams": [
     "Alex Molcan",
-    "Nuno Borges"
+    "博尔热斯"
    ],
    "bj": "2026-11-01 21:55",
    "dur": 150,
@@ -632,9 +583,9 @@
    "id": "tn-atp-185159",
    "sport": "tennis",
    "sub": "Swiss Indoors Basel · 男单",
-   "title": "Valentin Vacherot vs 莱切克",
+   "title": "瓦舍罗 vs 莱切克",
    "teams": [
-    "Valentin Vacherot",
+    "瓦舍罗",
     "莱切克"
    ],
    "bj": "2026-11-01 22:40",
@@ -1134,10 +1085,10 @@
    "id": "tn-atp-186462",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Hubert Hurkacz vs Lorenzo Musetti",
+   "title": "胡尔卡奇 vs 穆塞蒂",
    "teams": [
-    "Hubert Hurkacz",
-    "Lorenzo Musetti"
+    "胡尔卡奇",
+    "穆塞蒂"
    ],
    "bj": "2026-11-02 18:10",
    "dur": 150,
@@ -1290,10 +1241,10 @@
    "id": "tn-atp-186469",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Juan Manuel Cerundolo vs Casper Ruud",
+   "title": "Juan Manuel Cerundolo vs 鲁德",
    "teams": [
     "Juan Manuel Cerundolo",
-    "Casper Ruud"
+    "鲁德"
    ],
    "bj": "2026-11-02 22:00",
    "dur": 150,
@@ -1422,10 +1373,10 @@
    "id": "tn-atp-186466",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Karen Khachanov vs Denis Shapovalov",
+   "title": "Karen Khachanov vs 沙波瓦洛夫",
    "teams": [
     "Karen Khachanov",
-    "Denis Shapovalov"
+    "沙波瓦洛夫"
    ],
    "bj": "2026-11-03 02:20",
    "dur": 150,
@@ -1728,9 +1679,9 @@
    "id": "tn-wta-186670",
    "sport": "tennis",
    "sub": "Angola Ladies Open · 女单",
-   "title": "Martyna Kubka vs Darja Suvirdjonkova",
+   "title": "库布卡 vs Darja Suvirdjonkova",
    "teams": [
-    "Martyna Kubka",
+    "库布卡",
     "Darja Suvirdjonkova"
    ],
    "bj": "2026-11-03 17:10",
@@ -1923,10 +1874,10 @@
    "id": "tn-atp-186467",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Moise Kouame vs Nuno Borges",
+   "title": "Moise Kouame vs 博尔热斯",
    "teams": [
     "Moise Kouame",
-    "Nuno Borges"
+    "博尔热斯"
    ],
    "bj": "2026-11-03 20:20",
    "dur": 150,
@@ -2001,10 +1952,10 @@
    "id": "tn-atp-186458",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Valentin Vacherot vs Novak Djokovic",
+   "title": "瓦舍罗 vs 德约科维奇",
    "teams": [
-    "Valentin Vacherot",
-    "Novak Djokovic"
+    "瓦舍罗",
+    "德约科维奇"
    ],
    "bj": "2026-11-03 21:45",
    "dur": 150,
@@ -2079,10 +2030,10 @@
    "id": "tn-atp-186445",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Holger Rune vs Tommy Paul",
+   "title": "伦德 vs 保罗",
    "teams": [
-    "Holger Rune",
-    "Tommy Paul"
+    "伦德",
+    "保罗"
    ],
    "bj": "2026-11-03 22:50",
    "dur": 150,
@@ -2092,10 +2043,10 @@
    "id": "tn-atp-186451",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "莱切克 vs Alex Michelsen",
+   "title": "莱切克 vs 米歇尔森",
    "teams": [
     "莱切克",
-    "Alex Michelsen"
+    "米歇尔森"
    ],
    "bj": "2026-11-03 23:50",
    "dur": 150,
@@ -2237,10 +2188,10 @@
    "id": "tn-atp-186477",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Cameron Norrie vs Ben Shelton",
+   "title": "Cameron Norrie vs 谢尔顿",
    "teams": [
     "Cameron Norrie",
-    "Ben Shelton"
+    "谢尔顿"
    ],
    "bj": "2026-11-04 02:05",
    "dur": 150,
@@ -2400,10 +2351,10 @@
    "id": "tn-atp-186484",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Rafael Jodar vs Casper Ruud",
+   "title": "Rafael Jodar vs 鲁德",
    "teams": [
     "Rafael Jodar",
-    "Casper Ruud"
+    "鲁德"
    ],
    "bj": "2026-11-04 04:00",
    "dur": 150,
@@ -2451,7 +2402,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-03-Top Esports-Invictus Gaming",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "TES vs IG",
    "teams": [
     "TES",
@@ -2662,9 +2613,9 @@
    "id": "tn-wta-186678",
    "sport": "tennis",
    "sub": "Angola Ladies Open · 女单",
-   "title": "Martyna Kubka vs Franziska Sziedat",
+   "title": "库布卡 vs Franziska Sziedat",
    "teams": [
-    "Martyna Kubka",
+    "库布卡",
     "Franziska Sziedat"
    ],
    "bj": "2026-11-04 19:35",
@@ -2675,10 +2626,10 @@
    "id": "tn-atp-186487",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Daniel Merida vs Tommy Paul",
+   "title": "Daniel Merida vs 保罗",
    "teams": [
     "Daniel Merida",
-    "Tommy Paul"
+    "保罗"
    ],
    "bj": "2026-11-04 19:55",
    "dur": 150,
@@ -2701,9 +2652,9 @@
    "id": "tn-atp-186478",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Lorenzo Musetti vs 兹维列夫",
+   "title": "穆塞蒂 vs 兹维列夫",
    "teams": [
-    "Lorenzo Musetti",
+    "穆塞蒂",
     "兹维列夫"
    ],
    "bj": "2026-11-04 20:40",
@@ -2727,9 +2678,9 @@
    "id": "tn-atp-186481",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Alex de Minaur vs Tomas Martin Etcheverry",
+   "title": "德米纳尔 vs Tomas Martin Etcheverry",
    "teams": [
-    "Alex de Minaur",
+    "德米纳尔",
     "Tomas Martin Etcheverry"
    ],
    "bj": "2026-11-04 21:05",
@@ -2753,10 +2704,10 @@
    "id": "tn-atp-186482",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Rinky Hijikata vs Novak Djokovic",
+   "title": "Rinky Hijikata vs 德约科维奇",
    "teams": [
     "Rinky Hijikata",
-    "Novak Djokovic"
+    "德约科维奇"
    ],
    "bj": "2026-11-04 22:40",
    "dur": 150,
@@ -2819,10 +2770,10 @@
    "id": "tn-atp-186476",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Karen Khachanov vs Nuno Borges",
+   "title": "Karen Khachanov vs 博尔热斯",
    "teams": [
     "Karen Khachanov",
-    "Nuno Borges"
+    "博尔热斯"
    ],
    "bj": "2026-11-05 00:00",
    "dur": 150,
@@ -2925,10 +2876,10 @@
    "id": "tn-atp-186480",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs Alex Michelsen",
+   "title": "阿尔卡拉斯 vs 米歇尔森",
    "teams": [
     "阿尔卡拉斯",
-    "Alex Michelsen"
+    "米歇尔森"
    ],
    "bj": "2026-11-05 02:10",
    "dur": 150,
@@ -3113,7 +3064,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-04-Gen.G-LYON (2024 American Team)",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "GEN vs LYON (2024 American Team)",
    "teams": [
     "GEN",
@@ -3274,10 +3225,10 @@
    "id": "tn-atp-186496",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Quentin Halys vs Tommy Paul",
+   "title": "Quentin Halys vs 保罗",
    "teams": [
     "Quentin Halys",
-    "Tommy Paul"
+    "保罗"
    ],
    "bj": "2026-11-05 18:10",
    "dur": 150,
@@ -3326,10 +3277,10 @@
    "id": "tn-atp-186497",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Arthur Rinderknech vs Ben Shelton",
+   "title": "Arthur Rinderknech vs 谢尔顿",
    "teams": [
     "Arthur Rinderknech",
-    "Ben Shelton"
+    "谢尔顿"
    ],
    "bj": "2026-11-05 20:05",
    "dur": 150,
@@ -3391,10 +3342,10 @@
    "id": "tn-atp-186499",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Luca Van Assche vs Lorenzo Musetti",
+   "title": "Luca Van Assche vs 穆塞蒂",
    "teams": [
     "Luca Van Assche",
-    "Lorenzo Musetti"
+    "穆塞蒂"
    ],
    "bj": "2026-11-05 22:35",
    "dur": 150,
@@ -3404,10 +3355,10 @@
    "id": "tn-atp-186494",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Ignacio Buse vs Nuno Borges",
+   "title": "Ignacio Buse vs 博尔热斯",
    "teams": [
     "Ignacio Buse",
-    "Nuno Borges"
+    "博尔热斯"
    ],
    "bj": "2026-11-06 00:10",
    "dur": 150,
@@ -3720,9 +3671,9 @@
    "id": "tn-atp-186495",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Casper Ruud vs 施特鲁夫",
+   "title": "鲁德 vs 施特鲁夫",
    "teams": [
-    "Casper Ruud",
+    "鲁德",
     "施特鲁夫"
    ],
    "bj": "2026-11-06 03:50",
@@ -3997,7 +3948,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "Dplus Kia vs BLG",
    "teams": [
     "Dplus Kia",
@@ -4105,9 +4056,9 @@
    "id": "tn-wta-186689",
    "sport": "tennis",
    "sub": "Angola Ladies Open · 女单",
-   "title": "Martyna Kubka vs Sofya Lansere",
+   "title": "库布卡 vs Sofya Lansere",
    "teams": [
-    "Martyna Kubka",
+    "库布卡",
     "Sofya Lansere"
    ],
    "bj": "2026-11-06 18:55",
@@ -4157,10 +4108,10 @@
    "id": "tn-atp-186500",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Tommy Paul vs Ben Shelton",
+   "title": "保罗 vs 谢尔顿",
    "teams": [
-    "Tommy Paul",
-    "Ben Shelton"
+    "保罗",
+    "谢尔顿"
    ],
    "bj": "2026-11-06 21:10",
    "dur": 150,
@@ -4359,7 +4310,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-06-Karmine Corp-T1",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "KC vs T1",
    "teams": [
     "KC",
@@ -4373,10 +4324,10 @@
    "id": "tn-atp-186493",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Nuno Borges vs Casper Ruud",
+   "title": "博尔热斯 vs 鲁德",
    "teams": [
-    "Nuno Borges",
-    "Casper Ruud"
+    "博尔热斯",
+    "鲁德"
    ],
    "bj": "2026-11-07 06:10",
    "dur": 150,
@@ -4767,9 +4718,9 @@
    "id": "tn-atp-186504",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "Ben Shelton vs Luca Van Assche",
+   "title": "谢尔顿 vs Luca Van Assche",
    "teams": [
-    "Ben Shelton",
+    "谢尔顿",
     "Luca Van Assche"
    ],
    "bj": "2026-11-07 21:40",
@@ -4877,10 +4828,10 @@
    "id": "tn-atp-187450",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Jan Simonsson vs Adrian Mannarino",
+   "title": "Jan Simonsson vs 马纳里诺",
    "teams": [
     "Jan Simonsson",
-    "Adrian Mannarino"
+    "马纳里诺"
    ],
    "bj": "2026-11-07 22:30",
    "dur": 150,
@@ -5010,19 +4961,6 @@
    "note": "Fortuna Sittard Stadion"
   },
   {
-   "id": "fb-por.1-401885398",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "C.D. Nacional vs 维塞乌",
-   "teams": [
-    "C.D. Nacional",
-    "维塞乌"
-   ],
-   "bj": "2026-11-07 23:30",
-   "dur": 115,
-   "note": "Estádio da Madeira"
-  },
-  {
    "id": "fb-tur.1-401888371",
    "sport": "football",
    "sub": "土超 · 2026",
@@ -5054,10 +4992,10 @@
    "id": "tn-atp-186505",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs Casper Ruud",
+   "title": "阿尔卡拉斯 vs 鲁德",
    "teams": [
     "阿尔卡拉斯",
-    "Casper Ruud"
+    "鲁德"
    ],
    "bj": "2026-11-08 00:25",
    "dur": 150,
@@ -5087,6 +5025,7 @@
    ],
    "bj": "2026-11-08 01:00",
    "dur": 115,
+   "result": "帕尔马 1:2 博洛尼亚",
    "note": "Ennio Tardini"
   },
   {
@@ -5100,6 +5039,7 @@
    ],
    "bj": "2026-11-08 01:30",
    "dur": 115,
+   "result": "诺丁汉森林 3:1 曼城",
    "note": "The City Ground"
   },
   {
@@ -5113,6 +5053,7 @@
    ],
    "bj": "2026-11-08 01:30",
    "dur": 115,
+   "result": "奥萨苏纳 1:1 毕尔巴鄂竞技",
    "note": "El Sadar"
   },
   {
@@ -5126,6 +5067,7 @@
    ],
    "bj": "2026-11-08 01:30",
    "dur": 115,
+   "result": "斯图加特 1:0 云达不莱梅",
    "note": "MHPArena"
   },
   {
@@ -5139,6 +5081,7 @@
    ],
    "bj": "2026-11-08 01:45",
    "dur": 115,
+   "result": "阿德尤拉海牙 3:1 鹿特丹斯巴达",
    "note": "ADO Den Haag Stadium"
   },
   {
@@ -5152,6 +5095,7 @@
    ],
    "bj": "2026-11-08 01:45",
    "dur": 115,
+   "result": "阿伯丁 0:4 希伯尼安",
    "note": "Pittodrie Stadium"
   },
   {
@@ -5165,6 +5109,7 @@
    ],
    "bj": "2026-11-08 02:00",
    "dur": 115,
+   "result": "欧塞尔 0:1 巴黎FC",
    "note": "Stade de l'Abbé-Deschamps"
   },
   {
@@ -5178,6 +5123,7 @@
    ],
    "bj": "2026-11-08 02:00",
    "dur": 115,
+   "result": "Alverca 1:1 卡萨皮亚",
    "note": "Complexo Desportivo FC Alverca"
   },
   {
@@ -5201,6 +5147,7 @@
    ],
    "bj": "2026-11-08 03:45",
    "dur": 115,
+   "result": "AS Roma 3:0 萨索洛",
    "note": "Olimpico"
   },
   {
@@ -5214,6 +5161,7 @@
    ],
    "bj": "2026-11-08 04:00",
    "dur": 115,
+   "result": "瓦伦西亚 0:3 皇家马德里",
    "note": "Mestalla Stadium"
   },
   {
@@ -5227,6 +5175,7 @@
    ],
    "bj": "2026-11-08 04:00",
    "dur": 115,
+   "result": "埃克塞尔西奥 0:1 高文伊格路",
    "note": "Stadion Woudestein"
   },
   {
@@ -5240,6 +5189,7 @@
    ],
    "bj": "2026-11-08 04:00",
    "dur": 115,
+   "result": "圣米伦 0:2 流浪者",
    "note": "The SMISA Stadium"
   },
   {
@@ -5253,6 +5203,7 @@
    ],
    "bj": "2026-11-08 04:05",
    "dur": 115,
+   "result": "巴黎圣日耳曼 1:0 特鲁瓦",
    "note": "Parc des Princes"
   },
   {
@@ -5266,6 +5217,7 @@
    ],
    "bj": "2026-11-08 04:30",
    "dur": 115,
+   "result": "里斯本竞技 1:0 莫雷伦斯",
    "note": "Estádio José Alvalade"
   },
   {
@@ -5279,6 +5231,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "CF Montréal 0:2 温哥华白帽",
    "note": "Stade Saputo"
   },
   {
@@ -5292,6 +5245,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "Chicago Fire FC 3:4 哥伦布机员",
    "note": "SeatGeek Stadium"
   },
   {
@@ -5305,6 +5259,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "D.C. United 0:1 New York City FC",
    "note": "Audi Field"
   },
   {
@@ -5318,6 +5273,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "辛辛那提 0:2 纳什维尔",
    "note": "TQL Stadium"
   },
   {
@@ -5331,6 +5287,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "Inter Miami CF 3:3 夏洛特FC",
    "note": "Nu Stadium"
   },
   {
@@ -5344,6 +5301,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "Orlando City SC 1:0 新英格兰革命",
    "note": "Inter&Co Stadium"
   },
   {
@@ -5357,6 +5315,7 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "费城联合 4:1 多伦多FC",
    "note": "Subaru Park"
   },
   {
@@ -5370,19 +5329,21 @@
    ],
    "bj": "2026-11-08 05:00",
    "dur": 115,
+   "result": "Red Bull New York 3:0 亚特兰大联",
    "note": "Sports Illustrated Stadium"
   },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-07-Invictus Gaming-Gen.G",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "IG vs GEN",
    "teams": [
     "IG",
     "GEN"
    ],
    "bj": "2026-11-08 06:00",
-   "dur": 120
+   "dur": 120,
+   "result": "IG 0:3 GEN"
   },
   {
    "id": "fb-mex.1-401876907",
@@ -5395,6 +5356,7 @@
    ],
    "bj": "2026-11-08 07:00",
    "dur": 115,
+   "result": "Atlas 1:4 帕丘卡",
    "note": "Estadio Jalisco"
   },
   {
@@ -5800,10 +5762,10 @@
    "id": "tn-atp-187455",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Toby Samuel vs Adrian Mannarino",
+   "title": "Toby Samuel vs 马纳里诺",
    "teams": [
     "Toby Samuel",
-    "Adrian Mannarino"
+    "马纳里诺"
    ],
    "bj": "2026-11-08 20:30",
    "dur": 150
@@ -5966,10 +5928,10 @@
    "id": "tn-atp-186507",
    "sport": "tennis",
    "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs Ben Shelton",
+   "title": "阿尔卡拉斯 vs 谢尔顿",
    "teams": [
     "阿尔卡拉斯",
-    "Ben Shelton"
+    "谢尔顿"
    ],
    "bj": "2026-11-08 22:00",
    "dur": 150
@@ -6013,6 +5975,30 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-187459",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Maria Camila Torres Murcia vs Katrina Scott",
+   "teams": [
+    "Maria Camila Torres Murcia",
+    "Katrina Scott"
+   ],
+   "bj": "2026-11-08 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187458",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Sara Alejandra Lozano Avellaneda vs Carolina Alves",
+   "teams": [
+    "Sara Alejandra Lozano Avellaneda",
+    "Carolina Alves"
+   ],
+   "bj": "2026-11-08 23:00",
+   "dur": 150
+  },
+  {
    "id": "fb-esp.1-401882810",
    "sport": "football",
    "sub": "西甲 · 2026",
@@ -6024,6 +6010,19 @@
    "bj": "2026-11-08 23:15",
    "dur": 115,
    "note": "Reale Arena"
+  },
+  {
+   "id": "fb-por.1-401885398",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "C.D. Nacional vs 维塞乌",
+   "teams": [
+    "C.D. Nacional",
+    "维塞乌"
+   ],
+   "bj": "2026-11-08 23:30",
+   "dur": 115,
+   "note": "Estádio da Madeira"
   },
   {
    "id": "fb-por.1-401885400",
@@ -6194,6 +6193,30 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-187461",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Maria Jose Sanchez Uribe vs Maria Herazo Gonzalez",
+   "teams": [
+    "Maria Jose Sanchez Uribe",
+    "Maria Herazo Gonzalez"
+   ],
+   "bj": "2026-11-09 00:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187460",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Isabella Collazos vs Dalila Jakupovic",
+   "teams": [
+    "Isabella Collazos",
+    "Dalila Jakupovic"
+   ],
+   "bj": "2026-11-09 00:30",
+   "dur": 150
+  },
+  {
    "id": "fb-ita.1-401874808",
    "sport": "football",
    "sub": "意甲 · 2026",
@@ -6337,10 +6360,10 @@
    "id": "tn-wta-187373",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "Linda Noskova vs 莱巴金娜",
+   "title": "Linda Noskova vs 科斯图克",
    "teams": [
     "Linda Noskova",
-    "莱巴金娜"
+    "科斯图克"
    ],
    "bj": "2026-11-09 04:00",
    "dur": 150
@@ -6386,7 +6409,7 @@
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-08-Bilibili Gaming-T1",
    "sport": "lol",
-   "sub": "2026 Season World Championship/Main Event",
+   "sub": "全球总决赛",
    "title": "BLG vs T1",
    "teams": [
     "BLG",
@@ -6459,10 +6482,10 @@
    "id": "tn-atp-186535",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Yannick Hanfmann vs Alex Michelsen",
+   "title": "Yannick Hanfmann vs 米歇尔森",
    "teams": [
     "Yannick Hanfmann",
-    "Alex Michelsen"
+    "米歇尔森"
    ],
    "bj": "2026-11-09 13:00",
    "dur": 150
@@ -6529,10 +6552,10 @@
    "id": "tn-atp-186525",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Zizou Bergs vs Holger Rune",
+   "title": "Zizou Bergs vs 伦德",
    "teams": [
     "Zizou Bergs",
-    "Holger Rune"
+    "伦德"
    ],
    "bj": "2026-11-09 13:00",
    "dur": 150
@@ -6565,9 +6588,9 @@
    "id": "tn-atp-186538",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Casper Ruud vs TBD",
+   "title": "鲁德 vs TBD",
    "teams": [
-    "Casper Ruud"
+    "鲁德"
    ],
    "bj": "2026-11-10 13:00",
    "dur": 150
@@ -6587,9 +6610,9 @@
    "id": "tn-atp-186543",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "TBD vs Lorenzo Musetti",
+   "title": "TBD vs 穆塞蒂",
    "teams": [
-    "Lorenzo Musetti"
+    "穆塞蒂"
    ],
    "bj": "2026-11-10 13:00",
    "dur": 150
@@ -6609,10 +6632,10 @@
    "id": "tn-wta-187372",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "佩古拉 vs 莱巴金娜",
+   "title": "佩古拉 vs 科斯图克",
    "teams": [
     "佩古拉",
-    "莱巴金娜"
+    "科斯图克"
    ],
    "bj": "2026-11-10 13:00",
    "dur": 150
@@ -6693,10 +6716,10 @@
    "id": "tn-wta-187371",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "高芙 vs 莱巴金娜",
+   "title": "高芙 vs 科斯图克",
    "teams": [
     "高芙",
-    "莱巴金娜"
+    "科斯图克"
    ],
    "bj": "2026-11-10 13:00",
    "dur": 150
