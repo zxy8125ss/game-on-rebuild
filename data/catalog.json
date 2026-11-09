@@ -1,42 +1,6 @@
 {
- "updatedAt": "2026-11-08T18:53:35.580Z",
+ "updatedAt": "2026-11-09T02:43:42.595Z",
  "matches": [
-  {
-   "id": "tn-wta-187370",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Selena Janicijevic vs Elizabeth Mandlik",
-   "teams": [
-    "Selena Janicijevic",
-    "Elizabeth Mandlik"
-   ],
-   "bj": "2026-11-02 03:00",
-   "dur": 150,
-   "result": "Selena Janicijevic 6-3 5-7 6-2"
-  },
-  {
-   "id": "tn-wta-187367",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Katrina Scott vs Maria Herazo Gonzalez",
-   "teams": [
-    "Katrina Scott",
-    "Maria Herazo Gonzalez"
-   ],
-   "bj": "2026-11-02 03:05",
-   "dur": 150,
-   "result": "Maria Herazo Gonzalez 6-4"
-  },
-  {
-   "id": "f1-2026-19-r",
-   "sport": "f1",
-   "sub": "墨西哥城大奖赛（第19站）",
-   "title": "正赛",
-   "teams": [],
-   "bj": "2026-11-02 04:00",
-   "dur": 120,
-   "note": "罗德里格斯兄弟赛道"
-  },
   {
    "id": "tn-wta-186624",
    "sport": "tennis",
@@ -5301,6 +5265,7 @@
    ],
    "bj": "2026-11-09 01:00",
    "dur": 115,
+   "result": "国际米兰 2:0 科莫",
    "note": "San Siro"
   },
   {
@@ -5337,6 +5302,7 @@
    ],
    "bj": "2026-11-09 01:30",
    "dur": 115,
+   "result": "塞尔塔 0:0 莱万特",
    "note": "Balaidos"
   },
   {
@@ -5350,6 +5316,7 @@
    ],
    "bj": "2026-11-09 01:30",
    "dur": 115,
+   "result": "比利亚雷亚尔 2:0 赫塔菲",
    "note": "Estadio de la Cerámica"
   },
   {
@@ -5362,7 +5329,8 @@
     "Thiago Agustin Tirante"
    ],
    "bj": "2026-11-09 01:35",
-   "dur": 150
+   "dur": 150,
+   "result": "Thiago Agustin Tirante 6-3"
   },
   {
    "id": "fb-por.1-401885394",
@@ -5375,6 +5343,7 @@
    ],
    "bj": "2026-11-09 02:00",
    "dur": 115,
+   "result": "Vitória de Guimaraes 1:2 FC Porto",
    "note": "Estádio D. Afonso Henriques"
   },
   {
@@ -5388,6 +5357,7 @@
    ],
    "bj": "2026-11-09 02:00",
    "dur": 115,
+   "result": "贝西克塔斯 3:0 Genclerbirligi",
    "note": "Vodafone Park"
   },
   {
@@ -5401,6 +5371,7 @@
    ],
    "bj": "2026-11-09 02:30",
    "dur": 115,
+   "result": "霍芬海姆 2:1 Schalke 04",
    "note": "PreZero Arena"
   },
   {
@@ -5414,6 +5385,7 @@
    ],
    "bj": "2026-11-09 03:00",
    "dur": 115,
+   "result": "乌德勒支 2:3 NEC Nijmegen",
    "note": "Stadion Galgenwaard"
   },
   {
@@ -5427,6 +5399,7 @@
    ],
    "bj": "2026-11-09 03:45",
    "dur": 115,
+   "result": "佛罗伦萨 2:2 尤文图斯",
    "note": "Stadio Artemio Franchi"
   },
   {
@@ -5440,6 +5413,7 @@
    ],
    "bj": "2026-11-09 03:45",
    "dur": 115,
+   "result": "朗斯 1:2 马赛",
    "note": "Stade Bollaert-Delelis"
   },
   {
@@ -5453,6 +5427,7 @@
    ],
    "bj": "2026-11-09 04:00",
    "dur": 115,
+   "result": "马竞 1:2 巴塞罗那",
    "note": "Riyadh Air Metropolitano"
   },
   {
@@ -5464,8 +5439,9 @@
     "Linda Noskova",
     "科斯图克"
    ],
-   "bj": "2026-11-09 04:00",
-   "dur": 150
+   "bj": "2026-11-09 04:15",
+   "dur": 150,
+   "result": "(8) Linda Noskova 6-2 6-4"
   },
   {
    "id": "fb-por.1-401885401",
@@ -5478,6 +5454,7 @@
    ],
    "bj": "2026-11-09 04:30",
    "dur": 115,
+   "result": "Estrela 2:3 本菲卡",
    "note": "Estádio José Gomes"
   },
   {
@@ -5491,19 +5468,8 @@
    ],
    "bj": "2026-11-09 04:30",
    "dur": 115,
+   "result": "里奥阿维 0:1 布拉加",
    "note": "Estádio do Rio Ave"
-  },
-  {
-   "id": "tn-wta-187374",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "佩古拉 vs 高芙",
-   "teams": [
-    "佩古拉",
-    "高芙"
-   ],
-   "bj": "2026-11-09 05:30",
-   "dur": 150
   },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-08-Bilibili Gaming-T1",
@@ -5515,7 +5481,21 @@
     "T1"
    ],
    "bj": "2026-11-09 06:00",
-   "dur": 120
+   "dur": 120,
+   "result": "BLG 3:1 T1"
+  },
+  {
+   "id": "tn-wta-187374",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "佩古拉 vs 高芙",
+   "teams": [
+    "佩古拉",
+    "高芙"
+   ],
+   "bj": "2026-11-09 06:05",
+   "dur": 150,
+   "result": "(4) Coco Gauff 6-2"
   },
   {
    "id": "fb-mex.1-401876903",
@@ -5528,6 +5508,7 @@
    ],
    "bj": "2026-11-09 08:00",
    "dur": 115,
+   "result": "克雷塔罗 0:2 普埃布拉",
    "note": "Estadio Corregidora"
   },
   {
@@ -5604,6 +5585,78 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186744",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Dalila Jakupovic vs Laura Pigossi",
+   "teams": [
+    "Dalila Jakupovic",
+    "Laura Pigossi"
+   ],
+   "bj": "2026-11-09 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186749",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Varvara Lepchenko vs Polona Hercog",
+   "teams": [
+    "Varvara Lepchenko",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-09 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186753",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Luisina Giovannini vs 玛丽亚",
+   "teams": [
+    "Luisina Giovannini",
+    "玛丽亚"
+   ],
+   "bj": "2026-11-09 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186750",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Veronika Erjavec vs Elizabeth Mandlik",
+   "teams": [
+    "Veronika Erjavec",
+    "Elizabeth Mandlik"
+   ],
+   "bj": "2026-11-10 00:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186756",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Antonella Esquivel Useche vs Sofia Costoulas",
+   "teams": [
+    "Antonella Esquivel Useche",
+    "Sofia Costoulas"
+   ],
+   "bj": "2026-11-10 00:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186758",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Marina Bassols Ribera vs Maria Herazo Gonzalez",
+   "teams": [
+    "Marina Bassols Ribera",
+    "Maria Herazo Gonzalez"
+   ],
+   "bj": "2026-11-10 00:30",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186530",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
@@ -5613,6 +5666,30 @@
     "Tomas Martin Etcheverry"
    ],
    "bj": "2026-11-10 01:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186754",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "格拉伯 vs Tamara Zidansek",
+   "teams": [
+    "格拉伯",
+    "Tamara Zidansek"
+   ],
+   "bj": "2026-11-10 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186755",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Yuliana Lizarazo vs Irene Burillo",
+   "teams": [
+    "Yuliana Lizarazo",
+    "Irene Burillo"
+   ],
+   "bj": "2026-11-10 02:00",
    "dur": 150
   },
   {
@@ -5658,6 +5735,17 @@
    "title": "Alejandro Tabilo vs TBD",
    "teams": [
     "Alejandro Tabilo"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186539",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Thiago Agustin Tirante vs TBD",
+   "teams": [
+    "Thiago Agustin Tirante"
    ],
    "bj": "2026-11-10 13:00",
    "dur": 150
@@ -5755,6 +5843,102 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186745",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Rebeka Masarova vs 安德烈斯库",
+   "teams": [
+    "Rebeka Masarova",
+    "安德烈斯库"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186746",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Leolia Jeanjean vs Jazmin Ortenzi",
+   "teams": [
+    "Leolia Jeanjean",
+    "Jazmin Ortenzi"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186747",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Leyre Romero Gormaz vs Carole Monnet",
+   "teams": [
+    "Leyre Romero Gormaz",
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186748",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Andrea Lazaro Garcia vs Katrina Scott",
+   "teams": [
+    "Andrea Lazaro Garcia",
+    "Katrina Scott"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186751",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Julia Riera vs Alice Tubello",
+   "teams": [
+    "Julia Riera",
+    "Alice Tubello"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186752",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Julieta Pareja vs Lucia Bronzetti",
+   "teams": [
+    "Julieta Pareja",
+    "Lucia Bronzetti"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186757",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Carolina Alves vs Laura Samson",
+   "teams": [
+    "Carolina Alves",
+    "Laura Samson"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186759",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Valentina Mediorreal Arias vs Maria Lourdes Carle",
+   "teams": [
+    "Valentina Mediorreal Arias",
+    "Maria Lourdes Carle"
+   ],
+   "bj": "2026-11-10 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-187372",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
@@ -5763,67 +5947,7 @@
     "佩古拉",
     "科斯图克"
    ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187385",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "穆霍娃 vs 斯维托丽娜",
-   "teams": [
-    "穆霍娃",
-    "斯维托丽娜"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187384",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "穆霍娃 vs 安德烈耶娃",
-   "teams": [
-    "穆霍娃",
-    "安德烈耶娃"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187379",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "斯维托丽娜 vs 萨巴伦卡",
-   "teams": [
-    "斯维托丽娜",
-    "萨巴伦卡"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187378",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "安德烈耶娃 vs 萨巴伦卡",
-   "teams": [
-    "安德烈耶娃",
-    "萨巴伦卡"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187376",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "Linda Noskova vs 佩古拉",
-   "teams": [
-    "Linda Noskova",
-    "佩古拉"
-   ],
-   "bj": "2026-11-10 13:00",
+   "bj": "2026-11-11 04:00",
    "dur": 150
   },
   {
@@ -5835,7 +5959,67 @@
     "Linda Noskova",
     "高芙"
    ],
-   "bj": "2026-11-10 13:00",
+   "bj": "2026-11-11 05:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187385",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "穆霍娃 vs 斯维托丽娜",
+   "teams": [
+    "穆霍娃",
+    "斯维托丽娜"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187384",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "穆霍娃 vs 安德烈耶娃",
+   "teams": [
+    "穆霍娃",
+    "安德烈耶娃"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187379",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "斯维托丽娜 vs 萨巴伦卡",
+   "teams": [
+    "斯维托丽娜",
+    "萨巴伦卡"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187378",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "安德烈耶娃 vs 萨巴伦卡",
+   "teams": [
+    "安德烈耶娃",
+    "萨巴伦卡"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187376",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "Linda Noskova vs 佩古拉",
+   "teams": [
+    "Linda Noskova",
+    "佩古拉"
+   ],
+   "bj": "2026-11-11 13:00",
    "dur": 150
   },
   {
@@ -5847,8 +6031,20 @@
     "高芙",
     "科斯图克"
    ],
-   "bj": "2026-11-10 13:00",
+   "bj": "2026-11-11 13:00",
    "dur": 150
+  },
+  {
+   "id": "lol-2026-season-world-championship-main-event-2026-11-14-Bilibili Gaming-Gen.G",
+   "sport": "lol",
+   "sub": "全球总决赛",
+   "title": "BLG vs GEN",
+   "teams": [
+    "BLG",
+    "GEN"
+   ],
+   "bj": "2026-11-15 03:00",
+   "dur": 120
   },
   {
    "id": "fb-bra.1-401841311",
@@ -6719,6 +6915,19 @@
    "note": "The Scot Foam Stadium at Dens Park"
   },
   {
+   "id": "fb-usa.1-401933733",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "新英格兰革命 vs 费城联合",
+   "teams": [
+    "新英格兰革命",
+    "费城联合"
+   ],
+   "bj": "2026-11-22 03:00",
+   "dur": 115,
+   "note": "Gillette Stadium"
+  },
+  {
    "id": "fb-bra.1-401841322",
    "sport": "football",
    "sub": "巴甲 · 2026",
@@ -6860,6 +7069,32 @@
    "bj": "2026-11-22 04:30",
    "dur": 115,
    "note": "Arena Fonte Nova"
+  },
+  {
+   "id": "fb-usa.1-401933732",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "FC Dallas vs 波特兰伐木者",
+   "teams": [
+    "FC Dallas",
+    "波特兰伐木者"
+   ],
+   "bj": "2026-11-22 05:00",
+   "dur": 115,
+   "note": "Toyota Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933739",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Inter Miami CF vs 哥伦布机员",
+   "teams": [
+    "Inter Miami CF",
+    "哥伦布机员"
+   ],
+   "bj": "2026-11-22 07:00",
+   "dur": 115,
+   "note": "Nu Stadium"
   },
   {
    "id": "fb-mex.1-401877050",
@@ -7275,6 +7510,19 @@
    "note": "Estadio Coliseum"
   },
   {
+   "id": "fb-usa.1-401933731",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "纳什维尔 vs TBD Away",
+   "teams": [
+    "纳什维尔",
+    "TBD Away"
+   ],
+   "bj": "2026-11-23 05:00",
+   "dur": 115,
+   "note": "GEODIS Park"
+  },
+  {
    "id": "fb-bra.1-401841324",
    "sport": "football",
    "sub": "巴甲 · 2026",
@@ -7314,6 +7562,19 @@
    "note": "Estadio Akron"
   },
   {
+   "id": "fb-usa.1-401933730",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Chicago Fire FC vs 夏洛特FC",
+   "teams": [
+    "Chicago Fire FC",
+    "夏洛特FC"
+   ],
+   "bj": "2026-11-23 07:30",
+   "dur": 115,
+   "note": "SeatGeek Stadium"
+  },
+  {
    "id": "fb-mex.1-401877046",
    "sport": "football",
    "sub": "墨超 · 2026",
@@ -7325,6 +7586,19 @@
    "bj": "2026-11-23 09:00",
    "dur": 115,
    "note": "Estadio Corregidora"
+  },
+  {
+   "id": "fb-usa.1-401933729",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "温哥华白帽 vs TBD Away",
+   "teams": [
+    "温哥华白帽",
+    "TBD Away"
+   ],
+   "bj": "2026-11-23 09:30",
+   "dur": 115,
+   "note": "BC Place"
   },
   {
    "id": "fb-tur.1-401888370",
@@ -7416,6 +7690,19 @@
    "bj": "2026-11-24 08:00",
    "dur": 115,
    "note": "Estádio Cícero Pompeu de Toledo"
+  },
+  {
+   "id": "fb-usa.1-401933728",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "St. Louis CITY SC vs 洛杉矶FC",
+   "teams": [
+    "St. Louis CITY SC",
+    "洛杉矶FC"
+   ],
+   "bj": "2026-11-24 09:00",
+   "dur": 115,
+   "note": "Energizer Park"
   },
   {
    "id": "fb-uefa.champions-401915380",
@@ -7572,6 +7859,19 @@
    "bj": "2026-11-25 05:00",
    "dur": 115,
    "note": "Arena Condá"
+  },
+  {
+   "id": "fb-usa.1-401933738",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "San Jose Earthquakes vs Houston Dynamo FC",
+   "teams": [
+    "San Jose Earthquakes",
+    "Houston Dynamo FC"
+   ],
+   "bj": "2026-11-25 11:00",
+   "dur": 115,
+   "note": "PayPal Park"
   },
   {
    "id": "fb-jpn.1-401877527",
@@ -8419,6 +8719,31 @@
    "note": "Estadio do Maracana"
   },
   {
+   "id": "fb-usa.1-401933727",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "哥伦布机员 vs Inter Miami CF",
+   "teams": [
+    "哥伦布机员",
+    "Inter Miami CF"
+   ],
+   "bj": "2026-11-28 09:00",
+   "dur": 115,
+   "note": "ScottsMiracle-Gro Field"
+  },
+  {
+   "id": "fb-usa.1-401933725",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "TBD Home vs 温哥华白帽",
+   "teams": [
+    "TBD Home",
+    "温哥华白帽"
+   ],
+   "bj": "2026-11-28 11:00",
+   "dur": 115
+  },
+  {
    "id": "fb-jpn.1-401877537",
    "sport": "football",
    "sub": "J联赛 · 2026",
@@ -8796,6 +9121,19 @@
    "note": "MHPArena"
   },
   {
+   "id": "fb-usa.1-401933737",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "夏洛特FC vs Chicago Fire FC",
+   "teams": [
+    "夏洛特FC",
+    "Chicago Fire FC"
+   ],
+   "bj": "2026-11-29 01:30",
+   "dur": 115,
+   "note": "Bank of America Stadium"
+  },
+  {
    "id": "fb-ned.1-401875531",
    "sport": "football",
    "sub": "荷甲 · 2026",
@@ -8843,6 +9181,19 @@
    "bj": "2026-11-29 02:00",
    "dur": 60,
    "note": "卢塞尔国际赛道"
+  },
+  {
+   "id": "fb-usa.1-401933724",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Houston Dynamo FC vs San Jose Earthquakes",
+   "teams": [
+    "Houston Dynamo FC",
+    "San Jose Earthquakes"
+   ],
+   "bj": "2026-11-29 03:30",
+   "dur": 115,
+   "note": "Shell Energy Stadium"
   },
   {
    "id": "fb-ita.1-401874977",
@@ -8949,6 +9300,31 @@
    "note": "Estádio D. Afonso Henriques"
   },
   {
+   "id": "fb-usa.1-401933723",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "费城联合 vs 新英格兰革命",
+   "teams": [
+    "费城联合",
+    "新英格兰革命"
+   ],
+   "bj": "2026-11-29 05:30",
+   "dur": 115,
+   "note": "Subaru Park"
+  },
+  {
+   "id": "fb-usa.1-401933722",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "TBD Home vs 纳什维尔",
+   "teams": [
+    "TBD Home",
+    "纳什维尔"
+   ],
+   "bj": "2026-11-29 07:30",
+   "dur": 115
+  },
+  {
    "id": "fb-bra.1-401841336",
    "sport": "football",
    "sub": "巴甲 · 2026",
@@ -8960,6 +9336,32 @@
    "bj": "2026-11-29 08:00",
    "dur": 115,
    "note": "Joao Havelange Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933726",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "洛杉矶FC vs St. Louis CITY SC",
+   "teams": [
+    "洛杉矶FC",
+    "St. Louis CITY SC"
+   ],
+   "bj": "2026-11-29 09:30",
+   "dur": 115,
+   "note": "BMO Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933721",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "波特兰伐木者 vs FC Dallas",
+   "teams": [
+    "波特兰伐木者",
+    "FC Dallas"
+   ],
+   "bj": "2026-11-29 11:30",
+   "dur": 115,
+   "note": "Providence Park"
   },
   {
    "id": "fb-jpn.1-401877541",
@@ -9763,6 +10165,110 @@
    "bj": "2026-12-03 03:45",
    "dur": 115,
    "note": "McDiarmid Park"
+  },
+  {
+   "id": "fb-usa.1-401933718",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Chicago Fire FC vs 夏洛特FC",
+   "teams": [
+    "Chicago Fire FC",
+    "夏洛特FC"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "SeatGeek Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933716",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "FC Dallas vs 波特兰伐木者",
+   "teams": [
+    "FC Dallas",
+    "波特兰伐木者"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "Toyota Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933720",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Inter Miami CF vs 哥伦布机员",
+   "teams": [
+    "Inter Miami CF",
+    "哥伦布机员"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "Nu Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933736",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "纳什维尔 vs TBD Away",
+   "teams": [
+    "纳什维尔",
+    "TBD Away"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "GEODIS Park"
+  },
+  {
+   "id": "fb-usa.1-401933719",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "新英格兰革命 vs 费城联合",
+   "teams": [
+    "新英格兰革命",
+    "费城联合"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "Gillette Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933715",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "San Jose Earthquakes vs Houston Dynamo FC",
+   "teams": [
+    "San Jose Earthquakes",
+    "Houston Dynamo FC"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "PayPal Park"
+  },
+  {
+   "id": "fb-usa.1-401933735",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "St. Louis CITY SC vs 洛杉矶FC",
+   "teams": [
+    "St. Louis CITY SC",
+    "洛杉矶FC"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "Energizer Park"
+  },
+  {
+   "id": "fb-usa.1-401933717",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "温哥华白帽 vs TBD Away",
+   "teams": [
+    "温哥华白帽",
+    "TBD Away"
+   ],
+   "bj": "2026-12-03 04:00",
+   "dur": 115,
+   "note": "BC Place"
   },
   {
    "id": "fb-eng.1-401879223",
