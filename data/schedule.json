@@ -1,46 +1,7 @@
 {
- "updatedAt": "2026-11-09T19:16:13.802Z",
+ "updatedAt": "2026-11-09T23:30:21.621Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186712",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Solana Sierra vs Selena Janicijevic",
-   "teams": [
-    "Solana Sierra",
-    "Selena Janicijevic"
-   ],
-   "bj": "2026-11-03 03:15",
-   "dur": 150,
-   "result": "(3) Solana Sierra 6-4 6-2"
-  },
-  {
-   "id": "tn-atp-186453",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Botic Van De Zandschulp vs Ugo Humbert",
-   "teams": [
-    "Botic Van De Zandschulp",
-    "Ugo Humbert"
-   ],
-   "bj": "2026-11-03 04:55",
-   "dur": 150,
-   "result": "Ugo Humbert 6-3"
-  },
-  {
-   "id": "tn-wta-186713",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Leyre Romero Gormaz vs Polona Hercog",
-   "teams": [
-    "Leyre Romero Gormaz",
-    "Polona Hercog"
-   ],
-   "bj": "2026-11-03 05:00",
-   "dur": 150,
-   "result": "Leyre Romero Gormaz 6-0 6-1"
-  },
   {
    "id": "tn-wta-186581",
    "sport": "tennis",
@@ -5124,7 +5085,8 @@
     "Tomas Martin Etcheverry"
    ],
    "bj": "2026-11-10 01:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(5) Tomas Martin Etcheverry 6-3"
   },
   {
    "id": "tn-wta-186758",
@@ -5149,7 +5111,8 @@
     "Elizabeth Mandlik"
    ],
    "bj": "2026-11-10 01:30",
-   "dur": 150
+   "dur": 150,
+   "result": "Elizabeth Mandlik 6-3 4-6 6-2"
   },
   {
    "id": "tn-wta-186756",
@@ -5161,7 +5124,8 @@
     "Sofia Costoulas"
    ],
    "bj": "2026-11-10 02:55",
-   "dur": 150
+   "dur": 150,
+   "result": "Sofia Costoulas 6-0 6-1"
   },
   {
    "id": "tn-wta-186754",
@@ -5173,7 +5137,8 @@
     "Tamara Zidansek"
    ],
    "bj": "2026-11-10 03:00",
-   "dur": 150
+   "dur": 150,
+   "result": "(4) Julia Grabher 6-2 6-4"
   },
   {
    "id": "tn-wta-186755",
@@ -5184,8 +5149,9 @@
     "Yuliana Lizarazo",
     "Irene Burillo"
    ],
-   "bj": "2026-11-10 03:30",
-   "dur": 150
+   "bj": "2026-11-10 03:55",
+   "dur": 150,
+   "result": "Irene Burillo 6-2 6-2"
   },
   {
    "id": "tn-atp-186522",
@@ -5196,8 +5162,9 @@
     "Toby Samuel",
     "Leo Borg"
    ],
-   "bj": "2026-11-10 03:45",
-   "dur": 150
+   "bj": "2026-11-10 04:00",
+   "dur": 150,
+   "result": "Toby Samuel 6-3 6-2"
   },
   {
    "id": "tn-wta-187381",
@@ -5208,8 +5175,9 @@
     "穆霍娃",
     "萨巴伦卡"
    ],
-   "bj": "2026-11-10 04:00",
-   "dur": 150
+   "bj": "2026-11-10 04:15",
+   "dur": 150,
+   "result": "(2) Aryna Sabalenka 7-5"
   },
   {
    "id": "tn-wta-187382",
@@ -5220,103 +5188,7 @@
     "斯维托丽娜",
     "安德烈耶娃"
    ],
-   "bj": "2026-11-10 05:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186745",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Rebeka Masarova vs 安德烈斯库",
-   "teams": [
-    "Rebeka Masarova",
-    "安德烈斯库"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186746",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Leolia Jeanjean vs Jazmin Ortenzi",
-   "teams": [
-    "Leolia Jeanjean",
-    "Jazmin Ortenzi"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186747",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Leyre Romero Gormaz vs Carole Monnet",
-   "teams": [
-    "Leyre Romero Gormaz",
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186748",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Andrea Lazaro Garcia vs Katrina Scott",
-   "teams": [
-    "Andrea Lazaro Garcia",
-    "Katrina Scott"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186751",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Julia Riera vs Alice Tubello",
-   "teams": [
-    "Julia Riera",
-    "Alice Tubello"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186752",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Julieta Pareja vs Lucia Bronzetti",
-   "teams": [
-    "Julieta Pareja",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186757",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Carolina Alves vs Laura Samson",
-   "teams": [
-    "Carolina Alves",
-    "Laura Samson"
-   ],
-   "bj": "2026-11-10 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186759",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Valentina Mediorreal Arias vs Maria Lourdes Carle",
-   "teams": [
-    "Valentina Mediorreal Arias",
-    "Maria Lourdes Carle"
-   ],
-   "bj": "2026-11-10 13:00",
+   "bj": "2026-11-10 06:30",
    "dur": 150
   },
   {
@@ -5359,9 +5231,10 @@
    "id": "tn-atp-186539",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Thiago Agustin Tirante vs TBD",
+   "title": "Thiago Agustin Tirante vs Tomas Martin Etcheverry",
    "teams": [
-    "Thiago Agustin Tirante"
+    "Thiago Agustin Tirante",
+    "Tomas Martin Etcheverry"
    ],
    "bj": "2026-11-10 21:30",
    "dur": 150
@@ -5379,6 +5252,77 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186747",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Leyre Romero Gormaz vs Carole Monnet",
+   "teams": [
+    "Leyre Romero Gormaz",
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-10 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186751",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Julia Riera vs Alice Tubello",
+   "teams": [
+    "Julia Riera",
+    "Alice Tubello"
+   ],
+   "bj": "2026-11-10 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186752",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Julieta Pareja vs Lucia Bronzetti",
+   "teams": [
+    "Julieta Pareja",
+    "Lucia Bronzetti"
+   ],
+   "bj": "2026-11-10 23:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186745",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Rebeka Masarova vs 安德烈斯库",
+   "teams": [
+    "Rebeka Masarova",
+    "安德烈斯库"
+   ],
+   "bj": "2026-11-11 00:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186746",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "TBD vs Jazmin Ortenzi",
+   "teams": [
+    "Jazmin Ortenzi"
+   ],
+   "bj": "2026-11-11 00:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186748",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Andrea Lazaro Garcia vs Katrina Scott",
+   "teams": [
+    "Andrea Lazaro Garcia",
+    "Katrina Scott"
+   ],
+   "bj": "2026-11-11 00:30",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186525",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
@@ -5391,11 +5335,36 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186757",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Carolina Alves vs Laura Samson",
+   "teams": [
+    "Carolina Alves",
+    "Laura Samson"
+   ],
+   "bj": "2026-11-11 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186759",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Valentina Mediorreal Arias vs Maria Lourdes Carle",
+   "teams": [
+    "Valentina Mediorreal Arias",
+    "Maria Lourdes Carle"
+   ],
+   "bj": "2026-11-11 02:00",
+   "dur": 150
+  },
+  {
    "id": "tn-atp-186543",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "TBD vs 穆塞蒂",
+   "title": "Toby Samuel vs 穆塞蒂",
    "teams": [
+    "Toby Samuel",
     "穆塞蒂"
    ],
    "bj": "2026-11-11 02:30",
@@ -5532,6 +5501,17 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186761",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Elizabeth Mandlik vs TBD",
+   "teams": [
+    "Elizabeth Mandlik"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186767",
    "sport": "tennis",
    "sub": "DIRECTV Open Presentado por Compesar · 女单",
@@ -5543,12 +5523,35 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-186766",
+   "id": "tn-wta-186762",
    "sport": "tennis",
    "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "TBD vs Polona Hercog",
+   "title": "格拉伯 vs Irene Burillo",
    "teams": [
-    "Polona Hercog"
+    "格拉伯",
+    "Irene Burillo"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186763",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Sofia Costoulas vs TBD",
+   "teams": [
+    "Sofia Costoulas"
+   ],
+   "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186764",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Marina Bassols Ribera vs TBD",
+   "teams": [
+    "Marina Bassols Ribera"
    ],
    "bj": "2026-11-11 13:00",
    "dur": 150
@@ -5565,12 +5568,12 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-186764",
+   "id": "tn-wta-186766",
    "sport": "tennis",
    "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Marina Bassols Ribera vs TBD",
+   "title": "TBD vs Polona Hercog",
    "teams": [
-    "Marina Bassols Ribera"
+    "Polona Hercog"
    ],
    "bj": "2026-11-11 13:00",
    "dur": 150
@@ -11416,6 +11419,97 @@
    "bj": "2026-12-10 03:00",
    "dur": 115,
    "note": "Estadio de Vallecas"
+  },
+  {
+   "id": "fb-uefa.champions-401915367",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "阿森纳 vs 皇家马德里",
+   "teams": [
+    "阿森纳",
+    "皇家马德里"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "Emirates Stadium"
+  },
+  {
+   "id": "fb-uefa.champions-401915368",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "多特蒙德 vs 国际米兰",
+   "teams": [
+    "多特蒙德",
+    "国际米兰"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "Signal Iduna Park"
+  },
+  {
+   "id": "fb-uefa.champions-401915281",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "LASK Linz vs Fenerbahce",
+   "teams": [
+    "LASK Linz",
+    "Fenerbahce"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "Raiffeisen Arena (Linz)"
+  },
+  {
+   "id": "fb-uefa.champions-401915370",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "朗斯 vs Bodo/Glimt",
+   "teams": [
+    "朗斯",
+    "Bodo/Glimt"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "Stade Bollaert-Delelis"
+  },
+  {
+   "id": "fb-uefa.champions-401915369",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "利物浦 vs FC Porto",
+   "teams": [
+    "利物浦",
+    "FC Porto"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "Anfield"
+  },
+  {
+   "id": "fb-uefa.champions-401915366",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "埃因霍温 vs 马竞",
+   "teams": [
+    "埃因霍温",
+    "马竞"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "Philips Stadion"
+  },
+  {
+   "id": "fb-uefa.champions-401915365",
+   "sport": "football",
+   "sub": "欧冠 · 2026",
+   "title": "斯图加特 vs 里尔",
+   "teams": [
+    "斯图加特",
+    "里尔"
+   ],
+   "bj": "2026-12-10 04:00",
+   "dur": 115,
+   "note": "MHPArena"
   }
  ],
  "sources": [
@@ -11439,7 +11533,7 @@
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 107 场",
-  "网球 WTA: 193 场",
+  "网球 WTA: 196 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
