@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T23:30:21.621Z",
+ "updatedAt": "2026-11-10T04:40:58.540Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -5189,7 +5189,8 @@
     "安德烈耶娃"
    ],
    "bj": "2026-11-10 06:30",
-   "dur": 150
+   "dur": 150,
+   "result": "(3) Mirra Andreeva 6-4 6-0"
   },
   {
    "id": "tn-atp-186526",
@@ -5441,66 +5442,6 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-187379",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "斯维托丽娜 vs 萨巴伦卡",
-   "teams": [
-    "斯维托丽娜",
-    "萨巴伦卡"
-   ],
-   "bj": "2026-11-11 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187371",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "高芙 vs 科斯图克",
-   "teams": [
-    "高芙",
-    "科斯图克"
-   ],
-   "bj": "2026-11-11 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187376",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "Linda Noskova vs 佩古拉",
-   "teams": [
-    "Linda Noskova",
-    "佩古拉"
-   ],
-   "bj": "2026-11-11 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187384",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "穆霍娃 vs 安德烈耶娃",
-   "teams": [
-    "穆霍娃",
-    "安德烈耶娃"
-   ],
-   "bj": "2026-11-11 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-187378",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "安德烈耶娃 vs 萨巴伦卡",
-   "teams": [
-    "安德烈耶娃",
-    "萨巴伦卡"
-   ],
-   "bj": "2026-11-11 13:00",
-   "dur": 150
-  },
-  {
    "id": "tn-wta-186761",
    "sport": "tennis",
    "sub": "DIRECTV Open Presentado por Compesar · 女单",
@@ -5576,6 +5517,66 @@
     "Polona Hercog"
    ],
    "bj": "2026-11-11 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187378",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "安德烈耶娃 vs 萨巴伦卡",
+   "teams": [
+    "安德烈耶娃",
+    "萨巴伦卡"
+   ],
+   "bj": "2026-11-12 05:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187379",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "斯维托丽娜 vs 萨巴伦卡",
+   "teams": [
+    "斯维托丽娜",
+    "萨巴伦卡"
+   ],
+   "bj": "2026-11-12 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187371",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "高芙 vs 科斯图克",
+   "teams": [
+    "高芙",
+    "科斯图克"
+   ],
+   "bj": "2026-11-12 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187376",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "Linda Noskova vs 佩古拉",
+   "teams": [
+    "Linda Noskova",
+    "佩古拉"
+   ],
+   "bj": "2026-11-12 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187384",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "穆霍娃 vs 安德烈耶娃",
+   "teams": [
+    "穆霍娃",
+    "安德烈耶娃"
+   ],
+   "bj": "2026-11-12 13:00",
    "dur": 150
   },
   {
