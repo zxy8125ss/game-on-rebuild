@@ -1,32 +1,6 @@
 {
- "updatedAt": "2026-11-11T21:29:20.032Z",
+ "updatedAt": "2026-11-12T03:52:35.803Z",
  "matches": [
-  {
-   "id": "tn-wta-186726",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "安德烈斯库 vs Jazmin Ortenzi",
-   "teams": [
-    "安德烈斯库",
-    "Jazmin Ortenzi"
-   ],
-   "bj": "2026-11-05 06:00",
-   "dur": 150,
-   "result": "(8) Bianca Andreescu 6-2 6-3"
-  },
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-11-04-Gen.G-LYON (2024 American Team)",
-   "sport": "lol",
-   "sub": "全球总决赛",
-   "title": "GEN vs LYON (2024 American Team)",
-   "teams": [
-    "GEN",
-    "LYON (2024 American Team)"
-   ],
-   "bj": "2026-11-05 06:00",
-   "dur": 120,
-   "result": "GEN 3:0 LYON (2024 American Team)"
-  },
   {
    "id": "tn-wta-186640",
    "sport": "tennis",
@@ -4019,7 +3993,8 @@
     "斯维托丽娜"
    ],
    "bj": "2026-11-12 04:10",
-   "dur": 150
+   "dur": 150,
+   "result": "(6) Elina Svitolina 3-6 6-2 6-2"
   },
   {
    "id": "tn-wta-187378",
@@ -4030,8 +4005,9 @@
     "安德烈耶娃",
     "萨巴伦卡"
    ],
-   "bj": "2026-11-12 05:45",
-   "dur": 150
+   "bj": "2026-11-12 06:35",
+   "dur": 150,
+   "result": "(3) Mirra Andreeva 6-4 6-0"
   },
   {
    "id": "tn-atp-186549",
@@ -4154,18 +4130,6 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-187379",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "斯维托丽娜 vs 萨巴伦卡",
-   "teams": [
-    "斯维托丽娜",
-    "萨巴伦卡"
-   ],
-   "bj": "2026-11-13 13:00",
-   "dur": 150
-  },
-  {
    "id": "tn-wta-187384",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
@@ -4174,7 +4138,19 @@
     "穆霍娃",
     "安德烈耶娃"
    ],
-   "bj": "2026-11-13 13:00",
+   "bj": "2026-11-14 04:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187379",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "斯维托丽娜 vs 萨巴伦卡",
+   "teams": [
+    "斯维托丽娜",
+    "萨巴伦卡"
+   ],
+   "bj": "2026-11-14 05:30",
    "dur": 150
   },
   {
