@@ -1,163 +1,7 @@
 {
- "updatedAt": "2026-11-12T03:52:35.802Z",
+ "updatedAt": "2026-11-12T12:54:25.401Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186640",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Alexandra Shubladze vs Elena Pridankina",
-   "teams": [
-    "Alexandra Shubladze",
-    "Elena Pridankina"
-   ],
-   "bj": "2026-11-05 14:05",
-   "dur": 150,
-   "result": "Alexandra Shubladze 6-1 6-3"
-  },
-  {
-   "id": "tn-wta-186631",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "鲁日奇 vs Wang Xinyu",
-   "teams": [
-    "鲁日奇",
-    "Wang Xinyu"
-   ],
-   "bj": "2026-11-05 14:05",
-   "dur": 150,
-   "result": "Antonia Ruzic 6-3 4-6 6-2"
-  },
-  {
-   "id": "tn-wta-186639",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "松梅兹 vs 斯托伊萨夫利维奇",
-   "teams": [
-    "松梅兹",
-    "斯托伊萨夫利维奇"
-   ],
-   "bj": "2026-11-05 16:45",
-   "dur": 150,
-   "result": "Zeynep Sonmez 6-4"
-  },
-  {
-   "id": "tn-wta-186683",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Li Zongyu vs 布林科娃",
-   "teams": [
-    "Li Zongyu",
-    "布林科娃"
-   ],
-   "bj": "2026-11-05 17:05",
-   "dur": 150,
-   "result": "(1) Anna Blinkova 6-3 4-6 6-2"
-  },
-  {
-   "id": "tn-wta-186681",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Ksenia Zaytseva vs Kristina Kroitor",
-   "teams": [
-    "Ksenia Zaytseva",
-    "Kristina Kroitor"
-   ],
-   "bj": "2026-11-05 17:10",
-   "dur": 150,
-   "result": "Ksenia Zaytseva 6-4 6-1"
-  },
-  {
-   "id": "tn-wta-186590",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "莱内特 vs 内田萌华",
-   "teams": [
-    "莱内特",
-    "内田萌华"
-   ],
-   "bj": "2026-11-05 17:35",
-   "dur": 150,
-   "result": "(3) Magda Linette 6-0"
-  },
-  {
-   "id": "tn-wta-186591",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Zhibek Kulambayeva vs 本玉",
-   "teams": [
-    "Zhibek Kulambayeva",
-    "本玉"
-   ],
-   "bj": "2026-11-05 17:35",
-   "dur": 150,
-   "result": "Mai Hontama 4-6 6-4 7-5"
-  },
-  {
-   "id": "tn-atp-186496",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Quentin Halys vs 保罗",
-   "teams": [
-    "Quentin Halys",
-    "保罗"
-   ],
-   "bj": "2026-11-05 18:10",
-   "dur": 150,
-   "result": "(12) Tommy Paul 6-4"
-  },
-  {
-   "id": "tn-wta-186630",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "埃亚拉 vs 瓦伦托娃",
-   "teams": [
-    "埃亚拉",
-    "瓦伦托娃"
-   ],
-   "bj": "2026-11-05 19:10",
-   "dur": 150,
-   "result": "(2) Alexandra Eala"
-  },
-  {
-   "id": "tn-wta-186677",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Tiphanie Lemaitre vs Justina Mikulskyte",
-   "teams": [
-    "Tiphanie Lemaitre",
-    "Justina Mikulskyte"
-   ],
-   "bj": "2026-11-05 19:25",
-   "dur": 150,
-   "result": "(5) Justina Mikulskyte 6-3 7-5"
-  },
-  {
-   "id": "tn-wta-186585",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "Lucrezia Stefanini vs 瓦尔特",
-   "teams": [
-    "Lucrezia Stefanini",
-    "瓦尔特"
-   ],
-   "bj": "2026-11-05 19:35",
-   "dur": 150,
-   "result": "(10) Lucrezia Stefanini 6-2 6-3"
-  },
-  {
-   "id": "tn-atp-186497",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "Arthur Rinderknech vs 谢尔顿",
-   "teams": [
-    "Arthur Rinderknech",
-    "谢尔顿"
-   ],
-   "bj": "2026-11-05 20:05",
-   "dur": 150,
-   "result": "(3) Ben Shelton"
-  },
   {
    "id": "tn-wta-186641",
    "sport": "tennis",
@@ -3993,7 +3837,7 @@
     "Alejandro Tabilo",
     "米歇尔森"
    ],
-   "bj": "2026-11-12 20:00",
+   "bj": "2026-11-12 20:05",
    "dur": 150
   },
   {
@@ -10619,6 +10463,97 @@
    "bj": "2026-12-12 04:15",
    "dur": 115,
    "note": "Estádio do Fontelo"
+  },
+  {
+   "id": "fb-aus.1-401892126",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "奥克兰FC vs 悉尼FC",
+   "teams": [
+    "奥克兰FC",
+    "悉尼FC"
+   ],
+   "bj": "2026-12-12 12:00",
+   "dur": 115,
+   "note": "Go Media Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877495",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "大阪樱花 vs 町田泽维亚",
+   "teams": [
+    "大阪樱花",
+    "町田泽维亚"
+   ],
+   "bj": "2026-12-12 13:00",
+   "dur": 115,
+   "note": "Yodoko Sakura Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877519",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Shimizu S-Pulse vs 神户胜利船",
+   "teams": [
+    "Shimizu S-Pulse",
+    "神户胜利船"
+   ],
+   "bj": "2026-12-12 13:00",
+   "dur": 115,
+   "note": "IAI Stadium Nihondaira"
+  },
+  {
+   "id": "fb-aus.1-401892125",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "中央海岸水手 vs Brisbane Roar FC",
+   "teams": [
+    "中央海岸水手",
+    "Brisbane Roar FC"
+   ],
+   "bj": "2026-12-12 14:00",
+   "dur": 115,
+   "note": "Central Coast Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877496",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "大阪钢巴 vs 东京绿茵",
+   "teams": [
+    "大阪钢巴",
+    "东京绿茵"
+   ],
+   "bj": "2026-12-12 15:00",
+   "dur": 115,
+   "note": "Suita City Football Stadium"
+  },
+  {
+   "id": "fb-aus.1-401892124",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "墨尔本胜利 vs Newcastle Jets",
+   "teams": [
+    "墨尔本胜利",
+    "Newcastle Jets"
+   ],
+   "bj": "2026-12-12 16:40",
+   "dur": 115,
+   "note": "Melbourne Rectangular Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888221",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "Erzurum BB vs 卡西帕萨",
+   "teams": [
+    "Erzurum BB",
+    "卡西帕萨"
+   ],
+   "bj": "2026-12-12 18:30",
+   "dur": 115,
+   "note": "Erzurum Kazim Karabekir"
   }
  ],
  "sources": [
@@ -10641,7 +10576,7 @@
   "足球 澳超: 21 场",
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 112 场",
+  "网球 ATP: 124 场",
   "网球 WTA: 201 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
