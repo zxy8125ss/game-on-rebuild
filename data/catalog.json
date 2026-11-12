@@ -1,71 +1,6 @@
 {
- "updatedAt": "2026-11-12T17:10:27.679Z",
+ "updatedAt": "2026-11-12T21:31:49.683Z",
  "matches": [
-  {
-   "id": "tn-atp-186502",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs Matteo Berrettini",
-   "teams": [
-    "阿尔卡拉斯",
-    "Matteo Berrettini"
-   ],
-   "bj": "2026-11-06 02:00",
-   "dur": 150,
-   "result": "(2) Carlos Alcaraz w/o"
-  },
-  {
-   "id": "tn-atp-186503",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "弗里茨 vs Arthur Fils",
-   "teams": [
-    "弗里茨",
-    "Arthur Fils"
-   ],
-   "bj": "2026-11-06 02:15",
-   "dur": 150,
-   "result": "(11) Taylor Fritz 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-186729",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "安德烈斯库 vs Luisina Giovannini",
-   "teams": [
-    "安德烈斯库",
-    "Luisina Giovannini"
-   ],
-   "bj": "2026-11-06 03:25",
-   "dur": 150,
-   "result": "(8) Bianca Andreescu 6-1 6-3"
-  },
-  {
-   "id": "tn-atp-186495",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "鲁德 vs 施特鲁夫",
-   "teams": [
-    "鲁德",
-    "施特鲁夫"
-   ],
-   "bj": "2026-11-06 03:50",
-   "dur": 150,
-   "result": "Casper Ruud 6-3 6-3"
-  },
-  {
-   "id": "tn-wta-186730",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Alice Tubello vs Leolia Jeanjean",
-   "teams": [
-    "Alice Tubello",
-    "Leolia Jeanjean"
-   ],
-   "bj": "2026-11-06 04:25",
-   "dur": 150,
-   "result": "Alice Tubello 6-3 6-2"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
    "sport": "lol",
@@ -3254,7 +3189,8 @@
     "Thiago Agustin Tirante"
    ],
    "bj": "2026-11-12 22:20",
-   "dur": 150
+   "dur": 150,
+   "result": "Thiago Agustin Tirante 6-3"
   },
   {
    "id": "tn-wta-186770",
@@ -3292,7 +3228,8 @@
     "Alice Tubello"
    ],
    "bj": "2026-11-13 00:45",
-   "dur": 150
+   "dur": 150,
+   "result": "Polona Hercog 6-2 6-3"
   },
   {
    "id": "tn-wta-186768",
@@ -3303,8 +3240,9 @@
     "Marina Bassols Ribera",
     "安德烈斯库"
    ],
-   "bj": "2026-11-13 01:10",
-   "dur": 150
+   "bj": "2026-11-13 01:25",
+   "dur": 150,
+   "result": "(3) Bianca Andreescu 6-4 4-2 ret"
   },
   {
    "id": "tn-atp-186551",
@@ -3316,7 +3254,8 @@
     "弗里茨"
    ],
    "bj": "2026-11-13 01:30",
-   "dur": 150
+   "dur": 150,
+   "result": "(1) Taylor Fritz w/o"
   },
   {
    "id": "tn-atp-186550",
@@ -3327,7 +3266,7 @@
     "Ugo Humbert",
     "穆塞蒂"
    ],
-   "bj": "2026-11-13 03:00",
+   "bj": "2026-11-13 03:25",
    "dur": 150
   },
   {
@@ -3339,7 +3278,7 @@
     "高芙",
     "科斯图克"
    ],
-   "bj": "2026-11-13 04:00",
+   "bj": "2026-11-13 04:15",
    "dur": 150
   },
   {
@@ -3351,7 +3290,19 @@
     "Linda Noskova",
     "佩古拉"
    ],
-   "bj": "2026-11-13 05:30",
+   "bj": "2026-11-13 05:35",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186546",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Thiago Agustin Tirante vs Alejandro Tabilo",
+   "teams": [
+    "Thiago Agustin Tirante",
+    "Alejandro Tabilo"
+   ],
+   "bj": "2026-11-13 21:00",
    "dur": 150
   },
   {
@@ -3363,18 +3314,30 @@
     "Elizabeth Mandlik",
     "Laura Samson"
    ],
-   "bj": "2026-11-13 13:00",
+   "bj": "2026-11-13 23:00",
    "dur": 150
   },
   {
-   "id": "tn-atp-186546",
+   "id": "tn-atp-186547",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "TBD vs Alejandro Tabilo",
+   "title": "TBD vs 弗里茨",
    "teams": [
-    "Alejandro Tabilo"
+    "弗里茨"
    ],
-   "bj": "2026-11-13 21:00",
+   "bj": "2026-11-14 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186774",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "安德烈斯库 vs Polona Hercog",
+   "teams": [
+    "安德烈斯库",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-14 00:30",
    "dur": 150
   },
   {

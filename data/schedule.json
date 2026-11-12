@@ -1,72 +1,7 @@
 {
- "updatedAt": "2026-11-12T17:10:27.678Z",
+ "updatedAt": "2026-11-12T21:31:49.682Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-186502",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs Matteo Berrettini",
-   "teams": [
-    "阿尔卡拉斯",
-    "Matteo Berrettini"
-   ],
-   "bj": "2026-11-06 02:00",
-   "dur": 150,
-   "result": "(2) Carlos Alcaraz w/o"
-  },
-  {
-   "id": "tn-atp-186503",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "弗里茨 vs Arthur Fils",
-   "teams": [
-    "弗里茨",
-    "Arthur Fils"
-   ],
-   "bj": "2026-11-06 02:15",
-   "dur": 150,
-   "result": "(11) Taylor Fritz 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-186729",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "安德烈斯库 vs Luisina Giovannini",
-   "teams": [
-    "安德烈斯库",
-    "Luisina Giovannini"
-   ],
-   "bj": "2026-11-06 03:25",
-   "dur": 150,
-   "result": "(8) Bianca Andreescu 6-1 6-3"
-  },
-  {
-   "id": "tn-atp-186495",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "鲁德 vs 施特鲁夫",
-   "teams": [
-    "鲁德",
-    "施特鲁夫"
-   ],
-   "bj": "2026-11-06 03:50",
-   "dur": 150,
-   "result": "Casper Ruud 6-3 6-3"
-  },
-  {
-   "id": "tn-wta-186730",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Alice Tubello vs Leolia Jeanjean",
-   "teams": [
-    "Alice Tubello",
-    "Leolia Jeanjean"
-   ],
-   "bj": "2026-11-06 04:25",
-   "dur": 150,
-   "result": "Alice Tubello 6-3 6-2"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
    "sport": "lol",
@@ -3229,7 +3164,8 @@
     "Thiago Agustin Tirante"
    ],
    "bj": "2026-11-12 22:20",
-   "dur": 150
+   "dur": 150,
+   "result": "Thiago Agustin Tirante 6-3"
   },
   {
    "id": "tn-wta-186770",
@@ -3267,7 +3203,8 @@
     "Alice Tubello"
    ],
    "bj": "2026-11-13 00:45",
-   "dur": 150
+   "dur": 150,
+   "result": "Polona Hercog 6-2 6-3"
   },
   {
    "id": "tn-wta-186768",
@@ -3278,8 +3215,9 @@
     "Marina Bassols Ribera",
     "安德烈斯库"
    ],
-   "bj": "2026-11-13 01:10",
-   "dur": 150
+   "bj": "2026-11-13 01:25",
+   "dur": 150,
+   "result": "(3) Bianca Andreescu 6-4 4-2 ret"
   },
   {
    "id": "tn-atp-186551",
@@ -3291,7 +3229,8 @@
     "弗里茨"
    ],
    "bj": "2026-11-13 01:30",
-   "dur": 150
+   "dur": 150,
+   "result": "(1) Taylor Fritz w/o"
   },
   {
    "id": "tn-atp-186550",
@@ -3302,7 +3241,7 @@
     "Ugo Humbert",
     "穆塞蒂"
    ],
-   "bj": "2026-11-13 03:00",
+   "bj": "2026-11-13 03:25",
    "dur": 150
   },
   {
@@ -3314,7 +3253,7 @@
     "高芙",
     "科斯图克"
    ],
-   "bj": "2026-11-13 04:00",
+   "bj": "2026-11-13 04:15",
    "dur": 150
   },
   {
@@ -3326,7 +3265,19 @@
     "Linda Noskova",
     "佩古拉"
    ],
-   "bj": "2026-11-13 05:30",
+   "bj": "2026-11-13 05:35",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-186546",
+   "sport": "tennis",
+   "sub": "Bybit Stockholm Open · 男单",
+   "title": "Thiago Agustin Tirante vs Alejandro Tabilo",
+   "teams": [
+    "Thiago Agustin Tirante",
+    "Alejandro Tabilo"
+   ],
+   "bj": "2026-11-13 21:00",
    "dur": 150
   },
   {
@@ -3338,18 +3289,30 @@
     "Elizabeth Mandlik",
     "Laura Samson"
    ],
-   "bj": "2026-11-13 13:00",
+   "bj": "2026-11-13 23:00",
    "dur": 150
   },
   {
-   "id": "tn-atp-186546",
+   "id": "tn-atp-186547",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "TBD vs Alejandro Tabilo",
+   "title": "TBD vs 弗里茨",
    "teams": [
-    "Alejandro Tabilo"
+    "弗里茨"
    ],
-   "bj": "2026-11-13 21:00",
+   "bj": "2026-11-14 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186774",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "安德烈斯库 vs Polona Hercog",
+   "teams": [
+    "安德烈斯库",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-14 00:30",
    "dur": 150
   },
   {
@@ -10179,6 +10142,149 @@
    "bj": "2026-12-13 01:00",
    "dur": 115,
    "note": "Via Del Mare"
+  },
+  {
+   "id": "fb-eng.1-401878742",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "曼城 vs 切尔西",
+   "teams": [
+    "曼城",
+    "切尔西"
+   ],
+   "bj": "2026-12-13 01:30",
+   "dur": 115,
+   "note": "Etihad Stadium"
+  },
+  {
+   "id": "fb-ger.1-401884705",
+   "sport": "football",
+   "sub": "德甲 · 2026",
+   "title": "门兴 vs 法兰克福",
+   "teams": [
+    "门兴",
+    "法兰克福"
+   ],
+   "bj": "2026-12-13 01:30",
+   "dur": 115,
+   "note": "BORUSSIA-PARK"
+  },
+  {
+   "id": "fb-ned.1-401875513",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "海伦芬 vs 高文伊格路",
+   "teams": [
+    "海伦芬",
+    "高文伊格路"
+   ],
+   "bj": "2026-12-13 01:45",
+   "dur": 115,
+   "note": "Abe Lenstra Stadion"
+  },
+  {
+   "id": "fb-por.1-401885371",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "马里迪莫 vs 里奥阿维",
+   "teams": [
+    "马里迪莫",
+    "里奥阿维"
+   ],
+   "bj": "2026-12-13 02:00",
+   "dur": 115,
+   "note": "Estádio do Marítimo"
+  },
+  {
+   "id": "fb-ita.1-401874821",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "科莫 vs 博洛尼亚",
+   "teams": [
+    "科莫",
+    "博洛尼亚"
+   ],
+   "bj": "2026-12-13 03:45",
+   "dur": 115,
+   "note": "Giuseppe Sinigaglia"
+  },
+  {
+   "id": "fb-fra.1-401876376",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "昂热 vs 斯特拉斯堡",
+   "teams": [
+    "昂热",
+    "斯特拉斯堡"
+   ],
+   "bj": "2026-12-13 03:45",
+   "dur": 115,
+   "note": "Stade Raymond Kopa"
+  },
+  {
+   "id": "fb-fra.1-401876374",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "布雷斯特 vs 特鲁瓦",
+   "teams": [
+    "布雷斯特",
+    "特鲁瓦"
+   ],
+   "bj": "2026-12-13 03:45",
+   "dur": 115,
+   "note": "Stade Francis-Le Blé"
+  },
+  {
+   "id": "fb-fra.1-401876373",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "Le Havre AC vs Le Mans",
+   "teams": [
+    "Le Havre AC",
+    "Le Mans"
+   ],
+   "bj": "2026-12-13 03:45",
+   "dur": 115,
+   "note": "Stade Océane"
+  },
+  {
+   "id": "fb-fra.1-401876371",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "尼斯 vs 朗斯",
+   "teams": [
+    "尼斯",
+    "朗斯"
+   ],
+   "bj": "2026-12-13 03:45",
+   "dur": 115,
+   "note": "Allianz Riviera"
+  },
+  {
+   "id": "fb-ned.1-401875515",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "兹沃勒 vs 埃克塞尔西奥",
+   "teams": [
+    "兹沃勒",
+    "埃克塞尔西奥"
+   ],
+   "bj": "2026-12-13 04:00",
+   "dur": 115,
+   "note": "MAC³PARK Stadion"
+  },
+  {
+   "id": "fb-por.1-401885372",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "吉尔维森特 vs 里斯本竞技",
+   "teams": [
+    "吉尔维森特",
+    "里斯本竞技"
+   ],
+   "bj": "2026-12-13 04:30",
+   "dur": 115,
+   "note": "Estádio Cidade de Barcelos"
   }
  ],
  "sources": [
@@ -10201,8 +10307,8 @@
   "足球 澳超: 22 场",
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 125 场",
-  "网球 WTA: 202 场",
+  "网球 ATP: 126 场",
+  "网球 WTA: 203 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
