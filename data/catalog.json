@@ -1,32 +1,6 @@
 {
- "updatedAt": "2026-11-13T16:48:42.736Z",
+ "updatedAt": "2026-11-13T20:57:34.896Z",
  "matches": [
-  {
-   "id": "tn-wta-186734",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Julia Riera vs Leyre Romero Gormaz",
-   "teams": [
-    "Julia Riera",
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-07 01:10",
-   "dur": 150,
-   "result": "Leyre Romero Gormaz 3-6 7-5 6-4"
-  },
-  {
-   "id": "tn-atp-186492",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs 弗里茨",
-   "teams": [
-    "阿尔卡拉斯",
-    "弗里茨"
-   ],
-   "bj": "2026-11-07 03:00",
-   "dur": 150,
-   "result": "(2) Carlos Alcaraz 7-5 6-3"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-06-Karmine Corp-T1",
    "sport": "lol",
@@ -2940,7 +2914,8 @@
     "弗里茨"
    ],
    "bj": "2026-11-14 00:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(1) Taylor Fritz 6-4 6-2"
   },
   {
    "id": "tn-wta-186774",
@@ -2951,19 +2926,20 @@
     "安德烈斯库",
     "Polona Hercog"
    ],
-   "bj": "2026-11-14 00:45",
-   "dur": 150
+   "bj": "2026-11-14 00:50",
+   "dur": 150,
+   "result": "(3) Bianca Andreescu 6-1 6-4"
   },
   {
    "id": "tn-wta-187384",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "穆霍娃 vs 安德烈耶娃",
+   "title": "施奈德 vs 安德烈耶娃",
    "teams": [
-    "穆霍娃",
+    "施奈德",
     "安德烈耶娃"
    ],
-   "bj": "2026-11-14 04:00",
+   "bj": "2026-11-14 04:10",
    "dur": 150
   },
   {
@@ -3002,25 +2978,27 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-186772",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Elizabeth Mandlik vs TBD",
-   "teams": [
-    "Elizabeth Mandlik"
-   ],
-   "bj": "2026-11-14 13:00",
-   "dur": 150
-  },
-  {
    "id": "tn-atp-186552",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Thiago Agustin Tirante vs TBD",
+   "title": "Thiago Agustin Tirante vs 弗里茨",
    "teams": [
-    "Thiago Agustin Tirante"
+    "Thiago Agustin Tirante",
+    "弗里茨"
    ],
    "bj": "2026-11-14 20:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186772",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Elizabeth Mandlik vs 安德烈斯库",
+   "teams": [
+    "Elizabeth Mandlik",
+    "安德烈斯库"
+   ],
+   "bj": "2026-11-15 01:00",
    "dur": 150
   },
   {

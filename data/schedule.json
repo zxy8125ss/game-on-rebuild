@@ -1,33 +1,7 @@
 {
- "updatedAt": "2026-11-13T16:48:42.735Z",
+ "updatedAt": "2026-11-13T20:57:34.895Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186734",
-   "sport": "tennis",
-   "sub": "Reto Win Tennis Cali Open · 女单",
-   "title": "Julia Riera vs Leyre Romero Gormaz",
-   "teams": [
-    "Julia Riera",
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-07 01:10",
-   "dur": 150,
-   "result": "Leyre Romero Gormaz 3-6 7-5 6-4"
-  },
-  {
-   "id": "tn-atp-186492",
-   "sport": "tennis",
-   "sub": "Rolex Paris Masters · 男单",
-   "title": "阿尔卡拉斯 vs 弗里茨",
-   "teams": [
-    "阿尔卡拉斯",
-    "弗里茨"
-   ],
-   "bj": "2026-11-07 03:00",
-   "dur": 150,
-   "result": "(2) Carlos Alcaraz 7-5 6-3"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-06-Karmine Corp-T1",
    "sport": "lol",
@@ -2915,7 +2889,8 @@
     "弗里茨"
    ],
    "bj": "2026-11-14 00:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(1) Taylor Fritz 6-4 6-2"
   },
   {
    "id": "tn-wta-186774",
@@ -2926,19 +2901,20 @@
     "安德烈斯库",
     "Polona Hercog"
    ],
-   "bj": "2026-11-14 00:45",
-   "dur": 150
+   "bj": "2026-11-14 00:50",
+   "dur": 150,
+   "result": "(3) Bianca Andreescu 6-1 6-4"
   },
   {
    "id": "tn-wta-187384",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "穆霍娃 vs 安德烈耶娃",
+   "title": "施奈德 vs 安德烈耶娃",
    "teams": [
-    "穆霍娃",
+    "施奈德",
     "安德烈耶娃"
    ],
-   "bj": "2026-11-14 04:00",
+   "bj": "2026-11-14 04:10",
    "dur": 150
   },
   {
@@ -2966,25 +2942,27 @@
    "dur": 150
   },
   {
-   "id": "tn-wta-186772",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Elizabeth Mandlik vs TBD",
-   "teams": [
-    "Elizabeth Mandlik"
-   ],
-   "bj": "2026-11-14 13:00",
-   "dur": 150
-  },
-  {
    "id": "tn-atp-186552",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "Thiago Agustin Tirante vs TBD",
+   "title": "Thiago Agustin Tirante vs 弗里茨",
    "teams": [
-    "Thiago Agustin Tirante"
+    "Thiago Agustin Tirante",
+    "弗里茨"
    ],
    "bj": "2026-11-14 20:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186772",
+   "sport": "tennis",
+   "sub": "DIRECTV Open Presentado por Compesar · 女单",
+   "title": "Elizabeth Mandlik vs 安德烈斯库",
+   "teams": [
+    "Elizabeth Mandlik",
+    "安德烈斯库"
+   ],
+   "bj": "2026-11-15 01:00",
    "dur": 150
   },
   {
@@ -10310,6 +10288,240 @@
    "bj": "2026-12-14 00:30",
    "dur": 115,
    "note": "PreZero Arena"
+  },
+  {
+   "id": "fb-ita.1-401874761",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "帕尔马 vs 佛罗伦萨",
+   "teams": [
+    "帕尔马",
+    "佛罗伦萨"
+   ],
+   "bj": "2026-12-14 01:00",
+   "dur": 115,
+   "note": "Ennio Tardini"
+  },
+  {
+   "id": "fb-por.1-401885367",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "Vitória de Guimaraes vs Alverca",
+   "teams": [
+    "Vitória de Guimaraes",
+    "Alverca"
+   ],
+   "bj": "2026-12-14 02:00",
+   "dur": 115,
+   "note": "Estádio D. Afonso Henriques"
+  },
+  {
+   "id": "fb-ger.1-401884702",
+   "sport": "football",
+   "sub": "德甲 · 2026",
+   "title": "云达不莱梅 vs 勒沃库森",
+   "teams": [
+    "云达不莱梅",
+    "勒沃库森"
+   ],
+   "bj": "2026-12-14 02:30",
+   "dur": 115,
+   "note": "Weserstadion"
+  },
+  {
+   "id": "fb-eng.1-401879207",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "水晶宫 vs 曼联",
+   "teams": [
+    "水晶宫",
+    "曼联"
+   ],
+   "bj": "2026-12-14 03:00",
+   "dur": 115,
+   "note": "Selhurst Park"
+  },
+  {
+   "id": "fb-ned.1-401875520",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "Ajax Amsterdam vs SC Cambuur",
+   "teams": [
+    "Ajax Amsterdam",
+    "SC Cambuur"
+   ],
+   "bj": "2026-12-14 03:00",
+   "dur": 115,
+   "note": "Johan Cruijff Arena"
+  },
+  {
+   "id": "fb-ita.1-401875028",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "那不勒斯 vs AC米兰",
+   "teams": [
+    "那不勒斯",
+    "AC米兰"
+   ],
+   "bj": "2026-12-14 03:45",
+   "dur": 115,
+   "note": "Stadio Diego Armando Maradona"
+  },
+  {
+   "id": "fb-fra.1-401876368",
+   "sport": "football",
+   "sub": "法甲 · 2026",
+   "title": "里昂 vs 马赛",
+   "teams": [
+    "里昂",
+    "马赛"
+   ],
+   "bj": "2026-12-14 03:45",
+   "dur": 115,
+   "note": "Groupama Stadium"
+  },
+  {
+   "id": "fb-esp.1-401882776",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "马竞 vs 瓦伦西亚",
+   "teams": [
+    "马竞",
+    "瓦伦西亚"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Riyadh Air Metropolitano"
+  },
+  {
+   "id": "fb-esp.1-401882774",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "Deportivo vs 毕尔巴鄂竞技",
+   "teams": [
+    "Deportivo",
+    "毕尔巴鄂竞技"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Riazor"
+  },
+  {
+   "id": "fb-esp.1-401882773",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "埃尔切 vs 塞维利亚",
+   "teams": [
+    "埃尔切",
+    "塞维利亚"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Estadio Martínez Valero"
+  },
+  {
+   "id": "fb-esp.1-401882772",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "西班牙人 vs 塞尔塔",
+   "teams": [
+    "西班牙人",
+    "塞尔塔"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "RCDE Stadium"
+  },
+  {
+   "id": "fb-esp.1-401882771",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "莱万特 vs Alavés",
+   "teams": [
+    "莱万特",
+    "Alavés"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Estadi Ciutat de València"
+  },
+  {
+   "id": "fb-esp.1-401882770",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "Málaga vs 巴塞罗那",
+   "teams": [
+    "Málaga",
+    "巴塞罗那"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "La Rosaleda"
+  },
+  {
+   "id": "fb-esp.1-401882775",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "皇家贝蒂斯 vs 桑坦德竞技",
+   "teams": [
+    "皇家贝蒂斯",
+    "桑坦德竞技"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Estadio La Cartuja"
+  },
+  {
+   "id": "fb-esp.1-401882769",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "皇家马德里 vs 奥萨苏纳",
+   "teams": [
+    "皇家马德里",
+    "奥萨苏纳"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Santiago Bernabéu"
+  },
+  {
+   "id": "fb-esp.1-401882768",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "皇家社会 vs 赫塔菲",
+   "teams": [
+    "皇家社会",
+    "赫塔菲"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Reale Arena"
+  },
+  {
+   "id": "fb-esp.1-401882767",
+   "sport": "football",
+   "sub": "西甲 · 2026",
+   "title": "比利亚雷亚尔 vs 巴列卡诺",
+   "teams": [
+    "比利亚雷亚尔",
+    "巴列卡诺"
+   ],
+   "bj": "2026-12-14 04:00",
+   "dur": 115,
+   "note": "Estadio de la Cerámica"
+  },
+  {
+   "id": "fb-por.1-401885369",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "FC Porto vs Estrela",
+   "teams": [
+    "FC Porto",
+    "Estrela"
+   ],
+   "bj": "2026-12-14 04:30",
+   "dur": 115,
+   "note": "Estádio do Dragão"
   }
  ],
  "sources": [
