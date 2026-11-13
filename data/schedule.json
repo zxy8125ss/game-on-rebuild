@@ -1,99 +1,7 @@
 {
- "updatedAt": "2026-11-13T03:28:44.771Z",
+ "updatedAt": "2026-11-13T12:21:36.510Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186636",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "刘彩衣 vs 松梅兹",
-   "teams": [
-    "刘彩衣",
-    "松梅兹"
-   ],
-   "bj": "2026-11-06 14:05",
-   "dur": 150,
-   "result": "Claire Liu 6-1 6-4"
-  },
-  {
-   "id": "fb-aus.1-401892144",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "悉尼FC vs 中央海岸水手",
-   "teams": [
-    "悉尼FC",
-    "中央海岸水手"
-   ],
-   "bj": "2026-11-06 16:40",
-   "dur": 115,
-   "result": "悉尼FC 4:1 中央海岸水手",
-   "note": "Allianz Stadium"
-  },
-  {
-   "id": "tn-wta-186637",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "Alexandra Shubladze vs 科斯蒂亚",
-   "teams": [
-    "Alexandra Shubladze",
-    "科斯蒂亚"
-   ],
-   "bj": "2026-11-06 16:55",
-   "dur": 150,
-   "result": "Alexandra Shubladze 6-2 6-3"
-  },
-  {
-   "id": "tn-wta-186592",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "库德梅托娃 vs 滕",
-   "teams": [
-    "库德梅托娃",
-    "滕"
-   ],
-   "bj": "2026-11-06 17:35",
-   "dur": 150,
-   "result": "(1) Janice Tjen 5-7 6-4 6-2"
-  },
-  {
-   "id": "tn-wta-186635",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "萨卡里 vs 萨斯诺维奇",
-   "teams": [
-    "萨卡里",
-    "萨斯诺维奇"
-   ],
-   "bj": "2026-11-06 18:40",
-   "dur": 150,
-   "result": "(4) Maria Sakkari 6-2 6-3"
-  },
-  {
-   "id": "tn-wta-186689",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "库布卡 vs Sofya Lansere",
-   "teams": [
-    "库布卡",
-    "Sofya Lansere"
-   ],
-   "bj": "2026-11-06 18:55",
-   "dur": 150,
-   "result": "(8) Sofya Lansere 7-5"
-  },
-  {
-   "id": "tn-wta-186687",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Gina Feistel vs Ksenia Zaytseva",
-   "teams": [
-    "Gina Feistel",
-    "Ksenia Zaytseva"
-   ],
-   "bj": "2026-11-06 19:10",
-   "dur": 150,
-   "result": "Gina Feistel 6-1 7-5"
-  },
   {
    "id": "tn-wta-186597",
    "sport": "tennis",
@@ -3328,6 +3236,18 @@
     "萨巴伦卡"
    ],
    "bj": "2026-11-14 05:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187441",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "安德烈耶娃 vs 佩古拉",
+   "teams": [
+    "安德烈耶娃",
+    "佩古拉"
+   ],
+   "bj": "2026-11-14 13:00",
    "dur": 150
   },
   {
@@ -10276,6 +10196,149 @@
    "bj": "2026-12-13 04:30",
    "dur": 115,
    "note": "Estádio Cidade de Barcelos"
+  },
+  {
+   "id": "fb-jpn.1-401877507",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "横滨水手 vs 长崎成功丸",
+   "teams": [
+    "横滨水手",
+    "长崎成功丸"
+   ],
+   "bj": "2026-12-13 12:00",
+   "dur": 115,
+   "note": "Nissan Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877506",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Fagiano Okayama vs Kashiwa Reysol",
+   "teams": [
+    "Fagiano Okayama",
+    "Kashiwa Reysol"
+   ],
+   "bj": "2026-12-13 13:00",
+   "dur": 115,
+   "note": "City Light Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877517",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Kyoto Sanga vs 千叶市原",
+   "teams": [
+    "Kyoto Sanga",
+    "千叶市原"
+   ],
+   "bj": "2026-12-13 13:00",
+   "dur": 115,
+   "note": "Sanga Stadium by Kyocera"
+  },
+  {
+   "id": "fb-jpn.1-401877505",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "广岛三箭 vs Kashima Antlers",
+   "teams": [
+    "广岛三箭",
+    "Kashima Antlers"
+   ],
+   "bj": "2026-12-13 13:00",
+   "dur": 115,
+   "note": "Edion Peace Wing Hiroshima"
+  },
+  {
+   "id": "fb-jpn.1-401877504",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "福冈黄蜂 vs 东京FC",
+   "teams": [
+    "福冈黄蜂",
+    "东京FC"
+   ],
+   "bj": "2026-12-13 14:00",
+   "dur": 115,
+   "note": "Best Denki Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877518",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Nagoya Grampus vs Mito Hollyhock",
+   "teams": [
+    "Nagoya Grampus",
+    "Mito Hollyhock"
+   ],
+   "bj": "2026-12-13 14:00",
+   "dur": 115,
+   "note": "Toyota Stadium (Japan)"
+  },
+  {
+   "id": "fb-jpn.1-401877508",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "浦和红钻 vs 川崎前锋",
+   "teams": [
+    "浦和红钻",
+    "川崎前锋"
+   ],
+   "bj": "2026-12-13 14:00",
+   "dur": 115,
+   "note": "Saitama Stadium 2002"
+  },
+  {
+   "id": "fb-aus.1-401892123",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Western Sydney Wanderers FC vs 惠灵顿凤凰",
+   "teams": [
+    "Western Sydney Wanderers FC",
+    "惠灵顿凤凰"
+   ],
+   "bj": "2026-12-13 14:00",
+   "dur": 115,
+   "note": "CommBank Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888222",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "Kocaelispor vs Genclerbirligi",
+   "teams": [
+    "Kocaelispor",
+    "Genclerbirligi"
+   ],
+   "bj": "2026-12-13 18:30",
+   "dur": 115,
+   "note": "Yildiz Entegre Kocaeli Stadyumu"
+  },
+  {
+   "id": "fb-ned.1-401875514",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "埃因霍温 vs 特尔斯达",
+   "teams": [
+    "埃因霍温",
+    "特尔斯达"
+   ],
+   "bj": "2026-12-13 19:15",
+   "dur": 115,
+   "note": "Philips Stadion"
+  },
+  {
+   "id": "fb-ita.1-401875007",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "拉齐奥 vs AS Roma",
+   "teams": [
+    "拉齐奥",
+    "AS Roma"
+   ],
+   "bj": "2026-12-13 19:30",
+   "dur": 115,
+   "note": "Olimpico"
   }
  ],
  "sources": [
@@ -10299,7 +10362,7 @@
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 126 场",
-  "网球 WTA: 203 场",
+  "网球 WTA: 205 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
