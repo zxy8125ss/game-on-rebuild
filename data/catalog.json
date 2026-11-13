@@ -1,19 +1,6 @@
 {
- "updatedAt": "2026-11-12T21:31:49.683Z",
+ "updatedAt": "2026-11-13T03:28:44.772Z",
  "matches": [
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-11-05-Dplus Kia-Bilibili Gaming",
-   "sport": "lol",
-   "sub": "全球总决赛",
-   "title": "Dplus Kia vs BLG",
-   "teams": [
-    "Dplus Kia",
-    "BLG"
-   ],
-   "bj": "2026-11-06 06:00",
-   "dur": 120,
-   "result": "Dplus Kia 0:3 BLG"
-  },
   {
    "id": "tn-wta-186636",
    "sport": "tennis",
@@ -3267,7 +3254,8 @@
     "穆塞蒂"
    ],
    "bj": "2026-11-13 03:25",
-   "dur": 150
+   "dur": 150,
+   "result": "(3) Lorenzo Musetti 3-6 6-4"
   },
   {
    "id": "tn-wta-187371",
@@ -3279,7 +3267,8 @@
     "科斯图克"
    ],
    "bj": "2026-11-13 04:15",
-   "dur": 150
+   "dur": 150,
+   "result": "(4) Coco Gauff 6-4 7-5"
   },
   {
    "id": "tn-wta-187376",
@@ -3290,8 +3279,9 @@
     "Linda Noskova",
     "佩古拉"
    ],
-   "bj": "2026-11-13 05:35",
-   "dur": 150
+   "bj": "2026-11-13 06:20",
+   "dur": 150,
+   "result": "(5) Jessica Pegula 4-6 7-5"
   },
   {
    "id": "tn-atp-186546",
@@ -3321,8 +3311,9 @@
    "id": "tn-atp-186547",
    "sport": "tennis",
    "sub": "Bybit Stockholm Open · 男单",
-   "title": "TBD vs 弗里茨",
+   "title": "穆塞蒂 vs 弗里茨",
    "teams": [
+    "穆塞蒂",
     "弗里茨"
    ],
    "bj": "2026-11-14 00:00",
