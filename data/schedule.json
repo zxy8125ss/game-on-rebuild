@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-14T19:14:02.515Z",
+ "updatedAt": "2026-11-15T02:43:53.398Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "lol-2026-season-world-championship-main-event-2026-11-07-Invictus Gaming-Gen.G",
-   "sport": "lol",
-   "sub": "全球总决赛",
-   "title": "IG vs GEN",
-   "teams": [
-    "IG",
-    "GEN"
-   ],
-   "bj": "2026-11-08 06:00",
-   "dur": 120,
-   "result": "IG 0:3 GEN"
-  },
   {
    "id": "fb-jpn.1-401877559",
    "sport": "football",
@@ -1858,7 +1845,8 @@
     "GEN"
    ],
    "bj": "2026-11-15 03:00",
-   "dur": 120
+   "dur": 120,
+   "result": "BLG 3:1 GEN"
   },
   {
    "id": "tn-wta-187441",
@@ -1869,8 +1857,9 @@
     "安德烈耶娃",
     "佩古拉"
    ],
-   "bj": "2026-11-15 04:00",
-   "dur": 150
+   "bj": "2026-11-15 04:10",
+   "dur": 150,
+   "result": "(3) Mirra Andreeva 6-3 6-4"
   },
   {
    "id": "fb-bra.1-401841311",
@@ -1883,6 +1872,7 @@
    ],
    "bj": "2026-11-15 05:30",
    "dur": 115,
+   "result": "Mirassol 0:0 Atlético-MG",
    "note": "Estadio Municipal José Maria de Campos Maia"
   },
   {
@@ -1896,6 +1886,7 @@
    ],
    "bj": "2026-11-15 07:00",
    "dur": 115,
+   "result": "克雷塔罗 0:1 蒙特雷",
    "note": "Estadio Corregidora"
   },
   {
@@ -1909,7 +1900,256 @@
    ],
    "bj": "2026-11-15 07:30",
    "dur": 115,
+   "result": "Chapecoense 0:2 瓦斯科",
    "note": "Arena Condá"
+  },
+  {
+   "id": "tn-wta-187442",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "安德烈耶娃 vs 斯维托丽娜",
+   "teams": [
+    "安德烈耶娃",
+    "斯维托丽娜"
+   ],
+   "bj": "2026-11-15 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187535",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Alexandra Osborne vs Diletta Cherubini",
+   "teams": [
+    "Alexandra Osborne",
+    "Diletta Cherubini"
+   ],
+   "bj": "2026-11-15 22:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187534",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Samantha Alvarez vs Martina Trevisan",
+   "teams": [
+    "Samantha Alvarez",
+    "Martina Trevisan"
+   ],
+   "bj": "2026-11-15 22:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187536",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Valeriya Strakhova vs Zhibek Kulambayeva",
+   "teams": [
+    "Valeriya Strakhova",
+    "Zhibek Kulambayeva"
+   ],
+   "bj": "2026-11-16 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187533",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Camila Rodero Contreras vs Ariana Geerlings",
+   "teams": [
+    "Camila Rodero Contreras",
+    "Ariana Geerlings"
+   ],
+   "bj": "2026-11-16 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186783",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Anastasia Tikhonova vs TBD",
+   "teams": [
+    "Anastasia Tikhonova"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186797",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Guiomar Maristany Zuleta De Reales",
+   "teams": [
+    "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186796",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Nuria Brancaccio vs Sofia Costoulas",
+   "teams": [
+    "Nuria Brancaccio",
+    "Sofia Costoulas"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186795",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Antonia Vergara Rivera vs Fernanda Labrana",
+   "teams": [
+    "Antonia Vergara Rivera",
+    "Fernanda Labrana"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186794",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Andrea Lazaro Garcia vs Barbara Gatica",
+   "teams": [
+    "Andrea Lazaro Garcia",
+    "Barbara Gatica"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186793",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Ipek Oz vs Leyre Romero Gormaz",
+   "teams": [
+    "Ipek Oz",
+    "Leyre Romero Gormaz"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186791",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Varvara Lepchenko vs Nadia Podoroska",
+   "teams": [
+    "Varvara Lepchenko",
+    "Nadia Podoroska"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186782",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Veronika Erjavec vs Maria Lourdes Carle",
+   "teams": [
+    "Veronika Erjavec",
+    "Maria Lourdes Carle"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186784",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Carole Monnet vs Victoria Jimenez Kasintseva",
+   "teams": [
+    "Carole Monnet",
+    "Victoria Jimenez Kasintseva"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186785",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Alicia Herrero Linana vs Lucia Bronzetti",
+   "teams": [
+    "Alicia Herrero Linana",
+    "Lucia Bronzetti"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186786",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Laura Samson vs Despina Papamichail",
+   "teams": [
+    "Laura Samson",
+    "Despina Papamichail"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186792",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Rebeka Masarova",
+   "teams": [
+    "Rebeka Masarova"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186790",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Miriam Bulgaru vs Polona Hercog",
+   "teams": [
+    "Miriam Bulgaru",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186789",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Anastasia Zolotareva vs Katrina Scott",
+   "teams": [
+    "Anastasia Zolotareva",
+    "Katrina Scott"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186788",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Luisina Giovannini",
+   "teams": [
+    "Luisina Giovannini"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186787",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Darja Semenistaja vs Irene Burillo",
+   "teams": [
+    "Darja Semenistaja",
+    "Irene Burillo"
+   ],
+   "bj": "2026-11-16 13:00",
+   "dur": 150
   },
   {
    "id": "fb-bra.1-401841315",
@@ -9443,6 +9683,45 @@
    "bj": "2026-12-15 01:30",
    "dur": 115,
    "note": "New Balance Arena"
+  },
+  {
+   "id": "fb-ita.1-401874783",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "尤文图斯 vs 蒙扎",
+   "teams": [
+    "尤文图斯",
+    "蒙扎"
+   ],
+   "bj": "2026-12-15 03:45",
+   "dur": 115,
+   "note": "Allianz Stadium"
+  },
+  {
+   "id": "fb-eng.1-401879205",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "赫尔城 vs 热刺",
+   "teams": [
+    "赫尔城",
+    "热刺"
+   ],
+   "bj": "2026-12-15 04:00",
+   "dur": 115,
+   "note": "The MKM Stadium"
+  },
+  {
+   "id": "fb-por.1-401885368",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "本菲卡 vs 布拉加",
+   "teams": [
+    "本菲卡",
+    "布拉加"
+   ],
+   "bj": "2026-12-15 04:15",
+   "dur": 115,
+   "note": "Estádio da Luz"
   }
  ],
  "sources": [
@@ -9466,7 +9745,7 @@
   "足球 中超: 8 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 127 场",
-  "网球 WTA: 172 场",
+  "网球 WTA: 193 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
