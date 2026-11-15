@@ -1,283 +1,7 @@
 {
- "updatedAt": "2026-11-15T02:43:53.398Z",
+ "updatedAt": "2026-11-15T12:02:46.053Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "fb-jpn.1-401877559",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "町田泽维亚 vs 广岛三箭",
-   "teams": [
-    "町田泽维亚",
-    "广岛三箭"
-   ],
-   "bj": "2026-11-08 13:00",
-   "dur": 115,
-   "result": "町田泽维亚 0:0 广岛三箭",
-   "note": "Machida Gion Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877554",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "神户胜利船 vs 浦和红钻",
-   "teams": [
-    "神户胜利船",
-    "浦和红钻"
-   ],
-   "bj": "2026-11-08 13:00",
-   "dur": 115,
-   "result": "神户胜利船 2:2 浦和红钻",
-   "note": "Japan National Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877555",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "大阪钢巴 vs 大阪樱花",
-   "teams": [
-    "大阪钢巴",
-    "大阪樱花"
-   ],
-   "bj": "2026-11-08 14:00",
-   "dur": 115,
-   "result": "大阪钢巴 2:3 大阪樱花",
-   "note": "Suita City Football Stadium"
-  },
-  {
-   "id": "fb-aus.1-401892139",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "Adelaide United FC vs 墨尔本胜利",
-   "teams": [
-    "Adelaide United FC",
-    "墨尔本胜利"
-   ],
-   "bj": "2026-11-08 14:00",
-   "dur": 115,
-   "result": "Adelaide United FC 2:2 墨尔本胜利",
-   "note": "Hindmarsh Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861514",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "北京国安 vs 重庆铜梁龙",
-   "teams": [
-    "北京国安",
-    "重庆铜梁龙"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "北京国安 1:0 重庆铜梁龙",
-   "note": "Workers' Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861489",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "大连英博 vs 天津津门虎",
-   "teams": [
-    "大连英博",
-    "天津津门虎"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "大连英博 3:1 天津津门虎",
-   "note": "Dalian Suoyuwan Football Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861490",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "青岛海牛 vs 深圳新鹏城",
-   "teams": [
-    "青岛海牛",
-    "深圳新鹏城"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "青岛海牛 2:2 深圳新鹏城",
-   "note": "Qingdao Youth Football Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861494",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "山东泰山 vs 成都蓉城",
-   "teams": [
-    "山东泰山",
-    "成都蓉城"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "山东泰山 3:2 成都蓉城",
-   "note": "Jinan Olympic Sports Center Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861515",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "上海海港 vs 辽宁铁人",
-   "teams": [
-    "上海海港",
-    "辽宁铁人"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "上海海港 6:1 辽宁铁人",
-   "note": "SAIC Motor Pudong Arena"
-  },
-  {
-   "id": "fb-chn.1-401861492",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "上海申花 vs 青岛西海岸",
-   "teams": [
-    "上海申花",
-    "青岛西海岸"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "上海申花 4:0 青岛西海岸",
-   "note": "Shanghai Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861493",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "云南玉昆 vs 武汉三镇",
-   "teams": [
-    "云南玉昆",
-    "武汉三镇"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "云南玉昆 2:1 武汉三镇",
-   "note": "Yuxi Plateau Sports Center Stadium"
-  },
-  {
-   "id": "fb-chn.1-401861491",
-   "sport": "football",
-   "sub": "中超 · 2026",
-   "title": "浙江队 vs 河南队",
-   "teams": [
-    "浙江队",
-    "河南队"
-   ],
-   "bj": "2026-11-08 15:30",
-   "dur": 115,
-   "result": "浙江队 4:0 河南队",
-   "note": "Yellow Dragon Sports Center Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877577",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "千叶市原 vs Mito Hollyhock",
-   "teams": [
-    "千叶市原",
-    "Mito Hollyhock"
-   ],
-   "bj": "2026-11-08 16:00",
-   "dur": 115,
-   "result": "千叶市原 1:0 Mito Hollyhock",
-   "note": "Fukuda Denshi Arena"
-  },
-  {
-   "id": "tn-wta-186642",
-   "sport": "tennis",
-   "sub": "Prudential Hong Kong Tennis Open · 女单",
-   "title": "埃亚拉 vs 刘彩衣",
-   "teams": [
-    "埃亚拉",
-    "刘彩衣"
-   ],
-   "bj": "2026-11-08 16:05",
-   "dur": 150,
-   "result": "Claire Liu 6-3 6-0"
-  },
-  {
-   "id": "fb-tur.1-401888253",
-   "sport": "football",
-   "sub": "土超 · 2026",
-   "title": "Caykur Rizespor vs Erzurum BB",
-   "teams": [
-    "Caykur Rizespor",
-    "Erzurum BB"
-   ],
-   "bj": "2026-11-08 18:30",
-   "dur": 115,
-   "result": "Caykur Rizespor 2:1 Erzurum BB",
-   "note": "Estadio Caykur Didi"
-  },
-  {
-   "id": "tn-atp-187457",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Lorenzo Sonego vs Inaki Montes-De La Torre",
-   "teams": [
-    "Lorenzo Sonego",
-    "Inaki Montes-De La Torre"
-   ],
-   "bj": "2026-11-08 19:00",
-   "dur": 150,
-   "result": "Lorenzo Sonego 7-5 6-3"
-  },
-  {
-   "id": "tn-atp-187456",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Borna Gojo vs Nikoloz Basilashvili",
-   "teams": [
-    "Borna Gojo",
-    "Nikoloz Basilashvili"
-   ],
-   "bj": "2026-11-08 19:00",
-   "dur": 150,
-   "result": "Borna Gojo"
-  },
-  {
-   "id": "tn-wta-186690",
-   "sport": "tennis",
-   "sub": "Angola Ladies Open · 女单",
-   "title": "Sofya Lansere vs 布林科娃",
-   "teams": [
-    "Sofya Lansere",
-    "布林科娃"
-   ],
-   "bj": "2026-11-08 19:10",
-   "dur": 150,
-   "result": "(8) Sofya Lansere 5-7 6-1 6-4"
-  },
-  {
-   "id": "fb-ned.1-401875551",
-   "sport": "football",
-   "sub": "荷甲 · 2026",
-   "title": "海伦芬 vs 费耶诺德",
-   "teams": [
-    "海伦芬",
-    "费耶诺德"
-   ],
-   "bj": "2026-11-08 19:15",
-   "dur": 115,
-   "result": "海伦芬 5:3 费耶诺德",
-   "note": "Abe Lenstra Stadion"
-  },
-  {
-   "id": "fb-ita.1-401874810",
-   "sport": "football",
-   "sub": "意甲 · 2026",
-   "title": "那不勒斯 vs 拉齐奥",
-   "teams": [
-    "那不勒斯",
-    "拉齐奥"
-   ],
-   "bj": "2026-11-08 19:30",
-   "dur": 115,
-   "result": "那不勒斯 1:1 拉齐奥",
-   "note": "Stadio Diego Armando Maradona"
-  },
   {
    "id": "tn-atp-187454",
    "sport": "tennis",
@@ -1904,18 +1628,6 @@
    "note": "Arena Condá"
   },
   {
-   "id": "tn-wta-187442",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "安德烈耶娃 vs 斯维托丽娜",
-   "teams": [
-    "安德烈耶娃",
-    "斯维托丽娜"
-   ],
-   "bj": "2026-11-15 13:00",
-   "dur": 150
-  },
-  {
    "id": "tn-wta-187535",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
@@ -1961,6 +1673,18 @@
     "Ariana Geerlings"
    ],
    "bj": "2026-11-16 00:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-187442",
+   "sport": "tennis",
+   "sub": "FAGE WTA Finals Indian Wells · 女单",
+   "title": "安德烈耶娃 vs 斯维托丽娜",
+   "teams": [
+    "安德烈耶娃",
+    "斯维托丽娜"
+   ],
+   "bj": "2026-11-16 04:00",
    "dur": 150
   },
   {
@@ -9722,6 +9446,19 @@
    "bj": "2026-12-15 04:15",
    "dur": 115,
    "note": "Estádio da Luz"
+  },
+  {
+   "id": "fb-aus.1-401892157",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Adelaide United FC vs Brisbane Roar FC",
+   "teams": [
+    "Adelaide United FC",
+    "Brisbane Roar FC"
+   ],
+   "bj": "2026-12-15 16:30",
+   "dur": 115,
+   "note": "Hindmarsh Stadium"
   }
  ],
  "sources": [
