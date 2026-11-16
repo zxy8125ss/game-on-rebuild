@@ -1,46 +1,7 @@
 {
- "updatedAt": "2026-11-16T02:47:37.403Z",
+ "updatedAt": "2026-11-16T12:54:31.159Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186598",
-   "sport": "tennis",
-   "sub": "Chennai Open · 女单",
-   "title": "莱内特 vs 滕",
-   "teams": [
-    "莱内特",
-    "滕"
-   ],
-   "bj": "2026-11-09 13:35",
-   "dur": 150,
-   "result": "(3) Magda Linette 5-7 6-1 6-4"
-  },
-  {
-   "id": "tn-atp-186535",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Yannick Hanfmann vs 米歇尔森",
-   "teams": [
-    "Yannick Hanfmann",
-    "米歇尔森"
-   ],
-   "bj": "2026-11-09 19:50",
-   "dur": 150,
-   "result": "(6) Alex Michelsen 6-2 6-3"
-  },
-  {
-   "id": "tn-atp-186529",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Cameron Norrie vs James Duckworth",
-   "teams": [
-    "Cameron Norrie",
-    "James Duckworth"
-   ],
-   "bj": "2026-11-09 20:05",
-   "dur": 150,
-   "result": "Cameron Norrie 7-5 6-0"
-  },
   {
    "id": "tn-atp-186537",
    "sport": "tennis",
@@ -8769,6 +8730,32 @@
    "bj": "2026-12-15 16:30",
    "dur": 115,
    "note": "Hindmarsh Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877526",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "大阪钢巴 vs Kashiwa Reysol",
+   "teams": [
+    "大阪钢巴",
+    "Kashiwa Reysol"
+   ],
+   "bj": "2026-12-16 18:00",
+   "dur": 115,
+   "note": "Suita City Football Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877544",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Kashima Antlers vs 町田泽维亚",
+   "teams": [
+    "Kashima Antlers",
+    "町田泽维亚"
+   ],
+   "bj": "2026-12-16 18:00",
+   "dur": 115,
+   "note": "Kashima Soccer Stadium"
   }
  ],
  "sources": [
