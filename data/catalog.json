@@ -1,97 +1,6 @@
 {
- "updatedAt": "2026-11-17T17:57:49.609Z",
+ "updatedAt": "2026-11-17T22:28:54.408Z",
  "matches": [
-  {
-   "id": "tn-wta-186745",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Rebeka Masarova vs 安德烈斯库",
-   "teams": [
-    "Rebeka Masarova",
-    "安德烈斯库"
-   ],
-   "bj": "2026-11-11 01:55",
-   "dur": 150,
-   "result": "(3) Bianca Andreescu 3-6 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-186746",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Maria Camila Torres Murcia vs Jazmin Ortenzi",
-   "teams": [
-    "Maria Camila Torres Murcia",
-    "Jazmin Ortenzi"
-   ],
-   "bj": "2026-11-11 02:20",
-   "dur": 150,
-   "result": "Jazmin Ortenzi 6-2 6-3"
-  },
-  {
-   "id": "tn-atp-186543",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Toby Samuel vs 穆塞蒂",
-   "teams": [
-    "Toby Samuel",
-    "穆塞蒂"
-   ],
-   "bj": "2026-11-11 03:05",
-   "dur": 150,
-   "result": "(3) Lorenzo Musetti 6-1 6-4"
-  },
-  {
-   "id": "tn-wta-186757",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Carolina Alves vs Laura Samson",
-   "teams": [
-    "Carolina Alves",
-    "Laura Samson"
-   ],
-   "bj": "2026-11-11 03:55",
-   "dur": 150,
-   "result": "(5) Laura Samson 6-1"
-  },
-  {
-   "id": "tn-wta-187372",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "佩古拉 vs 科斯图克",
-   "teams": [
-    "佩古拉",
-    "科斯图克"
-   ],
-   "bj": "2026-11-11 04:15",
-   "dur": 150,
-   "result": "(5) Jessica Pegula 6-2 7-5"
-  },
-  {
-   "id": "tn-wta-186759",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Valentina Mediorreal Arias vs Maria Lourdes Carle",
-   "teams": [
-    "Valentina Mediorreal Arias",
-    "Maria Lourdes Carle"
-   ],
-   "bj": "2026-11-11 04:30",
-   "dur": 150,
-   "result": "Maria Lourdes Carle 6-3 4-6 6-2"
-  },
-  {
-   "id": "tn-wta-187375",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "Linda Noskova vs 高芙",
-   "teams": [
-    "Linda Noskova",
-    "高芙"
-   ],
-   "bj": "2026-11-11 06:10",
-   "dur": 150,
-   "result": "(8) Linda Noskova 6-3 6-3"
-  },
   {
    "id": "tn-atp-186540",
    "sport": "tennis",
@@ -885,7 +794,8 @@
     "Polona Hercog"
    ],
    "bj": "2026-11-18 00:20",
-   "dur": 150
+   "dur": 150,
+   "result": "Polona Hercog 6-4"
   },
   {
    "id": "tn-wta-186782",
@@ -896,8 +806,9 @@
     "Veronika Erjavec",
     "Maria Lourdes Carle"
    ],
-   "bj": "2026-11-18 02:00",
-   "dur": 150
+   "bj": "2026-11-18 02:35",
+   "dur": 150,
+   "result": "(7) Veronika Erjavec 5-7 7-5 6-4"
   },
   {
    "id": "tn-atp-187503",
@@ -908,8 +819,9 @@
     "谢尔顿",
     "兹维列夫"
    ],
-   "bj": "2026-11-18 03:30",
-   "dur": 150
+   "bj": "2026-11-18 03:40",
+   "dur": 150,
+   "result": "(1) Alexander Zverev"
   },
   {
    "id": "tn-wta-186786",
@@ -920,7 +832,7 @@
     "Laura Samson",
     "Despina Papamichail"
    ],
-   "bj": "2026-11-18 04:00",
+   "bj": "2026-11-18 04:05",
    "dur": 150
   },
   {
@@ -932,7 +844,7 @@
     "Andrea Lazaro Garcia",
     "Barbara Gatica"
    ],
-   "bj": "2026-11-18 04:30",
+   "bj": "2026-11-18 05:30",
    "dur": 150
   },
   {
@@ -944,15 +856,16 @@
     "Antonia Vergara Rivera",
     "Fernanda Labrana"
    ],
-   "bj": "2026-11-18 06:00",
+   "bj": "2026-11-18 06:30",
    "dur": 150
   },
   {
    "id": "tn-wta-186803",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Rebeka Masarova",
+   "title": "Polona Hercog vs Rebeka Masarova",
    "teams": [
+    "Polona Hercog",
     "Rebeka Masarova"
    ],
    "bj": "2026-11-18 13:00",
@@ -974,8 +887,9 @@
    "id": "tn-wta-186808",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Valeriya Strakhova",
+   "title": "Veronika Erjavec vs Valeriya Strakhova",
    "teams": [
+    "Veronika Erjavec",
     "Valeriya Strakhova"
    ],
    "bj": "2026-11-18 13:00",
@@ -1131,42 +1045,6 @@
    "note": "Arena do Grêmio"
   },
   {
-   "id": "tn-atp-187504",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "Arthur Fils vs 兹维列夫",
-   "teams": [
-    "Arthur Fils",
-    "兹维列夫"
-   ],
-   "bj": "2026-11-19 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-187513",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "Frances Tiafoe vs 梅德韦杰夫",
-   "teams": [
-    "Frances Tiafoe",
-    "梅德韦杰夫"
-   ],
-   "bj": "2026-11-19 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-atp-187510",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "Flavio Cobolli vs 阿尔卡拉斯",
-   "teams": [
-    "Flavio Cobolli",
-    "阿尔卡拉斯"
-   ],
-   "bj": "2026-11-19 13:00",
-   "dur": 150
-  },
-  {
    "id": "tn-atp-187507",
    "sport": "tennis",
    "sub": "Nitto ATP Finals · 男单",
@@ -1175,7 +1053,19 @@
     "Rafael Jodar",
     "谢尔顿"
    ],
-   "bj": "2026-11-19 13:00",
+   "bj": "2026-11-19 21:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-187504",
+   "sport": "tennis",
+   "sub": "Nitto ATP Finals · 男单",
+   "title": "Arthur Fils vs 兹维列夫",
+   "teams": [
+    "Arthur Fils",
+    "兹维列夫"
+   ],
+   "bj": "2026-11-20 03:30",
    "dur": 150
   },
   {
@@ -1242,6 +1132,30 @@
    "bj": "2026-11-20 11:00",
    "dur": 115,
    "note": "Lumen Field"
+  },
+  {
+   "id": "tn-atp-187513",
+   "sport": "tennis",
+   "sub": "Nitto ATP Finals · 男单",
+   "title": "Frances Tiafoe vs 梅德韦杰夫",
+   "teams": [
+    "Frances Tiafoe",
+    "梅德韦杰夫"
+   ],
+   "bj": "2026-11-20 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-atp-187510",
+   "sport": "tennis",
+   "sub": "Nitto ATP Finals · 男单",
+   "title": "Flavio Cobolli vs 阿尔卡拉斯",
+   "teams": [
+    "Flavio Cobolli",
+    "阿尔卡拉斯"
+   ],
+   "bj": "2026-11-20 13:00",
+   "dur": 150
   },
   {
    "id": "fb-aus.1-401892138",

@@ -1,98 +1,7 @@
 {
- "updatedAt": "2026-11-17T17:57:49.608Z",
+ "updatedAt": "2026-11-17T22:28:54.408Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186745",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Rebeka Masarova vs 安德烈斯库",
-   "teams": [
-    "Rebeka Masarova",
-    "安德烈斯库"
-   ],
-   "bj": "2026-11-11 01:55",
-   "dur": 150,
-   "result": "(3) Bianca Andreescu 3-6 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-186746",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Maria Camila Torres Murcia vs Jazmin Ortenzi",
-   "teams": [
-    "Maria Camila Torres Murcia",
-    "Jazmin Ortenzi"
-   ],
-   "bj": "2026-11-11 02:20",
-   "dur": 150,
-   "result": "Jazmin Ortenzi 6-2 6-3"
-  },
-  {
-   "id": "tn-atp-186543",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Toby Samuel vs 穆塞蒂",
-   "teams": [
-    "Toby Samuel",
-    "穆塞蒂"
-   ],
-   "bj": "2026-11-11 03:05",
-   "dur": 150,
-   "result": "(3) Lorenzo Musetti 6-1 6-4"
-  },
-  {
-   "id": "tn-wta-186757",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Carolina Alves vs Laura Samson",
-   "teams": [
-    "Carolina Alves",
-    "Laura Samson"
-   ],
-   "bj": "2026-11-11 03:55",
-   "dur": 150,
-   "result": "(5) Laura Samson 6-1"
-  },
-  {
-   "id": "tn-wta-187372",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "佩古拉 vs 科斯图克",
-   "teams": [
-    "佩古拉",
-    "科斯图克"
-   ],
-   "bj": "2026-11-11 04:15",
-   "dur": 150,
-   "result": "(5) Jessica Pegula 6-2 7-5"
-  },
-  {
-   "id": "tn-wta-186759",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Valentina Mediorreal Arias vs Maria Lourdes Carle",
-   "teams": [
-    "Valentina Mediorreal Arias",
-    "Maria Lourdes Carle"
-   ],
-   "bj": "2026-11-11 04:30",
-   "dur": 150,
-   "result": "Maria Lourdes Carle 6-3 4-6 6-2"
-  },
-  {
-   "id": "tn-wta-187375",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "Linda Noskova vs 高芙",
-   "teams": [
-    "Linda Noskova",
-    "高芙"
-   ],
-   "bj": "2026-11-11 06:10",
-   "dur": 150,
-   "result": "(8) Linda Noskova 6-3 6-3"
-  },
   {
    "id": "tn-atp-186540",
    "sport": "tennis",
@@ -795,7 +704,8 @@
     "Polona Hercog"
    ],
    "bj": "2026-11-18 00:20",
-   "dur": 150
+   "dur": 150,
+   "result": "Polona Hercog 6-4"
   },
   {
    "id": "tn-wta-186782",
@@ -806,8 +716,9 @@
     "Veronika Erjavec",
     "Maria Lourdes Carle"
    ],
-   "bj": "2026-11-18 02:00",
-   "dur": 150
+   "bj": "2026-11-18 02:35",
+   "dur": 150,
+   "result": "(7) Veronika Erjavec 5-7 7-5 6-4"
   },
   {
    "id": "tn-wta-186786",
@@ -818,7 +729,7 @@
     "Laura Samson",
     "Despina Papamichail"
    ],
-   "bj": "2026-11-18 04:00",
+   "bj": "2026-11-18 04:05",
    "dur": 150
   },
   {
@@ -830,7 +741,7 @@
     "Andrea Lazaro Garcia",
     "Barbara Gatica"
    ],
-   "bj": "2026-11-18 04:30",
+   "bj": "2026-11-18 05:30",
    "dur": 150
   },
   {
@@ -842,15 +753,16 @@
     "Antonia Vergara Rivera",
     "Fernanda Labrana"
    ],
-   "bj": "2026-11-18 06:00",
+   "bj": "2026-11-18 06:30",
    "dur": 150
   },
   {
    "id": "tn-wta-186803",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Rebeka Masarova",
+   "title": "Polona Hercog vs Rebeka Masarova",
    "teams": [
+    "Polona Hercog",
     "Rebeka Masarova"
    ],
    "bj": "2026-11-18 13:00",
@@ -872,8 +784,9 @@
    "id": "tn-wta-186808",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Valeriya Strakhova",
+   "title": "Veronika Erjavec vs Valeriya Strakhova",
    "teams": [
+    "Veronika Erjavec",
     "Valeriya Strakhova"
    ],
    "bj": "2026-11-18 13:00",
@@ -8536,6 +8449,240 @@
    "bj": "2026-12-16 18:00",
    "dur": 115,
    "note": "Kashima Soccer Stadium"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915731",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Ajax Amsterdam vs 赫塔菲",
+   "teams": [
+    "Ajax Amsterdam",
+    "赫塔菲"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Johan Cruijff Arena"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915627",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "摩纳哥 vs Lincoln Red Imps",
+   "teams": [
+    "摩纳哥",
+    "Lincoln Red Imps"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Stade Louis II"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915626",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "亚特兰大 vs Mjällby AIF",
+   "teams": [
+    "亚特兰大",
+    "Mjällby AIF"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "New Balance Arena"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915623",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Borac Banja Luka vs Riga FC",
+   "teams": [
+    "Borac Banja Luka",
+    "Riga FC"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Gradski Stadion Banja Luka"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915614",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "布拉加 vs Egnatia",
+   "teams": [
+    "布拉加",
+    "Egnatia"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Estádio Municipal de Braga"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915615",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "CSKA Sofia vs FC Thun",
+   "teams": [
+    "CSKA Sofia",
+    "FC Thun"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Balgarska Armia Stadium"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915613",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "CSU Craiova vs F.C. København",
+   "teams": [
+    "CSU Craiova",
+    "F.C. København"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Stadionul Ion Oblemenco"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915625",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "FC Lugano vs Sint-Truidense",
+   "teams": [
+    "FC Lugano",
+    "Sint-Truidense"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "AIL Arena"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915730",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "FC Midtjylland vs Hajduk Split",
+   "teams": [
+    "FC Midtjylland",
+    "Hajduk Split"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "MCH Arena"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915729",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "FC Nordsjælland vs KuPS Kuopio",
+   "teams": [
+    "FC Nordsjælland",
+    "KuPS Kuopio"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Right to Dream Park"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915624",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "特温特 vs Kairat Almaty",
+   "teams": [
+    "特温特",
+    "Kairat Almaty"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "De Grolsch Veste"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915619",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Inter D'Escaldes vs AGF",
+   "teams": [
+    "Inter D'Escaldes",
+    "AGF"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Estadi de la FAF d'Encamp"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915621",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Jablonec vs Iberia 1999",
+   "teams": [
+    "Jablonec",
+    "Iberia 1999"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Stadion Strelnice"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915618",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "KAA Gent vs SK Brann",
+   "teams": [
+    "KAA Gent",
+    "SK Brann"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Ghelamco Arena"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915620",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Kauno Zalgiris vs 弗赖堡",
+   "teams": [
+    "Kauno Zalgiris",
+    "弗赖堡"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "S. Darius and S. Gireno Stadium"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915617",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Pafos vs Heart of Midlothian",
+   "teams": [
+    "Pafos",
+    "Heart of Midlothian"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Alphamega Stadium"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915616",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Panathinaikos vs 布莱顿",
+   "teams": [
+    "Panathinaikos",
+    "布莱顿"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Athens Olympic Stadium"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915622",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Red Star Belgrade vs 特拉布宗",
+   "teams": [
+    "Red Star Belgrade",
+    "特拉布宗"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Rajko Mitic Stadium"
   }
  ],
  "sources": [
