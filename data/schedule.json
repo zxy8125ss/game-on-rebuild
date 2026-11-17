@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:27:40.994Z",
+ "updatedAt": "2026-11-17T05:09:34.967Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -860,7 +860,8 @@
     "Valeriya Strakhova"
    ],
    "bj": "2026-11-17 05:10",
-   "dur": 150
+   "dur": 150,
+   "result": "Valeriya Strakhova 6-2 4-6 6-4"
   },
   {
    "id": "tn-wta-186788",
@@ -872,7 +873,8 @@
     "Luisina Giovannini"
    ],
    "bj": "2026-11-17 06:25",
-   "dur": 150
+   "dur": 150,
+   "result": "Ariana Geerlings 6-4 6-0"
   },
   {
    "id": "tn-wta-186787",
@@ -993,6 +995,17 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186808",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Valeriya Strakhova",
+   "teams": [
+    "Valeriya Strakhova"
+   ],
+   "bj": "2026-11-18 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186807",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
@@ -1022,6 +1035,17 @@
    "teams": [
     "Sofia Costoulas",
     "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-18 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186802",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Ariana Geerlings",
+   "teams": [
+    "Ariana Geerlings"
    ],
    "bj": "2026-11-18 13:00",
    "dur": 150
@@ -8659,7 +8683,7 @@
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 51 场",
-  "网球 WTA: 75 场",
+  "网球 WTA: 77 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",

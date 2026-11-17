@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:27:40.994Z",
+ "updatedAt": "2026-11-17T05:09:34.967Z",
  "matches": [
   {
    "id": "tn-atp-186526",
@@ -937,7 +937,8 @@
     "Valeriya Strakhova"
    ],
    "bj": "2026-11-17 05:10",
-   "dur": 150
+   "dur": 150,
+   "result": "Valeriya Strakhova 6-2 4-6 6-4"
   },
   {
    "id": "tn-wta-186788",
@@ -949,7 +950,8 @@
     "Luisina Giovannini"
    ],
    "bj": "2026-11-17 06:25",
-   "dur": 150
+   "dur": 150,
+   "result": "Ariana Geerlings 6-4 6-0"
   },
   {
    "id": "tn-atp-187508",
@@ -1094,6 +1096,17 @@
    "dur": 150
   },
   {
+   "id": "tn-wta-186808",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Valeriya Strakhova",
+   "teams": [
+    "Valeriya Strakhova"
+   ],
+   "bj": "2026-11-18 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186807",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
@@ -1123,6 +1136,17 @@
    "teams": [
     "Sofia Costoulas",
     "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-18 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186802",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Ariana Geerlings",
+   "teams": [
+    "Ariana Geerlings"
    ],
    "bj": "2026-11-18 13:00",
    "dur": 150
