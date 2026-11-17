@@ -1,84 +1,6 @@
 {
- "updatedAt": "2026-11-17T13:36:52.102Z",
+ "updatedAt": "2026-11-17T17:57:49.609Z",
  "matches": [
-  {
-   "id": "tn-atp-186527",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Miomir Kecmanovic vs Arthur Rinderknech",
-   "teams": [
-    "Miomir Kecmanovic",
-    "Arthur Rinderknech"
-   ],
-   "bj": "2026-11-10 22:35",
-   "dur": 150,
-   "result": "Miomir Kecmanovic 4-6 6-4"
-  },
-  {
-   "id": "tn-wta-186751",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Julia Riera vs Alice Tubello",
-   "teams": [
-    "Julia Riera",
-    "Alice Tubello"
-   ],
-   "bj": "2026-11-10 23:35",
-   "dur": 150,
-   "result": "Alice Tubello 6-2"
-  },
-  {
-   "id": "tn-wta-186752",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Julieta Pareja vs Lucia Bronzetti",
-   "teams": [
-    "Julieta Pareja",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-10 23:35",
-   "dur": 150,
-   "result": "(8) Lucia Bronzetti 6-3 4-6 6-3"
-  },
-  {
-   "id": "tn-wta-186747",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Leyre Romero Gormaz vs Carole Monnet",
-   "teams": [
-    "Leyre Romero Gormaz",
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-10 23:35",
-   "dur": 150,
-   "result": "Carole Monnet"
-  },
-  {
-   "id": "tn-atp-186525",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Zizou Bergs vs 伦德",
-   "teams": [
-    "Zizou Bergs",
-    "伦德"
-   ],
-   "bj": "2026-11-11 01:15",
-   "dur": 150,
-   "result": "Holger Rune 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-186748",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Andrea Lazaro Garcia vs Katrina Scott",
-   "teams": [
-    "Andrea Lazaro Garcia",
-    "Katrina Scott"
-   ],
-   "bj": "2026-11-11 01:30",
-   "dur": 150,
-   "result": "Andrea Lazaro Garcia 7-5 6-4"
-  },
   {
    "id": "tn-wta-186745",
    "sport": "tennis",
@@ -911,7 +833,8 @@
     "Arthur Fils"
    ],
    "bj": "2026-11-17 21:10",
-   "dur": 150
+   "dur": 150,
+   "result": "(6) Arthur Fils 4-6 6-2 6-2"
   },
   {
    "id": "tn-wta-186787",
@@ -922,8 +845,9 @@
     "Darja Semenistaja",
     "Irene Burillo"
    ],
-   "bj": "2026-11-17 22:00",
-   "dur": 150
+   "bj": "2026-11-17 22:05",
+   "dur": 150,
+   "result": "Irene Burillo 6-4 6-0"
   },
   {
    "id": "tn-wta-186791",
@@ -934,20 +858,9 @@
     "Varvara Lepchenko",
     "Nadia Podoroska"
    ],
-   "bj": "2026-11-17 22:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186790",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Miriam Bulgaru vs Polona Hercog",
-   "teams": [
-    "Miriam Bulgaru",
-    "Polona Hercog"
-   ],
-   "bj": "2026-11-17 23:30",
-   "dur": 150
+   "bj": "2026-11-17 22:05",
+   "dur": 150,
+   "result": "Nadia Podoroska 6-3 7-5"
   },
   {
    "id": "tn-wta-186785",
@@ -958,7 +871,20 @@
     "Alicia Herrero Linana",
     "Lucia Bronzetti"
    ],
-   "bj": "2026-11-17 23:30",
+   "bj": "2026-11-17 23:50",
+   "dur": 150,
+   "result": "(3) Lucia Bronzetti 6-3 6-1"
+  },
+  {
+   "id": "tn-wta-186790",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Miriam Bulgaru vs Polona Hercog",
+   "teams": [
+    "Miriam Bulgaru",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-18 00:20",
    "dur": 150
   },
   {
@@ -970,7 +896,7 @@
     "Veronika Erjavec",
     "Maria Lourdes Carle"
    ],
-   "bj": "2026-11-18 01:00",
+   "bj": "2026-11-18 02:00",
    "dur": 150
   },
   {
@@ -1036,9 +962,10 @@
    "id": "tn-wta-186809",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "Carole Monnet vs TBD",
+   "title": "Carole Monnet vs Lucia Bronzetti",
    "teams": [
-    "Carole Monnet"
+    "Carole Monnet",
+    "Lucia Bronzetti"
    ],
    "bj": "2026-11-18 13:00",
    "dur": 150
@@ -1058,8 +985,9 @@
    "id": "tn-wta-186807",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Leyre Romero Gormaz",
+   "title": "Nadia Podoroska vs Leyre Romero Gormaz",
    "teams": [
+    "Nadia Podoroska",
     "Leyre Romero Gormaz"
    ],
    "bj": "2026-11-18 13:00",
@@ -1069,8 +997,9 @@
    "id": "tn-wta-186806",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Anastasia Zolotareva",
+   "title": "Irene Burillo vs Anastasia Zolotareva",
    "teams": [
+    "Irene Burillo",
     "Anastasia Zolotareva"
    ],
    "bj": "2026-11-18 13:00",
@@ -5253,45 +5182,6 @@
    "note": "McDiarmid Park"
   },
   {
-   "id": "fb-usa.1-401933718",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "Chicago Fire FC vs 夏洛特FC",
-   "teams": [
-    "Chicago Fire FC",
-    "夏洛特FC"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "SeatGeek Stadium"
-  },
-  {
-   "id": "fb-usa.1-401933716",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "FC Dallas vs 波特兰伐木者",
-   "teams": [
-    "FC Dallas",
-    "波特兰伐木者"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Toyota Stadium"
-  },
-  {
-   "id": "fb-usa.1-401933720",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "Inter Miami CF vs 哥伦布机员",
-   "teams": [
-    "Inter Miami CF",
-    "哥伦布机员"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Nu Stadium"
-  },
-  {
    "id": "fb-usa.1-401933736",
    "sport": "football",
    "sub": "美职联 · 2026",
@@ -5303,45 +5193,6 @@
    "bj": "2026-12-03 04:00",
    "dur": 115,
    "note": "GEODIS Park"
-  },
-  {
-   "id": "fb-usa.1-401933719",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "新英格兰革命 vs 费城联合",
-   "teams": [
-    "新英格兰革命",
-    "费城联合"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Gillette Stadium"
-  },
-  {
-   "id": "fb-usa.1-401933715",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "San Jose Earthquakes vs Houston Dynamo FC",
-   "teams": [
-    "San Jose Earthquakes",
-    "Houston Dynamo FC"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "PayPal Park"
-  },
-  {
-   "id": "fb-usa.1-401933735",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "St. Louis CITY SC vs 洛杉矶FC",
-   "teams": [
-    "St. Louis CITY SC",
-    "洛杉矶FC"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "Energizer Park"
   },
   {
    "id": "fb-usa.1-401933717",
@@ -5420,6 +5271,32 @@
    "bj": "2026-12-03 04:30",
    "dur": 115,
    "note": "Spotify Camp Nou"
+  },
+  {
+   "id": "fb-usa.1-401933719",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "新英格兰革命 vs 费城联合",
+   "teams": [
+    "新英格兰革命",
+    "费城联合"
+   ],
+   "bj": "2026-12-03 08:00",
+   "dur": 115,
+   "note": "Gillette Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933720",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Inter Miami CF vs 哥伦布机员",
+   "teams": [
+    "Inter Miami CF",
+    "哥伦布机员"
+   ],
+   "bj": "2026-12-03 08:30",
+   "dur": 115,
+   "note": "Nu Stadium"
   },
   {
    "id": "fb-bra.1-401841338",
@@ -5550,6 +5427,58 @@
    "bj": "2026-12-03 08:30",
    "dur": 115,
    "note": "Estádio São Januário"
+  },
+  {
+   "id": "fb-usa.1-401933718",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "Chicago Fire FC vs 夏洛特FC",
+   "teams": [
+    "Chicago Fire FC",
+    "夏洛特FC"
+   ],
+   "bj": "2026-12-03 09:00",
+   "dur": 115,
+   "note": "SeatGeek Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933716",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "FC Dallas vs 波特兰伐木者",
+   "teams": [
+    "FC Dallas",
+    "波特兰伐木者"
+   ],
+   "bj": "2026-12-03 09:00",
+   "dur": 115,
+   "note": "Toyota Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933735",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "St. Louis CITY SC vs 洛杉矶FC",
+   "teams": [
+    "St. Louis CITY SC",
+    "洛杉矶FC"
+   ],
+   "bj": "2026-12-03 09:00",
+   "dur": 115,
+   "note": "Energizer Park"
+  },
+  {
+   "id": "fb-usa.1-401933715",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "San Jose Earthquakes vs Houston Dynamo FC",
+   "teams": [
+    "San Jose Earthquakes",
+    "Houston Dynamo FC"
+   ],
+   "bj": "2026-12-03 11:00",
+   "dur": 115,
+   "note": "PayPal Park"
   },
   {
    "id": "fb-eng.1-401878749",
@@ -9015,6 +8944,136 @@
    "bj": "2026-12-18 04:00",
    "dur": 115,
    "note": "Rajko Mitic Stadium"
+  },
+  {
+   "id": "fb-aus.1-401892122",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "悉尼FC vs Perth Glory FC",
+   "teams": [
+    "悉尼FC",
+    "Perth Glory FC"
+   ],
+   "bj": "2026-12-18 16:40",
+   "dur": 115,
+   "note": "Allianz Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888363",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "Amed SFK vs Goztepe",
+   "teams": [
+    "Amed SFK",
+    "Goztepe"
+   ],
+   "bj": "2026-12-19 01:00",
+   "dur": 115,
+   "note": "Diyarbakir Stadyumu"
+  },
+  {
+   "id": "fb-tur.1-401888219",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "卡西帕萨 vs Fenerbahce",
+   "teams": [
+    "卡西帕萨",
+    "Fenerbahce"
+   ],
+   "bj": "2026-12-19 01:00",
+   "dur": 115,
+   "note": "Recep Tayyip Erdogan Stadium"
+  },
+  {
+   "id": "fb-ita.1-401875016",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "弗罗西诺内 vs 拉齐奥",
+   "teams": [
+    "弗罗西诺内",
+    "拉齐奥"
+   ],
+   "bj": "2026-12-19 01:30",
+   "dur": 115,
+   "note": "Stadio Benito Stirpe"
+  },
+  {
+   "id": "fb-ned.1-401875503",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "特尔斯达 vs Willem II",
+   "teams": [
+    "特尔斯达",
+    "Willem II"
+   ],
+   "bj": "2026-12-19 03:00",
+   "dur": 115,
+   "note": "711 Stadion"
+  },
+  {
+   "id": "fb-ger.1-401884700",
+   "sport": "football",
+   "sub": "德甲 · 2026",
+   "title": "拜仁慕尼黑 vs 云达不莱梅",
+   "teams": [
+    "拜仁慕尼黑",
+    "云达不莱梅"
+   ],
+   "bj": "2026-12-19 03:30",
+   "dur": 115,
+   "note": "Allianz Arena"
+  },
+  {
+   "id": "fb-ita.1-401874996",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "莱切 vs 国际米兰",
+   "teams": [
+    "莱切",
+    "国际米兰"
+   ],
+   "bj": "2026-12-19 03:45",
+   "dur": 115,
+   "note": "Via Del Mare"
+  },
+  {
+   "id": "fb-jpn.1-401877501",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "千叶市原 vs 大阪樱花",
+   "teams": [
+    "千叶市原",
+    "大阪樱花"
+   ],
+   "bj": "2026-12-19 12:00",
+   "dur": 115,
+   "note": "Fukuda Denshi Arena"
+  },
+  {
+   "id": "fb-jpn.1-401877498",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Kyoto Sanga vs Fagiano Okayama",
+   "teams": [
+    "Kyoto Sanga",
+    "Fagiano Okayama"
+   ],
+   "bj": "2026-12-19 12:00",
+   "dur": 115,
+   "note": "Sanga Stadium by Kyocera"
+  },
+  {
+   "id": "fb-aus.1-401892121",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "惠灵顿凤凰 vs 奥克兰FC",
+   "teams": [
+    "惠灵顿凤凰",
+    "奥克兰FC"
+   ],
+   "bj": "2026-12-19 12:00",
+   "dur": 115,
+   "note": "Sky Stadium"
   }
  ]
 }
