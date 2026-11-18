@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-18T04:26:32.051Z",
+ "updatedAt": "2026-11-18T13:12:54.802Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-186540",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Alejandro Tabilo vs Lorenzo Sonego",
-   "teams": [
-    "Alejandro Tabilo",
-    "Lorenzo Sonego"
-   ],
-   "bj": "2026-11-11 20:05",
-   "dur": 150,
-   "result": "(4) Alejandro Tabilo 7-5"
-  },
   {
    "id": "tn-atp-186542",
    "sport": "tennis",
@@ -8699,6 +8686,19 @@
    "bj": "2026-12-18 04:00",
    "dur": 115,
    "note": "Rajko Mitic Stadium"
+  },
+  {
+   "id": "fb-aus.1-401892122",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "悉尼FC vs Perth Glory FC",
+   "teams": [
+    "悉尼FC",
+    "Perth Glory FC"
+   ],
+   "bj": "2026-12-18 16:40",
+   "dur": 115,
+   "note": "Allianz Stadium"
   }
  ],
  "sources": [
