@@ -1,124 +1,7 @@
 {
- "updatedAt": "2026-11-18T13:12:54.802Z",
+ "updatedAt": "2026-11-18T17:39:54.288Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-186542",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Ugo Humbert vs Borna Gojo",
-   "teams": [
-    "Ugo Humbert",
-    "Borna Gojo"
-   ],
-   "bj": "2026-11-11 23:05",
-   "dur": 150,
-   "result": "(7) Ugo Humbert 6-2 6-4"
-  },
-  {
-   "id": "tn-wta-186766",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Carole Monnet vs Polona Hercog",
-   "teams": [
-    "Carole Monnet",
-    "Polona Hercog"
-   ],
-   "bj": "2026-11-11 23:05",
-   "dur": 150,
-   "result": "Polona Hercog 6-3 6-0"
-  },
-  {
-   "id": "tn-wta-186767",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Alice Tubello vs 玛丽亚",
-   "teams": [
-    "Alice Tubello",
-    "玛丽亚"
-   ],
-   "bj": "2026-11-11 23:05",
-   "dur": 150,
-   "result": "Alice Tubello 7-5 6-4"
-  },
-  {
-   "id": "tn-wta-186760",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Jazmin Ortenzi vs Andrea Lazaro Garcia",
-   "teams": [
-    "Jazmin Ortenzi",
-    "Andrea Lazaro Garcia"
-   ],
-   "bj": "2026-11-11 23:10",
-   "dur": 150,
-   "result": "Andrea Lazaro Garcia 2-6 6-4 6-4"
-  },
-  {
-   "id": "tn-atp-186545",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Cameron Norrie vs 弗里茨",
-   "teams": [
-    "Cameron Norrie",
-    "弗里茨"
-   ],
-   "bj": "2026-11-11 23:20",
-   "dur": 150,
-   "result": "(1) Taylor Fritz 7-5 6-3"
-  },
-  {
-   "id": "tn-wta-186763",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Sofia Costoulas vs Laura Samson",
-   "teams": [
-    "Sofia Costoulas",
-    "Laura Samson"
-   ],
-   "bj": "2026-11-12 00:25",
-   "dur": 150,
-   "result": "(5) Laura Samson 6-2 6-2"
-  },
-  {
-   "id": "tn-wta-186761",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Elizabeth Mandlik vs Lucia Bronzetti",
-   "teams": [
-    "Elizabeth Mandlik",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-12 00:55",
-   "dur": 150,
-   "result": "Elizabeth Mandlik 6-3"
-  },
-  {
-   "id": "tn-atp-186538",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "鲁德 vs Aleksandr Shevchenko",
-   "teams": [
-    "鲁德",
-    "Aleksandr Shevchenko"
-   ],
-   "bj": "2026-11-12 01:05",
-   "dur": 150,
-   "result": "Aleksandr Shevchenko 6-4 6-3"
-  },
-  {
-   "id": "tn-wta-186762",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "格拉伯 vs Irene Burillo",
-   "teams": [
-    "格拉伯",
-    "Irene Burillo"
-   ],
-   "bj": "2026-11-12 01:35",
-   "dur": 150,
-   "result": "Irene Burillo"
-  },
   {
    "id": "tn-wta-186765",
    "sport": "tennis",
@@ -539,19 +422,6 @@
    "result": "(3) Mirra Andreeva 7-5 6-3"
   },
   {
-   "id": "tn-wta-186792",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Diletta Cherubini vs Rebeka Masarova",
-   "teams": [
-    "Diletta Cherubini",
-    "Rebeka Masarova"
-   ],
-   "bj": "2026-11-16 22:05",
-   "dur": 150,
-   "result": "(6) Rebeka Masarova 7-5 6-3"
-  },
-  {
    "id": "tn-wta-186789",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
@@ -563,6 +433,19 @@
    "bj": "2026-11-16 22:05",
    "dur": 150,
    "result": "Anastasia Zolotareva 6-2 6-4"
+  },
+  {
+   "id": "tn-wta-186792",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Diletta Cherubini vs Rebeka Masarova",
+   "teams": [
+    "Diletta Cherubini",
+    "Rebeka Masarova"
+   ],
+   "bj": "2026-11-16 22:05",
+   "dur": 150,
+   "result": "(6) Rebeka Masarova 7-5 6-3"
   },
   {
    "id": "tn-wta-186796",
@@ -643,19 +526,6 @@
    "result": "Ariana Geerlings 6-4 6-0"
   },
   {
-   "id": "tn-wta-186787",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Darja Semenistaja vs Irene Burillo",
-   "teams": [
-    "Darja Semenistaja",
-    "Irene Burillo"
-   ],
-   "bj": "2026-11-17 22:05",
-   "dur": 150,
-   "result": "Irene Burillo 6-4 6-0"
-  },
-  {
    "id": "tn-wta-186791",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
@@ -667,6 +537,19 @@
    "bj": "2026-11-17 22:05",
    "dur": 150,
    "result": "Nadia Podoroska 6-3 7-5"
+  },
+  {
+   "id": "tn-wta-186787",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Darja Semenistaja vs Irene Burillo",
+   "teams": [
+    "Darja Semenistaja",
+    "Irene Burillo"
+   ],
+   "bj": "2026-11-17 22:05",
+   "dur": 150,
+   "result": "Irene Burillo 6-4 6-0"
   },
   {
    "id": "tn-wta-186785",
@@ -755,8 +638,9 @@
     "Sofia Costoulas",
     "Guiomar Maristany Zuleta De Reales"
    ],
-   "bj": "2026-11-18 22:30",
-   "dur": 150
+   "bj": "2026-11-18 22:40",
+   "dur": 150,
+   "result": "(5) Guiomar Maristany Zuleta De Reales 7-5 6-3"
   },
   {
    "id": "tn-wta-186803",
@@ -767,7 +651,7 @@
     "Polona Hercog",
     "Rebeka Masarova"
    ],
-   "bj": "2026-11-19 00:00",
+   "bj": "2026-11-19 00:50",
    "dur": 150
   },
   {
@@ -779,7 +663,7 @@
     "Nadia Podoroska",
     "Leyre Romero Gormaz"
    ],
-   "bj": "2026-11-19 01:30",
+   "bj": "2026-11-19 01:50",
    "dur": 150
   },
   {
@@ -873,6 +757,18 @@
    "note": "Arena do Grêmio"
   },
   {
+   "id": "tn-wta-186808",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Veronika Erjavec vs Valeriya Strakhova",
+   "teams": [
+    "Veronika Erjavec",
+    "Valeriya Strakhova"
+   ],
+   "bj": "2026-11-19 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186804",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
@@ -904,18 +800,6 @@
    "teams": [
     "Carole Monnet",
     "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-19 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186808",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Veronika Erjavec vs Valeriya Strakhova",
-   "teams": [
-    "Veronika Erjavec",
-    "Valeriya Strakhova"
    ],
    "bj": "2026-11-19 13:00",
    "dur": 150
@@ -984,6 +868,17 @@
    "bj": "2026-11-20 11:00",
    "dur": 115,
    "note": "Lumen Field"
+  },
+  {
+   "id": "tn-wta-186799",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "TBD vs Guiomar Maristany Zuleta De Reales",
+   "teams": [
+    "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-20 13:00",
+   "dur": 150
   },
   {
    "id": "fb-aus.1-401892138",
@@ -4924,19 +4819,6 @@
    "note": "McDiarmid Park"
   },
   {
-   "id": "fb-usa.1-401933736",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "纳什维尔 vs TBD Away",
-   "teams": [
-    "纳什维尔",
-    "TBD Away"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "GEODIS Park"
-  },
-  {
    "id": "fb-usa.1-401933717",
    "sport": "football",
    "sub": "美职联 · 2026",
@@ -5195,6 +5077,19 @@
    "bj": "2026-12-03 09:00",
    "dur": 115,
    "note": "Toyota Stadium"
+  },
+  {
+   "id": "fb-usa.1-401933736",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "纳什维尔 vs TBD Away",
+   "teams": [
+    "纳什维尔",
+    "TBD Away"
+   ],
+   "bj": "2026-12-03 09:00",
+   "dur": 115,
+   "note": "GEODIS Park"
   },
   {
    "id": "fb-usa.1-401933735",
@@ -8699,30 +8594,69 @@
    "bj": "2026-12-18 16:40",
    "dur": 115,
    "note": "Allianz Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888363",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "Amed SFK vs Goztepe",
+   "teams": [
+    "Amed SFK",
+    "Goztepe"
+   ],
+   "bj": "2026-12-19 01:00",
+   "dur": 115,
+   "note": "Diyarbakir Stadyumu"
+  },
+  {
+   "id": "fb-tur.1-401888219",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "卡西帕萨 vs Fenerbahce",
+   "teams": [
+    "卡西帕萨",
+    "Fenerbahce"
+   ],
+   "bj": "2026-12-19 01:00",
+   "dur": 115,
+   "note": "Recep Tayyip Erdogan Stadium"
+  },
+  {
+   "id": "fb-ita.1-401875016",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "弗罗西诺内 vs 拉齐奥",
+   "teams": [
+    "弗罗西诺内",
+    "拉齐奥"
+   ],
+   "bj": "2026-12-19 01:30",
+   "dur": 115,
+   "note": "Stadio Benito Stirpe"
   }
  ],
  "sources": [
-  "足球 英超: 50 场",
+  "足球 英超: 55 场",
   "足球 西甲: 43 场",
-  "足球 德甲: 37 场",
-  "足球 意甲: 42 场",
+  "足球 德甲: 42 场",
+  "足球 意甲: 45 场",
   "足球 法甲: 36 场",
   "足球 欧冠: 36 场",
   "足球 欧联: 36 场",
   "足球 欧协联: 54 场",
-  "足球 荷甲: 36 场",
+  "足球 荷甲: 39 场",
   "足球 葡超: 27 场",
-  "足球 土超: 38 场",
-  "足球 苏超: 30 场",
+  "足球 土超: 41 场",
+  "足球 苏超: 34 场",
   "足球 美职联: 26 场",
   "足球 墨超: 10 场",
   "足球 巴甲: 41 场",
-  "足球 J联赛: 51 场",
-  "足球 澳超: 19 场",
+  "足球 J联赛: 59 场",
+  "足球 澳超: 21 场",
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 51 场",
-  "网球 WTA: 78 场",
+  "网球 WTA: 79 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
