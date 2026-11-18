@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T22:28:54.408Z",
+ "updatedAt": "2026-11-18T04:26:32.051Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -730,7 +730,8 @@
     "Despina Papamichail"
    ],
    "bj": "2026-11-18 04:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(2) Laura Samson 3-6 6-3 6-4"
   },
   {
    "id": "tn-wta-186794",
@@ -742,7 +743,8 @@
     "Barbara Gatica"
    ],
    "bj": "2026-11-18 05:30",
-   "dur": 150
+   "dur": 150,
+   "result": "(4) Andrea Lazaro Garcia 3-6 6-2 6-3"
   },
   {
    "id": "tn-wta-186795",
@@ -753,7 +755,20 @@
     "Antonia Vergara Rivera",
     "Fernanda Labrana"
    ],
-   "bj": "2026-11-18 06:30",
+   "bj": "2026-11-18 08:05",
+   "dur": 150,
+   "result": "Fernanda Labrana 6-1 3-6 6-0"
+  },
+  {
+   "id": "tn-wta-186805",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Sofia Costoulas vs Guiomar Maristany Zuleta De Reales",
+   "teams": [
+    "Sofia Costoulas",
+    "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-18 22:30",
    "dur": 150
   },
   {
@@ -765,31 +780,7 @@
     "Polona Hercog",
     "Rebeka Masarova"
    ],
-   "bj": "2026-11-18 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186809",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Carole Monnet vs Lucia Bronzetti",
-   "teams": [
-    "Carole Monnet",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-18 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186808",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Veronika Erjavec vs Valeriya Strakhova",
-   "teams": [
-    "Veronika Erjavec",
-    "Valeriya Strakhova"
-   ],
-   "bj": "2026-11-18 13:00",
+   "bj": "2026-11-19 00:00",
    "dur": 150
   },
   {
@@ -801,42 +792,7 @@
     "Nadia Podoroska",
     "Leyre Romero Gormaz"
    ],
-   "bj": "2026-11-18 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186806",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Irene Burillo vs Anastasia Zolotareva",
-   "teams": [
-    "Irene Burillo",
-    "Anastasia Zolotareva"
-   ],
-   "bj": "2026-11-18 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186805",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Sofia Costoulas vs Guiomar Maristany Zuleta De Reales",
-   "teams": [
-    "Sofia Costoulas",
-    "Guiomar Maristany Zuleta De Reales"
-   ],
-   "bj": "2026-11-18 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186802",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Ariana Geerlings",
-   "teams": [
-    "Ariana Geerlings"
-   ],
-   "bj": "2026-11-18 13:00",
+   "bj": "2026-11-19 01:30",
    "dur": 150
   },
   {
@@ -851,6 +807,18 @@
    "bj": "2026-11-19 06:30",
    "dur": 115,
    "note": "Couto Pereira"
+  },
+  {
+   "id": "tn-wta-186802",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Laura Samson vs Ariana Geerlings",
+   "teams": [
+    "Laura Samson",
+    "Ariana Geerlings"
+   ],
+   "bj": "2026-11-19 06:30",
+   "dur": 150
   },
   {
    "id": "fb-bra.1-401841310",
@@ -916,6 +884,54 @@
    "bj": "2026-11-19 08:30",
    "dur": 115,
    "note": "Arena do Grêmio"
+  },
+  {
+   "id": "tn-wta-186804",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Andrea Lazaro Garcia vs Fernanda Labrana",
+   "teams": [
+    "Andrea Lazaro Garcia",
+    "Fernanda Labrana"
+   ],
+   "bj": "2026-11-19 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186806",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Irene Burillo vs Anastasia Zolotareva",
+   "teams": [
+    "Irene Burillo",
+    "Anastasia Zolotareva"
+   ],
+   "bj": "2026-11-19 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186809",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Carole Monnet vs Lucia Bronzetti",
+   "teams": [
+    "Carole Monnet",
+    "Lucia Bronzetti"
+   ],
+   "bj": "2026-11-19 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186808",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Veronika Erjavec vs Valeriya Strakhova",
+   "teams": [
+    "Veronika Erjavec",
+    "Valeriya Strakhova"
+   ],
+   "bj": "2026-11-19 13:00",
+   "dur": 150
   },
   {
    "id": "fb-bra.1-401841308",
@@ -8706,7 +8722,7 @@
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 51 场",
-  "网球 WTA: 77 场",
+  "网球 WTA: 78 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
