@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-18T22:01:29.323Z",
+ "updatedAt": "2026-11-19T04:15:25.730Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-187378",
-   "sport": "tennis",
-   "sub": "FAGE WTA Finals Indian Wells · 女单",
-   "title": "安德烈耶娃 vs 萨巴伦卡",
-   "teams": [
-    "安德烈耶娃",
-    "萨巴伦卡"
-   ],
-   "bj": "2026-11-12 06:35",
-   "dur": 150,
-   "result": "(3) Mirra Andreeva 6-4 6-0"
-  },
   {
    "id": "tn-atp-186549",
    "sport": "tennis",
@@ -640,19 +627,8 @@
    ],
    "bj": "2026-11-19 06:30",
    "dur": 115,
+   "result": "Coritiba 0:1 桑托斯",
    "note": "Couto Pereira"
-  },
-  {
-   "id": "tn-wta-186802",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Laura Samson vs Ariana Geerlings",
-   "teams": [
-    "Laura Samson",
-    "Ariana Geerlings"
-   ],
-   "bj": "2026-11-19 06:30",
-   "dur": 150
   },
   {
    "id": "fb-bra.1-401841310",
@@ -665,7 +641,21 @@
    ],
    "bj": "2026-11-19 07:00",
    "dur": 115,
+   "result": "Remo 2:0 Chapecoense",
    "note": "Mangueirão"
+  },
+  {
+   "id": "tn-wta-186802",
+   "sport": "tennis",
+   "sub": "LP Open by IND · 女单",
+   "title": "Laura Samson vs Ariana Geerlings",
+   "teams": [
+    "Laura Samson",
+    "Ariana Geerlings"
+   ],
+   "bj": "2026-11-19 07:00",
+   "dur": 150,
+   "result": "(2) Laura Samson 6-3 2-6 6-0"
   },
   {
    "id": "fb-bra.1-401841314",
@@ -678,6 +668,7 @@
    ],
    "bj": "2026-11-19 07:30",
    "dur": 115,
+   "result": "克鲁塞罗 2:1 帕尔梅拉斯",
    "note": "Estadio Mineirão"
   },
   {
@@ -691,6 +682,7 @@
    ],
    "bj": "2026-11-19 07:30",
    "dur": 115,
+   "result": "弗拉门戈 2:1 Athletico-PR",
    "note": "Estadio do Maracana"
   },
   {
@@ -704,6 +696,7 @@
    ],
    "bj": "2026-11-19 08:30",
    "dur": 115,
+   "result": "科林蒂安 4:0 博塔弗戈",
    "note": "Neo Química Arena"
   },
   {
@@ -717,6 +710,7 @@
    ],
    "bj": "2026-11-19 08:30",
    "dur": 115,
+   "result": "格雷米奥 0:0 巴伊亚",
    "note": "Arena do Grêmio"
   },
   {
@@ -858,8 +852,9 @@
    "id": "tn-wta-186798",
    "sport": "tennis",
    "sub": "LP Open by IND · 女单",
-   "title": "TBD vs Rebeka Masarova",
+   "title": "Laura Samson vs Rebeka Masarova",
    "teams": [
+    "Laura Samson",
     "Rebeka Masarova"
    ],
    "bj": "2026-11-20 13:00",
@@ -8657,6 +8652,45 @@
    "bj": "2026-12-19 03:45",
    "dur": 115,
    "note": "Via Del Mare"
+  },
+  {
+   "id": "fb-jpn.1-401877501",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "千叶市原 vs 大阪樱花",
+   "teams": [
+    "千叶市原",
+    "大阪樱花"
+   ],
+   "bj": "2026-12-19 12:00",
+   "dur": 115,
+   "note": "Fukuda Denshi Arena"
+  },
+  {
+   "id": "fb-jpn.1-401877498",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Kyoto Sanga vs Fagiano Okayama",
+   "teams": [
+    "Kyoto Sanga",
+    "Fagiano Okayama"
+   ],
+   "bj": "2026-12-19 12:00",
+   "dur": 115,
+   "note": "Sanga Stadium by Kyocera"
+  },
+  {
+   "id": "fb-aus.1-401892121",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "惠灵顿凤凰 vs 奥克兰FC",
+   "teams": [
+    "惠灵顿凤凰",
+    "奥克兰FC"
+   ],
+   "bj": "2026-12-19 12:00",
+   "dur": 115,
+   "note": "Sky Stadium"
   }
  ],
  "sources": [
