@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-19T04:15:25.730Z",
+ "updatedAt": "2026-11-19T13:26:00.812Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-186549",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Alejandro Tabilo vs 米歇尔森",
-   "teams": [
-    "Alejandro Tabilo",
-    "米歇尔森"
-   ],
-   "bj": "2026-11-12 20:05",
-   "dur": 150,
-   "result": "(4) Alejandro Tabilo"
-  },
   {
    "id": "tn-atp-186548",
    "sport": "tennis",
@@ -8691,6 +8678,175 @@
    "bj": "2026-12-19 12:00",
    "dur": 115,
    "note": "Sky Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877502",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Mito Hollyhock vs 东京FC",
+   "teams": [
+    "Mito Hollyhock",
+    "东京FC"
+   ],
+   "bj": "2026-12-19 13:00",
+   "dur": 115,
+   "note": "Kasamatsu Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877499",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Nagoya Grampus vs 广岛三箭",
+   "teams": [
+    "Nagoya Grampus",
+    "广岛三箭"
+   ],
+   "bj": "2026-12-19 13:00",
+   "dur": 115,
+   "note": "Paloma Mizuho Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877492",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "福冈黄蜂 vs Shimizu S-Pulse",
+   "teams": [
+    "福冈黄蜂",
+    "Shimizu S-Pulse"
+   ],
+   "bj": "2026-12-19 13:30",
+   "dur": 115,
+   "note": "Best Denki Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877497",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "长崎成功丸 vs 浦和红钻",
+   "teams": [
+    "长崎成功丸",
+    "浦和红钻"
+   ],
+   "bj": "2026-12-19 13:30",
+   "dur": 115,
+   "note": "PEACE STADIUM Connected by SoftBank"
+  },
+  {
+   "id": "fb-jpn.1-401877503",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "Kashima Antlers vs 东京绿茵",
+   "teams": [
+    "Kashima Antlers",
+    "东京绿茵"
+   ],
+   "bj": "2026-12-19 14:00",
+   "dur": 115,
+   "note": "Japan National Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877493",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "神户胜利船 vs 横滨水手",
+   "teams": [
+    "神户胜利船",
+    "横滨水手"
+   ],
+   "bj": "2026-12-19 14:00",
+   "dur": 115,
+   "note": "Kobe Wing Stadium"
+  },
+  {
+   "id": "fb-aus.1-401892120",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Brisbane Roar FC vs Western Sydney Wanderers FC",
+   "teams": [
+    "Brisbane Roar FC",
+    "Western Sydney Wanderers FC"
+   ],
+   "bj": "2026-12-19 14:00",
+   "dur": 115,
+   "note": "Dolphin Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877494",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "大阪钢巴 vs 町田泽维亚",
+   "teams": [
+    "大阪钢巴",
+    "町田泽维亚"
+   ],
+   "bj": "2026-12-19 15:00",
+   "dur": 115,
+   "note": "Suita City Football Stadium"
+  },
+  {
+   "id": "fb-jpn.1-401877500",
+   "sport": "football",
+   "sub": "J联赛 · 2026",
+   "title": "川崎前锋 vs Kashiwa Reysol",
+   "teams": [
+    "川崎前锋",
+    "Kashiwa Reysol"
+   ],
+   "bj": "2026-12-19 15:00",
+   "dur": 115,
+   "note": "Uvance Todoroki Stadium by Fujitsu"
+  },
+  {
+   "id": "fb-aus.1-401892119",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Melbourne City FC vs 墨尔本胜利",
+   "teams": [
+    "Melbourne City FC",
+    "墨尔本胜利"
+   ],
+   "bj": "2026-12-19 16:40",
+   "dur": 115,
+   "note": "Melbourne Rectangular Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888217",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "科尼亚 vs 埃于普",
+   "teams": [
+    "科尼亚",
+    "埃于普"
+   ],
+   "bj": "2026-12-19 18:30",
+   "dur": 115,
+   "note": "Medas Konya Büyüksehir Stadyumu"
+  },
+  {
+   "id": "fb-eng.1-401879203",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "布伦特福德 vs 纽卡斯尔",
+   "teams": [
+    "布伦特福德",
+    "纽卡斯尔"
+   ],
+   "bj": "2026-12-19 20:30",
+   "dur": 115,
+   "note": "Gtech Community Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888218",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "伊斯坦布尔巴萨克塞希尔 vs Erzurum BB",
+   "teams": [
+    "伊斯坦布尔巴萨克塞希尔",
+    "Erzurum BB"
+   ],
+   "bj": "2026-12-19 21:00",
+   "dur": 115,
+   "note": "Basaksehir Fatih Terim Stadium"
   }
  ],
  "sources": [
