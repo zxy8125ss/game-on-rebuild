@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T04:02:24.086Z",
+ "updatedAt": "2026-11-20T13:06:39.508Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -702,6 +702,7 @@
    ],
    "bj": "2026-11-20 11:00",
    "dur": 115,
+   "result": "西雅图海湾人 1:1 盐湖城",
    "note": "Lumen Field"
   },
   {
@@ -715,6 +716,7 @@
    ],
    "bj": "2026-11-20 16:40",
    "dur": 115,
+   "result": "Western Sydney Wanderers FC 4:2 Adelaide United FC",
    "note": "CommBank Stadium"
   },
   {
@@ -728,6 +730,7 @@
    ],
    "bj": "2026-11-20 18:00",
    "dur": 115,
+   "result": "Kashima Antlers 1:1 Shimizu S-Pulse",
    "note": "Kashima Soccer Stadium"
   },
   {
@@ -741,6 +744,7 @@
    ],
    "bj": "2026-11-20 18:00",
    "dur": 115,
+   "result": "Kashiwa Reysol 0:1 千叶市原",
    "note": "Sankyo Frontier Kashiwa Stadium"
   },
   {
@@ -754,6 +758,7 @@
    ],
    "bj": "2026-11-20 18:00",
    "dur": 115,
+   "result": "神户胜利船 1:2 Mito Hollyhock",
    "note": "Kobe Wing Stadium"
   },
   {
@@ -2115,10 +2120,10 @@
    "id": "fb-usa.1-401933729",
    "sport": "football",
    "sub": "美职联 · 2026",
-   "title": "温哥华白帽 vs TBD Away",
+   "title": "温哥华白帽 vs 盐湖城",
    "teams": [
     "温哥华白帽",
-    "TBD Away"
+    "盐湖城"
    ],
    "bj": "2026-11-23 09:30",
    "dur": 115,
@@ -3259,13 +3264,14 @@
    "id": "fb-usa.1-401933725",
    "sport": "football",
    "sub": "美职联 · 2026",
-   "title": "TBD Home vs 温哥华白帽",
+   "title": "盐湖城 vs 温哥华白帽",
    "teams": [
-    "TBD Home",
+    "盐湖城",
     "温哥华白帽"
    ],
    "bj": "2026-11-28 11:00",
-   "dur": 115
+   "dur": 115,
+   "note": "America First Field"
   },
   {
    "id": "fb-jpn.1-401877537",
@@ -3846,7 +3852,8 @@
     "纳什维尔"
    ],
    "bj": "2026-11-29 07:30",
-   "dur": 115
+   "dur": 115,
+   "note": "TQL Stadium"
   },
   {
    "id": "fb-bra.1-401841336",
@@ -4694,10 +4701,10 @@
    "id": "fb-usa.1-401933717",
    "sport": "football",
    "sub": "美职联 · 2026",
-   "title": "温哥华白帽 vs TBD Away",
+   "title": "温哥华白帽 vs 盐湖城",
    "teams": [
     "温哥华白帽",
-    "TBD Away"
+    "盐湖城"
    ],
    "bj": "2026-12-03 04:00",
    "dur": 115,
@@ -9012,6 +9019,84 @@
    "bj": "2026-12-20 04:00",
    "dur": 115,
    "note": "Stadion Galgenwaard"
+  },
+  {
+   "id": "fb-aus.1-401892118",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Adelaide United FC vs Newcastle Jets",
+   "teams": [
+    "Adelaide United FC",
+    "Newcastle Jets"
+   ],
+   "bj": "2026-12-20 14:00",
+   "dur": 115,
+   "note": "Hindmarsh Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888362",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "Genclerbirligi vs Çorum FK",
+   "teams": [
+    "Genclerbirligi",
+    "Çorum FK"
+   ],
+   "bj": "2026-12-20 18:30",
+   "dur": 115,
+   "note": "Eryaman Stadium"
+  },
+  {
+   "id": "fb-ned.1-401875506",
+   "sport": "football",
+   "sub": "荷甲 · 2026",
+   "title": "NEC Nijmegen vs 阿德尤拉海牙",
+   "teams": [
+    "NEC Nijmegen",
+    "阿德尤拉海牙"
+   ],
+   "bj": "2026-12-20 19:15",
+   "dur": 115,
+   "note": "Goffertstadion"
+  },
+  {
+   "id": "fb-ita.1-401874836",
+   "sport": "football",
+   "sub": "意甲 · 2026",
+   "title": "佛罗伦萨 vs 博洛尼亚",
+   "teams": [
+    "佛罗伦萨",
+    "博洛尼亚"
+   ],
+   "bj": "2026-12-20 19:30",
+   "dur": 115,
+   "note": "Stadio Artemio Franchi"
+  },
+  {
+   "id": "fb-sco.1-401878308",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "阿伯丁 vs 凯尔特人",
+   "teams": [
+    "阿伯丁",
+    "凯尔特人"
+   ],
+   "bj": "2026-12-20 20:00",
+   "dur": 115,
+   "note": "Pittodrie Stadium"
+  },
+  {
+   "id": "fb-tur.1-401888214",
+   "sport": "football",
+   "sub": "土超 · 2026",
+   "title": "萨姆松 vs 加济安泰普",
+   "teams": [
+    "萨姆松",
+    "加济安泰普"
+   ],
+   "bj": "2026-12-20 21:00",
+   "dur": 115,
+   "note": "Samsun 19 Mayis Stadium"
   }
  ],
  "sources": [

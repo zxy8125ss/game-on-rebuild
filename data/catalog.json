@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T04:02:24.086Z",
+ "updatedAt": "2026-11-20T13:06:39.509Z",
  "matches": [
   {
    "id": "tn-atp-186546",
@@ -844,6 +844,7 @@
    ],
    "bj": "2026-11-20 11:00",
    "dur": 115,
+   "result": "西雅图海湾人 1:1 盐湖城",
    "note": "Lumen Field"
   },
   {
@@ -857,6 +858,7 @@
    ],
    "bj": "2026-11-20 16:40",
    "dur": 115,
+   "result": "Western Sydney Wanderers FC 4:2 Adelaide United FC",
    "note": "CommBank Stadium"
   },
   {
@@ -870,6 +872,7 @@
    ],
    "bj": "2026-11-20 18:00",
    "dur": 115,
+   "result": "Kashima Antlers 1:1 Shimizu S-Pulse",
    "note": "Kashima Soccer Stadium"
   },
   {
@@ -883,6 +886,7 @@
    ],
    "bj": "2026-11-20 18:00",
    "dur": 115,
+   "result": "Kashiwa Reysol 0:1 千叶市原",
    "note": "Sankyo Frontier Kashiwa Stadium"
   },
   {
@@ -896,6 +900,7 @@
    ],
    "bj": "2026-11-20 18:00",
    "dur": 115,
+   "result": "神户胜利船 1:2 Mito Hollyhock",
    "note": "Kobe Wing Stadium"
   },
   {
@@ -907,7 +912,7 @@
     "Flavio Cobolli",
     "阿尔卡拉斯"
    ],
-   "bj": "2026-11-20 21:00",
+   "bj": "2026-11-20 21:10",
    "dur": 150
   },
   {
@@ -2303,10 +2308,10 @@
    "id": "fb-usa.1-401933729",
    "sport": "football",
    "sub": "美职联 · 2026",
-   "title": "温哥华白帽 vs TBD Away",
+   "title": "温哥华白帽 vs 盐湖城",
    "teams": [
     "温哥华白帽",
-    "TBD Away"
+    "盐湖城"
    ],
    "bj": "2026-11-23 09:30",
    "dur": 115,
@@ -3447,13 +3452,14 @@
    "id": "fb-usa.1-401933725",
    "sport": "football",
    "sub": "美职联 · 2026",
-   "title": "TBD Home vs 温哥华白帽",
+   "title": "盐湖城 vs 温哥华白帽",
    "teams": [
-    "TBD Home",
+    "盐湖城",
     "温哥华白帽"
    ],
    "bj": "2026-11-28 11:00",
-   "dur": 115
+   "dur": 115,
+   "note": "America First Field"
   },
   {
    "id": "fb-jpn.1-401877537",
@@ -4034,7 +4040,8 @@
     "纳什维尔"
    ],
    "bj": "2026-11-29 07:30",
-   "dur": 115
+   "dur": 115,
+   "note": "TQL Stadium"
   },
   {
    "id": "fb-bra.1-401841336",
@@ -4882,10 +4889,10 @@
    "id": "fb-usa.1-401933717",
    "sport": "football",
    "sub": "美职联 · 2026",
-   "title": "温哥华白帽 vs TBD Away",
+   "title": "温哥华白帽 vs 盐湖城",
    "teams": [
     "温哥华白帽",
-    "TBD Away"
+    "盐湖城"
    ],
    "bj": "2026-12-03 04:00",
    "dur": 115,
