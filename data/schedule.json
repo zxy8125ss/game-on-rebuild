@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-21T12:48:37.671Z",
+ "updatedAt": "2026-11-21T16:27:24.612Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186772",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Elizabeth Mandlik vs 安德烈斯库",
-   "teams": [
-    "Elizabeth Mandlik",
-    "安德烈斯库"
-   ],
-   "bj": "2026-11-15 01:10",
-   "dur": 150,
-   "result": "(3) Bianca Andreescu 6-3 6-3"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-14-Bilibili Gaming-Gen.G",
    "sport": "lol",
@@ -40,48 +27,6 @@
    "bj": "2026-11-15 04:10",
    "dur": 150,
    "result": "(3) Mirra Andreeva 6-3 6-4"
-  },
-  {
-   "id": "fb-bra.1-401841311",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Mirassol vs Atlético-MG",
-   "teams": [
-    "Mirassol",
-    "Atlético-MG"
-   ],
-   "bj": "2026-11-15 05:30",
-   "dur": 115,
-   "result": "Mirassol 0:0 Atlético-MG",
-   "note": "Estadio Municipal José Maria de Campos Maia"
-  },
-  {
-   "id": "fb-mex.1-401876988",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "克雷塔罗 vs 蒙特雷",
-   "teams": [
-    "克雷塔罗",
-    "蒙特雷"
-   ],
-   "bj": "2026-11-15 07:00",
-   "dur": 115,
-   "result": "克雷塔罗 0:1 蒙特雷",
-   "note": "Estadio Corregidora"
-  },
-  {
-   "id": "fb-bra.1-401841175",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Chapecoense vs 瓦斯科",
-   "teams": [
-    "Chapecoense",
-    "瓦斯科"
-   ],
-   "bj": "2026-11-15 07:30",
-   "dur": 115,
-   "result": "Chapecoense 0:2 瓦斯科",
-   "note": "Arena Condá"
   },
   {
    "id": "tn-wta-187535",
@@ -981,6 +926,7 @@
    ],
    "bj": "2026-11-21 20:30",
    "dur": 115,
+   "result": "曼城 1:1 富勒姆",
    "note": "Etihad Stadium"
   },
   {
@@ -994,6 +940,7 @@
    ],
    "bj": "2026-11-21 21:00",
    "dur": 115,
+   "result": "Alavés 3:1 Deportivo",
    "note": "Mendizorrotza"
   },
   {
@@ -1007,6 +954,7 @@
    ],
    "bj": "2026-11-21 21:00",
    "dur": 115,
+   "result": "Amed SFK 0:2 Caykur Rizespor",
    "note": "Diyarbakir Stadyumu"
   },
   {
@@ -1020,6 +968,7 @@
    ],
    "bj": "2026-11-21 21:00",
    "dur": 115,
+   "result": "加拉塔萨雷 2:1 萨姆松",
    "note": "Basaksehir Fatih Terim Stadium"
   },
   {
@@ -1033,6 +982,7 @@
    ],
    "bj": "2026-11-21 22:00",
    "dur": 115,
+   "result": "科莫 2:0 卡利亚里",
    "note": "Giuseppe Sinigaglia"
   },
   {
@@ -1046,6 +996,7 @@
    ],
    "bj": "2026-11-21 22:00",
    "dur": 115,
+   "result": "拉齐奥 3:0 莱切",
    "note": "Olimpico"
   },
   {
@@ -1072,6 +1023,7 @@
    ],
    "bj": "2026-11-21 22:30",
    "dur": 115,
+   "result": "勒沃库森 4:0 帕德博恩",
    "note": "BayArena"
   },
   {
@@ -1085,6 +1037,7 @@
    ],
    "bj": "2026-11-21 22:30",
    "dur": 115,
+   "result": "门兴 0:1 多特蒙德",
    "note": "BORUSSIA-PARK"
   },
   {
@@ -1111,6 +1064,7 @@
    ],
    "bj": "2026-11-21 22:30",
    "dur": 115,
+   "result": "埃尔弗斯贝格 0:1 弗赖堡",
    "note": "URSAPHARM-Arena an der Kaiserlinde"
   },
   {
@@ -9548,14 +9502,14 @@
   "足球 土超: 45 场",
   "足球 苏超: 36 场",
   "足球 美职联: 26 场",
-  "足球 墨超: 10 场",
-  "足球 巴甲: 41 场",
+  "足球 墨超: 9 场",
+  "足球 巴甲: 39 场",
   "足球 J联赛: 59 场",
   "足球 澳超: 23 场",
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
-  "网球 ATP: 53 场",
-  "网球 WTA: 84 场",
+  "网球 ATP: 15 场",
+  "网球 WTA: 49 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",

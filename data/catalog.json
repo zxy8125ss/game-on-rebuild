@@ -1,19 +1,6 @@
 {
- "updatedAt": "2026-11-21T12:48:37.671Z",
+ "updatedAt": "2026-11-21T16:27:24.612Z",
  "matches": [
-  {
-   "id": "tn-wta-186772",
-   "sport": "tennis",
-   "sub": "DIRECTV Open Presentado por Compesar · 女单",
-   "title": "Elizabeth Mandlik vs 安德烈斯库",
-   "teams": [
-    "Elizabeth Mandlik",
-    "安德烈斯库"
-   ],
-   "bj": "2026-11-15 01:10",
-   "dur": 150,
-   "result": "(3) Bianca Andreescu 6-3 6-3"
-  },
   {
    "id": "lol-2026-season-world-championship-main-event-2026-11-14-Bilibili Gaming-Gen.G",
    "sport": "lol",
@@ -41,20 +28,6 @@
    "result": "(3) Mirra Andreeva 6-3 6-4"
   },
   {
-   "id": "fb-bra.1-401841311",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Mirassol vs Atlético-MG",
-   "teams": [
-    "Mirassol",
-    "Atlético-MG"
-   ],
-   "bj": "2026-11-15 05:30",
-   "dur": 115,
-   "result": "Mirassol 0:0 Atlético-MG",
-   "note": "Estadio Municipal José Maria de Campos Maia"
-  },
-  {
    "id": "tn-wta-187440",
    "sport": "tennis",
    "sub": "FAGE WTA Finals Indian Wells · 女单",
@@ -66,34 +39,6 @@
    "bj": "2026-11-15 06:00",
    "dur": 150,
    "result": "(6) Elina Svitolina 6-2 6-1"
-  },
-  {
-   "id": "fb-mex.1-401876988",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "克雷塔罗 vs 蒙特雷",
-   "teams": [
-    "克雷塔罗",
-    "蒙特雷"
-   ],
-   "bj": "2026-11-15 07:00",
-   "dur": 115,
-   "result": "克雷塔罗 0:1 蒙特雷",
-   "note": "Estadio Corregidora"
-  },
-  {
-   "id": "fb-bra.1-401841175",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Chapecoense vs 瓦斯科",
-   "teams": [
-    "Chapecoense",
-    "瓦斯科"
-   ],
-   "bj": "2026-11-15 07:30",
-   "dur": 115,
-   "result": "Chapecoense 0:2 瓦斯科",
-   "note": "Arena Condá"
   },
   {
    "id": "tn-atp-187505",
@@ -1149,6 +1094,7 @@
    ],
    "bj": "2026-11-21 20:30",
    "dur": 115,
+   "result": "曼城 1:1 富勒姆",
    "note": "Etihad Stadium"
   },
   {
@@ -1162,6 +1108,7 @@
    ],
    "bj": "2026-11-21 21:00",
    "dur": 115,
+   "result": "Alavés 3:1 Deportivo",
    "note": "Mendizorrotza"
   },
   {
@@ -1175,6 +1122,7 @@
    ],
    "bj": "2026-11-21 21:00",
    "dur": 115,
+   "result": "Amed SFK 0:2 Caykur Rizespor",
    "note": "Diyarbakir Stadyumu"
   },
   {
@@ -1188,6 +1136,7 @@
    ],
    "bj": "2026-11-21 21:00",
    "dur": 115,
+   "result": "加拉塔萨雷 2:1 萨姆松",
    "note": "Basaksehir Fatih Terim Stadium"
   },
   {
@@ -1199,8 +1148,9 @@
     "谢尔顿",
     "阿尔卡拉斯"
    ],
-   "bj": "2026-11-21 21:30",
-   "dur": 150
+   "bj": "2026-11-21 21:40",
+   "dur": 150,
+   "result": "(2) Carlos Alcaraz"
   },
   {
    "id": "fb-ita.1-401875056",
@@ -1213,6 +1163,7 @@
    ],
    "bj": "2026-11-21 22:00",
    "dur": 115,
+   "result": "科莫 2:0 卡利亚里",
    "note": "Giuseppe Sinigaglia"
   },
   {
@@ -1226,6 +1177,7 @@
    ],
    "bj": "2026-11-21 22:00",
    "dur": 115,
+   "result": "拉齐奥 3:0 莱切",
    "note": "Olimpico"
   },
   {
@@ -1252,6 +1204,7 @@
    ],
    "bj": "2026-11-21 22:30",
    "dur": 115,
+   "result": "勒沃库森 4:0 帕德博恩",
    "note": "BayArena"
   },
   {
@@ -1265,6 +1218,7 @@
    ],
    "bj": "2026-11-21 22:30",
    "dur": 115,
+   "result": "门兴 0:1 多特蒙德",
    "note": "BORUSSIA-PARK"
   },
   {
@@ -1291,6 +1245,7 @@
    ],
    "bj": "2026-11-21 22:30",
    "dur": 115,
+   "result": "埃尔弗斯贝格 0:1 弗赖堡",
    "note": "URSAPHARM-Arena an der Kaiserlinde"
   },
   {
@@ -1858,6 +1813,17 @@
    "bj": "2026-11-22 12:00",
    "dur": 120,
    "note": "拉斯维加斯街道赛道"
+  },
+  {
+   "id": "tn-atp-187529",
+   "sport": "tennis",
+   "sub": "Nitto ATP Finals · 男单",
+   "title": "阿尔卡拉斯 vs TBD",
+   "teams": [
+    "阿尔卡拉斯"
+   ],
+   "bj": "2026-11-22 13:00",
+   "dur": 150
   },
   {
    "id": "fb-tur.1-401888243",
