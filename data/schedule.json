@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-21T04:01:57.040Z",
+ "updatedAt": "2026-11-21T12:48:37.671Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-atp-186552",
-   "sport": "tennis",
-   "sub": "Bybit Stockholm Open · 男单",
-   "title": "Thiago Agustin Tirante vs 弗里茨",
-   "teams": [
-    "Thiago Agustin Tirante",
-    "弗里茨"
-   ],
-   "bj": "2026-11-14 20:10",
-   "dur": 150,
-   "result": "(1) Taylor Fritz"
-  },
   {
    "id": "tn-wta-186772",
    "sport": "tennis",
@@ -802,6 +789,7 @@
    ],
    "bj": "2026-11-21 11:00",
    "dur": 115,
+   "result": "FC Juárez 3:3 Atlas",
    "note": "Estadio Olímpico Benito Juárez"
   },
   {
@@ -815,6 +803,7 @@
    ],
    "bj": "2026-11-21 11:10",
    "dur": 115,
+   "result": "蒂华纳 1:0 Atlante",
    "note": "Estadio Caliente"
   },
   {
@@ -828,6 +817,7 @@
    ],
    "bj": "2026-11-21 12:00",
    "dur": 115,
+   "result": "奥克兰FC 1:1 墨尔本胜利",
    "note": "Go Media Stadium"
   },
   {
@@ -851,6 +841,7 @@
    ],
    "bj": "2026-11-21 13:00",
    "dur": 115,
+   "result": "Kyoto Sanga 2:1 浦和红钻",
    "note": "Sanga Stadium by Kyocera"
   },
   {
@@ -864,6 +855,7 @@
    ],
    "bj": "2026-11-21 13:00",
    "dur": 115,
+   "result": "町田泽维亚 0:0 长崎成功丸",
    "note": "Machida Gion Stadium"
   },
   {
@@ -877,6 +869,7 @@
    ],
    "bj": "2026-11-21 13:00",
    "dur": 115,
+   "result": "广岛三箭 2:2 横滨水手",
    "note": "Edion Peace Wing Hiroshima"
   },
   {
@@ -890,6 +883,7 @@
    ],
    "bj": "2026-11-21 13:00",
    "dur": 115,
+   "result": "东京绿茵 0:0 Nagoya Grampus",
    "note": "Tokyo Stadium"
   },
   {
@@ -903,6 +897,7 @@
    ],
    "bj": "2026-11-21 14:00",
    "dur": 115,
+   "result": "大阪樱花 0:3 东京FC",
    "note": "Yodoko Sakura Stadium"
   },
   {
@@ -916,6 +911,7 @@
    ],
    "bj": "2026-11-21 14:00",
    "dur": 115,
+   "result": "川崎前锋 1:0 福冈黄蜂",
    "note": "Uvance Todoroki Stadium by Fujitsu"
   },
   {
@@ -929,6 +925,7 @@
    ],
    "bj": "2026-11-21 14:00",
    "dur": 115,
+   "result": "中央海岸水手 0:0 Perth Glory FC",
    "note": "Central Coast Stadium"
   },
   {
@@ -942,6 +939,7 @@
    ],
    "bj": "2026-11-21 15:00",
    "dur": 115,
+   "result": "大阪钢巴 0:1 Fagiano Okayama",
    "note": "Suita City Football Stadium"
   },
   {
@@ -955,6 +953,7 @@
    ],
    "bj": "2026-11-21 16:40",
    "dur": 115,
+   "result": "Brisbane Roar FC 0:0 悉尼FC",
    "note": "Dolphin Stadium"
   },
   {
@@ -968,6 +967,7 @@
    ],
    "bj": "2026-11-21 18:30",
    "dur": 115,
+   "result": "Genclerbirligi 1:0 加济安泰普",
    "note": "Eryaman Stadium"
   },
   {
@@ -9519,6 +9519,19 @@
    "bj": "2026-12-21 04:00",
    "dur": 115,
    "note": "Estádio José Alvalade"
+  },
+  {
+   "id": "fb-aus.1-401892117",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Macarthur FC vs 中央海岸水手",
+   "teams": [
+    "Macarthur FC",
+    "中央海岸水手"
+   ],
+   "bj": "2026-12-21 16:00",
+   "dur": 115,
+   "note": "Campbelltown Sports Stadium"
   }
  ],
  "sources": [
