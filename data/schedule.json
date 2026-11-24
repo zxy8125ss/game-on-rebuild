@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T01:44:35.269Z",
+ "updatedAt": "2026-11-24T07:00:48.649Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -2169,6 +2169,7 @@
    ],
    "bj": "2026-11-24 08:00",
    "dur": 115,
+   "result": "桑托斯 0:2 格雷米奥",
    "note": "Estádio Cícero Pompeu de Toledo"
   },
   {
@@ -2182,6 +2183,7 @@
    ],
    "bj": "2026-11-24 09:15",
    "dur": 115,
+   "result": "St. Louis CITY SC 3:2 洛杉矶FC",
    "note": "Energizer Park"
   },
   {
@@ -2750,6 +2752,32 @@
    "note": "Arena MRV"
   },
   {
+   "id": "fb-mex.1-401931986",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "托卢卡 vs Atlas",
+   "teams": [
+    "托卢卡",
+    "Atlas"
+   ],
+   "bj": "2026-11-26 09:00",
+   "dur": 115,
+   "note": "Estadio Nemesio Díez Riega"
+  },
+  {
+   "id": "fb-mex.1-401931998",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "蒙特雷 vs 美洲",
+   "teams": [
+    "蒙特雷",
+    "美洲"
+   ],
+   "bj": "2026-11-26 11:10",
+   "dur": 115,
+   "note": "Estadio BBVA"
+  },
+  {
    "id": "fb-uefa.europa.conf-401915816",
    "sport": "football",
    "sub": "欧协联 · 2026",
@@ -3229,6 +3257,32 @@
    "bj": "2026-11-27 07:00",
    "dur": 115,
    "note": "Estádio Cícero Pompeu de Toledo"
+  },
+  {
+   "id": "fb-mex.1-401931982",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "帕丘卡 vs 瓜达拉哈拉",
+   "teams": [
+    "帕丘卡",
+    "瓜达拉哈拉"
+   ],
+   "bj": "2026-11-27 09:00",
+   "dur": 115,
+   "note": "Estadio Hidalgo"
+  },
+  {
+   "id": "fb-mex.1-401931995",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "莱昂 vs 蓝十字",
+   "teams": [
+    "莱昂",
+    "蓝十字"
+   ],
+   "bj": "2026-11-27 11:10",
+   "dur": 115,
+   "note": "Estadio León"
   },
   {
    "id": "fb-aus.1-401892133",
@@ -3995,6 +4049,19 @@
    "note": "Joao Havelange Stadium"
   },
   {
+   "id": "fb-mex.1-401931997",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "Atlas vs 托卢卡",
+   "teams": [
+    "Atlas",
+    "托卢卡"
+   ],
+   "bj": "2026-11-29 09:00",
+   "dur": 115,
+   "note": "Estadio Jalisco"
+  },
+  {
    "id": "fb-usa.1-401933726",
    "sport": "football",
    "sub": "美职联 · 2026",
@@ -4006,6 +4073,19 @@
    "bj": "2026-11-29 09:30",
    "dur": 115,
    "note": "BMO Stadium"
+  },
+  {
+   "id": "fb-mex.1-401931996",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "美洲 vs 蒙特雷",
+   "teams": [
+    "美洲",
+    "蒙特雷"
+   ],
+   "bj": "2026-11-29 11:10",
+   "dur": 115,
+   "note": "Estadio Banorte"
   },
   {
    "id": "fb-usa.1-401933721",
@@ -4575,6 +4655,32 @@
    "bj": "2026-11-30 06:30",
    "dur": 115,
    "note": "Arena MRV"
+  },
+  {
+   "id": "fb-mex.1-401931983",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "瓜达拉哈拉 vs 帕丘卡",
+   "teams": [
+    "瓜达拉哈拉",
+    "帕丘卡"
+   ],
+   "bj": "2026-11-30 09:07",
+   "dur": 115,
+   "note": "Estadio Akron"
+  },
+  {
+   "id": "fb-mex.1-401932000",
+   "sport": "football",
+   "sub": "墨超 · 2026",
+   "title": "蓝十字 vs 莱昂",
+   "teams": [
+    "蓝十字",
+    "莱昂"
+   ],
+   "bj": "2026-11-30 11:00",
+   "dur": 115,
+   "note": "Estadio Banorte"
   },
   {
    "id": "fb-tur.1-401888239",
@@ -9746,7 +9852,7 @@
   "足球 土超: 45 场",
   "足球 苏超: 36 场",
   "足球 美职联: 26 场",
-  "足球 墨超: 9 场",
+  "足球 墨超: 17 场",
   "足球 巴甲: 39 场",
   "足球 J联赛: 59 场",
   "足球 澳超: 23 场",
