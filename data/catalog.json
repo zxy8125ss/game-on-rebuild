@@ -1,45 +1,6 @@
 {
- "updatedAt": "2026-11-24T07:00:48.649Z",
+ "updatedAt": "2026-11-24T15:00:04.582Z",
  "matches": [
-  {
-   "id": "tn-atp-187508",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "Rafael Jodar vs Arthur Fils",
-   "teams": [
-    "Rafael Jodar",
-    "Arthur Fils"
-   ],
-   "bj": "2026-11-17 21:10",
-   "dur": 150,
-   "result": "(6) Arthur Fils 4-6 6-2 6-2"
-  },
-  {
-   "id": "tn-wta-186791",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Varvara Lepchenko vs Nadia Podoroska",
-   "teams": [
-    "Varvara Lepchenko",
-    "Nadia Podoroska"
-   ],
-   "bj": "2026-11-17 22:05",
-   "dur": 150,
-   "result": "Nadia Podoroska 6-3 7-5"
-  },
-  {
-   "id": "tn-wta-186787",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Darja Semenistaja vs Irene Burillo",
-   "teams": [
-    "Darja Semenistaja",
-    "Irene Burillo"
-   ],
-   "bj": "2026-11-17 22:05",
-   "dur": 150,
-   "result": "Irene Burillo 6-4 6-0"
-  },
   {
    "id": "tn-wta-186785",
    "sport": "tennis",
@@ -2337,7 +2298,7 @@
     "Laura Samson",
     "Victoria Bosio"
    ],
-   "bj": "2026-11-24 22:00",
+   "bj": "2026-11-24 22:05",
    "dur": 150
   },
   {
@@ -2349,7 +2310,7 @@
     "Veronika Erjavec",
     "Zhibek Kulambayeva"
    ],
-   "bj": "2026-11-24 22:00",
+   "bj": "2026-11-24 22:05",
    "dur": 150
   },
   {
