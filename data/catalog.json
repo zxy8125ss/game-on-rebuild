@@ -1,32 +1,6 @@
 {
- "updatedAt": "2026-11-24T19:47:21.882Z",
+ "updatedAt": "2026-11-24T23:32:55.980Z",
  "matches": [
-  {
-   "id": "tn-wta-186786",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Laura Samson vs Despina Papamichail",
-   "teams": [
-    "Laura Samson",
-    "Despina Papamichail"
-   ],
-   "bj": "2026-11-18 04:05",
-   "dur": 150,
-   "result": "(2) Laura Samson 3-6 6-3 6-4"
-  },
-  {
-   "id": "tn-wta-186794",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Andrea Lazaro Garcia vs Barbara Gatica",
-   "teams": [
-    "Andrea Lazaro Garcia",
-    "Barbara Gatica"
-   ],
-   "bj": "2026-11-18 05:30",
-   "dur": 150,
-   "result": "(4) Andrea Lazaro Garcia 3-6 6-2 6-3"
-  },
   {
    "id": "tn-wta-186795",
    "sport": "tennis",
@@ -2340,7 +2314,8 @@
     "Solana Sierra"
    ],
    "bj": "2026-11-25 02:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(1) Solana Sierra 2-0 ret"
   },
   {
    "id": "fb-sco.1-401878348",
@@ -2353,6 +2328,7 @@
    ],
    "bj": "2026-11-25 03:45",
    "dur": 115,
+   "result": "希伯尼安 2:1 Dundee",
    "note": "Easter Road"
   },
   {
@@ -2365,19 +2341,8 @@
     "Polona Hercog"
    ],
    "bj": "2026-11-25 03:45",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186827",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Leyre Romero Gormaz vs Nadia Podoroska",
-   "teams": [
-    "Leyre Romero Gormaz",
-    "Nadia Podoroska"
-   ],
-   "bj": "2026-11-25 03:50",
-   "dur": 150
+   "dur": 150,
+   "result": "Sofia Costoulas 6-2 4-2 ret"
   },
   {
    "id": "fb-uefa.champions-401915295",
@@ -2390,6 +2355,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "阿森纳 1:1 多特蒙德",
    "note": "Emirates Stadium"
   },
   {
@@ -2403,6 +2369,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "科莫 1:0 雅典AEK",
    "note": "Giuseppe Sinigaglia"
   },
   {
@@ -2416,6 +2383,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "费耶诺德 0:1 FC Porto",
    "note": "De Kuip"
   },
   {
@@ -2429,6 +2397,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "曼城 2:2 那不勒斯",
    "note": "Etihad Stadium"
   },
   {
@@ -2442,6 +2411,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "莱比锡红牛 3:1 朗斯",
    "note": "Red Bull Arena"
   },
   {
@@ -2455,6 +2425,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "皇家马德里 5:1 埃因霍温",
    "note": "Santiago Bernabéu"
   },
   {
@@ -2468,6 +2439,7 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "Slovan Bratislava 0:2 皇家贝蒂斯",
    "note": "Národny Futbalovy Stadión"
   },
   {
@@ -2481,7 +2453,21 @@
    ],
    "bj": "2026-11-25 04:00",
    "dur": 115,
+   "result": "流浪者 3:2 阿伯丁",
    "note": "Ibrox Stadium"
+  },
+  {
+   "id": "tn-wta-186827",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Leyre Romero Gormaz vs Nadia Podoroska",
+   "teams": [
+    "Leyre Romero Gormaz",
+    "Nadia Podoroska"
+   ],
+   "bj": "2026-11-25 04:30",
+   "dur": 150,
+   "result": "Nadia Podoroska 6-0"
   },
   {
    "id": "fb-bra.1-401841335",
@@ -2494,6 +2480,7 @@
    ],
    "bj": "2026-11-25 05:00",
    "dur": 115,
+   "result": "Chapecoense 3:0 帕尔梅拉斯",
    "note": "Arena Condá"
   },
   {
@@ -2769,9 +2756,10 @@
    "id": "tn-wta-186840",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
-   "title": "Carole Monnet vs TBD",
+   "title": "Carole Monnet vs Solana Sierra",
    "teams": [
-    "Carole Monnet"
+    "Carole Monnet",
+    "Solana Sierra"
    ],
    "bj": "2026-11-26 05:00",
    "dur": 150
@@ -2816,6 +2804,17 @@
    "note": "Estadio BBVA"
   },
   {
+   "id": "tn-wta-186835",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Nadia Podoroska vs TBD",
+   "teams": [
+    "Nadia Podoroska"
+   ],
+   "bj": "2026-11-26 13:00",
+   "dur": 150
+  },
+  {
    "id": "tn-wta-186833",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
@@ -2843,9 +2842,10 @@
    "id": "tn-wta-186834",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
-   "title": "Varvara Lepchenko vs TBD",
+   "title": "Varvara Lepchenko vs Sofia Costoulas",
    "teams": [
-    "Varvara Lepchenko"
+    "Varvara Lepchenko",
+    "Sofia Costoulas"
    ],
    "bj": "2026-11-26 13:00",
    "dur": 150
