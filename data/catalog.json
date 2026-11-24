@@ -1,58 +1,6 @@
 {
- "updatedAt": "2026-11-24T15:00:04.582Z",
+ "updatedAt": "2026-11-24T19:47:21.882Z",
  "matches": [
-  {
-   "id": "tn-wta-186785",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Alicia Herrero Linana vs Lucia Bronzetti",
-   "teams": [
-    "Alicia Herrero Linana",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-17 23:50",
-   "dur": 150,
-   "result": "(3) Lucia Bronzetti 6-3 6-1"
-  },
-  {
-   "id": "tn-wta-186790",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Miriam Bulgaru vs Polona Hercog",
-   "teams": [
-    "Miriam Bulgaru",
-    "Polona Hercog"
-   ],
-   "bj": "2026-11-18 00:20",
-   "dur": 150,
-   "result": "Polona Hercog 6-4"
-  },
-  {
-   "id": "tn-wta-186782",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Veronika Erjavec vs Maria Lourdes Carle",
-   "teams": [
-    "Veronika Erjavec",
-    "Maria Lourdes Carle"
-   ],
-   "bj": "2026-11-18 02:35",
-   "dur": 150,
-   "result": "(7) Veronika Erjavec 5-7 7-5 6-4"
-  },
-  {
-   "id": "tn-atp-187503",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "谢尔顿 vs 兹维列夫",
-   "teams": [
-    "谢尔顿",
-    "兹维列夫"
-   ],
-   "bj": "2026-11-18 03:40",
-   "dur": 150,
-   "result": "(1) Alexander Zverev"
-  },
   {
    "id": "tn-wta-186786",
    "sport": "tennis",
@@ -2299,7 +2247,8 @@
     "Victoria Bosio"
    ],
    "bj": "2026-11-24 22:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(2) Laura Samson 6-4 6-2"
   },
   {
    "id": "tn-wta-186820",
@@ -2311,7 +2260,8 @@
     "Zhibek Kulambayeva"
    ],
    "bj": "2026-11-24 22:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(8) Veronika Erjavec 6-2 6-4"
   },
   {
    "id": "tn-wta-186814",
@@ -2322,8 +2272,9 @@
     "Luna Maria Cinalli",
     "Guiomar Maristany Zuleta De Reales"
    ],
-   "bj": "2026-11-24 23:30",
-   "dur": 150
+   "bj": "2026-11-24 23:45",
+   "dur": 150,
+   "result": "(6) Guiomar Maristany Zuleta De Reales 6-1 6-1"
   },
   {
    "id": "tn-wta-186818",
@@ -2334,8 +2285,9 @@
     "Alicia Herrero Linana",
     "Lucia Bronzetti"
    ],
-   "bj": "2026-11-24 23:30",
-   "dur": 150
+   "bj": "2026-11-24 23:55",
+   "dur": 150,
+   "result": "Alicia Herrero Linana 6-1 6-2"
   },
   {
    "id": "fb-uefa.champions-401915380",
@@ -2348,6 +2300,7 @@
    ],
    "bj": "2026-11-25 01:45",
    "dur": 115,
+   "result": "Bodo/Glimt 1:0 LASK Linz",
    "note": "Aspmyra Stadion"
   },
   {
@@ -2361,6 +2314,7 @@
    ],
    "bj": "2026-11-25 01:45",
    "dur": 115,
+   "result": "加拉塔萨雷 1:0 阿斯顿维拉",
    "note": "RAMS Park"
   },
   {
@@ -2372,8 +2326,9 @@
     "Irene Burillo",
     "Lourdes Ayala"
    ],
-   "bj": "2026-11-25 02:00",
-   "dur": 150
+   "bj": "2026-11-25 02:05",
+   "dur": 150,
+   "result": "Irene Burillo 6-2 6-2"
   },
   {
    "id": "tn-wta-186826",
@@ -2384,31 +2339,7 @@
     "Victoria Jimenez Kasintseva",
     "Solana Sierra"
    ],
-   "bj": "2026-11-25 02:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186827",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Leyre Romero Gormaz vs Nadia Podoroska",
-   "teams": [
-    "Leyre Romero Gormaz",
-    "Nadia Podoroska"
-   ],
-   "bj": "2026-11-25 03:30",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186825",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Sofia Costoulas vs Polona Hercog",
-   "teams": [
-    "Sofia Costoulas",
-    "Polona Hercog"
-   ],
-   "bj": "2026-11-25 03:30",
+   "bj": "2026-11-25 02:05",
    "dur": 150
   },
   {
@@ -2423,6 +2354,30 @@
    "bj": "2026-11-25 03:45",
    "dur": 115,
    "note": "Easter Road"
+  },
+  {
+   "id": "tn-wta-186825",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Sofia Costoulas vs Polona Hercog",
+   "teams": [
+    "Sofia Costoulas",
+    "Polona Hercog"
+   ],
+   "bj": "2026-11-25 03:45",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186827",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Leyre Romero Gormaz vs Nadia Podoroska",
+   "teams": [
+    "Leyre Romero Gormaz",
+    "Nadia Podoroska"
+   ],
+   "bj": "2026-11-25 03:50",
+   "dur": 150
   },
   {
    "id": "fb-uefa.champions-401915295",
@@ -2555,85 +2510,6 @@
    "note": "PayPal Park"
   },
   {
-   "id": "tn-wta-186828",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Maria Lourdes Carle vs Sol Ailin Larraya Guidi",
-   "teams": [
-    "Maria Lourdes Carle",
-    "Sol Ailin Larraya Guidi"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186840",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Carole Monnet vs TBD",
-   "teams": [
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186839",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "TBD vs Martina Trevisan",
-   "teams": [
-    "Martina Trevisan"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186838",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Ariana Geerlings vs TBD",
-   "teams": [
-    "Ariana Geerlings"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186837",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Julia Riera vs Ipek Oz",
-   "teams": [
-    "Julia Riera",
-    "Ipek Oz"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186836",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Nuria Brancaccio vs TBD",
-   "teams": [
-    "Nuria Brancaccio"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186834",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Varvara Lepchenko vs TBD",
-   "teams": [
-    "Varvara Lepchenko"
-   ],
-   "bj": "2026-11-25 13:00",
-   "dur": 150
-  },
-  {
    "id": "fb-jpn.1-401877527",
    "sport": "football",
    "sub": "J联赛 · 2026",
@@ -2751,6 +2627,54 @@
    "note": "Fortuna Arena"
   },
   {
+   "id": "tn-wta-186828",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Maria Lourdes Carle vs Sol Ailin Larraya Guidi",
+   "teams": [
+    "Maria Lourdes Carle",
+    "Sol Ailin Larraya Guidi"
+   ],
+   "bj": "2026-11-26 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186839",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Veronika Erjavec vs Martina Trevisan",
+   "teams": [
+    "Veronika Erjavec",
+    "Martina Trevisan"
+   ],
+   "bj": "2026-11-26 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186837",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Julia Riera vs Ipek Oz",
+   "teams": [
+    "Julia Riera",
+    "Ipek Oz"
+   ],
+   "bj": "2026-11-26 03:30",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186838",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Ariana Geerlings vs Alicia Herrero Linana",
+   "teams": [
+    "Ariana Geerlings",
+    "Alicia Herrero Linana"
+   ],
+   "bj": "2026-11-26 03:30",
+   "dur": 150
+  },
+  {
    "id": "fb-uefa.champions-401915291",
    "sport": "football",
    "sub": "欧冠 · 2026",
@@ -2842,6 +2766,17 @@
    "note": "Estádio José Alvalade"
   },
   {
+   "id": "tn-wta-186840",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Carole Monnet vs TBD",
+   "teams": [
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-26 05:00",
+   "dur": 150
+  },
+  {
    "id": "fb-bra.1-401841319",
    "sport": "football",
    "sub": "巴甲 · 2026",
@@ -2879,6 +2814,41 @@
    "bj": "2026-11-26 11:10",
    "dur": 115,
    "note": "Estadio BBVA"
+  },
+  {
+   "id": "tn-wta-186833",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Laura Samson vs Irene Burillo",
+   "teams": [
+    "Laura Samson",
+    "Irene Burillo"
+   ],
+   "bj": "2026-11-26 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186836",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Nuria Brancaccio vs Guiomar Maristany Zuleta De Reales",
+   "teams": [
+    "Nuria Brancaccio",
+    "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-26 13:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186834",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Varvara Lepchenko vs TBD",
+   "teams": [
+    "Varvara Lepchenko"
+   ],
+   "bj": "2026-11-26 13:00",
+   "dur": 150
   },
   {
    "id": "fb-uefa.europa.conf-401915816",
@@ -5033,19 +5003,6 @@
    "note": "McDiarmid Park"
   },
   {
-   "id": "fb-usa.1-401933717",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "温哥华白帽 vs 盐湖城",
-   "teams": [
-    "温哥华白帽",
-    "盐湖城"
-   ],
-   "bj": "2026-12-03 04:00",
-   "dur": 115,
-   "note": "BC Place"
-  },
-  {
    "id": "fb-eng.1-401879223",
    "sport": "football",
    "sub": "英超 · 2026",
@@ -5317,6 +5274,19 @@
    "bj": "2026-12-03 09:00",
    "dur": 115,
    "note": "Energizer Park"
+  },
+  {
+   "id": "fb-usa.1-401933717",
+   "sport": "football",
+   "sub": "美职联 · 2026",
+   "title": "温哥华白帽 vs 盐湖城",
+   "teams": [
+    "温哥华白帽",
+    "盐湖城"
+   ],
+   "bj": "2026-12-03 10:00",
+   "dur": 115,
+   "note": "BC Place"
   },
   {
    "id": "fb-usa.1-401933715",
