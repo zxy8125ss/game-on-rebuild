@@ -1,33 +1,7 @@
 {
- "updatedAt": "2026-11-23T20:39:38.255Z",
+ "updatedAt": "2026-11-24T01:44:35.269Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186783",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Anastasia Tikhonova vs Valeriya Strakhova",
-   "teams": [
-    "Anastasia Tikhonova",
-    "Valeriya Strakhova"
-   ],
-   "bj": "2026-11-17 05:10",
-   "dur": 150,
-   "result": "Valeriya Strakhova 6-2 4-6 6-4"
-  },
-  {
-   "id": "tn-wta-186788",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Ariana Geerlings vs Luisina Giovannini",
-   "teams": [
-    "Ariana Geerlings",
-    "Luisina Giovannini"
-   ],
-   "bj": "2026-11-17 06:25",
-   "dur": 150,
-   "result": "Ariana Geerlings 6-4 6-0"
-  },
   {
    "id": "tn-wta-186791",
    "sport": "tennis",
@@ -2111,7 +2085,8 @@
     "Despina Papamichail"
    ],
    "bj": "2026-11-24 03:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(5) Julia Riera 6-2 7-5"
   },
   {
    "id": "fb-ita.1-401875009",
@@ -2124,6 +2099,7 @@
    ],
    "bj": "2026-11-24 03:45",
    "dur": 115,
+   "result": "蒙扎 3:0 佛罗伦萨",
    "note": "U-Power Stadium"
   },
   {
@@ -2137,6 +2113,7 @@
    ],
    "bj": "2026-11-24 04:00",
    "dur": 115,
+   "result": "布伦特福德 4:0 埃弗顿",
    "note": "Gtech Community Stadium"
   },
   {
@@ -2150,6 +2127,7 @@
    ],
    "bj": "2026-11-24 04:00",
    "dur": 115,
+   "result": "莱万特 1:1 埃尔切",
    "note": "Estadi Ciutat de València"
   },
   {
@@ -2163,6 +2141,7 @@
    ],
    "bj": "2026-11-24 06:30",
    "dur": 115,
+   "result": "国际队 2:5 Vitória",
    "note": "Estadio Beira-Rio"
   },
   {
@@ -2176,6 +2155,7 @@
    ],
    "bj": "2026-11-24 07:00",
    "dur": 115,
+   "result": "博塔弗戈 1:1 圣保罗",
    "note": "Joao Havelange Stadium"
   },
   {
@@ -2200,7 +2180,7 @@
     "St. Louis CITY SC",
     "洛杉矶FC"
    ],
-   "bj": "2026-11-24 09:00",
+   "bj": "2026-11-24 09:15",
    "dur": 115,
    "note": "Energizer Park"
   },
@@ -2518,8 +2498,9 @@
    "id": "tn-wta-186837",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
-   "title": "TBD vs Ipek Oz",
+   "title": "Julia Riera vs Ipek Oz",
    "teams": [
+    "Julia Riera",
     "Ipek Oz"
    ],
    "bj": "2026-11-25 13:00",
