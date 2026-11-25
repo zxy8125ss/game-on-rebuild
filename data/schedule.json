@@ -1,74 +1,7 @@
 {
- "updatedAt": "2026-11-25T14:33:42.770Z",
+ "updatedAt": "2026-11-25T18:54:01.945Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186805",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Sofia Costoulas vs Guiomar Maristany Zuleta De Reales",
-   "teams": [
-    "Sofia Costoulas",
-    "Guiomar Maristany Zuleta De Reales"
-   ],
-   "bj": "2026-11-18 22:40",
-   "dur": 150,
-   "result": "(5) Guiomar Maristany Zuleta De Reales 7-5 6-3"
-  },
-  {
-   "id": "tn-wta-186803",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Polona Hercog vs Rebeka Masarova",
-   "teams": [
-    "Polona Hercog",
-    "Rebeka Masarova"
-   ],
-   "bj": "2026-11-19 00:50",
-   "dur": 150,
-   "result": "(6) Rebeka Masarova 6-4 6-4"
-  },
-  {
-   "id": "tn-wta-186807",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Nadia Podoroska vs Leyre Romero Gormaz",
-   "teams": [
-    "Nadia Podoroska",
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-19 02:40",
-   "dur": 150,
-   "result": "(1) Leyre Romero Gormaz 6-3 6-4"
-  },
-  {
-   "id": "fb-bra.1-401841315",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Coritiba vs 桑托斯",
-   "teams": [
-    "Coritiba",
-    "桑托斯"
-   ],
-   "bj": "2026-11-19 06:30",
-   "dur": 115,
-   "result": "Coritiba 0:1 桑托斯",
-   "note": "Couto Pereira"
-  },
-  {
-   "id": "fb-bra.1-401841310",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Remo vs Chapecoense",
-   "teams": [
-    "Remo",
-    "Chapecoense"
-   ],
-   "bj": "2026-11-19 07:00",
-   "dur": 115,
-   "result": "Remo 2:0 Chapecoense",
-   "note": "Mangueirão"
-  },
   {
    "id": "tn-wta-186802",
    "sport": "tennis",
@@ -81,62 +14,6 @@
    "bj": "2026-11-19 07:00",
    "dur": 150,
    "result": "(2) Laura Samson 6-3 2-6 6-0"
-  },
-  {
-   "id": "fb-bra.1-401841314",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "克鲁塞罗 vs 帕尔梅拉斯",
-   "teams": [
-    "克鲁塞罗",
-    "帕尔梅拉斯"
-   ],
-   "bj": "2026-11-19 07:30",
-   "dur": 115,
-   "result": "克鲁塞罗 2:1 帕尔梅拉斯",
-   "note": "Estadio Mineirão"
-  },
-  {
-   "id": "fb-bra.1-401841313",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "弗拉门戈 vs Athletico-PR",
-   "teams": [
-    "弗拉门戈",
-    "Athletico-PR"
-   ],
-   "bj": "2026-11-19 07:30",
-   "dur": 115,
-   "result": "弗拉门戈 2:1 Athletico-PR",
-   "note": "Estadio do Maracana"
-  },
-  {
-   "id": "fb-bra.1-401841316",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "科林蒂安 vs 博塔弗戈",
-   "teams": [
-    "科林蒂安",
-    "博塔弗戈"
-   ],
-   "bj": "2026-11-19 08:30",
-   "dur": 115,
-   "result": "科林蒂安 4:0 博塔弗戈",
-   "note": "Neo Química Arena"
-  },
-  {
-   "id": "fb-bra.1-401841312",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "格雷米奥 vs 巴伊亚",
-   "teams": [
-    "格雷米奥",
-    "巴伊亚"
-   ],
-   "bj": "2026-11-19 08:30",
-   "dur": 115,
-   "result": "格雷米奥 0:0 巴伊亚",
-   "note": "Arena do Grêmio"
   },
   {
    "id": "tn-wta-186809",
@@ -2493,18 +2370,6 @@
    "note": "Fortuna Arena"
   },
   {
-   "id": "tn-wta-186828",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Maria Lourdes Carle vs Sol Ailin Larraya Guidi",
-   "teams": [
-    "Maria Lourdes Carle",
-    "Sol Ailin Larraya Guidi"
-   ],
-   "bj": "2026-11-26 02:00",
-   "dur": 150
-  },
-  {
    "id": "tn-wta-186839",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
@@ -2514,6 +2379,19 @@
     "Martina Trevisan"
    ],
    "bj": "2026-11-26 02:00",
+   "dur": 150,
+   "result": "(8) Veronika Erjavec 6-0 3-1 ret"
+  },
+  {
+   "id": "tn-wta-186828",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Maria Lourdes Carle vs Sol Ailin Larraya Guidi",
+   "teams": [
+    "Maria Lourdes Carle",
+    "Sol Ailin Larraya Guidi"
+   ],
+   "bj": "2026-11-26 02:05",
    "dur": 150
   },
   {
@@ -3235,6 +3113,17 @@
    "bj": "2026-11-27 11:10",
    "dur": 115,
    "note": "Estadio León"
+  },
+  {
+   "id": "tn-wta-186832",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Veronika Erjavec vs TBD",
+   "teams": [
+    "Veronika Erjavec"
+   ],
+   "bj": "2026-11-27 13:00",
+   "dur": 150
   },
   {
    "id": "fb-aus.1-401892133",
@@ -9791,7 +9680,7 @@
   }
  ],
  "sources": [
-  "足球 英超: 60 场",
+  "足球 英超: 67 场",
   "足球 西甲: 53 场",
   "足球 德甲: 45 场",
   "足球 意甲: 50 场",
@@ -9802,16 +9691,16 @@
   "足球 荷甲: 44 场",
   "足球 葡超: 36 场",
   "足球 土超: 45 场",
-  "足球 苏超: 36 场",
+  "足球 苏超: 41 场",
   "足球 美职联: 26 场",
   "足球 墨超: 17 场",
-  "足球 巴甲: 39 场",
+  "足球 巴甲: 33 场",
   "足球 J联赛: 59 场",
-  "足球 澳超: 23 场",
+  "足球 澳超: 24 场",
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 15 场",
-  "网球 WTA: 63 场",
+  "网球 WTA: 64 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
