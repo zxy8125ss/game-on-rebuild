@@ -1,20 +1,7 @@
 {
- "updatedAt": "2026-11-24T23:32:55.980Z",
+ "updatedAt": "2026-11-25T05:29:57.859Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186795",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Antonia Vergara Rivera vs Fernanda Labrana",
-   "teams": [
-    "Antonia Vergara Rivera",
-    "Fernanda Labrana"
-   ],
-   "bj": "2026-11-18 08:05",
-   "dur": 150,
-   "result": "Fernanda Labrana 6-1 3-6 6-0"
-  },
   {
    "id": "tn-wta-186805",
    "sport": "tennis",
@@ -2378,6 +2365,7 @@
    ],
    "bj": "2026-11-25 11:00",
    "dur": 115,
+   "result": "San Jose Earthquakes 2:1 Houston Dynamo FC",
    "note": "PayPal Park"
   },
   {
