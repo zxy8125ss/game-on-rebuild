@@ -1,46 +1,7 @@
 {
- "updatedAt": "2026-11-26T14:01:16.087Z",
+ "updatedAt": "2026-11-26T18:43:07.075Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186809",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Carole Monnet vs Lucia Bronzetti",
-   "teams": [
-    "Carole Monnet",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-19 22:35",
-   "dur": 150,
-   "result": "(3) Lucia Bronzetti"
-  },
-  {
-   "id": "tn-wta-186808",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Veronika Erjavec vs Valeriya Strakhova",
-   "teams": [
-    "Veronika Erjavec",
-    "Valeriya Strakhova"
-   ],
-   "bj": "2026-11-20 01:35",
-   "dur": 150,
-   "result": "Valeriya Strakhova"
-  },
-  {
-   "id": "tn-wta-186806",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Irene Burillo vs Anastasia Zolotareva",
-   "teams": [
-    "Irene Burillo",
-    "Anastasia Zolotareva"
-   ],
-   "bj": "2026-11-20 02:35",
-   "dur": 150,
-   "result": "Irene Burillo 6-4 6-4"
-  },
   {
    "id": "tn-wta-186804",
    "sport": "tennis",
@@ -53,76 +14,6 @@
    "bj": "2026-11-20 06:05",
    "dur": 150,
    "result": "(4) Andrea Lazaro Garcia 6-2 3-6 6-0"
-  },
-  {
-   "id": "fb-bra.1-401841308",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "瓦斯科 vs 国际队",
-   "teams": [
-    "瓦斯科",
-    "国际队"
-   ],
-   "bj": "2026-11-20 06:30",
-   "dur": 115,
-   "result": "瓦斯科 2:1 国际队",
-   "note": "Estádio São Januário"
-  },
-  {
-   "id": "fb-bra.1-401841317",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "Vitória vs Red Bull Bragantino",
-   "teams": [
-    "Vitória",
-    "Red Bull Bragantino"
-   ],
-   "bj": "2026-11-20 06:30",
-   "dur": 115,
-   "result": "Vitória 2:1 Red Bull Bragantino",
-   "note": "Estadio Manoel Barradas"
-  },
-  {
-   "id": "fb-usa.1-401933535",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "Orlando City SC vs 辛辛那提",
-   "teams": [
-    "Orlando City SC",
-    "辛辛那提"
-   ],
-   "bj": "2026-11-20 08:30",
-   "dur": 115,
-   "result": "Orlando City SC 1:3 辛辛那提",
-   "note": "Inter&Co Stadium"
-  },
-  {
-   "id": "fb-bra.1-401841309",
-   "sport": "football",
-   "sub": "巴甲 · 2026",
-   "title": "圣保罗 vs 弗鲁米嫩塞",
-   "teams": [
-    "圣保罗",
-    "弗鲁米嫩塞"
-   ],
-   "bj": "2026-11-20 08:30",
-   "dur": 115,
-   "result": "圣保罗 0:1 弗鲁米嫩塞",
-   "note": "Estádio Cícero Pompeu de Toledo"
-  },
-  {
-   "id": "fb-usa.1-401933555",
-   "sport": "football",
-   "sub": "美职联 · 2026",
-   "title": "西雅图海湾人 vs 盐湖城",
-   "teams": [
-    "西雅图海湾人",
-    "盐湖城"
-   ],
-   "bj": "2026-11-20 11:00",
-   "dur": 115,
-   "result": "西雅图海湾人 1:1 盐湖城",
-   "note": "Lumen Field"
   },
   {
    "id": "fb-aus.1-401892138",
@@ -2574,6 +2465,7 @@
    ],
    "bj": "2026-11-26 23:30",
    "dur": 115,
+   "result": "Kairat Almaty 1:0 Mjällby AIF",
    "note": "Almaty Ortalyk Stadium"
   },
   {
@@ -2806,7 +2698,7 @@
     "Nuria Brancaccio",
     "Guiomar Maristany Zuleta De Reales"
    ],
-   "bj": "2026-11-27 02:00",
+   "bj": "2026-11-27 02:05",
    "dur": 150
   },
   {
@@ -2818,7 +2710,7 @@
     "Varvara Lepchenko",
     "Sofia Costoulas"
    ],
-   "bj": "2026-11-27 02:00",
+   "bj": "2026-11-27 02:05",
    "dur": 150
   },
   {
@@ -9085,6 +8977,19 @@
    "note": "Fortuna Sittard Stadion"
   },
   {
+   "id": "fb-por.1-401885366",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "Alverca vs 吉尔维森特",
+   "teams": [
+    "Alverca",
+    "吉尔维森特"
+   ],
+   "bj": "2026-12-20 02:00",
+   "dur": 115,
+   "note": "Complexo Desportivo FC Alverca"
+  },
+  {
    "id": "fb-ita.1-401874813",
    "sport": "football",
    "sub": "意甲 · 2026",
@@ -9109,6 +9014,19 @@
    "bj": "2026-12-20 04:00",
    "dur": 115,
    "note": "Stadion Galgenwaard"
+  },
+  {
+   "id": "fb-por.1-401885364",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "Arouca vs 卡萨皮亚",
+   "teams": [
+    "Arouca",
+    "卡萨皮亚"
+   ],
+   "bj": "2026-12-20 04:30",
+   "dur": 115,
+   "note": "Estádio Municipal de Arouca"
   },
   {
    "id": "fb-aus.1-401892118",
@@ -9306,6 +9224,19 @@
    "note": "Ibrox Stadium"
   },
   {
+   "id": "fb-por.1-401885361",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "C.D. Nacional vs 莫雷伦斯",
+   "teams": [
+    "C.D. Nacional",
+    "莫雷伦斯"
+   ],
+   "bj": "2026-12-20 23:30",
+   "dur": 115,
+   "note": "Estádio da Madeira"
+  },
+  {
    "id": "fb-ned.1-401875507",
    "sport": "football",
    "sub": "荷甲 · 2026",
@@ -9369,6 +9300,19 @@
    "bj": "2026-12-21 01:00",
    "dur": 115,
    "note": "Stadio Luigi Ferraris"
+  },
+  {
+   "id": "fb-por.1-401885365",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "Estrela vs 马里迪莫",
+   "teams": [
+    "Estrela",
+    "马里迪莫"
+   ],
+   "bj": "2026-12-21 02:00",
+   "dur": 115,
+   "note": "Estádio José Gomes"
   },
   {
    "id": "fb-ger.1-401884693",
@@ -9540,97 +9484,6 @@
    "note": "Mestalla Stadium"
   },
   {
-   "id": "fb-por.1-401885366",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "Alverca vs 吉尔维森特",
-   "teams": [
-    "Alverca",
-    "吉尔维森特"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Complexo Desportivo FC Alverca"
-  },
-  {
-   "id": "fb-por.1-401885364",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "Arouca vs 卡萨皮亚",
-   "teams": [
-    "Arouca",
-    "卡萨皮亚"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio Municipal de Arouca"
-  },
-  {
-   "id": "fb-por.1-401885363",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "布拉加 vs 维塞乌",
-   "teams": [
-    "布拉加",
-    "维塞乌"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio Municipal de Braga"
-  },
-  {
-   "id": "fb-por.1-401885361",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "C.D. Nacional vs 莫雷伦斯",
-   "teams": [
-    "C.D. Nacional",
-    "莫雷伦斯"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio da Madeira"
-  },
-  {
-   "id": "fb-por.1-401885365",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "Estrela vs 马里迪莫",
-   "teams": [
-    "Estrela",
-    "马里迪莫"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio José Gomes"
-  },
-  {
-   "id": "fb-por.1-401885362",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "法马利康 vs FC Porto",
-   "teams": [
-    "法马利康",
-    "FC Porto"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio Municipal 22 de Junho"
-  },
-  {
-   "id": "fb-por.1-401885360",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "里奥阿维 vs 本菲卡",
-   "teams": [
-    "里奥阿维",
-    "本菲卡"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio do Rio Ave"
-  },
-  {
    "id": "fb-por.1-401885359",
    "sport": "football",
    "sub": "葡超 · 2026",
@@ -9639,22 +9492,9 @@
     "圣克拉拉",
     "Vitória de Guimaraes"
    ],
-   "bj": "2026-12-21 04:00",
+   "bj": "2026-12-21 04:30",
    "dur": 115,
    "note": "Estádio de São Miguel"
-  },
-  {
-   "id": "fb-por.1-401885358",
-   "sport": "football",
-   "sub": "葡超 · 2026",
-   "title": "里斯本竞技 vs 埃斯托里尔",
-   "teams": [
-    "里斯本竞技",
-    "埃斯托里尔"
-   ],
-   "bj": "2026-12-21 04:00",
-   "dur": 115,
-   "note": "Estádio José Alvalade"
   },
   {
    "id": "fb-aus.1-401892117",
@@ -9683,6 +9523,19 @@
    "note": "Papara Park"
   },
   {
+   "id": "fb-por.1-401885360",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "里奥阿维 vs 本菲卡",
+   "teams": [
+    "里奥阿维",
+    "本菲卡"
+   ],
+   "bj": "2026-12-22 02:45",
+   "dur": 115,
+   "note": "Estádio do Rio Ave"
+  },
+  {
    "id": "fb-eng.1-401879202",
    "sport": "football",
    "sub": "英超 · 2026",
@@ -9694,6 +9547,45 @@
    "bj": "2026-12-22 04:00",
    "dur": 115,
    "note": "Stamford Bridge"
+  },
+  {
+   "id": "fb-por.1-401885362",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "法马利康 vs FC Porto",
+   "teams": [
+    "法马利康",
+    "FC Porto"
+   ],
+   "bj": "2026-12-22 04:45",
+   "dur": 115,
+   "note": "Estádio Municipal 22 de Junho"
+  },
+  {
+   "id": "fb-por.1-401885363",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "布拉加 vs 维塞乌",
+   "teams": [
+    "布拉加",
+    "维塞乌"
+   ],
+   "bj": "2026-12-23 02:45",
+   "dur": 115,
+   "note": "Estádio Municipal de Braga"
+  },
+  {
+   "id": "fb-por.1-401885358",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "里斯本竞技 vs 埃斯托里尔",
+   "teams": [
+    "里斯本竞技",
+    "埃斯托里尔"
+   ],
+   "bj": "2026-12-23 04:45",
+   "dur": 115,
+   "note": "Estádio José Alvalade"
   },
   {
    "id": "fb-aus.1-401892116",
@@ -9720,10 +9612,140 @@
    "bj": "2026-12-26 20:30",
    "dur": 115,
    "note": "Villa Park"
+  },
+  {
+   "id": "fb-eng.1-401879197",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "埃弗顿 vs 桑德兰",
+   "teams": [
+    "埃弗顿",
+    "桑德兰"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "Hill Dickinson Stadium"
+  },
+  {
+   "id": "fb-eng.1-401878734",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "富勒姆 vs 布莱顿",
+   "teams": [
+    "富勒姆",
+    "布莱顿"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "Craven Cottage"
+  },
+  {
+   "id": "fb-eng.1-401879196",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "伊普斯维奇 vs 布伦特福德",
+   "teams": [
+    "伊普斯维奇",
+    "布伦特福德"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "Portman Road"
+  },
+  {
+   "id": "fb-eng.1-401878731",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "热刺 vs 伯恩茅斯",
+   "teams": [
+    "热刺",
+    "伯恩茅斯"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "Tottenham Hotspur Stadium"
+  },
+  {
+   "id": "fb-sco.1-401878302",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "凯尔特人 vs 马瑟韦尔",
+   "teams": [
+    "凯尔特人",
+    "马瑟韦尔"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "Celtic Park"
+  },
+  {
+   "id": "fb-sco.1-401878301",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "Dundee vs 圣米伦",
+   "teams": [
+    "Dundee",
+    "圣米伦"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "The Scot Foam Stadium at Dens Park"
+  },
+  {
+   "id": "fb-sco.1-401878300",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "福尔柯克 vs 邓迪联",
+   "teams": [
+    "福尔柯克",
+    "邓迪联"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "Falkirk Stadium"
+  },
+  {
+   "id": "fb-sco.1-401878297",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "St Johnstone vs 阿伯丁",
+   "teams": [
+    "St Johnstone",
+    "阿伯丁"
+   ],
+   "bj": "2026-12-26 23:00",
+   "dur": 115,
+   "note": "McDiarmid Park"
+  },
+  {
+   "id": "fb-eng.1-401878733",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "赫尔城 vs 利物浦",
+   "teams": [
+    "赫尔城",
+    "利物浦"
+   ],
+   "bj": "2026-12-27 01:30",
+   "dur": 115,
+   "note": "The MKM Stadium"
+  },
+  {
+   "id": "fb-sco.1-401878298",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "基尔马诺克 vs 流浪者",
+   "teams": [
+    "基尔马诺克",
+    "流浪者"
+   ],
+   "bj": "2026-12-27 01:45",
+   "dur": 115,
+   "note": "The BBSP Stadium"
   }
  ],
  "sources": [
-  "足球 英超: 67 场",
+  "足球 英超: 70 场",
   "足球 西甲: 53 场",
   "足球 德甲: 45 场",
   "足球 意甲: 50 场",
@@ -9732,14 +9754,14 @@
   "足球 欧联: 36 场",
   "足球 欧协联: 54 场",
   "足球 荷甲: 44 场",
-  "足球 葡超: 36 场",
+  "足球 葡超: 37 场",
   "足球 土超: 45 场",
-  "足球 苏超: 41 场",
-  "足球 美职联: 26 场",
+  "足球 苏超: 42 场",
+  "足球 美职联: 24 场",
   "足球 墨超: 17 场",
-  "足球 巴甲: 33 场",
+  "足球 巴甲: 30 场",
   "足球 J联赛: 59 场",
-  "足球 澳超: 24 场",
+  "足球 澳超: 26 场",
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 15 场",
