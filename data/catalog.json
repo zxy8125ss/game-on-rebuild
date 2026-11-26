@@ -1,19 +1,6 @@
 {
- "updatedAt": "2026-11-26T05:08:51.232Z",
+ "updatedAt": "2026-11-26T14:01:16.088Z",
  "matches": [
-  {
-   "id": "tn-atp-187507",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "Rafael Jodar vs 谢尔顿",
-   "teams": [
-    "Rafael Jodar",
-    "谢尔顿"
-   ],
-   "bj": "2026-11-19 21:10",
-   "dur": 150,
-   "result": "(3) Ben Shelton 7-5"
-  },
   {
    "id": "tn-wta-186809",
    "sport": "tennis",
@@ -2650,6 +2637,7 @@
    ],
    "bj": "2026-11-26 11:10",
    "dur": 115,
+   "result": "蒙特雷 0:0 美洲",
    "note": "Estadio BBVA"
   },
   {
