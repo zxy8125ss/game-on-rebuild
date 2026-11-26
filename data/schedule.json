@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T23:10:24.732Z",
+ "updatedAt": "2026-11-26T05:08:51.231Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -2518,7 +2518,8 @@
     "Solana Sierra"
    ],
    "bj": "2026-11-26 06:05",
-   "dur": 150
+   "dur": 150,
+   "result": "Carole Monnet 6-4 6-3"
   },
   {
    "id": "fb-bra.1-401841319",
@@ -2531,6 +2532,7 @@
    ],
    "bj": "2026-11-26 07:00",
    "dur": 115,
+   "result": "Atlético-MG 1:1 科林蒂安",
    "note": "Arena MRV"
   },
   {
@@ -2544,6 +2546,7 @@
    ],
    "bj": "2026-11-26 09:00",
    "dur": 115,
+   "result": "托卢卡 2:0 Atlas",
    "note": "Estadio Nemesio Díez Riega"
   },
   {
@@ -3118,9 +3121,10 @@
    "id": "tn-wta-186832",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
-   "title": "Veronika Erjavec vs TBD",
+   "title": "Veronika Erjavec vs Carole Monnet",
    "teams": [
-    "Veronika Erjavec"
+    "Veronika Erjavec",
+    "Carole Monnet"
    ],
    "bj": "2026-11-27 13:00",
    "dur": 150
