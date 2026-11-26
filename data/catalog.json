@@ -1,32 +1,6 @@
 {
- "updatedAt": "2026-11-26T18:43:07.076Z",
+ "updatedAt": "2026-11-26T23:02:49.752Z",
  "matches": [
-  {
-   "id": "tn-atp-187504",
-   "sport": "tennis",
-   "sub": "Nitto ATP Finals · 男单",
-   "title": "Arthur Fils vs 兹维列夫",
-   "teams": [
-    "Arthur Fils",
-    "兹维列夫"
-   ],
-   "bj": "2026-11-20 03:40",
-   "dur": 150,
-   "result": "(1) Alexander Zverev"
-  },
-  {
-   "id": "tn-wta-186804",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Andrea Lazaro Garcia vs Fernanda Labrana",
-   "teams": [
-    "Andrea Lazaro Garcia",
-    "Fernanda Labrana"
-   ],
-   "bj": "2026-11-20 06:05",
-   "dur": 150,
-   "result": "(4) Andrea Lazaro Garcia 6-2 3-6 6-0"
-  },
   {
    "id": "fb-aus.1-401892138",
    "sport": "football",
@@ -2556,6 +2530,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "贝西克塔斯 2:1 Hapoel Be'er",
    "note": "Batumi Stadium (Adjarabet Arena)"
   },
   {
@@ -2569,6 +2544,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "塞尔塔 1:2 伯恩茅斯",
    "note": "Balaidos"
   },
   {
@@ -2582,6 +2558,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Dinamo Zagreb 0:2 勒沃库森",
    "note": "Maksimir Stadium"
   },
   {
@@ -2595,6 +2572,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "马赛 1:0 Levski Sofia",
    "note": "Stade Vélodrome"
   },
   {
@@ -2608,6 +2586,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Olympiacos 2:4 AC米兰",
    "note": "Georgios Karaiskakis Stadium"
   },
   {
@@ -2621,6 +2600,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "RB Salzburg 2:0 Ararat-Armenia",
    "note": "Red Bull Arena Salzburg"
   },
   {
@@ -2634,6 +2614,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Union St.-Gilloise 2:2 Lech Poznan",
    "note": "King Power at Den Dreef Stadion"
   },
   {
@@ -2647,6 +2628,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Viktoria Plzen 4:0 本菲卡",
    "note": "Doosan Arena"
   },
   {
@@ -2660,19 +2642,21 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Ajax Amsterdam 4:0 FC Thun",
    "note": "Johan Cruijff Arena"
   },
   {
    "id": "fb-uefa.europa.conf-401915814",
    "sport": "football",
    "sub": "欧协联 · 2026",
-   "title": "布莱顿 vs CSU Craiova",
+   "title": "布莱顿 vs Universitatea Craiova",
    "teams": [
     "布莱顿",
-    "CSU Craiova"
+    "Universitatea Craiova"
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "布莱顿 4:0 Universitatea Craiova",
    "note": "American Express Stadium"
   },
   {
@@ -2686,6 +2670,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Egnatia 2:1 Lincoln Red Imps",
    "note": "Air Albania Stadium"
   },
   {
@@ -2699,6 +2684,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Heart of Midlothian 2:3 摩纳哥",
    "note": "Tynecastle Park"
   },
   {
@@ -2712,6 +2698,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Iberia 1999 1:0 赫塔菲",
    "note": "Mikheil Meskhi Stadioni"
   },
   {
@@ -2725,6 +2712,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Jablonec 2:0 FC Lugano",
    "note": "Stadion Strelnice"
   },
   {
@@ -2738,6 +2726,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Kauno Zalgiris 2:0 Riga FC",
    "note": "S. Darius and S. Gireno Stadium"
   },
   {
@@ -2751,6 +2740,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "Pafos 0:2 FC Midtjylland",
    "note": "Alphamega Stadium"
   },
   {
@@ -2764,6 +2754,7 @@
    ],
    "bj": "2026-11-27 01:45",
    "dur": 115,
+   "result": "SK Brann 1:4 AGF",
    "note": "Brann Stadium"
   },
   {
@@ -2776,7 +2767,8 @@
     "Guiomar Maristany Zuleta De Reales"
    ],
    "bj": "2026-11-27 02:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(6) Guiomar Maristany Zuleta De Reales 1-6 6-3 6-1"
   },
   {
    "id": "tn-wta-186834",
@@ -2788,19 +2780,8 @@
     "Sofia Costoulas"
    ],
    "bj": "2026-11-27 02:05",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186833",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Laura Samson vs Irene Burillo",
-   "teams": [
-    "Laura Samson",
-    "Irene Burillo"
-   ],
-   "bj": "2026-11-27 03:30",
-   "dur": 150
+   "dur": 150,
+   "result": "Varvara Lepchenko 7-5"
   },
   {
    "id": "fb-uefa.europa-401915504",
@@ -2813,6 +2794,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "水晶宫 2:1 皇家社会",
    "note": "Selhurst Park"
   },
   {
@@ -2826,6 +2808,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "Ferencvaros 0:0 NK Celje",
    "note": "Groupama Arena"
   },
   {
@@ -2839,6 +2822,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "尤文图斯 4:1 Omonia Nicosia",
    "note": "Allianz Stadium"
   },
   {
@@ -2852,6 +2836,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "里昂 0:0 Lillestrom",
    "note": "Groupama Stadium"
   },
   {
@@ -2865,6 +2850,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "NEC Nijmegen 3:1 Stade Rennais",
    "note": "Goffertstadion"
   },
   {
@@ -2878,6 +2864,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "OFI Crete 1:3 Anderlecht",
    "note": "Pankritio Stadium"
   },
   {
@@ -2891,6 +2878,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "Sparta Prague 2:4 阿尔克马尔",
    "note": "Generali Arena"
   },
   {
@@ -2904,6 +2892,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "桑德兰 1:1 Jagiellonia Bialystok",
    "note": "Stadium of Light"
   },
   {
@@ -2917,6 +2906,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "Torreense 1:2 凯尔特人",
    "note": "Estádio Dr. Magalhaes Pessoa"
   },
   {
@@ -2930,6 +2920,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "霍芬海姆 3:1 SK Sturm Graz",
    "note": "PreZero Arena"
   },
   {
@@ -2943,6 +2934,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "Borac Banja Luka 2:3 亚特兰大",
    "note": "Gradski Stadion Banja Luka"
   },
   {
@@ -2956,6 +2948,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "布拉加 4:0 KuPS Kuopio",
    "note": "Estádio Municipal de Braga"
   },
   {
@@ -2969,6 +2962,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "CSKA Sofia 1:2 特拉布宗",
    "note": "Balgarska Armia Stadium"
   },
   {
@@ -2982,6 +2976,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "FC Nordsjælland 3:2 Panathinaikos",
    "note": "Right to Dream Park"
   },
   {
@@ -2995,6 +2990,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "Hajduk Split 0:2 Sint-Truidense",
    "note": "Stadion Poljud"
   },
   {
@@ -3008,6 +3004,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "Inter D'Escaldes 2:0 F.C. København",
    "note": "Estadi de la FAF d'Encamp"
   },
   {
@@ -3021,6 +3018,7 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "KAA Gent 1:1 Red Star Belgrade",
    "note": "Ghelamco Arena"
   },
   {
@@ -3034,7 +3032,21 @@
    ],
    "bj": "2026-11-27 04:00",
    "dur": 115,
+   "result": "弗赖堡 2:1 特温特",
    "note": "Europa-Park Stadion"
+  },
+  {
+   "id": "tn-wta-186833",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Laura Samson vs Irene Burillo",
+   "teams": [
+    "Laura Samson",
+    "Irene Burillo"
+   ],
+   "bj": "2026-11-27 04:05",
+   "dur": 150,
+   "result": "(2) Laura Samson 6-3 6-3"
   },
   {
    "id": "tn-wta-186835",
@@ -3045,7 +3057,7 @@
     "Nadia Podoroska",
     "Maria Lourdes Carle"
    ],
-   "bj": "2026-11-27 05:00",
+   "bj": "2026-11-27 05:50",
    "dur": 150
   },
   {
@@ -3088,30 +3100,6 @@
    "note": "Estadio León"
   },
   {
-   "id": "tn-wta-186832",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Veronika Erjavec vs Carole Monnet",
-   "teams": [
-    "Veronika Erjavec",
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-27 13:00",
-   "dur": 150
-  },
-  {
-   "id": "tn-wta-186831",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Julia Riera vs Alicia Herrero Linana",
-   "teams": [
-    "Julia Riera",
-    "Alicia Herrero Linana"
-   ],
-   "bj": "2026-11-27 13:00",
-   "dur": 150
-  },
-  {
    "id": "fb-aus.1-401892133",
    "sport": "football",
    "sub": "澳超 · 2026",
@@ -3151,6 +3139,30 @@
    "note": "Estadio Caykur Didi"
   },
   {
+   "id": "tn-wta-186832",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Veronika Erjavec vs Carole Monnet",
+   "teams": [
+    "Veronika Erjavec",
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-28 02:00",
+   "dur": 150
+  },
+  {
+   "id": "tn-wta-186829",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Laura Samson vs Varvara Lepchenko",
+   "teams": [
+    "Laura Samson",
+    "Varvara Lepchenko"
+   ],
+   "bj": "2026-11-28 02:00",
+   "dur": 150
+  },
+  {
    "id": "fb-ned.1-401875536",
    "sport": "football",
    "sub": "荷甲 · 2026",
@@ -3175,6 +3187,17 @@
    "bj": "2026-11-28 03:30",
    "dur": 115,
    "note": "Weserstadion"
+  },
+  {
+   "id": "tn-wta-186830",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "TBD vs Guiomar Maristany Zuleta De Reales",
+   "teams": [
+    "Guiomar Maristany Zuleta De Reales"
+   ],
+   "bj": "2026-11-28 03:30",
+   "dur": 150
   },
   {
    "id": "fb-ita.1-401875004",
@@ -3240,6 +3263,18 @@
    "bj": "2026-11-28 04:15",
    "dur": 115,
    "note": "Estádio do Marítimo"
+  },
+  {
+   "id": "tn-wta-186831",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Julia Riera vs Alicia Herrero Linana",
+   "teams": [
+    "Julia Riera",
+    "Alicia Herrero Linana"
+   ],
+   "bj": "2026-11-28 05:00",
+   "dur": 150
   },
   {
    "id": "fb-bra.1-401841337",
@@ -6561,10 +6596,10 @@
    "id": "fb-uefa.europa.conf-401915737",
    "sport": "football",
    "sub": "欧协联 · 2026",
-   "title": "Kairat Almaty vs CSU Craiova",
+   "title": "Kairat Almaty vs Universitatea Craiova",
    "teams": [
     "Kairat Almaty",
-    "CSU Craiova"
+    "Universitatea Craiova"
    ],
    "bj": "2026-12-10 23:30",
    "dur": 115,
@@ -8368,9 +8403,9 @@
    "id": "fb-uefa.europa.conf-401915613",
    "sport": "football",
    "sub": "欧协联 · 2026",
-   "title": "CSU Craiova vs F.C. København",
+   "title": "Universitatea Craiova vs F.C. København",
    "teams": [
-    "CSU Craiova",
+    "Universitatea Craiova",
     "F.C. København"
    ],
    "bj": "2026-12-18 04:00",
