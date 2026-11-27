@@ -1,75 +1,7 @@
 {
- "updatedAt": "2026-11-27T14:00:00.737Z",
+ "updatedAt": "2026-11-27T18:32:03.539Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186801",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Irene Burillo vs Leyre Romero Gormaz",
-   "teams": [
-    "Irene Burillo",
-    "Leyre Romero Gormaz"
-   ],
-   "bj": "2026-11-20 23:00",
-   "dur": 150,
-   "result": "(1) Leyre Romero Gormaz 6-4 6-3"
-  },
-  {
-   "id": "tn-wta-186800",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Valeriya Strakhova vs Lucia Bronzetti",
-   "teams": [
-    "Valeriya Strakhova",
-    "Lucia Bronzetti"
-   ],
-   "bj": "2026-11-21 01:25",
-   "dur": 150,
-   "result": "(3) Lucia Bronzetti 6-4 6-2"
-  },
-  {
-   "id": "fb-ger.1-401884736",
-   "sport": "football",
-   "sub": "德甲 · 2026",
-   "title": "拜仁慕尼黑 vs 科隆",
-   "teams": [
-    "拜仁慕尼黑",
-    "科隆"
-   ],
-   "bj": "2026-11-21 03:30",
-   "dur": 115,
-   "result": "拜仁慕尼黑 1:1 科隆",
-   "note": "Allianz Arena"
-  },
-  {
-   "id": "fb-fra.1-401876395",
-   "sport": "football",
-   "sub": "法甲 · 2026",
-   "title": "特鲁瓦 vs Le Havre AC",
-   "teams": [
-    "特鲁瓦",
-    "Le Havre AC"
-   ],
-   "bj": "2026-11-21 03:45",
-   "dur": 115,
-   "result": "特鲁瓦 3:1 Le Havre AC",
-   "note": "Stade de l'Aube"
-  },
-  {
-   "id": "fb-esp.1-401882805",
-   "sport": "football",
-   "sub": "西甲 · 2026",
-   "title": "毕尔巴鄂竞技 vs 西班牙人",
-   "teams": [
-    "毕尔巴鄂竞技",
-    "西班牙人"
-   ],
-   "bj": "2026-11-21 04:00",
-   "dur": 115,
-   "result": "毕尔巴鄂竞技 0:1 西班牙人",
-   "note": "San Mamés"
-  },
   {
    "id": "tn-wta-186799",
    "sport": "tennis",
@@ -95,62 +27,6 @@
    "bj": "2026-11-21 07:35",
    "dur": 150,
    "result": "(6) Rebeka Masarova 6-3 6-2"
-  },
-  {
-   "id": "fb-mex.1-401877054",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "普埃布拉 vs Atlético de San Luis",
-   "teams": [
-    "普埃布拉",
-    "Atlético de San Luis"
-   ],
-   "bj": "2026-11-21 09:00",
-   "dur": 115,
-   "result": "普埃布拉 1:1 Atlético de San Luis",
-   "note": "Estadio Cuauhtémoc"
-  },
-  {
-   "id": "fb-mex.1-401877053",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "FC Juárez vs Atlas",
-   "teams": [
-    "FC Juárez",
-    "Atlas"
-   ],
-   "bj": "2026-11-21 11:00",
-   "dur": 115,
-   "result": "FC Juárez 3:3 Atlas",
-   "note": "Estadio Olímpico Benito Juárez"
-  },
-  {
-   "id": "fb-mex.1-401877052",
-   "sport": "football",
-   "sub": "墨超 · 2026",
-   "title": "蒂华纳 vs Atlante",
-   "teams": [
-    "蒂华纳",
-    "Atlante"
-   ],
-   "bj": "2026-11-21 11:10",
-   "dur": 115,
-   "result": "蒂华纳 1:0 Atlante",
-   "note": "Estadio Caliente"
-  },
-  {
-   "id": "fb-aus.1-401892137",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "奥克兰FC vs 墨尔本胜利",
-   "teams": [
-    "奥克兰FC",
-    "墨尔本胜利"
-   ],
-   "bj": "2026-11-21 12:00",
-   "dur": 115,
-   "result": "奥克兰FC 1:1 墨尔本胜利",
-   "note": "Go Media Stadium"
   },
   {
    "id": "f1-2026-21-q",
@@ -3024,18 +2900,6 @@
    "note": "Estadio Caykur Didi"
   },
   {
-   "id": "tn-wta-186832",
-   "sport": "tennis",
-   "sub": "IEB+ Argentina Open · 女单",
-   "title": "Veronika Erjavec vs Carole Monnet",
-   "teams": [
-    "Veronika Erjavec",
-    "Carole Monnet"
-   ],
-   "bj": "2026-11-28 02:00",
-   "dur": 150
-  },
-  {
    "id": "tn-wta-186829",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
@@ -3044,8 +2908,21 @@
     "Laura Samson",
     "Varvara Lepchenko"
    ],
-   "bj": "2026-11-28 02:00",
+   "bj": "2026-11-28 02:05",
    "dur": 150
+  },
+  {
+   "id": "tn-wta-186832",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "Veronika Erjavec vs Carole Monnet",
+   "teams": [
+    "Veronika Erjavec",
+    "Carole Monnet"
+   ],
+   "bj": "2026-11-28 02:30",
+   "dur": 150,
+   "result": "(8) Veronika Erjavec w/o"
   },
   {
    "id": "fb-ned.1-401875536",
@@ -3226,6 +3103,17 @@
    "bj": "2026-11-28 13:00",
    "dur": 115,
    "note": "IAI Stadium Nihondaira"
+  },
+  {
+   "id": "tn-wta-186842",
+   "sport": "tennis",
+   "sub": "IEB+ Argentina Open · 女单",
+   "title": "TBD vs Veronika Erjavec",
+   "teams": [
+    "Veronika Erjavec"
+   ],
+   "bj": "2026-11-28 13:00",
+   "dur": 150
   },
   {
    "id": "fb-jpn.1-401877542",
@@ -9792,30 +9680,69 @@
    "bj": "2026-12-27 20:00",
    "dur": 115,
    "note": "Tynecastle Park"
+  },
+  {
+   "id": "fb-eng.1-401878736",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "考文垂 vs 切尔西",
+   "teams": [
+    "考文垂",
+    "切尔西"
+   ],
+   "bj": "2026-12-27 22:00",
+   "dur": 115,
+   "note": "Coventry Building Society Arena"
+  },
+  {
+   "id": "fb-por.1-401885351",
+   "sport": "football",
+   "sub": "葡超 · 2026",
+   "title": "圣克拉拉 vs Estrela",
+   "teams": [
+    "圣克拉拉",
+    "Estrela"
+   ],
+   "bj": "2026-12-27 23:30",
+   "dur": 115,
+   "note": "Estádio de São Miguel"
+  },
+  {
+   "id": "fb-eng.1-401879195",
+   "sport": "football",
+   "sub": "英超 · 2026",
+   "title": "曼联 vs 诺丁汉森林",
+   "teams": [
+    "曼联",
+    "诺丁汉森林"
+   ],
+   "bj": "2026-12-28 00:30",
+   "dur": 115,
+   "note": "Old Trafford"
   }
  ],
  "sources": [
   "足球 英超: 70 场",
-  "足球 西甲: 53 场",
-  "足球 德甲: 45 场",
+  "足球 西甲: 52 场",
+  "足球 德甲: 44 场",
   "足球 意甲: 50 场",
-  "足球 法甲: 36 场",
+  "足球 法甲: 35 场",
   "足球 欧冠: 36 场",
   "足球 欧联: 36 场",
   "足球 欧协联: 54 场",
   "足球 荷甲: 44 场",
-  "足球 葡超: 37 场",
+  "足球 葡超: 40 场",
   "足球 土超: 45 场",
   "足球 苏超: 42 场",
   "足球 美职联: 24 场",
-  "足球 墨超: 17 场",
+  "足球 墨超: 14 场",
   "足球 巴甲: 30 场",
-  "足球 J联赛: 59 场",
-  "足球 澳超: 26 场",
+  "足球 J联赛: 56 场",
+  "足球 澳超: 25 场",
   "足球 中超: 0 场",
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 15 场",
-  "网球 WTA: 67 场",
+  "网球 WTA: 68 场",
   "F1: 52 场",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
