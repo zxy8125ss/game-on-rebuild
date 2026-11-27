@@ -1,63 +1,7 @@
 {
- "updatedAt": "2026-11-27T05:06:53.655Z",
+ "updatedAt": "2026-11-27T14:00:00.737Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "fb-aus.1-401892138",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "Western Sydney Wanderers FC vs Adelaide United FC",
-   "teams": [
-    "Western Sydney Wanderers FC",
-    "Adelaide United FC"
-   ],
-   "bj": "2026-11-20 16:40",
-   "dur": 115,
-   "result": "Western Sydney Wanderers FC 4:2 Adelaide United FC",
-   "note": "CommBank Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877534",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "Kashima Antlers vs Shimizu S-Pulse",
-   "teams": [
-    "Kashima Antlers",
-    "Shimizu S-Pulse"
-   ],
-   "bj": "2026-11-20 18:00",
-   "dur": 115,
-   "result": "Kashima Antlers 1:1 Shimizu S-Pulse",
-   "note": "Kashima Soccer Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877553",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "Kashiwa Reysol vs 千叶市原",
-   "teams": [
-    "Kashiwa Reysol",
-    "千叶市原"
-   ],
-   "bj": "2026-11-20 18:00",
-   "dur": 115,
-   "result": "Kashiwa Reysol 0:1 千叶市原",
-   "note": "Sankyo Frontier Kashiwa Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877548",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "神户胜利船 vs Mito Hollyhock",
-   "teams": [
-    "神户胜利船",
-    "Mito Hollyhock"
-   ],
-   "bj": "2026-11-20 18:00",
-   "dur": 115,
-   "result": "神户胜利船 1:2 Mito Hollyhock",
-   "note": "Kobe Wing Stadium"
-  },
   {
    "id": "tn-wta-186801",
    "sport": "tennis",
@@ -3036,6 +2980,7 @@
    ],
    "bj": "2026-11-27 11:10",
    "dur": 115,
+   "result": "莱昂 0:4 蓝十字",
    "note": "Estadio León"
   },
   {
@@ -3049,6 +2994,7 @@
    ],
    "bj": "2026-11-27 16:40",
    "dur": 115,
+   "result": "Macarthur FC 2:0 Melbourne City FC",
    "note": "Campbelltown Sports Stadium"
   },
   {
@@ -8340,19 +8286,6 @@
    "note": "Balgarska Armia Stadium"
   },
   {
-   "id": "fb-uefa.europa.conf-401915613",
-   "sport": "football",
-   "sub": "欧协联 · 2026",
-   "title": "Universitatea Craiova vs F.C. København",
-   "teams": [
-    "Universitatea Craiova",
-    "F.C. København"
-   ],
-   "bj": "2026-12-18 04:00",
-   "dur": 115,
-   "note": "Stadionul Ion Oblemenco"
-  },
-  {
    "id": "fb-uefa.europa.conf-401915625",
    "sport": "football",
    "sub": "欧协联 · 2026",
@@ -8494,6 +8427,19 @@
    "bj": "2026-12-18 04:00",
    "dur": 115,
    "note": "Rajko Mitic Stadium"
+  },
+  {
+   "id": "fb-uefa.europa.conf-401915613",
+   "sport": "football",
+   "sub": "欧协联 · 2026",
+   "title": "Universitatea Craiova vs F.C. København",
+   "teams": [
+    "Universitatea Craiova",
+    "F.C. København"
+   ],
+   "bj": "2026-12-18 04:00",
+   "dur": 115,
+   "note": "Stadionul Ion Oblemenco"
   },
   {
    "id": "fb-aus.1-401892122",
@@ -9807,6 +9753,45 @@
    "bj": "2026-12-27 04:00",
    "dur": 115,
    "note": "St. James' Park"
+  },
+  {
+   "id": "fb-aus.1-401892115",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Melbourne City FC vs 奥克兰FC",
+   "teams": [
+    "Melbourne City FC",
+    "奥克兰FC"
+   ],
+   "bj": "2026-12-27 15:00",
+   "dur": 115,
+   "note": "Melbourne Rectangular Stadium"
+  },
+  {
+   "id": "fb-aus.1-401892114",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "Adelaide United FC vs 中央海岸水手",
+   "teams": [
+    "Adelaide United FC",
+    "中央海岸水手"
+   ],
+   "bj": "2026-12-27 17:00",
+   "dur": 115,
+   "note": "Hindmarsh Stadium"
+  },
+  {
+   "id": "fb-sco.1-401878299",
+   "sport": "football",
+   "sub": "苏超 · 2026",
+   "title": "Heart of Midlothian vs 希伯尼安",
+   "teams": [
+    "Heart of Midlothian",
+    "希伯尼安"
+   ],
+   "bj": "2026-12-27 20:00",
+   "dur": 115,
+   "note": "Tynecastle Park"
   }
  ],
  "sources": [
