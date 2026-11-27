@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T23:02:49.751Z",
+ "updatedAt": "2026-11-27T05:06:53.655Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
   {
@@ -2994,7 +2994,8 @@
     "Maria Lourdes Carle"
    ],
    "bj": "2026-11-27 05:50",
-   "dur": 150
+   "dur": 150,
+   "result": "Maria Lourdes Carle"
   },
   {
    "id": "fb-bra.1-401841329",
@@ -3007,6 +3008,7 @@
    ],
    "bj": "2026-11-27 07:00",
    "dur": 115,
+   "result": "圣保罗 3:1 Remo",
    "note": "Estádio Cícero Pompeu de Toledo"
   },
   {
@@ -3020,6 +3022,7 @@
    ],
    "bj": "2026-11-27 09:00",
    "dur": 115,
+   "result": "帕丘卡 2:1 瓜达拉哈拉",
    "note": "Estadio Hidalgo"
   },
   {
@@ -3128,8 +3131,9 @@
    "id": "tn-wta-186830",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
-   "title": "TBD vs Guiomar Maristany Zuleta De Reales",
+   "title": "Maria Lourdes Carle vs Guiomar Maristany Zuleta De Reales",
    "teams": [
+    "Maria Lourdes Carle",
     "Guiomar Maristany Zuleta De Reales"
    ],
    "bj": "2026-11-28 03:30",
