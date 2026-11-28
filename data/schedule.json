@@ -1,30 +1,7 @@
 {
- "updatedAt": "2026-11-27T22:46:49.187Z",
+ "updatedAt": "2026-11-28T04:47:52.341Z",
  "note": "自动更新 45/54 项成功",
  "matches": [
-  {
-   "id": "tn-wta-186798",
-   "sport": "tennis",
-   "sub": "LP Open by IND · 女单",
-   "title": "Laura Samson vs Rebeka Masarova",
-   "teams": [
-    "Laura Samson",
-    "Rebeka Masarova"
-   ],
-   "bj": "2026-11-21 07:35",
-   "dur": 150,
-   "result": "(6) Rebeka Masarova 6-3 6-2"
-  },
-  {
-   "id": "f1-2026-21-q",
-   "sport": "f1",
-   "sub": "拉斯维加斯大奖赛（第21站）",
-   "title": "排位赛",
-   "teams": [],
-   "bj": "2026-11-21 12:00",
-   "dur": 60,
-   "note": "拉斯维加斯街道赛道"
-  },
   {
    "id": "fb-jpn.1-401877550",
    "sport": "football",
@@ -3035,7 +3012,8 @@
     "Alicia Herrero Linana"
    ],
    "bj": "2026-11-28 06:05",
-   "dur": 150
+   "dur": 150,
+   "result": "(5) Julia Riera 7-5 6-1"
   },
   {
    "id": "fb-bra.1-401841337",
@@ -3048,6 +3026,7 @@
    ],
    "bj": "2026-11-28 07:00",
    "dur": 115,
+   "result": "弗鲁米嫩塞 0:1 克鲁塞罗",
    "note": "Estadio do Maracana"
   },
   {
@@ -3061,6 +3040,7 @@
    ],
    "bj": "2026-11-28 09:00",
    "dur": 115,
+   "result": "哥伦布机员 1:0 Inter Miami CF",
    "note": "ScottsMiracle-Gro Field"
   },
   {
@@ -3430,8 +3410,9 @@
    "id": "tn-wta-186842",
    "sport": "tennis",
    "sub": "IEB+ Argentina Open · 女单",
-   "title": "TBD vs Veronika Erjavec",
+   "title": "Julia Riera vs Veronika Erjavec",
    "teams": [
+    "Julia Riera",
     "Veronika Erjavec"
    ],
    "bj": "2026-11-29 01:00",
