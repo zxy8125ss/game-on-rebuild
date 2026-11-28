@@ -1,203 +1,7 @@
 {
- "updatedAt": "2026-11-28T04:47:52.341Z",
- "note": "自动更新 45/54 项成功",
+ "updatedAt": "2026-11-28T13:13:02.278Z",
+ "note": "自动更新 44/54 项成功",
  "matches": [
-  {
-   "id": "fb-jpn.1-401877550",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "Kyoto Sanga vs 浦和红钻",
-   "teams": [
-    "Kyoto Sanga",
-    "浦和红钻"
-   ],
-   "bj": "2026-11-21 13:00",
-   "dur": 115,
-   "result": "Kyoto Sanga 2:1 浦和红钻",
-   "note": "Sanga Stadium by Kyocera"
-  },
-  {
-   "id": "fb-jpn.1-401877552",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "町田泽维亚 vs 长崎成功丸",
-   "teams": [
-    "町田泽维亚",
-    "长崎成功丸"
-   ],
-   "bj": "2026-11-21 13:00",
-   "dur": 115,
-   "result": "町田泽维亚 0:0 长崎成功丸",
-   "note": "Machida Gion Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877531",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "广岛三箭 vs 横滨水手",
-   "teams": [
-    "广岛三箭",
-    "横滨水手"
-   ],
-   "bj": "2026-11-21 13:00",
-   "dur": 115,
-   "result": "广岛三箭 2:2 横滨水手",
-   "note": "Edion Peace Wing Hiroshima"
-  },
-  {
-   "id": "fb-jpn.1-401877533",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "东京绿茵 vs Nagoya Grampus",
-   "teams": [
-    "东京绿茵",
-    "Nagoya Grampus"
-   ],
-   "bj": "2026-11-21 13:00",
-   "dur": 115,
-   "result": "东京绿茵 0:0 Nagoya Grampus",
-   "note": "Tokyo Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877549",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "大阪樱花 vs 东京FC",
-   "teams": [
-    "大阪樱花",
-    "东京FC"
-   ],
-   "bj": "2026-11-21 14:00",
-   "dur": 115,
-   "result": "大阪樱花 0:3 东京FC",
-   "note": "Yodoko Sakura Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877551",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "川崎前锋 vs 福冈黄蜂",
-   "teams": [
-    "川崎前锋",
-    "福冈黄蜂"
-   ],
-   "bj": "2026-11-21 14:00",
-   "dur": 115,
-   "result": "川崎前锋 1:0 福冈黄蜂",
-   "note": "Uvance Todoroki Stadium by Fujitsu"
-  },
-  {
-   "id": "fb-aus.1-401892136",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "中央海岸水手 vs Perth Glory FC",
-   "teams": [
-    "中央海岸水手",
-    "Perth Glory FC"
-   ],
-   "bj": "2026-11-21 14:00",
-   "dur": 115,
-   "result": "中央海岸水手 0:0 Perth Glory FC",
-   "note": "Central Coast Stadium"
-  },
-  {
-   "id": "fb-jpn.1-401877532",
-   "sport": "football",
-   "sub": "J联赛 · 2026",
-   "title": "大阪钢巴 vs Fagiano Okayama",
-   "teams": [
-    "大阪钢巴",
-    "Fagiano Okayama"
-   ],
-   "bj": "2026-11-21 15:00",
-   "dur": 115,
-   "result": "大阪钢巴 0:1 Fagiano Okayama",
-   "note": "Suita City Football Stadium"
-  },
-  {
-   "id": "fb-aus.1-401892135",
-   "sport": "football",
-   "sub": "澳超 · 2026",
-   "title": "Brisbane Roar FC vs 悉尼FC",
-   "teams": [
-    "Brisbane Roar FC",
-    "悉尼FC"
-   ],
-   "bj": "2026-11-21 16:40",
-   "dur": 115,
-   "result": "Brisbane Roar FC 0:0 悉尼FC",
-   "note": "Dolphin Stadium"
-  },
-  {
-   "id": "fb-tur.1-401888247",
-   "sport": "football",
-   "sub": "土超 · 2026",
-   "title": "Genclerbirligi vs 加济安泰普",
-   "teams": [
-    "Genclerbirligi",
-    "加济安泰普"
-   ],
-   "bj": "2026-11-21 18:30",
-   "dur": 115,
-   "result": "Genclerbirligi 1:0 加济安泰普",
-   "note": "Eryaman Stadium"
-  },
-  {
-   "id": "fb-eng.1-401879233",
-   "sport": "football",
-   "sub": "英超 · 2026",
-   "title": "曼城 vs 富勒姆",
-   "teams": [
-    "曼城",
-    "富勒姆"
-   ],
-   "bj": "2026-11-21 20:30",
-   "dur": 115,
-   "result": "曼城 1:1 富勒姆",
-   "note": "Etihad Stadium"
-  },
-  {
-   "id": "fb-esp.1-401882806",
-   "sport": "football",
-   "sub": "西甲 · 2026",
-   "title": "Alavés vs Deportivo",
-   "teams": [
-    "Alavés",
-    "Deportivo"
-   ],
-   "bj": "2026-11-21 21:00",
-   "dur": 115,
-   "result": "Alavés 3:1 Deportivo",
-   "note": "Mendizorrotza"
-  },
-  {
-   "id": "fb-tur.1-401888369",
-   "sport": "football",
-   "sub": "土超 · 2026",
-   "title": "Amed SFK vs Caykur Rizespor",
-   "teams": [
-    "Amed SFK",
-    "Caykur Rizespor"
-   ],
-   "bj": "2026-11-21 21:00",
-   "dur": 115,
-   "result": "Amed SFK 0:2 Caykur Rizespor",
-   "note": "Diyarbakir Stadyumu"
-  },
-  {
-   "id": "fb-tur.1-401888245",
-   "sport": "football",
-   "sub": "土超 · 2026",
-   "title": "加拉塔萨雷 vs 萨姆松",
-   "teams": [
-    "加拉塔萨雷",
-    "萨姆松"
-   ],
-   "bj": "2026-11-21 21:00",
-   "dur": 115,
-   "result": "加拉塔萨雷 2:1 萨姆松",
-   "note": "Basaksehir Fatih Terim Stadium"
-  },
   {
    "id": "fb-ita.1-401875056",
    "sport": "football",
@@ -881,16 +685,6 @@
    "dur": 115,
    "result": "老虎 1:0 美洲",
    "note": "Estadio Universitario"
-  },
-  {
-   "id": "f1-2026-21-r",
-   "sport": "f1",
-   "sub": "拉斯维加斯大奖赛（第21站）",
-   "title": "正赛",
-   "teams": [],
-   "bj": "2026-11-22 12:00",
-   "dur": 120,
-   "note": "拉斯维加斯街道赛道"
   },
   {
    "id": "fb-tur.1-401888243",
@@ -3054,6 +2848,7 @@
    ],
    "bj": "2026-11-28 11:00",
    "dur": 115,
+   "result": "盐湖城 0:1 温哥华白帽",
    "note": "America First Field"
   },
   {
@@ -3067,6 +2862,7 @@
    ],
    "bj": "2026-11-28 13:00",
    "dur": 115,
+   "result": "Kyoto Sanga 4:1 大阪樱花",
    "note": "Sanga Stadium by Kyocera"
   },
   {
@@ -3080,6 +2876,7 @@
    ],
    "bj": "2026-11-28 13:00",
    "dur": 115,
+   "result": "Shimizu S-Pulse 1:0 浦和红钻",
    "note": "IAI Stadium Nihondaira"
   },
   {
@@ -3093,6 +2890,7 @@
    ],
    "bj": "2026-11-28 14:00",
    "dur": 115,
+   "result": "Kashima Antlers 1:1 Fagiano Okayama",
    "note": "Kashima Soccer Stadium"
   },
   {
@@ -3106,6 +2904,7 @@
    ],
    "bj": "2026-11-28 14:00",
    "dur": 115,
+   "result": "神户胜利船 3:1 千叶市原",
    "note": "Kobe Wing Stadium"
   },
   {
@@ -3119,6 +2918,7 @@
    ],
    "bj": "2026-11-28 15:00",
    "dur": 115,
+   "result": "Kashiwa Reysol 3:1 广岛三箭",
    "note": "Sankyo Frontier Kashiwa Stadium"
   },
   {
@@ -3132,6 +2932,7 @@
    ],
    "bj": "2026-11-28 16:40",
    "dur": 115,
+   "result": "中央海岸水手 2:3 奥克兰FC",
    "note": "Central Coast Stadium"
   },
   {
@@ -3508,16 +3309,6 @@
    "bj": "2026-11-29 02:00",
    "dur": 115,
    "note": "Estádio do Fontelo"
-  },
-  {
-   "id": "f1-2026-22-q",
-   "sport": "f1",
-   "sub": "卡塔尔大奖赛（第22站）",
-   "title": "排位赛",
-   "teams": [],
-   "bj": "2026-11-29 02:00",
-   "dur": 60,
-   "note": "卢塞尔国际赛道"
   },
   {
    "id": "fb-usa.1-401933724",
@@ -4038,16 +3829,6 @@
    "bj": "2026-11-30 00:00",
    "dur": 115,
    "note": "Şükrü Saracoğlu Stadium"
-  },
-  {
-   "id": "f1-2026-22-r",
-   "sport": "f1",
-   "sub": "卡塔尔大奖赛（第22站）",
-   "title": "正赛",
-   "teams": [],
-   "bj": "2026-11-30 00:00",
-   "dur": 120,
-   "note": "卢塞尔国际赛道"
   },
   {
    "id": "fb-fra.1-401876386",
@@ -5116,16 +4897,6 @@
    "note": "U-Power Stadium"
   },
   {
-   "id": "f1-2026-23-q",
-   "sport": "f1",
-   "sub": "阿布扎比大奖赛（第23站）",
-   "title": "排位赛",
-   "teams": [],
-   "bj": "2026-12-05 22:00",
-   "dur": 60,
-   "note": "亚斯码头赛道"
-  },
-  {
    "id": "fb-ger.1-401884712",
    "sport": "football",
    "sub": "德甲 · 2026",
@@ -5735,16 +5506,6 @@
    "bj": "2026-12-06 21:00",
    "dur": 115,
    "note": "Eryaman Stadium"
-  },
-  {
-   "id": "f1-2026-23-r",
-   "sport": "f1",
-   "sub": "阿布扎比大奖赛（第23站）",
-   "title": "正赛",
-   "teams": [],
-   "bj": "2026-12-06 21:00",
-   "dur": 120,
-   "note": "亚斯码头赛道"
   },
   {
    "id": "fb-ned.1-401875528",
@@ -9723,6 +9484,19 @@
    "bj": "2026-12-28 03:00",
    "dur": 115,
    "note": "Selhurst Park"
+  },
+  {
+   "id": "fb-aus.1-401892113",
+   "sport": "football",
+   "sub": "澳超 · 2026",
+   "title": "悉尼FC vs Macarthur FC",
+   "teams": [
+    "悉尼FC",
+    "Macarthur FC"
+   ],
+   "bj": "2026-12-28 16:00",
+   "dur": 115,
+   "note": "Allianz Stadium"
   }
  ],
  "sources": [
@@ -9747,7 +9521,7 @@
   "足球 世预赛欧洲区: 0 场",
   "网球 ATP: 15 场",
   "网球 WTA: 69 场",
-  "F1: 52 场",
+  "F1: 跳过（502 https://api.jolpi.ca/ergast/f1/current/races.json?limit=100）",
   "电竞 LPL/2026 Season/Split 1: 55 场",
   "电竞 LPL/2026 Season/Split 1 Playoffs: 20 场",
   "电竞 LPL/2026 Season/Split 2: 71 场",
